@@ -1,0 +1,487 @@
+
+Armenians:
+Focus: Infantry and Naval
+Wonder: Etchmiadzin Cathedral
+Composite Bowman: Foot archer that ignores armor.
+Warrior Priest: Religious infantry that can fight, carry Relics, and heal allied units.
+Mule Cart: Mobile dropsite for wood, gold, stone, and hunted food. Replaces the Lumber and Mining Camps.
+Fortified Church: Trains and upgrades Monks, and can garrison certain units. Fires arrows when garrisoned with Villagers or Relics. Replaces the Monastery.
+Cilician Fleet: Demolition Ships +20% blast radius; Galley-line and Dromons +1 range.
+Fereters: Infantry (except Spearman-line) +30 hit points, Warrior Priests +100% heal speed.
+Mule Carts cost -25%.
+Mule Cart technologies are 40% more effective.[note 1]
+First Fortified Church receives a free Relic.
+Long Swordsman and above, and Spearman line[note 2] available one Age earlier.
+Galley-line and Dromons* fire an additional projectile. The additional projectile for the Galley-line deals 1 damage.
+
+Aztecs:
+Focus: Infantry and Monk
+Wonder: Great Pyramid of Tenochtitlan
+Atlatl: Skirmishers +1 attack and range.
+Garland Wars: Infantry +4 attack.
+Start the game with an Eagle Scout.
+Villagers carry +3 extra resources.
+All military units are created 11% faster.[note 3]
+Monks gain 5 HP for every researched Monastery technology.
+Start with +50 gold.
+
+Bengalis:
+Focus: Elephant and Naval
+Wonder: Somapura Mahavihara
+Paiks: Rathas and elephant units attack 20% faster.
+Mahayana: Villagers and Monks take up -10% population space.
+Elephant units receive 25% less bonus damage[note 4] and are more resistant to conversion.[note 5]
+All Town Centers spawn 2 Villagers when the next Age is reached.
+Cavalry units +2 attack vs Skirmishers.
+Ships regenerate 15 HP per minute.
+Monks +3/+3 armor.
+
+Berbers:
+Focus: Cavalry and Naval
+Wonder: Hassan Tower
+Camel Archer: Mounted archer with attack bonus against mounted archers.
+Genitour: Mounted Skirmisher.
+Kasbah: Allied Castles work 25% faster.[note 6]
+Maghrebi Camels: Camel units regenerate 0.25 HP/s.
+Villagers move 5% faster in Dark Age, 10% faster starting in Feudal Age.
+Stable units are 15%/20% cheaper in the Castle/Imperial Age.
+Ships move 10% faster.
+
+Bohemians:
+Focus: Gunpowder and Monk
+Wonder: Powder Tower of Prague
+Hussite Wagon: Tanky siege unit that can protect rear units.
+Houfnice: Upgrade of the Bombard Cannon, provides additional HP, attack, and blast radius.
+Wagenburg Tactics: Gunpowder units move 15% faster.
+Hussite Reforms: Monks and Monastery upgrades have their gold cost replaced by food.
+Blacksmiths and Universities cost -100 wood.
+Chemistry and Hand Cannoneer available in Castle Age.
+Spearman-line deals +25% bonus damage.[note 7]
+Fervor and Sanctity affect Villagers.
+Mining Camp technologies are free.
+
+Britons:
+Focus: Foot archer
+Wonder: Chichester Cathedral
+Yeomen: Gives foot archers +1 range and towers +2 attack.
+Warwolf: Gives Trebuchets blast damage and 100% accuracy against units.
+Town Centers cost -50% wood starting in the Castle Age.
+Foot archers (except Skirmishers) have +1/+2 range in the Castle/Imperial Age.
+Shepherds work 25% faster.
+
+Bulgarians:
+Focus: Infantry and Cavalry
+Wonder: Preslav Round Church
+Krepost: Miniature version of the Castle, which can create the Konnik.
+Stirrups: Cavalry attack 33% faster.
+Bagains: Militia line units +5 armor.
+Militia line units are upgraded for free.[note 8]
+Town Centers cost -50% stone (except starting Town Center).
+Blacksmith and Siege Workshop technologies cost -50% food.
+
+Burgundians:
+Focus: Cavalry
+Wonder: Brussels Town Hall
+Coustillier: Cavalry unit that can charge its attack over time.
+Flemish Militia: Infantry unit with a bonus vs cavalry; can only be obtained first via the Flemish Revolution technology.
+Burgundian Vineyards: Farmers slowly generate gold in addition to food.[note 9]
+Flemish Revolution: Upgrades all existing Villagers to Flemish Militia, and allows the training of Flemish Militia at Barracks.
+Economic upgrades (except Coinage and Banking)[note 10] cost -33% food and are available one Age earlier than other civilizations.
+Stable technologies are 50% cheaper. Cavalier upgrade available in the Castle Age.
+Gunpowder units gain +25% attack.[note 11]
+
+Burmese:
+Focus: Monk and Elephant
+Wonder: Shwezigon Pagoda
+Arambai: Ranged cavalry with powerful but inaccurate attack.
+Manipur Cavalry: Gives cavalry units +4 attack against archers.
+Howdah: Gives Battle Elephants +1/+1 armor.
+Lumber Camp technologies are free.
+Battle Elephants have +1/+1 armor.
+Infantry units have +1/+2/+3 attack in the Feudal/Castle/Imperial Age.
+Monastery technologies are 50% cheaper.
+
+Byzantines:
+Focus: Defensive
+Wonder: Hagia Sophia
+Greek Fire: Gives Fire Ships +1 range; Dromons +0.2 blast radius; Bombard Towers +0.5 blast radius [25% effect without friendly fire damage]
+Logistica: Gives Cataphracts trample damage in 0.5 tiles radius (pure 5 damage) and +6 attack against infantry.
+Buildings, Walls/Gates, and Farms have +10%/+20%/+30%/+40% hit points in the Dark/Feudal/Castle/Imperial Age.
+Camel Rider, Skirmisher, and Spearman lines are 25% cheaper.
+Fire Ships and Dromons fire 25% faster.
+Advancing to the Imperial Age is 33% cheaper.
+Town Watch and Town Patrol are free.
+
+Celts:
+Focus: Infantry and Siege
+Wonder: Rock of Cashel
+Stronghold: Castles and towers fire 33% faster; Castles can heal allied infantry units by 30 hit points per minute in an 18 tile square.
+Furor Celtica: Gives Siege Workshop units +40% hit points.
+Infantry units move 15% faster starting from the Feudal Age.
+Lumberjacks work 15% faster.
+Siege weapons fire 25% faster.
+Non-Celt[note 12] herdable animals can be converted regardless of units next to them.
+
+Chinese:
+Focus: Archer
+Wonder: Hall of Prayer for Good Harvests in the Temple of Heaven complex
+Great Wall: Increases the hit points of walls and towers by +30%.
+Rocketry: Increases the pierce attack of Chu Ko Nu by +2, and the attack of Scorpions by +4.
+Start game with +3 Villagers, but with -200 food, -50 wood.
+Town Centers support 15 population (instead of 5) and have +7 Line of Sight.
+Technologies are 5%/10%/15% cheaper in the Feudal/Castle/Imperial Age.
+Demolition Ships have +50% hit points.
+
+Cumans:
+Focus: Cavalry
+Wonder: Sarkel Fortress (ruined)
+Steppe Husbandry: Scout Cavalry line, Steppe Lancers, and Cavalry Archers are trained 100% faster.
+Cuman Mercenaries: Team members can create 5 free Elite Kipchaks per each Castle.
+A second Town Center can be built in the Feudal Age.[note 14]
+Archery Ranges and Stables cost -75 wood.
+Siege Workshop and Battering Ram available in Feudal Age; Capped Ram upgrade available in Castle Age.
+Mounted units move 5%/10%/15% faster in Feudal/Castle/Imperial Age.
+
+Dravidians:
+Focus: Infantry and Naval
+Wonder: Brihadisvara Temple
+Urumi Swordsman: Infantry that can charge its attack to cause extra attack with Area of Effect.
+Thirisadai: Tanky warship that fires multiple projectiles.
+Medical Corps: Elephant units regenerate 30 hit points per minute.
+Wootz Steel: Infantry and cavalry attacks ignore armor.
+Receive 200 wood when advancing to the next Age.
+Fishermen and Fishing Ships carry +15.
+Barracks technologies cost -50%.
+Siege units cost -33% wood.
+Skirmishers and Elephant Archers attack 25% faster.
+
+Ethiopians:
+Focus: Foot archer
+Wonder: Biete Amanuel
+Royal Heirs: Shotels and Camel units receive -3 damage from mounted units.
+Torsion Engines: Increases the blast radius of Siege Workshop units.
+The Archer line fires 18% faster.
+Receive +100 food, +100 gold whenever a new Age is reached.
+The Pikeman upgrade is free.
+
+Franks:
+Focus: Cavalry
+Wonder: St. Vitus Cathedral
+Bearded Axe (Throwing Axeman +1 range).
+Chivalry (Stables work 40% faster).
+Farm upgrades are free.
+Castles are 15%/25% cheaper in the Castle/Imperial Age.
+Mounted units have +20% hit points (starting in the Feudal Age).
+Foragers work 15% faster.
+
+Georgians:
+Focus: Cavalry and Defensive
+Wonder: Svetitskhoveli Cathedral
+Mule Cart: Mobile dropsite for wood, gold, stone, and hunted food. Replaces the Lumber and Mining Camps.
+Fortified Church: Trains and upgrades Monks, and can garrison certain units. Fires arrows when garrisoned with Villagers or Relics. Replaces the Monastery.
+Svan Towers: Defensive structures receive +2 attack. Towers deal pass-through damage.
+Aznauri Cavalry: Mounted units take 15% less population space.
+Start with a Mule Cart.
+Fortified Churches provide +10% work rate to Villagers[note 15] in a 19 tile square.[note 16]
+Units and buildings receive -20% damage (-40% instead of -25%) when fighting from higher elevation.
+Mounted units regenerate 15% hit points per minute, starting in the Feudal Age
+
+Goths:
+Focus: Infantry
+Wonder: Mausoleum of Theoderic I
+Anarchy: Allows the creation of Huskarls at the Barracks.
+Perfusion: Increases the working speed of Barracks by +100%.
+Infantry are 20%/25%/30%/35% cheaper in the Dark/Feudal/Castle/Imperial Age.
+Infantry have +1/+2/+3 attack bonus against standard buildings in the Feudal/Castle/Imperial Age.
+Hunters have +5 attack against aggressive huntables (Wild Boar, Javelina, Elephant, Rhinoceros) and carry +15 food. Hunt lasts 20% longer.
+Loom is researched instantly.
++10 population cap in the Imperial Age.
+
+Gurjaras:
+Focus: Cavalry and Camel
+Wonder: Somnath Temple
+Chakram Thrower: Light infantry with a ranged melee attack and pass-through damage.
+Shrivamsha Rider: Light cavalry which can dodge projectile attacks.
+Camel Scout: Early camel unit.
+Kshatriyas: Military units cost -25% food.
+Frontier Guards: Camel Riders and Elephant Archers +4 melee armor.
+Start the game with a Camel Scout.
+Starts with 2 Forage Bushes under the Town Center.
+Can garrison Docks with allied Fishing Ships.[note 17]
+Can garrison Mills with herdable animals to produce food.[note 18]
+Mounted units deal +20%/+30%/+40% bonus damage in the Feudal/Castle/Imperial Age.
+
+Hindustanis:
+Focus: Camel and Gunpowder
+Wonder: Maqbara-i Humayun
+Ghulam: Archer-resistant infantry unit that thrusts its spear through multiple targets.
+Imperial Camel Rider: Unique upgrade of the Heavy Camel Rider, provides additional HP and attack.
+Grand Trunk Road: Increases the speed of all gold income by +10%. Trading fee reduced to 10%.
+Shatagni: Gives Hand Cannoneers +2 range.
+Villagers are 8/13/18/23% cheaper in the Dark/Feudal/Castle/Imperial Age.
+Camel Riders attack 20% faster.
+Gunpowder units have +1/+1 armor.
+
+Huns:
+Focus: Cavalry
+Wonder: Arch of Constantine (ruined)
+Marauders: Allows the creation of Tarkans at the Stable.
+Atheism: Adds 100 years to Wonder and Relic victory countdowns and reduces enemy Relic resource generation by 50%.
+Start the game with -100 wood, but with the population cap at the maximum.
+On Nomadic maps, the first Town Center spawns a Hunnic Horse.
+Mounted archers are 10%/20% cheaper in the Castle/Imperial Age.
+Trebuchets have +35% accuracy against units.[note 20]
+
+Incas:
+Focus: Infantry
+Wonder: The Temple of the Sun at Machu Picchu
+Kamayuk: Infantry wielding a long spear that allows attacking at range and attack bonus against cavalry.
+Slinger: Foot archer with a massive attack bonus against infantry.
+Andean Sling: Slingers +1 attack and removes the minimum range from Slingers and Skirmishers.
+Fabric Shields: Gives Eagle Warriors, Kamayuks, and Slingers +1/+2 armor.
+Military units cost -10%/-15%/-20%/-25% food in Dark/Feudal/Castle/Imperial Ages
+Villagers benefit from Blacksmith infantry upgrades starting in the Castle Age.
+Houses support 10 population.
+Buildings cost -15% stone.
+
+Italians:
+Focus: Foot archers and Navy
+Wonder: Genoa Cathedral, Cathedral of St. Lawrence
+Advancing to the next Age is 15% cheaper.
+Dock and University technologies are 33% cheaper.
+Fishing Ships are 15% cheaper.
+Gunpowder units are 20% cheaper.
+
+Japanese:
+Focus: Infantry
+Wonder: Great Buddha Hall (daibutsuden) at the Tōdai-ji temple complex
+Yasama: Gives towers extra arrows.
+Kataparuto: Makes Trebuchets pack, unpack, and fire faster.
+Fishing Ships have double hit points, +2 pierce armor, and work 5%/10%/15%/20% faster in the Dark/Feudal/Castle/Imperial Age.
+Mills, Lumber Camps and Mining Camps are 50% cheaper.
+Infantry attack 33% faster starting in the Feudal Age.
+Mounted archers +2 attack vs. archers (except Skirmishers).
+
+Khmer:
+Focus: Siege and Elephant
+Wonder: Central shrine of the Angkor Wat temple complex
+No buildings are required to advance to the next age or to unlock other buildings.
+Battle Elephants move 10% faster.
+Farmers don't carry food but rather add it directly to the stockpile without any drop-off, but work 5% slower.
+Villagers (and Kings) can garrison in Houses.
+
+Koreans:
+Focus: Defensive and Naval
+Wonder: Hwangnyong Temple
+War Wagon: Heavily armored cavalry archer.
+Turtle Ship: Heavily armored ship that fires cannonballs.
+Eupseong: Towers (except Bombard Towers) have +2 range.
+Shinkichon: Gives the Mangonel line +1 range.
+Villagers have +3 Line of Sight.
+Stone Miners work 20% faster.
+Archer armor and tower upgrades are free (Bombard Tower requires Chemistry).
+Archer and infantry units cost –50% wood.
+Warships cost –20% wood.
+
+Lithuanians:
+Focus: Cavalry and Monk
+Wonder: Trakai Island Castle
+Leitis: Cavalry whose attack ignores unit's armor.
+Winged Hussar: Unique upgrade of the Light Cavalry replacing the Hussar (shared with the Poles).
+Hill Forts: Town Centers +3 range.
+Tower Shields: Spearman line and Skirmishers +2 pierce armor.
+Each Town Center provides +100 food.
+Spearman line and Skirmishers move 10% faster.
+Each garrisoned Relic gives +1 attack to Knights and Leitis (maximum +4).
+
+Magyars:
+Focus: Cavalry
+Wonder: Hunyad Castle
+Corvinian Army: Magyar Huszar gold cost is replaced by additional food cost.
+Recurve Bow: Mounted archers +1 attack and range.
+Forging, Iron Casting, and Blast Furnace are free.
+Scout Cavalry line is 15% cheaper.
+Villagers kill wild animals in one strike.[note 21]
+
+Malay:
+Focus: Infantry and Naval
+Wonder: Kalasan Temple
+Thalassocracy: Upgrades Docks to Harbors.
+Forced Levy: Militia line costs +20 food, -20 gold.
+Advancing in Age is +66% faster.
+Fish Traps are 33% cheaper and provide 3× food.
+Battle Elephants are 30% cheaper in the Castle Age, 40% cheaper in the Imperial Age.
+Infantry armor upgrades are free.
+
+Malians:
+Focus: Infantry
+Wonder: Great Mosque of Djenné
+Tigui: Town Centers fire +8 arrows always.
+Farimba: Cavalry units +5 attack.
+Buildings cost -15% wood (except Farms and starting Town Center).
+Barracks units have +1/+2/+3 pierce armor in the Feudal/Castle/Imperial Age.
+Villagers drop off +10% gold.[note 22]
+
+Mayans:
+Focus: Foot archer
+Wonder: Temple of the Great Jaguar (Tikal Temple I)
+Hul'che Javelineers: Skirmishers throw an additional projectile, which deals one pierce attack.
+El Dorado: Eagle Warriors +40 hit points.
+Start the game with an Eagle Scout.
+Start the game with +1 Villager, but with -50 food.
+Resources last 15% longer.[note 23]
+Foot archers (except Skirmishers) are 10%/20%/30% cheaper in the Feudal/Castle/Imperial Age.
+
+Mongols:
+Focus: Mounted archers
+Wonder: Great Tent of Genghis Khan
+Nomads: Makes Houses keep their population space if they are destroyed.
+Drill: Increases the movement speed of Siege Workshop units by +50%.
+Cavalry archers fire 25% faster.
+Light Cavalry, Hussars, and Steppe Lancers have +30% HP.[note 24]
+Hunters work 40% faster.
+
+Persians:
+Focus: Cavalry
+Wonder: Taq Kasra (Arch of Ctesiphon)
+War Elephant: Slow but extremely powerful cavalry unit.
+Savar: Unique upgrade of the Cavalier, replacing the Paladin.
+Kamandaran: Archer-line cost changed from 25 wood, 45 gold to 60 wood.
+Citadels: Castles +4 attack, +3 against rams, +3 against infantry, and receive -25% bonus damage.
+Start the game with +50 food, +50 wood.
+Town Centers and Docks have double hit points and work 5%/10%/15%/20% faster in the Dark/Feudal/Castle/Imperial Age.
+Parthian Tactics available in the Castle Age.
+
+Poles:
+Focus: Cavalry
+Wonder: Wawel Cathedral
+Obuch: Infantry whose attack reduces the target unit's armor.
+Winged Hussar: Unique upgrade of the Light Cavalry replacing the Hussar (shared with the Lithuanians).
+Szlachta Privileges: Knight line costs -60% gold.
+Lechitic Legacy: Scout Cavalry line deals 33% trample damage in 0.5 tiles radius.
+Villagers regenerate 10/15/20 HP per minute in the Feudal/Castle/Imperial Age.
+Stone miners generate 33% gold in addition to stone.
+
+Portuguese:
+Focus: Naval and Gunpowder
+Wonder: Belém Tower
+All units cost –20% gold.
+All ships have +10% hit points.
+Foragers generate wood in addition to food (0.33 wood per food).
+
+Romans:
+Focus: Infantry
+Wonder: Colosseum
+Legionary: Sturdy infantry unit. Replacement of the Two-Handed Swordsman and Champion upgrades.
+Centurion: Heavy cavalry unit that increases the attack and movement speeds of nearby Militia-line units.
+Ballistas: Scorpions fire 33% faster, the Galley-line has +2 attack.
+Comitatenses: Militia-line, Knight-line, and Centurions train 50% faster and receive +5 charge attack over 20 seconds.
+Villagers gather, build, and repair 5% faster.
+Galley-line and Dromon +1/+1 armor.
+Infantry receives double the effect from Blacksmith armor upgrades.
+Scorpions cost -60% gold and benefit from Ballistics.
+
+Saracens:
+Focus: Camel and Naval
+Wonder: Great Mosque of Samarra
+Bimaristan: Monks automatically heal multiple nearby units.
+Counterweights: Trebuchets and Mangonel-line +15% attack.*
+The commodity trading fee is 5%.
+Markets cost 75 wood.
+Transport Ships have double hit points and +5 carry capacity.
+Galleys attack 25% faster.
+Camel units +25% hit points.
+
+Sicilians:
+Focus: Infantry and Cavalry
+Wonder: Monreale Cathedral
+First Crusade: Each Town Center (up to 5) spawns a one-time group of 5 Serjeants; also increases resistance against conversion (effect identical to Faith).
+Hauberk: Knight-line +1/+2 armor.
+Start with +100 stone.[note 27]
+Castles built 50% faster, Town Centers built 100% faster.[note 28]
+Land military units (except siege weapons) receive 33% less bonus damage.[note 29]
+Farm upgrades provide additional +125% food.[note 30]
+
+Slavs:
+Focus: Infantry and Siege
+Wonder: Kizhi Pogost
+Detinets: Replaces 40% of Castles' and Towers' stone cost with wood.
+Druzhina: Infantry units damage adjacent units in +0.5 tiles radius with 5 damage.
+Farmers work 15% faster.
+Supplies and Gambesons are free.
+Siege Workshop units are 15% cheaper.
+Monks move 20% faster.
+
+Spanish:
+Focus: Gunpowder and Monk
+Wonder: Torre del Oro
+Conquistador: Mounted gunpowder unit.
+Missionary: Mounted Monk.
+Inquisition: Increases conversion speed for Monks and Missionaries. Missionaries +1 range.
+Supremacy: Gives Villagers +6 attack, +2/+2 armor, and +40 hit points.
+Builders work 30% faster (20% for Wonders).
+Blacksmith upgrades don't cost gold.
+Cannon Galleon projectiles can track moving targets[note 31] and move faster.[note 32]
+Gunpowder units fire 18% faster.[note 33]
+Receive 20 gold for each technology researched.
+
+Tatars:
+Focus: Mounted archer
+Wonder: Ulugh Beg Observatory
+Keshik: Cavalry that generates gold with each attack.
+Flaming Camel: Camel that explodes like a Petard, with attack bonuses against mounted units and elephants.
+Silk Armor: Scout Cavalry line, Steppe Lancers and mounted archers have +1/+1 armor.
+Timurid Siegecraft: Trebuchets have +2 range.
+Herdable animals contain +50% food.[note 34]
+Units[note 35] do +20% damage[note 36] when attacking from higher elevations (+50% instead of +25%).
+Parthian Tactics and Thumb Ring are free.
+Two Sheep spawn near newly-constructed Town Centers starting in the Castle Age.
+
+Teutons:
+Focus: Infantry
+Wonder: Maria Laach Abbey
+Ironclad: Gives siege weapons +4 melee armor.
+Crenellations: Gives Castles +3 range and makes garrisoned infantry shoot arrows.
+Monks have double healing range.
+Towers garrison twice as many units.
+Murder Holes and Herbal Medicine are free.
+Farms are 40% cheaper.
+Town Centers can garrison +10 units.
+Barracks and Stable units receive +1/+2 melee armor in the Castle/Imperial Age.
+
+Turks:
+Focus: Gunpowder
+Wonder: Selimiye Mosque
+Sipahi: Mounted archers +20 hit points.
+Artillery: +2 range for Bombard Towers, Bombard Cannons, Cannon Galleons.
+Gunpowder units have +25% hit points.
+Chemistry is free.
+Gunpowder technologies are 50% cheaper.[note 37]
+Gold Miners work 20% faster.
+Light Cavalry and Hussar upgrades are free.
+Scout Cavalry line gain +1 pierce armor.
+
+Vietnamese:
+Focus: Archer
+Wonder: Bút Tháp
+Rattan Archer: Foot archer with high pierce armor.
+Imperial Skirmisher: Upgrade of the Elite Skirmisher, provides additional hit points and attack.
+Chatras: Gives Battle Elephants +100 hit points.
+Paper Money: Lumberjacks generate gold when working.
+Archery Range units have +20% hit points.
+Reveal enemy initial Town Centers location at the start of the game.
+Conscription is free.
+Economic upgrades cost no wood and are researched 100% faster.
+Imperial Skirmisher upgrade is available at the Archery Range (requires the Imperial Age and Elite Skirmisher).
+
+Vikings:
+Focus: Infantry and Naval
+Wonder: Borgund Stave Church
+Berserk: Infantry that can regenerate.
+Longboat: Quick warship that fires multiple arrows.
+Chieftains: Gives infantry +5 attack against cavalry and +4 attack against camels; infantry generate gold when killing villagers, trade units and monks.
+Bogsveigar: Archer-line and Longboats +1 attack (available since update 81058).
+Wheelbarrow and Hand Cart free.
+Warships cost -15%/-15%/-20% in the Feudal/Castle/Imperial Age.
+Infantry have +20% hit points starting from the Feudal Age.
+

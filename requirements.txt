@@ -1,0 +1,4 @@
+bs4
+langchain
+openai
+requests
