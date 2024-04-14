@@ -4,25 +4,32 @@ from dotenv import load_dotenv
 
 from langchain_openai import ChatOpenAI
 from langchain_community.document_loaders.directory import DirectoryLoader
+from langchain_community.document_loaders.url_selenium import SeleniumURLLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_chroma import Chroma
+from langchain_community.embeddings.huggingface import HuggingFaceEmbeddings
 from langchain_openai import OpenAIEmbeddings
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.messages import HumanMessage
 
+openai_api_key = os.getenv('OPENAI_KEY')
 def load_model():
     load_dotenv()
     
     # Initialize the model
-    llm_model = ChatOpenAI(model="gpt-3.5-turbo-0125", api_key=os.getenv('OPENAI_KEY'), temperature=0.3)
+    llm_model = ChatOpenAI(model="gpt-3.5-turbo-0125", api_key=openai_api_key, temperature=0.3)
     return llm_model
 
-def create_qa_bot():
-    llm_model = load_model()
-    
+def create_qa_bot():    
     # Intialize the loader. We use Directory loader to return all .txt files from a directory
-    loader = DirectoryLoader('./textFiles', glob="**/*.txt")
+    # loader = DirectoryLoader('./textFiles', glob="**/*.txt")
+    
+    urls = [
+        "https://ageofempires.fandom.com/wiki/Civilization_(Age_of_Empires_II)"
+    ]
+    
+    loader = SeleniumURLLoader(urls=urls)
     data = loader.load()
     
     # Split the documents into chunks for smaller context windows for the LLM
@@ -31,7 +38,9 @@ def create_qa_bot():
     
     # Embedd and store those documents in a vector database
     # We use Chroma because it is free and open source!
-    embedder = OpenAIEmbeddings(api_key=os.getenv('OPENAI_KEY'))
+    
+    embedder = OpenAIEmbeddings(api_key=openai_api_key)
+    # embedder = HuggingFaceEmbeddings()
     vectorstore = Chroma.from_documents(documents=split_docs, embedding=embedder)
 
     # Set a retriever to retrieve our related documents!
@@ -41,7 +50,6 @@ def create_qa_bot():
 
 def define_document_chain():
     llm_model = load_model()
-    
     # Defining the prompt
     System_Template = """
     You are Chat-AOE, a friendly chatbot assistant designed to answer questions about Age of Empires 2: Definitive edition.
@@ -68,7 +76,6 @@ def define_document_chain():
     return document_chain
 
 def bot(human_message):
-    llm_model = load_model()
     retriever = create_qa_bot()
     document_chain = define_document_chain()
 
