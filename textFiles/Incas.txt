@@ -1,0 +1,565 @@
+This page is all about the Incas
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The African Kingdoms
+3.2 Rise of the Rajas
+3.3 Definitive Edition
+3.4 Lords of the West
+3.5 Dawn of the Dukes
+3.6 Dynasties of India
+3.7 The Mountain Royals
+3.8 Victors and Vanquished
+
+4 Campaign appearances
+
+4.1 El Dorado
+4.2 Pachacuti
+4.3 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+The Forgotten,
+
+American civilizations
+
+
+			English
+
+Español
+
+Incas
+
+50
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+This article is about the civilization in Age of Empires II HD: The Forgotten . For other appearances of the faction in the series , see Incas (disambiguation) .
+
+Civilization Technology tree Strategy
+
+Incas
+
+Civilization information
+
+Introduced in
+
+Age of Empires II HD: The Forgotten
+
+Architecture
+
+Native American
+
+Continent
+
+South America (Andes)
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Incas_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Incas_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Incas_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Infantry
+
+Unique units
+
+Kamayuk
+
+Slinger
+
+Unique technologies
+
+Andean Sling
+
+Fabric Shields
+
+“ Step into the position of Sapa Inca and relive the glories of the most extended medieval empire to have ever spread its influence over South America. Conquer Cuzco, lead your armies along the shores of Lake Titicaca, defend your wealth and heritage from the invading conquistadors, and erect mighty structures to stand the test of time. The Inca unique units are the Kamayuk, a deadly warrior armed with a long pike, and the Slinger, a ranged unit who makes short work of enemy infantry units. ” —Description [1]
+
+The Incas are a Native American civilization introduced in Age of Empires II HD: The Forgotten based on the civilizations around the Andes in South America. They focus on infantry.
+
+The Incas also appear as a minor civilization in Age of Empires III and a playable civilization in the Definitive Edition (where the minor civilization is renamed Quechua).
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The African Kingdoms
+3.2 Rise of the Rajas
+3.3 Definitive Edition
+3.4 Lords of the West
+3.5 Dawn of the Dukes
+3.6 Dynasties of India
+3.7 The Mountain Royals
+3.8 Victors and Vanquished
+
+4 Campaign appearances
+
+4.1 El Dorado
+4.2 Pachacuti
+4.3 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+Characteristics[]
+
+Unique units[]
+
+Kamayuk: Infantry wielding a long spear that allows attacking at range and attack bonus against cavalry.
+
+Slinger: Foot archer with a massive attack bonus against infantry.
+
+Unique technologies[]
+
+Andean Sling: Slingers +1 attack and removes the minimum range from Slingers and Skirmishers.
+
+Fabric Shields: Gives Eagle Warriors, Kamayuks, and Slingers +1/+2 armor.
+
+Civilization bonuses[]
+
+Military units cost -10%/-15%/-20%/-25% food in Dark/Feudal/Castle/Imperial Ages
+
+Villagers benefit from Blacksmith infantry upgrades starting in the Castle Age.
+
+Houses support 10 population.
+
+Buildings cost -15% stone.
+
+Team bonus[]
+
+Start with a free Llama.
+
+Overview[]
+
+The Incas are an infantry civilization, which is boosted by their military food discount. While they lack Supplies and Gambesons, the former is compensated by their aforementioned discount, while the latter is mitigated by their access to Eagle Warriors with Fabric Shields. The Kamayuk is a very versatile unit that is strong against most melee units (especially cavalry with a bonus against them) while being resistant against archers. They also have all upgrades and technologies for their foot archers, and also get a unique unit at the Archery Range: the Slinger, which is arguably better than the Hand Cannoneer and available in the Castle Age.
+
+In the siege department, they are also very solid, only missing out on Siege Onagers and, logically, Bombard Cannons. Their Monks are solid, only lacking Fervor and Atonement. Their defenses are very good, as while they miss Architecture and Bombard Tower, the stone discount they get on all buildings makes up for this, and their Villagers are harder to raid as well. Their economy is very good, with a free Llama at the start giving them more food to collect before they have to farm and their House bonus means they save a lot of wood over the game.
+
+However, while the Incan technology tree is very solid, the complete lack of cavalry is a major setback that they will have to be conscious about. While they have fully upgraded Galleons, the lack of the Cannon Galleon is a crippling weakness on pure water maps.
+
+All in all, the Incas are a very versatile civilization. Their wide array of offensive and defensive options, combined with a consistently strong economy, makes them unpredictable to play against.
+
+Changelog[]
+
+The African Kingdoms[]
+
+Keep, Guilds, Block Printing, and Thumb Ring are added to the technology tree.
+
+Fabric Shields (then named "Couriers") now gives +1/+2 armor instead of +10% movement speed.
+
+Slingers no longer require a Castle.
+
+The upgrade to the Elite Kamayuk costs less (1,000 food, 600 gold → 900 food, 500 gold).
+
+(Elite) Kamayuks have +4 (non-Elite)/+6 (Elite) attack against camel units.
+
+With patch 4.8:
+Kamayuks move faster (0.95 → 1).
+Kamayuks gain +20 attack against elephant units.
+
+Rise of the Rajas[]
+
+With patch 5.7, (Elite) Kamayuks now have more anti-camel bonus damage (+4 (non-Elite)/+6 (Elite) → +6/+10).
+
+With patch 5.8, Couriers' cost increased (400 food, 200 gold → 600 food, 600 gold).
+
+Definitive Edition[]
+
+Slingers' attack decreased (5 → 4).
+
+Can train Xolotl Warriors from converted Stables.
+
+Couriers renamed to Fabric Shields.
+
+Lords of the West[]
+
+With update 47820, Villagers are only affected by Blacksmith upgrades starting in the Castle Age.
+
+Dawn of the Dukes[]
+
+With update 56005, Non-Elite Kamayuks have more hit points (60 → 70) and melee armor (0 → 1).
+
+Dynasties of India[]
+
+With update 61321, their team bonus is replaced with Spearmen and Skirmishers +2 LOS (from Farms being built 100% faster).
+
+With update 81058:
+New civilization bonus: Military units cost -15%/-20%/-25%/-30% food in the Dark/Feudal/Castle/Imperial Age.
+Slingers:
+Base food cost increased (30 food → 40 food), in practice causing them to cost 28 food in the Imperial Age while leaving them the same in the Castle Age.
+Andean sling now additionally provides +1 attack to Slingers.
+Fixed an issue where Slingers incorrectly gained attack speed from Thumb Ring.
+The fire version of the Slinger's projectile which is used after Chemistry is researched was added.
+Supplies removed from the Incan technology tree.
+(Elite) Kamayuk base food cost increased (60 food → 65 food), though the new bonus means they are still cheaper (60 food (All ages) → 49 food (Castle Age)/46 food (Imperial Age)).
+Removed bonus: Start with a free Llama.
+Team Bonus is start with a free Llama (from Spearmen and Skirmishers +2 LOS).
+Their stone discount does not apply to their starting Town Center.
+
+The Mountain Royals[]
+
+With update 99311, Military units food discount reduced from 15/20/25/30% to 10/15/20/25%.
+
+With update 99311, (Elite) Kamayuk base food cost decreased from 65 food to 60 food. Due to the military units food discount, they cost 48 food in the Castle Age and 45 food in the Imperial Age.
+
+Victors and Vanquished[]
+
+With update 107882, Fixed a bug where the food discount wasn't resulting in correct cost values for Eagle Warriors and the Skirmisher line (new food costs: 21/20/19 food in the Feudal/Castle/Imperial Age).
+
+Campaign appearances[]
+
+The Incas have a campaign devoted to their civilization: El Dorado in The Forgotten. This was replaced by Pachacuti in the Definitive Edition.
+
+El Dorado[]
+
+Except for the first scenario, this campaign is played as the Incas.
+
+Tales of La Canela
+La Culata - Ally
+Locals - Ally
+Quito - Ally
+Incan Ruins - Neutral
+Rebels - Enemy
+
+The Split
+Chief Vicaquirao - Ally
+Friendly Natives - Ally
+El Barco - Neutral → Ally
+Imara - Neutral → Ally
+Hostile Natives - Enemy
+
+The Amazones
+Native Trading Post - Ally
+Spanish - Ally
+Manco Inca Yupanqui - Ally
+Amazone Suppliers - Neutral
+Fishermen - Neutral
+Amazones - Enemy → Ally
+Amazone Patrols - Enemy
+
+The Cannibals
+Januacu - Ally
+Macapaba - Ally
+Questgivers - Ally
+Los Negros guards - Enemy
+Villages of Los Negros - Enemy
+
+Pachacuti[]
+
+This campaign is played as the Incas.
+
+A New Power Arises
+Chanca - Enemy
+Cuyos - Enemy
+Tambos - Enemy
+Quechua - Neutral → Ally
+
+The Field of Blood
+Chanca - Enemy
+Anccu Hualloc - Enemy
+Cana - Ally
+Canchi - Ally
+Viracocha - Ally
+Cuzco - Ally
+
+War of Brothers
+Chanca - Enemy
+Hostile Inca - Enemy
+Calas - Enemy
+Urqu - Enemy
+Scattered Inca Army - Ally
+Locals - Ally
+
+The Falcon's Tent
+Waman Karpa - Enemy
+Andahuaylas - Enemy
+Abancay - Enemy
+Anccu Hualloc Army - Enemy
+Anccu Hualloc - Enemy
+Collas - Neutral → Ally
+Priests - Neutral → Ally
+
+Like Father, Like Son
+Chimú Army - Enemy
+Chimú Navy - Enemy
+Chan Chan - Enemy
+Pachacámac - Enemy
+Cisterns - Ally
+
+Victors and Vanquished[]
+
+Karlsefni (as Cree)
+Skraelings - Enemy
+Skraelings - Enemy
+
+In-game dialogue language[]
+
+In-game, Inca military units reuse the Quechua Huaminca's dialogue in Age of Empires III, while their Villagers, Kings, and Monks have new dialogues, all are in Quechua, also known as Runa Simi.
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Incas_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Incas_Villager_Male_Select_1_AoE2.ogg Select 1 Ari? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Incas_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Incas_Villager_Male_Select_2_AoE2.ogg Select 2 Kamachiway - Command
+
+https://ageofempires.fandom.com/wiki/File:Incas_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Incas_Villager_Male_Select_3_AoE2.ogg Select 3 Ñam - Ready
+
+https://ageofempires.fandom.com/wiki/File:Incas_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Incas_Villager_Male_Select_4_AoE2.ogg Select 4 Rimay - Hey
+
+https://ageofempires.fandom.com/wiki/File:Incas_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Incas_Villager_Male_Task_1_AoE2.ogg Task 1 Ari - Yes
+
+https://ageofempires.fandom.com/wiki/File:Incas_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Incas_Villager_Male_Task_2_AoE2.ogg Task 2 Kunanqa - Immediately
+
+https://ageofempires.fandom.com/wiki/File:Incas_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Incas_Villager_Male_Task_3_AoE2.ogg Task 3 Ripuchkani - I'm going
+
+https://ageofempires.fandom.com/wiki/File:Incas_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Incas_Villager_Male_Task_4_AoE2.ogg Task 4 Unanchasqa - I understand
+
+https://ageofempires.fandom.com/wiki/File:Incas_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Incas_Villager_Male_Build_AoE2.ogg Build Sayarichiy - Builder
+
+https://ageofempires.fandom.com/wiki/File:Incas_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Incas_Villager_Male_Chop_AoE2.ogg Chop Willuy - Lumberjack
+
+https://ageofempires.fandom.com/wiki/File:Incas_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Incas_Villager_Male_Farm_AoE2.ogg Farm Tarpuy - Farmer
+
+https://ageofempires.fandom.com/wiki/File:Incas_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Incas_Villager_Male_Fish_AoE2.ogg Fish Challway - Fisher
+
+https://ageofempires.fandom.com/wiki/File:Incas_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Incas_Villager_Male_Forage_AoE2.ogg Forage Aymuray - Gatherer
+
+https://ageofempires.fandom.com/wiki/File:Incas_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Incas_Villager_Male_Hunt_AoE2.ogg Hunt Kasachiy - Hunter
+
+https://ageofempires.fandom.com/wiki/File:Incas_Villager_Female_Mine_AoE2.ogg Female Mine Qurita hurquy - Miner
+
+https://ageofempires.fandom.com/wiki/File:Incas_Villager_Male_Mine_AoE2.ogg Male Mine Allamuy - Miner
+
+https://ageofempires.fandom.com/wiki/File:Incas_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Incas_Villager_Male_Repair_AoE2.ogg Repair Allichay - Repairer
+
+https://ageofempires.fandom.com/wiki/File:Incas_Soldier_Select_1_AoE2.ogg Select 1 Jai - What?
+
+https://ageofempires.fandom.com/wiki/File:Incas_Soldier_Select_2_AoE2.ogg Select 2 Ari? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Incas_Soldier_Select_3_AoE2.ogg Select 3 Jai - What?
+
+https://ageofempires.fandom.com/wiki/File:Incas_Soldier_Move_1_AoE2.ogg Move 1 Chjaaku
+
+https://ageofempires.fandom.com/wiki/File:Incas_Soldier_Move_2_AoE2.ogg Move 2 Gorriya
+
+https://ageofempires.fandom.com/wiki/File:Incas_Soldier_Move_3_AoE2.ogg Move 3 Ari - Yes
+
+https://ageofempires.fandom.com/wiki/File:Incas_Soldier_Attack_1_AoE2.ogg Attack 1 Aytippe - Attack!
+
+https://ageofempires.fandom.com/wiki/File:Incas_Soldier_Attack_2_AoE2.ogg Attack 2 Qu'utiya - Attack
+
+https://ageofempires.fandom.com/wiki/File:Incas_Soldier_Attack_3_AoE2.ogg Attack 3 Aytippe - Attack!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Incas_Monk_Select_1_AoE2.ogg Select 1 Ari? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Incas_Monk_Select_2_AoE2.ogg Select 2 Kamachiway - Command
+
+https://ageofempires.fandom.com/wiki/File:Incas_Monk_Select_3_AoE2.ogg Select 3 Qamta yanapanaypak - At your service
+
+https://ageofempires.fandom.com/wiki/File:Incas_Monk_Select_4_AoE2.ogg Select 4 Wiraquchanpa raymin - In the name of Wiraqucha (Wiraqucha is the great creator deity in the pre-Inca and Inca mythology)
+
+https://ageofempires.fandom.com/wiki/File:Incas_Monk_Move_1_AoE2.ogg Move 1 Ari - Yes
+
+https://ageofempires.fandom.com/wiki/File:Incas_Monk_Move_2_AoE2.ogg Move 2 Hap'inim - Understood
+
+https://ageofempires.fandom.com/wiki/File:Incas_Monk_Move_3_AoE2.ogg Move 3 Richkani - Right
+
+https://ageofempires.fandom.com/wiki/File:Incas_Monk_Move_4_AoE2.ogg Move 4 Utqaylla - Immediately
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Incas_King_Select_1_AoE2.ogg Select 1 Imaraykum qhamzapakuy - What do you want
+
+https://ageofempires.fandom.com/wiki/File:Incas_King_Select_2_AoE2.ogg Select 2 Kaypim - Here you go
+
+https://ageofempires.fandom.com/wiki/File:Incas_King_Select_3_AoE2.ogg Select 3 Willamuspa - Reporting
+
+https://ageofempires.fandom.com/wiki/File:Incas_King_Move_1_AoE2.ogg Move 1 Kayhina rurasak - I shall do
+
+https://ageofempires.fandom.com/wiki/File:Incas_King_Move_2_AoE2.ogg Move 2 Munakusqaykikamam - As you requested
+
+https://ageofempires.fandom.com/wiki/File:Incas_King_Move_3_AoE2.ogg Move 3 Kusikuyniypak - By my grace
+
+https://ageofempires.fandom.com/wiki/File:Incas_King_Move_4_AoE2.ogg Move 4 Mañasqaykitam rurasak - I will do as you ask
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Incan AI characters:
+
+Anccu Hualloc: was the alleged leader Hanan Chanka "Anccu Hualloc", in 1438 he mythified himself so that the people or the "ayllus of Ancoyaco" gathered 40,000 warriors and launched the conquest of Cusco. They advanced victoriously to encircle the city against the prince Cusi Yupanqui. A bloody battle was fought in Yawarpampa ("field of blood"), won by Cusco with the timely arrival of friendly forces.
+
+Apo Mayta:  ('Apu Mayta) Inca military leader, brother of Vicaquirao.
+
+Atahualpa:  (Atawallpa) (Quechua) (c. 1502 – 26 July 1533) was the last Inca Emperor. After defeating his brother, Atahualpa became very briefly the last Sapa Inca (sovereign emperor) of the Inca Empire (Tawantinsuyu) before the Spanish conquest ended his reign. The Inca Civil War began in 1529 when Huáscar declared war on Atahualpa, for fear that he would try to carry out a coup d'état against him. Atahualpa became Inca emperor in May 1532 after he had defeated and imprisoned Huáscar and massacred any pretenders to the throne. The Spaniard Francisco Pizarro captured Atahualpa in November 1532 and used him to control the Inca Empire. The Spanish eventually executed Atahualpa, effectively ending the empire.
+
+Huayna Capac: (1464/1468–1524) was the third Sapan Inka of the Inca Empire, born in Tumipampa sixth of the Hanan dynasty, and eleventh of the Inca civilization. As other Sapa Inkas, Huayna Capac subjects commonly approached him adding epithets and titles when addressing him, commonly as Wayna Qhapaq Inka Sapa'lla Tukuy Llaqt'a Uya "Unique Sovereign Wayna Qhapaq Listener of All Peoples". His original name was Titu Kusi Wallpa. He was the successor to Tupaq Inka Yupanki. He is the AI personality of the Inca in Age of Empires III: Definitive Edition.
+
+Manco Capac: (Quechua: Manqu Qhapaq, "the royal founder"), also known as Manco Inca and Ayar Manco was, according to some historians, the first governor and founder of the Inca civilization in Cusco, possibly in the early 13th century. He is also a main figure of Inca mythology, being the protagonist of the two best known legends about the origin of the Inca, both of them connecting him to the foundation of Cusco.
+
+Manco Inca Yupanqui: (c. 1515 – c. 1544) (Manqu Inka Yupanki in Quechua) A founder and monarch (Sapa Inca) of the independent Neo-Inca State in Vilcabamba, although he was originally a puppet Inca Emperor installed by the Spaniards. He was one of the sons of Huayna Cápac and a younger brother of Huascar.
+
+Pachacuti: Pachacuti Inca Yupanqui (Quechua: Pachakutiq Inka Yupanki) was the ninth Sapa Inca (1438–1471/1472) of the Kingdom of Cusco which he transformed into the Inca Empire (Tawantinsuyu). Most archaeologists now believe that the famous Inca site of Machu Picchu was built as an estate for Pachacuti. In Quechua Pachakutiq means "reformer of the world", and Yupanki means "with honor". During his reign, Cusco grew from a hamlet into an empire that could compete with, and eventually overtake, the Chimú. He began an era of conquest that, within three generations, expanded the Inca dominion from the valley of Cusco to nearly the whole of western South America.
+
+Topa Huallpa: Túpac Huallpa (or Huallpa Túpac) (1510-October 1533), original name Auqui Huallpa Túpac, was the first vassal Inca Emperor installed by the Spanish conquistadors, during the Spanish conquest of the Inca Empire led by Francisco Pizarro
+
+Tupac Inca Yupanqui: Topa Inca Yupanqui or Túpac Inca Yupanqui (Quechua: 'Tupaq Inka Yupanki'), translated as "noble Inca accountant," (c. 1441–c. 1493) was the tenth Sapa Inca (1471–93) of the Inca Empire, fifth of the Hanan dynasty. His father was Pachacuti, and his son was Huayna Capac.
+
+Vicaquirao:  (Wika-k'iraw) Inca military leader, brother of Apo Mayta.
+
+Viracocha: Wiraqucha Inka (Quechua, the name of a god) was the eighth Sapa Inca of the Kingdom of Cusco (beginning around 1410) and the third of the Hanan dynasty. This was also the name of great creator deity in the pre-Inca and Inca mythology in the Andes region of South America.
+
+Yahuar Huacac:  Yawar Waqaq or Yawar Waqaq Inka was the seventh Sapa Inca of the Kingdom of Cusco (beginning around CE 1380) and the second of the Hanan dynasty. Assuming the reign at the age of 19, Yawar conquered Pillauya, Choyca, Yuco, Chillincay, Taocamarca, and Cavinas.
+
+History[]
+
+“ The Inca were the rulers of the last great Amerindian empire of South America, and the creators of the largest Pre-Columbian state of the Americas. Originally a small tribe from the Cuzco region of Peru, the Inca formed a kingdom that by the early 15th century became a major power in the central Andes. In 1438, their power was challenged by the Kingdom of the Chanca, whose leader disliked their growing cultural supremacy. The Inca repelled the Chanca invasion and, in response, went on a massive uninterrupted period of expansion that lasted for nearly a century. In 1438, the Inca Empire was established by Pachacuti Inca in the aftermath of the failed Chanca invasion. Pachacuti was the youngest son of King Viracocha, ruler of the Inca since 1410. When Viracocha and his appointed successor, Inca Urqu, abandoned Cuzco amidst the invasion, Pachacuti and a few remaining troops defended the city. In the following years, the Inca emperor worked closely with his son, Topa Inca Yupanqui , teaching him the ways of war but neglecting his understanding of imperial administration. In turn, Topa Yupanqui became an even more efficient military leader, greatly expanding the size of the empire, but risking over-expansion. The Inca economy and society depended heavily on a pyramidal structure of power, whereby the elite redistributed the wealth of the empire to those who promised them allegiance. Those at the lowest end of the social pyramid were given enough to survive and protection from attacks as long as they did not break the three basic rules of 'Ama Suwa, Ama Llulla, Ama Qella' (Do not steal, do not lie, and do not be lazy). Moreover, the Inca Empire sat atop one of the world's largest reserves of gold and silver, making them one of the wealthiest civilizations of the world (if not the wealthiest) at the time. Rather than relying on brute strength or innovative technology, the Inca military outshone its enemies through effective military tactics, particularly rapid coordinated attacks, and by adapting their troops to the different terrains of western South America. Against the Huanca, the Inca used fast military attacks to catch them by surprise and prevent a long and difficult conflict. Against the Chimor Empire, a state which distinguished itself as holding the best metalworkers of Pre-Columbian America (and possibly the best armored troops in the New World prior to European arrival), the Inca used the desert terrain of the region to their advantage, cutting off rivers which fed water to the mighty Chimor capital of Chan-Chan and forcing its surrender. The Inca army was made up of the different civilizations that they conquered in their expansion, each bringing to battle their own weapons and skills. Thus, it was not uncommon to see the Inca imperial army outfitted with Amazon bowmen, Andean slingers, Chimor macemen, Cañari spearmen, and Aymara swordsmen, all led by the Inca elite as top officers. The Inca navy did not exist in a military aspect, though legends tell of the capability of their vessels to sail far into the Pacific Ocean, and archaeological evidence indicates that Andean civilizations relied heavily on the sea for survival. Recent research further reveals that the northernmost provinces of the Inca Empire traded with Mesoamerica. In 1527, the Pax Incaica, a long period of relative peace and prosperity maintained by Emperor Huayna Capac , ended with Huayna's unexpected death at the hands of smallpox, a disease unknown to the Inca. Smallpox and other European diseases ravaged the Inca Empire, killing most of its inhabitants. In 1529, a practically leaderless empire fell into civil war as the sons of Huayna Capac, prince Huascar and his half-brother Atahualpa, fought for control of the state. Amidst this chaos, Francisco Pizarro and a group of conquerors from Spain arrived at the coasts of Peru with the intention of acquiring the legendary wealth of the Inca. The Inca Empire ceased to exist in 1533, when victorious Atahualpa was captured by Pizarro and executed despite fulfilling his ransom of two large rooms filled with gold and silver. The Spaniards used treacherous diplomacy to ally themselves with the conquered peoples of the Inca Empire (particularly the Huanca), who in turn provided them with the number of forces that they needed to overcome the Inca. Yet, the Inca civilization continued until 1572, taking advantage of ongoing internal disputes between the Spanish conquerors. Although later attempts were made to recreate the fallen Inca Empire, never again would an Amerindian-led Andean civilization rise to regain the ancient glory of the Inca. ” — [1]
+
+Trivia[]
+
+The Incas' civilization icon is based on a hualcana (Incan shield).
+
+The user interface image displays Viracocha, the great creator god in Inca mythology.
+
+The Native American building set in the Feudal Age resembles real life Inca architecture even though the Incas were added after The Conquerors expansion.
+
+When playing on Nomad mode, the free Llama is spawned on the first Town Center built.
+
+Before update 81058, the Incas were the only civilization that had access to all Barracks units and technologies. However, with the introduction of the new civilization bonus where military units cost less food per age, the Incas lost access to Supplies, and thus also can't get access to the new technology Gambesons. Due to this, Incas no longer have this title.
+
+The following heroes available in the Scenario Editor are themed on the Incas: Huayna Capac, Pachacuti, Cusi Yupanqui, and Topa Yupanqui.
+
+The Incas were considered for inclusion in The Conquerors, but dropped during development because of challenges in developing a unique architecture separate from the Aztecs and Mayans, and difficulties in making a third distinctive civilization with no cavalry.
+Incas were considered as a playable civilization in Age of Empires III: The WarChiefs, but were scrapped due to time and art constraints. Later, the Inca were announced as one of two new civilizations in Age of Empires III: Definitive Edition.
+
+The Inca male Villager voices were made by Bert "Cysion" Beeckman, the founder of Forgotten Empires.
+
+During the beta, Inca buildings cost -20% stone, and their units' voice was mostly different from now. They started with a Turkey instead of a Llama.
+
+Thanks to the Blacksmith infantry upgrades affecting Villagers and the stone discount of towers, some players developed the "Inca Noboru rush" (named after its creator) which consisted of invading the enemy with armored Villagers in the Feudal Age and rushing them with Towers, being viewed as one of the most annoying strategies to counter because the Inca Villagers could tank up to 40 Villager hits, putting them at a high advantage to both rush and defend themselves. This led to moving the bonus effect starting at the Castle Age in update 47820.
+
+The Incas and Sicilians are the only civilizations to have their team bonus changed twice.
+
+One of the Inca AI player names, Huayna Capac, appears as the AI personality of the Inca in Age of Empires III: Definitive Edition.
+
+Gallery[]
+
+The Wonder of the Incas, the Temple of the Sun in 
+
+Machu Picchu
+
+The Native American 
+
+architecture set the Incas share with the
+
+Aztecs and
+
+Mayans
+
+The set before the 
+
+Incas 
+
+user interface image
+
+The Incan user interface before the 
+
+Official preview in the 
+
+A fortified river crossing controlled by Incas, seen in 
+
+The Amazones
+
+Inca Overview (AoE2)
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/incas
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+The Forgotten
+
+American civilizations
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

@@ -1,0 +1,645 @@
+This page is all about the Tatars
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Last Khans
+3.2 Lords of the West
+3.3 Dynasties of India
+3.4 Victors and Vanquished
+
+4 Campaign appearances
+
+4.1 Genghis Khan
+4.2 Prithviraj
+4.3 Tamerlane
+4.4 Ivaylo
+4.5 Kotyan Khan
+4.6 Edward Longshanks
+4.7 Algirdas and Kestutis
+4.8 Jadwiga
+4.9 Devapala
+4.10 Babur
+4.11 Tamar
+4.12 Ismail
+4.13 Victors and Vanquished
+4.14 Event Challenges
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+11 Notes
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+Asian civilizations,
+
+The Last Khans
+
+
+			English
+
+Español
+
+Tatars (Age of Empires II)
+
+37
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+This article is about the civilization in Age of Empires II: Definitive Edition - The Last Khans . For the civilization in Age of Empires III: Definitive Edition , see Tatars (Age of Empires III) .
+
+Civilization Technology tree Strategy
+
+Tatars
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: Definitive Edition - The Last Khans
+
+Architecture
+
+Central Asian
+
+Continent
+
+Asia
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Tatars_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Tatars_jingle_AoE2_DE.ogg
+
+Features/Characteristics
+
+Focus
+
+Cavalry Archer
+
+Unique units
+
+Keshik
+
+Flaming Camel
+
+Unique technologies
+
+Silk Armor
+
+Timurid Siegecraft
+
+“ For centuries, fierce nomads roamed the Central Asian steppe, periodically launching distant migrations or campaigns to conquer or extort their sedentary neighbors. Don arrow-resistant silk armor and dominate the hills and plains with mobile horsemen and cavalry archers , or join the Mongol hordes and swell the ranks of the Keshiks , honored bodyguards of the Great Khan himself! Dare you follow in the footsteps of Tamerlane and mercilessly conquer an empire from Transoxiana to India, Anatolia, and Russia? ” —Description [1]
+
+The Tatars are a Central Asian civilization introduced in Age of Empires II: Definitive Edition - The Last Khans. They are based on various Central Asian Turco-Mongolian empires such as the Timurid Empire and the Golden Horde. In-game, the Tatars are used as an umbrella civilization for various Eastern Turkic groups, in contrast to the Western Turkic groups (Oghuz Turks) represented by Turks and the Northern Turkic (Cuman-Kipchak) groups represented by the Cumans. They focus on Cavalry Archers.
+
+The Tatars appear as a Historical Battle-only civilization in Chuvash Cape in Age of Empires III: Definitive Edition, although using units from the Chinese civilization. Some elements of the Tatars are incorporated in the Russians' civilization in Age of Empires III, such as a unique upgrade for their Cavalry Archers, Tatar Loyalists, and one of the achievements in the Definitive Edition called "Fierce Cavalrymen of Tartars" when sending a Home City Card of 9 Cavalry Archers as the Russians. The Tatars also appear as a religious site in the Definitive Edition, Tengri Shrine, with their native warrior being the Tatar Archer (although the unit itself uses the Cumans' military units' voice lines instead of the Tatar military voice lines).
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Last Khans
+3.2 Lords of the West
+3.3 Dynasties of India
+3.4 Victors and Vanquished
+
+4 Campaign appearances
+
+4.1 Genghis Khan
+4.2 Prithviraj
+4.3 Tamerlane
+4.4 Ivaylo
+4.5 Kotyan Khan
+4.6 Edward Longshanks
+4.7 Algirdas and Kestutis
+4.8 Jadwiga
+4.9 Devapala
+4.10 Babur
+4.11 Tamar
+4.12 Ismail
+4.13 Victors and Vanquished
+4.14 Event Challenges
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+11 Notes
+
+Characteristics[]
+
+Unique units[]
+
+Keshik: Cavalry that generates gold with each attack.
+
+Flaming Camel: Camel that explodes like a Petard, with attack bonuses against mounted units and elephants.
+
+Unique technologies[]
+
+Silk Armor: Scout Cavalry line, Steppe Lancers and mounted archers have +1/+1 armor.
+
+Timurid Siegecraft: Trebuchets have +2 range.
+
+Civilization bonuses[]
+
+Herdable animals contain +50% food.[note 1]
+
+Units[note 2] do +20% damage[note 3] when attacking from higher elevations (+50% instead of +25%).
+
+Parthian Tactics and Thumb Ring are free.
+
+Two Sheep spawn near newly-constructed Town Centers starting in the Castle Age.
+
+Team bonus[]
+
+Mounted archers have +2 Line of Sight.
+
+Overview[]
+
+The Tatars are classified as a cavalry archer civilization. Their Cavalry Archers are extremely strong, not only having all possible upgrades (two of those, Parthian Tactics and Thumb Ring, are free for them), they also deal 20% more damage when fight on higher grounds (this bonus applies to all Tatar units), increased Line of Sight (which is their team bonus) and the Silk Armor unique technology, which gives additional melee and pierce armor to them, putting the Tatar Cavalry Archers at the same level as their Turk counterparts. Their foot archers are also solid, also benefiting from free Thumb Ring and the elevation bonus, and only lacking the Arbalester upgrade.
+
+Tatars also have a strong cavalry roster, despite lacking the Paladin upgrade, as they have the Keshik (a medium cavalry unit which generates gold when fighting other units) and access to all non-elephant mounted units in the technology tree. Their Scout Cavalry and Steppe Lancer lines also benefit from the Silk Armor unique technology, enhancing the durability of these units. In addition, they have Flaming Camels, which are an unorthodox mounted unit and serves as an anti-elephant unit. They also have fully upgradable Heavy Camel Riders if they need to deal with enemy cavalry.
+
+The Tatars have a good siege roster, only lacking the Siege Onager and Bombard Cannon, while also having the longest-range Trebuchets in the game with Timurid Siegecraft. Their Flaming Camel unique unit is a hybrid of a Camel Rider and Petard, which excels against elephants, while still being decent against siege and buildings. The Tatar navy is average, only lacking Heavy Demolition Ships and Shipwright. Their economy is pretty strong for the first half of the game, as their herdables contain 50% more food, and they get two free Sheep per new Town Center, starting in the Castle Age (rebuilding the Town Center before then does not give Sheep).
+
+The Tatars have several noticeable weaknesses: their infantry units and Monks. Their infantry are almost unusable, as they not only lack the Champion upgrade and Supplies, but are the only civilization that lacks Chain Mail Armor, resulting in their infantry taking between +2 to +4 damage from every unit in the game. Their defenses are lackluster, due to lacking Hoardings, Architecture, the Keep, and Arrowslits, but they have access to the Bombard Tower. Their Monastery is missing several key technologies across the board, and their conversion resistance is the worst in the game, being the only civilization to lack both Faith and Heresy.
+
+Overall, the Tatars are a very mobile and offensive civilization, with a strong military presence throughout every stage of the game.
+
+Changelog[]
+
+The Last Khans[]
+
+With update 34055, (Elite) Keshiks received several changes:
+Gold cost decreased (80 gold → 40 gold).
+Hit points increased by 10 (100 (standard)/130 (Elite) → 110/140)
+Melee attack decreased (12 (standard)/14 (Elite) → 9/11).
+
+With update 35584, the Halberdier is added to their tech tree.
+
+With update 36202:
+New civilization bonus: Thumb Ring is free.
+(Elite) Keshiks' training time decreased (23 (standard)/20 (Elite) → 16/14 seconds).
+Silk Armor now applies to (Elite) Steppe Lancers.
+Timurid Siegecraft range bonus to Trebuchets increased (+1 → +2).
+Flaming Camels are now trainable after researching Timurid Siegecraft.
+
+With update 37650, Supplies was removed from their tech tree.
+
+With update 42848:
+Silk Armor provides +1 melee armor, on top of the existing +1 pierce armor.
+New civilization bonus: two Sheep spawn near the Town Center upon reaching the Feudal Age. Two additional Sheep spawn near each additional Town Center built.
+
+Lords of the West[]
+
+With update 44725:
+Sheep now only spawn from newly-constructed Town Centers, and only after advancing to the Castle Age.
+Keshiks' food cost increased (50 food → 60 food).
+
+Dynasties of India[]
+
+With update 61321, Flaming Camels deal 25 bonus damage against siege units (previously had no bonus), and deal more bonus damage against buildings (100 → 200). However, the bonus damage increase from Siege Engineers was unchanged, so the percentage boost was reduced to 20%.
+
+With update 73855, Siege Engineers now gives the intended 40% boost.
+
+With update 81058, (Elite) Keshiks take +1 second to train (16 (standard)/14 (Elite) → 17/15 seconds).
+
+Victors and Vanquished[]
+
+With update 107882, the Flaming Camel no longer requires Timurid Siegecraft to be trained at Castles, but now becomes instantly available at the Siege Workshop when reaching the Imperial Age. Flaming Camel train time increased from 20 seconds to 30 seconds.
+
+Campaign appearances[]
+
+The Tatars have a campaign devoted to their civilization: Tamerlane. They are also the playable civilization in the first scenario of the Babur campaign and Seljuk scenario from Victors and Vanquished. They are also playable in the fourth, fifth, and sixth scenario of the Co-op version of the Tamerlane campaign.
+
+They also feature in a notable amount of other campaigns. The following list shows every campaign appearance of the Tatars:
+
+Toggle campaign appearance list
+
+Genghis Khan[]
+
+Crucible
+Uighurs - Ally
+
+Prithviraj[]
+
+The Digvijaya (before Dynasties of India)
+Soomra - Enemy → Ally
+
+The Fate of India
+Ghorids - Enemy
+
+Tamerlane[]
+
+This campaign is played as the Tatars.
+
+Amir of Transoxiana
+The White Horde - Enemy
+Western Chagatai Khanate - Enemy
+
+Gurkhan of Persia
+Soltaniyeh - Enemy
+Herat - Enemy
+
+Harbinger of Destruction
+The Golden Horde - Enemy → Ally
+
+Sultan of Hindustan
+Timurid Army* - Ally
+
+A Titan Amongst Mortals
+Turkomans - Ally
+
+Ivaylo[]
+
+A Most Unlikely Man
+Tulcha Tatars - Enemy
+
+Tsar of the Bulgars
+Kasim Beg - Ally
+Tatars - Enemy
+Nogai's Khans - Enemy
+
+Kotyan Khan[]
+
+Raising the Banners
+Tatar Scouts - Enemy
+
+The Battle at the Kalka River, Saving the Huts and Blood for Blood
+Tatars - Enemy
+
+Edward Longshanks[]
+
+A Man of God
+Qaqun - Enemy
+
+Algirdas and Kestutis[]
+
+No Man's Land
+Tatar Refugees → Tatars - Neutral → Ally or Enemy
+
+The Tatar Yoke
+The Tatar Horde - Enemy
+
+Jadwiga[]
+
+Vytautas' Crusade
+The Golden Horde - Enemy
+Kazikermen - Enemy
+Crimean Tatars - Enemy
+Tokhtamysh - Ally
+
+Devapala[]
+
+Renunciation
+Allied Hunas - Ally
+Hunas - Enemy
+Huna Khans - Enemy
+
+Babur[]
+
+Pearl of the East is played as the Tatars.
+
+Pearl of the East
+Hostile Timurids - Enemy
+Babur's Allies - Ally
+Timurid Nobles - Ally
+
+The Last Timurids
+Herat - Ally
+
+Tamar[]
+
+The Protectorate
+Turkomans - Enemy
+Shamkor Countryside - Enemy
+
+The Queen in the Panther's Skin
+Turkomans - Enemy
+
+Ismail[]
+
+The Red Hats
+Aq Qoyulnu Scouts - Enemy
+Turkomans - Ally
+
+Road to Royalty and Alexander Safavi
+Aq Qoyulnu - Enemy
+Qizilbash - Ally
+
+The Fallen Amir
+Herat - Enemy
+Qizilbash - Ally
+
+Khata'i
+Qizilbash - Ally
+
+Victors and Vanquished[]
+
+Komnenos
+Seljuk Turks - Enemy
+
+Seljuk
+Kara-Khanids - Ally → Potential Enemy
+Ghaznavids - Enemy
+
+Temujin
+Tatars - Enemy
+
+Event Challenges[]
+
+Mongol Raiders
+Tatars - Enemy
+
+In-game dialogue language[]
+
+Tatar units speak Chagatai, an extinct Turkic literary language that was once widely spoken in Central Asia and remained the shared literary language there until the early 20th century. Being a Turkic language it is related to the languages spoken by the Turks and Cumans. However, in stark contrast with the lines spoken by the latter, where mainly words with Turkic roots are used, the Tatar dialogue lines contain a lot of loanwords from Arabic and Persian, even if they have purely Turkic synonyms, most probably to make spoken lines of these two civilizations as different as possible.
+
+Historically, Tatars in the Golden Horde and its successor states (e.g. the White Horde ruled by Urus Khan, the Blue Horde, etc.) initially used Middle Mongol as a literary language, but eventually adopted the Turkic Khorezmian language, while the the common people spoke Kipchak Turkic languages which are more closely related to the language spoken by the Cumans.
+
+The voice actors are either speakers of different modern Turkic languages or non-Turkic speakers at all, and because of that, different voice actors pronounce the same words differently, or even mispronounce them.
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Female_Select_1_AoE2.ogg Female Select 1 He? (هه؟) – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Male_Select_1_AoE2.ogg Male Select 1 Ḥāżir (حاضر) – Ready
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Male_Select_2_AoE2.ogg Select 2 Salām (سلام) – Hello
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Male_Select_3_AoE2.ogg Select 3 Ṭayyārmen (طيارمن) – I'm prepared/ready to go
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Male_Select_4_AoE2.ogg Select 4 Amriŋiz? (أمرینکیز؟) – Your order?
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Female_Task_1_AoE2.ogg Female Task 1 He (هه) – Yes
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Male_Task_1_AoE2.ogg Male Task 1 Ḥāżir (حاضر) – Ready
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Male_Task_2_AoE2.ogg Task 2 Tüšündüm (توشوندوم) – I understood
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Male_Task_3_AoE2.ogg Task 3 Barǧaymen (بارخای من) – I shall go
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Male_Task_4_AoE2.ogg Task 4 Dar ḥāl qïlǧaymen (در حال قیلغای من) – I shall do it at once
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Male_Build_AoE2.ogg Build Kurǧaymen (کورخای من) – I shall build
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Male_Chop_AoE2.ogg Chop Daraḫt keskeymen (درخت کیسکای من) – I shall cut a tree
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Male_Farm_AoE2.ogg Farm Jamʿ qïlǧaymen (جمع قیلغای من) – I shall gather
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Male_Fish_AoE2.ogg Fish Balïq tutkaymen (باليق توتکای من) – I shall catch fish
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Male_Forage_AoE2.ogg Forage Jamʿ qïlǧaymen (جمع قیلغای من) – I shall gather
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Male_Hunt_AoE2.ogg Hunt Awǧa čïqkaymen (آوغه چیقکای من) – I shall go on a hunt
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Male_Mine_AoE2.ogg Mine Kān ačkaymen (كان اچکای من) – I shall open a mine
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Tatars_Villager_Male_Repair_AoE2.ogg Repair Oŋarǧaymen – (اونکارغای من) – I shall repair
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Soldier_Select_1_AoE2.ogg Select 1 Ḥāżir (حاضر) – Ready
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Soldier_Select_2_AoE2.ogg Select 2 Amriŋizǧe āmādamen (أمرینکیزغه آماد من) – I'm ready for your order
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Soldier_Select_3_AoE2.ogg Select 3 Amriŋiz? (أمرینکیز؟) – Your order?
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Soldier_Move_1_AoE2.ogg Move 1 Tüšündüm (توشوندوم) – I understood
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Soldier_Move_2_AoE2.ogg Move 2 Barǧaymen (بارخای من) – I shall go
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Soldier_Move_3_AoE2.ogg Move 3 Ḫūb, amīrim (خوب، امیریم) – Good, my commander
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Soldier_Attack_1_AoE2.ogg Attack 1 Hujūm qïlïŋlar! (!هجوم قیلینکلار) – All of you, make an attack!
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Soldier_Attack_2_AoE2.ogg Attack 2 Peš barïŋlar! (!پیش بارینکلار) - All of you, go forward!
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Soldier_Attack_3_AoE2.ogg Attack 3 Qurol alïŋlar! (!قورال الینکلار) - All of you, take up arms!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Monk_Select_1_AoE2.ogg Select 1 Ḥāżir (حاضر) – Ready
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Monk_Select_2_AoE2.ogg Select 2 Amriŋiz? (أمرینکیز؟) – Your order?
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Monk_Select_3_AoE2.ogg Select 3 Amriŋizǧe āmādamen (أمرینکیزغه آماده من) – I'm ready for your order
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Monk_Select_4_AoE2.ogg Select 4 Bismillā (بسملة) – Basmala (a common Islamic phrase in Arabic meaning "In the name of God")
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Monk_Move_1_AoE2.ogg Move 1 Barǧaymen (بارخای من) – I shall go
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Monk_Move_2_AoE2.ogg Move 2 Ḥāżir (حاضر) – Ready
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Monk_Move_3_AoE2.ogg Move 3 Tüšündüm (توشوندوم) – I understood
+
+https://ageofempires.fandom.com/wiki/File:Tatars_Monk_Move_4_AoE2.ogg Move 4 Dar ḥāl qïlǧaymen (در حال قیلغای من) – I shall do it at once
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Tatars_King_Select_1_AoE2.ogg Select 1 Merḥamet (مرحمت) – Mercy/Grace
+
+https://ageofempires.fandom.com/wiki/File:Tatars_King_Select_2_AoE2.ogg Select 2 Ne arzu qïlïrsïz? (نه آرزو قیلرسیز؟) – What will you desire?
+
+https://ageofempires.fandom.com/wiki/File:Tatars_King_Select_3_AoE2.ogg Select 3 Maŋa ne ičin zaḥmet berirsiz? (منکا نی اوچون زحمة بیرورسیز؟) – Why do you bother me? (Literally - "For what do you give me trouble?")
+
+https://ageofempires.fandom.com/wiki/File:Tatars_King_Select_4_AoE2.ogg Select 4 Keldim (کلدیم) – I came
+
+https://ageofempires.fandom.com/wiki/File:Tatars_King_Move_1_AoE2.ogg Move 1 Tiliǧiŋizni qïlǧaymen (تیلاغینکیزنی قیلغای من) – I shall carry out your wish
+
+https://ageofempires.fandom.com/wiki/File:Tatars_King_Move_2_AoE2.ogg Move 2 Lüṭf qïlǧaymen (لطف قیلغای من) – I shall do a favor
+
+https://ageofempires.fandom.com/wiki/File:Tatars_King_Move_3_AoE2.ogg Move 3 Tiliǧiŋiz tek bolsun (تیلاغینکیز تیك بولسون) – Let it be your only wish
+
+https://ageofempires.fandom.com/wiki/File:Tatars_King_Move_4_AoE2.ogg Move 4 Qïlǧaymen (قیلغای من) – I shall do
+
+Source used - An Introduction to Chaghatay: A Graded Textbook for Reading Central Asian Sources by Eric Schluessel
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Tatar AI characters:
+
+Bilge Kul Qadir-Khan: First known ruler of Karakhanids; died 893.
+
+Emir Edigu: Emir of the White Horde and founder of the Nogai Horde; died 1419.
+
+Harun Bughra Khan: Karakhanid ruler of Transoxiana; died 1034.
+
+Jahan Shah: Born Muzaffar al-Din Jahan Shah ibn Yusuf, an Oghuz Turk poet and leader who leads the Kara Koyunlu dynasty in the present-day Iranian Azerbaijan and Arran (now Caucasus) from ca. 1438 to 1467.
+
+Muhan Qaghan: Khan of the Göktürk Khaganate; died 572.
+
+Oz Beg Khan: Longest-reigning khan of the Golden Horde; died 1341.
+
+Qara Osman: Ruler of the Aq Qoyunlu; died 1435.
+
+Qara Yusuf: Ruler of the Kara Koyunlu; died 1420.
+
+Tamerlane: A Turco-Mongol conqueror. As the founder of the Timurid Empire in Persia and Central Asia he became the first ruler in the Timurid dynasty.
+
+Timur Qutlugh: Khan of the Golden Horde; died 1399.
+
+Tong Yabghu Qaghan: Khan of the Western Turkic Khaganate; died 628.
+
+Urus Khan: Khan of the White Horde and a disputed Khan of the Blue Horde; died 1377.
+
+Uzun Hassan: Ruler of the Aq Qoyunlu; died 1478.
+
+Yabgu Shahmalik: Last ruler of the Oghuz Yabgu State; died 1042.
+
+History[]
+
+“ Historically, the meaning of the ethnonym Tatar has changed continuously to denominate a variety of Turkic and Mongol-speaking groups in and around the Eurasian steppes. The term was first applied to a confederation of nomadic tribes who inhabited northeastern Mongolia starting in the fifth century. By the eleventh century, they had become engaged in a bitter war against the Mongols . Under the rule of Genghis Khan (r. 1206-1227), however, the Mongols defeated the Tatars and established one of the largest empires in all of history. Ironically, the Rus' and Europeans referred to the people under Mongol control as Tatars. After the death of Genghis Khan, these Tatars founded the many successor states of the Mongol Empire. While none would match its extent, some of these polities became mighty empires: When the Mongol Empire was divided into four appanages, the connotation with the Tatars became more specific to the northwestern region, known as the Golden Horde (1227-1502). Under Batu Khan (r. 1227-1255), the Tatars continued their westward expansion, conquering Cumania , Volga Bulgaria , Kievan Rus', and Eastern Europe. To control these vast territories, they relied on the high mobility of their armies of light cavalry . The sturdy Mongolian horses allowed them to campaign effectively in the cold weather of the Russian steppe. Although they preferred to lure their enemies into open battles, the Tatars regularly contracted Chinese engineers to build siege weapons when attacking cities. Due to the conquest of the many Turkic tribes, Tatar culture became Turkicized over time. The Golden Horde also became Islamicized when Ozbeg Khan (r. 1313-1341) adopted Islam as the state religion. To further break with tradition, he moved the capital of Sarai to a new location. This city quickly became one of the largest urban centers in the region. When Ozbeg died, the Golden Horde had reached its greatest territorial extent, but it soon fell into decline. The immense casualties caused by the Black Death in the 1340s disrupted the Tatar economy, which was based on tribute and the intercontinental trade of the Silk Road. Unable to maintain its massive armies, the empire fell apart into smaller khanates. By the end of the fourteenth century, the age of the nomad warriors seemed to be over as the successor states of the Mongol Empire were all disintegrating. In this political vacuum, however, a new Tatar warlord named Timur (r. 1370-1405), known in the West as Tamerlane , rose to power. Beginning his career at the head of a small band of raiders, Timur used his military genius to take over the Chagatai Khanate in 1370, establishing the Timurid Empire (1370-1507). Throughout the following decades, he conquered much of Central Asia through a series of bloody campaigns. In Delhi and Aleppo, for example, he ordered the construction of 'minarets' of skulls after captured enemy soldiers had been beheaded. In contrast to his brutality on the battlefield, Timur was an active patron of culture. He contracted skilled artisans throughout the empire and brought them together at his court in Samarkand. The arts flourished as new styles and techniques developed because of the cultural interaction that he facilitated. The Timurids mastered the Seljuq architectural style, featuring domes and geometrical patterns of blue and turquoise tiles. The Gur-i Amir, the mausoleum of Timur, is considered to be the pinnacle of Persian-Mongolian architecture. While this cultural boom would continue after Timur's death, his political legacy was limited. The union of the Timurid Empire was based on Timur's personal charisma, and after he died the polity was torn apart by civil wars. The era of Tatar dominance had finally ended. ” — [1]
+
+Trivia[]
+
+The Tatars' civilization icon is based on the tamga (emblem) of the Golden Horde. This is ironic but justified, as while the Golden Horde historically opposed the Timurids, the Tatars actually fought on both sides.
+
+User interface image displays a pattern found in Timurid architecture.
+
+The Tatars are the only civilization that lack Chain Mail Armor at the Blacksmith.
+
+The Tatars and the Armenians are the only civilizations to have access to Bombard Towers but lack Keeps.
+
+Some Tatar AI player names are Göktürk, Karakhanid, Oghuz Yabgu, Kara Qoyunlu, and Aq Qoyunlu rulers. However, those states were distinct from the Tatar states:
+Göktürks spoke Old Turkic, which is the oldest form of a Turkic language to be preserved in writing dating back to the early 8th century - Orkhon inscriptions. These inscriptions mention Tatars' hostility, referring to the Mongolic tribes of the Tatar confederation.
+The Göktürks' historical architecture would be likely Sinicized.
+Strangely, the Göktürks are represented by the Turks in the Bukhara scenario, even after several scenarios had their civilizations changed with the Definitive Edition.
+Oghuz Yabgu, Kara Qoyunlu, and Aq Qoyunlu all spoke Oghuz languages, and the latter two sometimes warred against Timurid Tatars.
+Karakhanids spoke Karluk-Turkic, only much later would Tatars in Central and West Asia adopt the related Chagatai Karluk dialect.
+
+The above implies that the Tatars serve to encompass not only the Golden Horde, the Timurids and the Tatars themselves, but also other Turkic peoples who had populated Central and West Asia. This is probably done to fill the gaps in Mongol and Turkic regions that weren't already encompassed by dedicated civilizations, in particular the Oghuz-speaking Turkomans which were left out of the Turks civilization.
+Two of the Tatar AI player names, Tamerlane and Oz Beg Khan (Uzbeg), were previously Mongol AI player names.
+
+European chroniclers added an extra -r- to the ethnonym Tatar, resulting in the derogatory exonym Tartar, likely in connection with Tartarus, the underworld in Greek mythology. Tartar would be erroneously used by other European ethnographers for Mongols as well as various Turkic-speaking peoples under Mongol rule. Thus, Tatars would become the namesake, as "Tartars", of the vast historical region Tartary.
+Urgunge Onon (2001) proposed that Mongols were initially known as Tatars to Europeans because conquered Tatars acted as the Mongol army's vanguards.
+
+The Tatars are the only "nomadic steppe civilization" as well as the only Central Asian one to have access to Hand Cannoneers, and while this is somewhat anachronistic with regards to when the Golden Horde collapsed, some of its successor states (such as the Crimean and Qasim khanates) and the Timurids nonetheless survived through the late Middle Ages into the early modern era, and had gunpowder weapons.
+
+The following heroes available in the Scenario Editor are themed on the Tatars: Tamerlane, Babur (who is also associated with the Hindustanis), Qutlugh, and Young Babur.
+
+At release, the Tatars were the only civilization added in The Last Khans who did not have access to Halberdiers. However, since update 35584, Tatars now have access to Halberdiers, making it available to all civilizations introduced in The Last Khans.
+
+During the beta, the Tatars had access to Shipwright, which made them the only civilization in The Last Khans with access to it. They also lacked access to the Fortified Wall.
+The Tatars' average navy is geographically inaccurate, as most Turkic tribes rarely battled on the water. Additionally, the in-game Tatars represent the Timurid Empire, which was based in modern-day Uzbekistan, a doubly-landlocked country in Central Asia.
+
+The Tatars have the worst resistance against conversion, as they are the only civilization lacking both Heresy and Faith.
+Consequently, they are the biggest beneficiaries of the later introduced Devotion technology.
+
+Alongside Burgundians, the Tatars are the only civilization that can unlock a secondary unique unit with a unique technology (both in the Imperial Age).
+
+The Tatars are comparable to the Mongols, both historically and in gameplay, as the name Tatar originally referred to a major tribal confederation of the Mongolian Plateau, and eventually came to be used by medieval Europeans to refer to the Mongols in general, as well as various Turkic tribes under Mongol rule. This is also reflected by their strengths and weaknesses, as their main army composition is similar to the Mongols, which consists of mounted archer, light cavalry, and siege units. Both civilizations also have poor Monks.
+The Tatars are also share many technology tree similarities with the Turks. In the game, they represent the eastern-most Turkish tribes, compared to the Turks, which represent the western tribes. Both have powerful Light Cavalry and Cavalry Archers, and their Castle Age unique technology benefits their Cavalry Archers. The civilizations have similar Stables and Archery Ranges, though the Tatars also have Steppe Lancers and Elite Skirmishers, and both have very weak infantry. The differences between them are that the Turks have more powerful gunpowder units and navy, and focus on gold economy with bad trash units, while the mounted units of the Tatars are more versatile, having some food economy to support their cavalry or Cavalry Archer rushes.
+
+The Tatars with a Berber and Cuman ally with Cuman Mercenaries researched can train the most types of mounted units, at 9.
+In addition to this, with a Berber and Cuman ally with Cuman Mercenaries researched, the Tatars have the largest amount of mounted units with high pierce armor, with Hussars, Elite Steppe Lancers, Heavy Cavalry Archers, Elite Kipchaks, and Elite Keshiks all with 7 pierce armor, as well as Elite Genitours with 9 pierce armor.
+
+Since update 36202, the Tatars are the only civilization with access to 3 different suicide units: the Petard, Demolition Ship, and Flaming Camel.
+
+Gallery[]
+
+The Tatar 
+
+Wonder, the
+
+Ulugh Beg Observatory
+
+Official preview
+
+The Central Asian architecture set the Tatars share with the 
+
+Cumans
+
+Tatars user interface image
+
+A Tatar army as seen in campaign artwork
+
+"Tatars in the vanguard" by Józef Ryszkiewicz, 1909, depicting Tatar troops in the Ottoman vanguard at the Battle of Cecora, 1620
+
+Tatars Overview AoE2
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/tatars
+
+Notes[]
+
+↑ Technically Villagers can extract +57% food assuming no rotting, but considering gathering by five to six Villagers and standard rotting rates, the average food collected is +50% over normal.
+
+↑ Buildings are also affected.
+
+↑ The bonus only applies to the primary projectiles of projectile units. As such, it does not affect Town Centers and only applies to the first projectile of other defensive structures and Mercenary Kipchaks. In a broader context, it applies to all projectiles of (converted) Organ Guns and Dromons, since all of their projectiles are primary.
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+Asian civilizations
+
+The Last Khans
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

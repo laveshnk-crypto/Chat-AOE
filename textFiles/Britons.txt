@@ -1,0 +1,637 @@
+This page is all about the Britons
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Definitive Edition
+3.5 Dynasties of India
+3.6 Return of Rome
+
+4 Campaign appearances
+
+4.1 William Wallace
+4.2 Joan of Arc
+4.3 Saladin
+4.4 Barbarossa
+4.5 Attila the Hun
+4.6 Battles of the Conquerors
+4.7 Battles of the Forgotten
+4.8 Edward Longshanks
+4.9 The Grand Dukes of the West
+4.10 Victors and Vanquished
+4.11 The Art of War
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+European civilizations,
+
+The Age of Kings
+
+
+			English
+
+Español
+
+Britons
+
+48
+
+Edit
+
+Edit source
+
+View history
+
+Talk (1)
+
+This article is about the civilization in Age of Empires II: The Age of Kings . For other uses, see British (disambiguation) .
+
+Civilization Technology tree Strategy
+
+Britons
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: The Age of Kings
+
+Architecture
+
+Western European
+
+Continent
+
+Europe (northwest)
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Britons_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Britons_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Britons_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Foot archers
+
+Unique units
+
+Longbowman
+
+Unique technologies
+
+Yeomen
+
+Warwolf
+
+“ Centuries of overseas invasions galvanized a hardy and industrious population into a powerful juggernaut. Forge fractured kingdoms into one, defend your island from overseas incursions with disciplined yeomen levies, and set your sights far beyond your borders. Your experienced archers and Longbowmen will shower the battlefield with arrows while your siege engineers construct trebuchets capable of demolishing even the most formidable castles! ” —Description [1]
+
+The Britons are a Western European civilization in Age of Empires II that represents the English and the Anglo-Normans during the High to Late Middle Ages, with a focus on long-ranged foot archers.
+
+Their descendants are the modern English nation. Alongside the Scottish, Welsh, and Irish nations (descendants of the Celts), they created a united kingdom which is featured in Age of Empires III as the British civilization. They also appear as the English in Age of Empires IV.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Definitive Edition
+3.5 Dynasties of India
+3.6 Return of Rome
+
+4 Campaign appearances
+
+4.1 William Wallace
+4.2 Joan of Arc
+4.3 Saladin
+4.4 Barbarossa
+4.5 Attila the Hun
+4.6 Battles of the Conquerors
+4.7 Battles of the Forgotten
+4.8 Edward Longshanks
+4.9 The Grand Dukes of the West
+4.10 Victors and Vanquished
+4.11 The Art of War
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+Characteristics[]
+
+Unique unit[]
+
+Longbowman: Long-ranged foot archer.
+
+Unique technologies[]
+
+Yeomen: Gives foot archers +1 range and towers +2 attack.
+
+Warwolf: Gives Trebuchets blast damage and 100% accuracy against units.
+
+Civilization bonuses[]
+
+Town Centers cost -50% wood starting in the Castle Age.
+
+Foot archers (except Skirmishers) have +1/+2 range in the Castle/Imperial Age.
+
+Shepherds work 25% faster.
+
+Team bonus[]
+
+Archery Ranges work 10% faster.
+
+Overview[]
+
+foot archers. Not only are they trained faster, but they have additional range, which allows them to attack their counter units like
+
+Skirmishers and
+
+Mangonels much more safely than normal, especially with good
+
+micromanagement. Later, the extra range on their archers (including their unique unit, the
+
+Longbowman) makes their late-game archer units infamously hard to approach, even though they lack
+
+Thumb Ring. Greatly aiding their archers are their
+
+Warwolf
+
+Trebuchets, which are dangerous due to their 100% accuracy and
+
+blast damage. Their
+
+infantry are
+
+fully upgradeable and can help in protecting their archers from
+
+cavalry. Their
+
+navy is solid, with a full tech tree, apart from
+
+Elite Cannon Galleons. Their
+
+defensive structures are good, and their economy is solid, thanks to their
+
+shepherd bonus early on and cheaper
+
+Town Centers later. Lastly, the Briton
+
+Monastery is average, though three technologies are lacking, including
+
+Redemption.
+
+The Britons do have some shortcomings. Their mounted units are very underwhelming, without Bloodlines or any late-game upgrades. While their Trebuchets are great, their Siege Workshop units are unspectacular, on account of lacking Bombard Cannons, Siege Rams, and Siege Onagers. Due to these shortcomings, their counters to enemy Skirmishers and siege, other than their longer-ranged archers, are limited to Trebuchets or infantry, both of which have speed issues.
+
+Altogether, the Britons have a strong and straightforward game plan, making them a great pick at lower levels.
+
+Changelog[]
+
+The Conquerors[]
+
+Longbowmen gain an attack bonus of +2 Spearmen and are trained in 19 seconds.
+
+The team bonus is 20% faster working Archery Ranges
+
+The Forgotten[]
+
+Cannon Galleon added to their technology tree.
+
+Heavy Scorpion added to their technology tree.
+
+Yeomen moved to the Castle Age.
+
+(Elite) Longbowmen are trained faster, in 18 seconds.
+
+The African Kingdoms[]
+
+With patch 4.8, Yeomen affects the secondary arrows of towers (previously only affected the primary arrow).
+
+Definitive Edition[]
+
+Warwolf cost increased (500 wood, 250 gold → 800 wood, 400 gold).
+
+The Wonder is changed from Aachen Cathedral to Chichester Cathedral.
+
+Dynasties of India[]
+
+With update 66692, the Britons receive access to Treadmill Crane.
+
+With update 81058:
+Team Bonus's effect reduced to 10% faster working Archery Ranges.
+Fixed an issue where the Town Center cost discount was not reducing the cost of repairing.
+
+Return of Rome[]
+
+With update 87863, the Britons gain access to Gambesons.
+
+Campaign appearances[]
+
+The Britons are a playable civilization in the Edward Longshanks campaign, in the Agincourt scenario from the Battles of the Conquerors, the Cyprus scenario from Battles of the Forgotten, and three scenarios from Victors and Vanquished: Vortigern, Stephen, and Drake. They also appear several times in other scenarios and campaigns as allies or enemies:
+
+Toggle campaign appearance list
+
+William Wallace[]
+
+All scenarios except Feeding the Army and Training the Troops
+English - Enemy
+
+Joan of Arc[]
+
+An Unlikely Messiah and The Siege of Paris
+English - Enemy
+
+The Maid of Orleans
+North English - Enemy
+South English - Enemy
+
+The Cleansing of the Loire
+English - Enemy
+Fastolf's Army - Enemy
+
+The Rising
+English Guards - Enemy
+Rheims - Enemy → Ally
+Troyes - Enemy → Ally
+
+A Perfect Martyr
+English - Enemy
+Shrewsbury - Enemy
+
+Saladin[]
+
+The Horns of Hattin
+English - Enemy
+
+The Lion and the Demon
+Richard the Lionheart - Enemy
+
+Barbarossa[]
+
+Pope and Antipope
+Crema - Enemy
+
+The Emperor Sleeping
+Richard the Lionhearted - Ally
+
+Attila the Hun[]
+
+The Fall of Rome
+Patavium - Enemy
+
+Battles of the Conquerors[]
+
+Vinlandsaga
+Britons - Enemy
+
+Battles of the Forgotten[]
+
+York
+Mercia - Enemy
+East Anglia - Enemy
+
+Edward Longshanks[]
+
+This campaign is played as the Britons.
+
+Vain Ambition
+Worcester - Ally
+Gloucester - Enemy → Ally
+Kenilworth - Enemy → Ally
+Welsh - Enemy → Ally
+
+Of Castles and Kings
+The Welsh Army - Enemy
+Llywelyn ap Gruffydd - Enemy
+Dafydd ap Gruffydd - Enemy
+Castle Builders - Ally
+
+Hammer of the Scots
+English Engineers - Ally
+The English Army - Ally
+
+The Grand Dukes of the West[]
+
+The Wolf and the Lion
+English Mercenaries - Neutral → Ally or Enemy
+
+The Cleansing of Paris
+Henry V - Neutral
+
+Unholy Marriage
+Humphrey of Lancaster - Enemy
+
+The Hook and Cod Wars
+The English - Enemy → Ally
+
+Victors and Vanquished[]
+
+Drake, Stephen, and Vortigern are played as the Britons.
+
+Ragnar
+Wessex and Anglia - Enemy
+
+Stephen
+Empress Matilda - Enemy
+English Peasants - Ally
+
+The Art of War[]
+
+Booming
+Henry V - Ally
+
+In-game dialogue language[]
+
+The language spoken by the Briton units is a mix of late Old English and early Middle English, as indicated by Old English spelling (dic) & Latinate words (estorer) not present in Old English. The Monks and the Kings speak Latin like the Byzantines, Italians, and Romans, i.e. the same words but with distinct voices.
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Britons_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Britons_Villager_Male_Select_1_AoE2.ogg Select 1 Yea? – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Britons_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Britons_Villager_Male_Select_2_AoE2.ogg Select 2 Greetin
+
+https://ageofempires.fandom.com/wiki/File:Britons_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Britons_Villager_Male_Select_3_AoE2.ogg Select 3 Ready
+
+https://ageofempires.fandom.com/wiki/File:Britons_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Britons_Villager_Male_Select_4_AoE2.ogg Select 4 Mandātum? – Order? (from Latin)
+
+https://ageofempires.fandom.com/wiki/File:Britons_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Britons_Villager_Male_Task_1_AoE2.ogg Task 1 Yis – Yes
+
+https://ageofempires.fandom.com/wiki/File:Britons_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Britons_Villager_Male_Task_2_AoE2.ogg Task 2 Yea – Yes
+
+https://ageofempires.fandom.com/wiki/File:Britons_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Britons_Villager_Male_Task_3_AoE2.ogg Task 3 Corrēctus – Right (from Latin)
+
+https://ageofempires.fandom.com/wiki/File:Britons_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Britons_Villager_Male_Task_4_AoE2.ogg Task 4 Ic wille – I will
+
+https://ageofempires.fandom.com/wiki/File:Britons_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Britons_Villager_Male_Build_AoE2.ogg Build Builden
+
+https://ageofempires.fandom.com/wiki/File:Britons_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Britons_Villager_Male_Chop_AoE2.ogg Chop Chopper
+
+https://ageofempires.fandom.com/wiki/File:Britons_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Britons_Villager_Male_Farm_AoE2.ogg Farm Firm – Farm
+
+https://ageofempires.fandom.com/wiki/File:Britons_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Britons_Villager_Male_Fish_AoE2.ogg Fish Fisk – Fish
+
+https://ageofempires.fandom.com/wiki/File:Britons_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Britons_Villager_Male_Forage_AoE2.ogg Forage Gatherer
+
+https://ageofempires.fandom.com/wiki/File:Britons_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Britons_Villager_Male_Hunt_AoE2.ogg Hunt Hunter
+
+https://ageofempires.fandom.com/wiki/File:Britons_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Britons_Villager_Male_Mine_AoE2.ogg Mine Dic – Trench
+
+https://ageofempires.fandom.com/wiki/File:Britons_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Britons_Villager_Male_Repair_AoE2.ogg Repair Estorer – Restorer
+
+https://ageofempires.fandom.com/wiki/File:Britons_Villager_Female_Attack_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Britons_Villager_Male_Attack_AoE2.ogg Attack Fight! (not used)
+
+https://ageofempires.fandom.com/wiki/File:Britons_Soldier_Select_1_AoE2.ogg Select 1 Yea? – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Britons_Soldier_Select_2_AoE2.ogg Select 2 Ready
+
+https://ageofempires.fandom.com/wiki/File:Britons_Soldier_Select_3_AoE2.ogg Select 3 Mandātum? – Order? (from Latin)
+
+https://ageofempires.fandom.com/wiki/File:Britons_Soldier_Move_1_AoE2.ogg Move 1 Yea – Yes
+
+https://ageofempires.fandom.com/wiki/File:Britons_Soldier_Move_2_AoE2.ogg Move 2 Ic wille – I will
+
+https://ageofempires.fandom.com/wiki/File:Britons_Soldier_Move_3_AoE2.ogg Move 3 Yis – Yes
+
+https://ageofempires.fandom.com/wiki/File:Britons_Soldier_Attack_1_AoE2.ogg Attack 1 Fight!
+
+https://ageofempires.fandom.com/wiki/File:Britons_Soldier_Attack_2_AoE2.ogg Attack 2 Battal! – Battle!
+
+https://ageofempires.fandom.com/wiki/File:Britons_Soldier_Attack_3_AoE2.ogg Attack 3 Yis – Yes
+
+https://ageofempires.fandom.com/wiki/File:Britons_Soldier_Attack_4_AoE2.ogg Attack 4 Battal! – Battle!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Britons_Monk_Select_1_AoE2.ogg Select 1 Ain? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Britons_Monk_Select_2_AoE2.ogg Select 2 Salvē - Hello
+
+https://ageofempires.fandom.com/wiki/File:Britons_Monk_Select_3_AoE2.ogg Select 3 Praestō - I'm ready
+
+https://ageofempires.fandom.com/wiki/File:Britons_Monk_Select_4_AoE2.ogg Select 4 Imperō? - I command?
+
+https://ageofempires.fandom.com/wiki/File:Britons_Monk_Move_1_AoE2.ogg Move 1 Sānē - Certainly
+
+https://ageofempires.fandom.com/wiki/File:Britons_Monk_Move_2_AoE2.ogg Move 2 Ain - Yes
+
+https://ageofempires.fandom.com/wiki/File:Britons_Monk_Move_3_AoE2.ogg Move 3 Corrēctus – Right
+
+https://ageofempires.fandom.com/wiki/File:Britons_Monk_Move_4_AoE2.ogg Move 4 Agō - I do
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Britons_King_Select_1_AoE2.ogg Select 1 Ain? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Britons_King_Select_2_AoE2.ogg Select 2 Salvē - Hello
+
+https://ageofempires.fandom.com/wiki/File:Britons_King_Select_3_AoE2.ogg Select 3 Praestō - I'm ready
+
+https://ageofempires.fandom.com/wiki/File:Britons_King_Select_4_AoE2.ogg Select 4 Imperō? - I command?
+
+https://ageofempires.fandom.com/wiki/File:Britons_King_Move_1_AoE2.ogg Move 1 Sānē - Certainly
+
+https://ageofempires.fandom.com/wiki/File:Britons_King_Move_2_AoE2.ogg Move 2 Ain - Yes
+
+https://ageofempires.fandom.com/wiki/File:Britons_King_Move_3_AoE2.ogg Move 3 Corrēctus – Right
+
+https://ageofempires.fandom.com/wiki/File:Britons_King_Move_4_AoE2.ogg Move 4 Agō - I do
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Briton AI characters:
+
+Alfred the Great (849-899): King of Wessex (871-899), successfully stopped the Viking expansion and became the dominant ruler in England, while improving education, people's quality of life and more.
+
+Duke of Normandy: Title given to the ruler of the Duchy of Normandy. In 911, the Duchy was granted to the Viking Rollo by French king Charles III. From 1066-1204 held by Kings of England, after which the Duchy was conquered by Philip II and made into a French province.
+
+Earl of Warwick: Prestigious title of the ruler of Warwick Castle in central England. Started in 1088 with Henry de Beaumont, and ended in 1499 with the death of the 17th Earl. The title was revived three times more up until today.
+
+Earl of Wessex: Title used three times in history for the rule of southwest England (West-Saxons): Godwin (Earl from 1020-1053), Harold the Saxon (Earl from 1053-1066 and last Anglo-Saxon king of England) and William FitzOsbern (created Earl by William the Conqueror in 1066-1071).
+
+Edward Longshanks (1239-1307): Edward I, King of England from 1272-1307. Reformer of royal administration and law. A tall man, hence the name; Intimidating and fear-instilling man, earned the name 'Hammer of the Scots' in the first Scottish Independence War. He is the main character of the new campaign with the same name from the Lords of the West expansion.
+
+Harold Godwinson (1022–1066): often called Harold II or Harold the Saxon, was the last crowned Anglo-Saxon king of England. Harold reigned from 6 January 1066 until his death at the Battle of Hastings, fighting the Norman invaders led by William the Conqueror during the Norman conquest of England. His death marked the end of Anglo-Saxon rule over England.
+
+Henry Bolingbroke (1367-1413): Henry IV, King of England and Lord of Ireland from 1399-1413, born in Bolingbroke Castle (east England). Spent much of his reign defending himself against plots, assassination attempts and numerous rebellions.
+
+Henry Tudor (1457-1509): Henry VII, King of England (1485-1509). Was able to defeat other houses in the Wars of the Roses, becoming the first Tudor family king. Restored the power and stability of the English monarchy. This was also a birth name of King Henry VIII (1491-1547), who is best known for his six marriages, and, in particular, his efforts to have his first marriage (to Catherine of Aragon) annulled. The disagreement with the papacy on the question of such an annulment led Henry to initiate the English Reformation. He is also the grandfather of Elizabeth I.
+
+Henry V (1386-1422): King of England (1413-1422). Best known for his military successes in the Hundred Years' War, in particular for his victory in the Battle of Agincourt (1415).
+
+King Edward: Presumably Edward the Elder (874-924), King of the Anglo-Saxons (899-924), son of Alfred the Great. Captured various parts of eastern England from the Danish Vikings.
+
+Lord Henry Percy: Sir Henry (Hotspur) Percy (1364-1403), nobleman from north England and captain during the Anglo-Scottish wars. Led a rebellion against Henry IV, but was killed in battle.
+
+Lord Talbot (1384-1453): John Talbot, English military general and commander during the Hundred Years' War. Known for his rapid and aggressive attacks, he was killed by French cannon.
+
+Prince John (1166-1216): King of England from 1199-1216, brother of Richard the Lionhearted. Spent much of his reign attempting to regain French territory he had previously lost. Was often pictured as a cruel, evil man; villain in popular Robin Hood stories.
+
+Richard II (1367-1400): King of England (1377-1399). Sought to bring an end to the Hundred Years' War; had a love for art and culture. Deposed by Henry Bolingbroke.
+
+Richard the Lionhearted (1157-1199): King of England from 1189-1199. Great military leader and warrior, a central commander during the Third Crusade.
+
+The Black Prince: Prince Edward (1330-1376), prince of Wales and Aquitaine. Best known for his campaigns in the Hundred Years' War, particularly his great victories in the battles of Crécy (1346) and Poitiers (1356).
+
+William III: Can depict different persons, most likely either King William III of Sicily (1186-1198), the last Norman king of Sicily, or William III, Duke of Aquitaine (915-963) who defended Aquitaine and Poitiers from French kings. William III of England, a member of House of Orange, ruled both the Dutch and England, but would be anachronistic for this game's timeline.
+
+History[]
+
+“ Following the withdrawal of the Roman legions to Gaul (modern France) around 400, the British Isles fell into a very dark period of several centuries from which almost no written records survive. The Romano-British culture that had existed under 400 years of Roman rule disappeared under relentless invasion and migration by barbarians. Celts came over from Ireland (a tribe called the Scotti gave their name to the northern part of the main island, Scotland). Saxons and Angles came from Germany, Frisians from modern Holland, and Jutes from modern Denmark. By 600, the Angles and Saxons controlled most of modern England. By 800, only modern Wales, Scotland, and West Cornwall remained in largely Celtic hands. The new inhabitants were called Anglo-Saxons (from the Angles and Saxons). The Angles gave their name to the new culture (England from Angle-land), and the Germanic language they brought with them, English, replaced the native Celtic and previously imported Latin. Despite further invasions and even a complete military conquest at a later date, the southern and eastern parts of the largest British Isle have been called England (and its people and language English) ever since. In 865 the relative peace of England was shattered by a new invasion. Danish Vikings who had been raiding France and Germany formed a great army and turned their attention on the English. Within 10 years, most of the Anglo-Saxon kingdoms had fallen or surrendered. Only the West Saxons (modern Wessex) held out under Alfred, the only English ruler to be called "the Great." England was divided among the Vikings, the West Saxons, and a few other English kingdoms for nearly 200 years. The Viking half was called the Danelaw ("under Danish law"). The Vikings collected a large payment, called the Danegeld ("the Dane's gold"), to be peaceful. The Danes became Christians and gradually became more settled. In time the English turned on the Danes, and in 954 the last Viking king of York was killed. England was united for the first time under an English king from Wessex. In 1066 the Witan ("king's council") offered the crown to Harold, son of the Earl of Wessex. Two others claimed the throne: Harald Hardrada (meaning "the hard ruler"), King of Norway, and Duke William of Normandy . The Norwegian landed first, near York, but was defeated by Harold at the battle of Stamford Bridge. Immediately after the victory, Harold force-marched his army south to meet William at Hastings . The battle seesawed back and forth all day, but near dusk Harold was mortally wounded by an arrow in the eye. Over the next two years, William, now "the Conqueror," solidified his conquest of England. During the remainder of the Middle Ages, the successors of William largely exhausted themselves and their country in a series of confrontations and wars attempting to expand or defend land holdings in France. The Hundred Years War between England and France was an on-and-off conflict that stretched from 1337 to 1453. It was triggered by an English king's claim to the throne of France, thanks to family intermarriages. The war was also fought over control of the lucrative wool trade and French support for Scotland's independence. The early part of the war featured a string of improbable, yet complete, English victories, thanks usually to English longbowmen mowing down hordes of ornately armored French knights from long range. The English could not bring the war to closure, however, and the French rallied. Inspired by Joan of Arc , a peasant girl who professed divine guidance, the French fought back, ending the war with the capture of Bordeaux in 1453. The English were left holding only Calais on the mainland (and not for long). [1] ”
+
+Trivia[]
+
+The Britons' civilization icon in the Definitive Edition is based on the coat of arms of the Angevin dynasty, which eventually became the Royal arms of England.
+
+The user interface image in the Definitive Edition displays the Tudor rose.
+
+Age of Empires II often calls the Britons "British", which is historically incorrect, as no British nation existed back in the Medieval period. The proper term would be "English". Historically, "Britons" referred to the Cornish and Welsh cultural groups native to Britain, identified by their Celtic languages.
+In other languages like Spanish, the civilization is correctly named, as they are called "Ingleses", which means "English".
+
+In The Conquerors, the Britons are the only civilization to not have access to any non-unique unit/technology that 9 or fewer civilizations have access to.
+
+The appearance of the Briton Wonder before the Definitive Edition is actually based on the Aachen Cathedral, a landmark located in modern Germany, for unknown reasons.
+
+The following heroes available in the Scenario Editor are themed on the Britons (English): Bad Neighbor, Friar Tuck, God's Own Sling, Richard the Lionheart, Robin Hood, Sheriff of Nottingham, Sir John Fastolf, The Black Prince, Henry V, Henry II, Little John, Richard de Clare, Edward Longshanks, Gilbert de Clare, and the Warwolf Trebuchet.
+
+The Britons historically were known to have master horse-breeding which played a crucial role in their wars in Scotland and Ireland, but lack access to Paladin and Bloodlines. This is for gameplay balance purposes to create a clear weakness to their strong archer civilization bonuses and their unique unit.
+They are the only Western European civilization with Ring Archer Armor and the Arbalester, and also the only one that lacks the Paladin.
+
+Other than the sixth Barbarossa scenario, and some Edward Longshanks scenarios where the Britons appear as allies, the Briton factions in other campaigns are nearly always antagonists.
+Even in the The Grand Dukes of the West campaign, they are never an ally initially.
+
+The Britons are one of the most popular civilizations for team games as the flank, mostly because their team bonus is extremely strong with another prominent archer civilization. For this reason, the team bonus was eventually made less overbearing in update 81058.
+
+The Britons are often picked by newer players to learn archer rushes because of their straightforward civilization bonuses, strong early game economic bonuses, and longer-ranged archers which are easier to micro. The characteristic of a ranged focused and easy to play civilization with a strong economy is shared with their counterparts in Age of Empires III and Age of Empires IV, the British and English, respectively.
+
+Gallery[]
+
+The Briton 
+
+Wonder in the
+
+Chichester Cathedral
+
+The Briton Wonder before the 
+
+Definitive Edition
+
+Aachen Cathedral
+
+Official preview for the 
+
+French (note that Franks don't get Siege Rams)
+
+Official preview showing the Britons besieging the 
+
+Celts (note that Britons don't get Paladins)
+
+The Imperial Age Western European 
+
+architecture set the Britons share with the
+
+Celts,
+
+Franks, and
+
+Burgundians
+
+The same set before the 
+
+Britons user interface image in the 
+
+The Briton 
+
+user interface in the
+
+The former Briton Wonder in the game
+
+Rheims in British occupation in 
+
+The Rising
+
+Britons Overview AoE2 (updated for DE)
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/britons
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+European civilizations
+
+The Age of Kings
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

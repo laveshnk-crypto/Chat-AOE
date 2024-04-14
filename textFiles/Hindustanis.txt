@@ -1,0 +1,591 @@
+This page is all about the Hindustanis
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique building
+1.3 Unique technologies
+1.4 Civilization bonuses
+1.5 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Dynasties of India
+3.2 Return of Rome
+3.3 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 Battles of the Forgotten
+4.2 Prithviraj
+4.3 Tamerlane
+4.4 Devapala
+4.5 Babur
+4.6 Ismail
+4.7 Tamar
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Video overview
+
+11 Notes
+
+12 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+Dynasties of India,
+
+Asian civilizations
+
+
+			English
+
+Español
+
+Hindustanis
+
+81
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+Civilization Technology tree Strategy
+
+Hindustanis
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: Definitive Edition - Dynasties of India
+
+Architecture
+
+South Asian/Indian
+
+Continent
+
+Asia (northern India)
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Indians_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Indians_jingle_AoE2_DE.ogg
+
+Features/Characteristics
+
+Focus
+
+Camels
+
+Gunpowder units
+
+Unique units
+
+Ghulam
+
+Unique upgrades
+
+Imperial Camel Rider
+
+Unique technologies
+
+Grand Trunk Road
+
+Shatagni
+
+Unique buildings
+
+Caravanserai
+
+“ Stake your claim to populous, diverse lands and lucrative trade routes as you parry foreign invasions – or step into the invader's shoes yourself. The Hindustani unique units are the Ghulam, a heavily armored infantry unit adept against masses of archers , and the Imperial Camel Rider, a powerful unique upgrade to the Heavy Camel Rider . ” —Description [1]
+
+The Hindustanis are a South Asian/Indian civilization introduced in Age of Empires II: Definitive Edition - Dynasties of India as one of the splits of the Indians, based on the Persianized sultanates located in northern India, Afghanistan, and Pakistan such as the Mughal Empire, the Delhi Sultanate, Mamluk Dynasty, Ghaznavid dynasty, and Ghurid dynasty that covered different ethnic groups including Punjabis and Pashtuns. The Hindustanis are available to all owners of Age of Empires II: Definitive Edition in skirmishes and multiplayer; owning the Dynasties of India expansion is not required to access this civilization. The Hindustani campaign is only available to those owning the expansion.
+
+The Hindustanis appear as the Delhi Sultanate in Age of Empires IV.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique building
+1.3 Unique technologies
+1.4 Civilization bonuses
+1.5 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Dynasties of India
+3.2 Return of Rome
+3.3 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 Battles of the Forgotten
+4.2 Prithviraj
+4.3 Tamerlane
+4.4 Devapala
+4.5 Babur
+4.6 Ismail
+4.7 Tamar
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Video overview
+
+11 Notes
+
+12 References
+
+Characteristics[]
+
+Unique units[]
+
+Ghulam: Archer-resistant infantry unit that thrusts its spear through multiple targets.
+
+Imperial Camel Rider: Unique upgrade of the Heavy Camel Rider, provides additional HP and attack.
+
+Unique building[]
+
+Caravanserai: Building which heals and speeds up nearby allied Trade Carts.
+
+Unique technologies[]
+
+Grand Trunk Road: Increases the speed of all gold income by +10%. Trading fee reduced to 10%.
+
+Shatagni: Gives Hand Cannoneers +2 range.
+
+Civilization bonuses[]
+
+Villagers are 8/13/18/23% cheaper in the Dark/Feudal/Castle/Imperial Age.
+
+Camel Riders attack 20% faster.
+
+Gunpowder units have +1/+1 armor.
+
+Team bonus[]
+
+Camel units and light cavalry units[note 1] have +2 attack against standard buildings.
+
+Overview[]
+
+camel and
+
+gunpowder civilization. They have excellent Camel Riders with a
+
+unique upgrade, faster attack rate, an additional attack bonus against
+
+standard buildings, and all upgrades. They also have access to the
+
+Hussar which also shares the attack bonus against standard buildings. They do not have any other cavalry, notably
+
+Knights, at their disposal. Their
+
+Archers and
+
+Cavalry Archers are usable and their
+
+Skirmishers are fully upgradeable. They have excellent
+
+Hand Cannoneers, getting all possible upgrades and getting another +2 range from
+
+Shatagni, combined with additional armor, making them one of the most prominent units in Hindustani armies. Their
+
+Barracks units are lackluster, lacking
+
+Plate Mail Armor,
+
+Gambesons, and
+
+Halberdiers. The
+
+Ghulam is an excellent infantry unit, fulfilling roles very similar to the
+
+Eagle Warrior, as it is a mobile, high pierce armor infantry unit with the added advantage that it can thrust its attacks through multiple targets. The
+
+siege weapons are good, missing
+
+Heavy Scorpion and rare
+
+Siege Onager upgrades, but having extra armor on their
+
+Bombard Cannons, and fully upgradeable
+
+Siege Elephants. Their
+
+navy is not good, since the
+
+Fast Fire Ship,
+
+Heavy Demolition Ship,
+
+Dry Dock, and
+
+Shipwright are missing. Their
+
+Monks are average.
+
+Their defenses are weak, but their economy is great with cheaper Villagers, and faster gold income and lower-than-usual Market exchange fees due to Grand Trunk Road. In the Imperial Age, they can build Caravanserais, an economic building that they share with the Persians, which heals and speeds up nearby allied Trade Carts, improving their gold income further.
+
+Changelog[]
+
+Dynasties of India[]
+
+The entire technology tree was inherited from the Indians, except for the Battering Ram line, Parthian Tactics, Heavy Demolition Ship, Dry Dock, and Heated Shot. Instead, they get access to the Armored Elephant line. They also get access to Plate Barding Armor.
+
+The Hindustanis inherit the Indian bonus of Villagers costing -10/15/20/25% in Dark/Feudal/Castle/Imperial Age.
+
+The Hindustani team bonus is a variation of the Indian team bonus. Units affected changed from camel to camels and light cavalry types. Attack bonus changed from +4 to +2.
+
+The Hindustanis also inherit both unique technologies from the Indians, although Sultans is renamed to Grand Trunk Road.
+
+Shatagni provides +2 range to Hand Cannoneers.
+
+Initially, they had access to Halberdiers. With update 66692, it was removed from their tech tree.
+
+Initially, (Elite) Ghulams had 65 (75) hit points. With update 66692, (Elite) Ghulams have 55 (65) hit points.
+
+Initially, Camel Riders attacked 25% faster. With update 73855, Camel Riders attack 20% faster.
+
+Originally, Villagers cost -10/15/20/25% in the Dark/Feudal/Castle/Imperial Age. With update 78174, they cost -5/10/15/20%.
+
+Return of Rome[]
+
+With update 87863, they lose access to Guilds.
+
+With update 87863, Grand Trunk Road now also reduces the trading fee to 10%, and its cost is reduced from 400 food, 400 wood to 250 food, 200 wood.
+
+With update 87863, (Elite) Ghulam attack increased from 8 (10) to 9 (11) and HP increased from 55 (65) to 60 (70).
+
+The Mountain Royals[]
+
+With update 99311, Villagers cost -8%/-13%/-18%/-23%.
+
+Campaign appearances[]
+
+The Hindustanis have a campaign devoted to their civilization: Babur. They also appear in:
+
+Battles of the Forgotten[]
+
+Bukhara
+Khorasan - Ally
+
+Prithviraj[]
+
+Since Dynasties of India
+
+Born of Fire
+Ghaznavid Raiders - Enemy
+
+The Digvijaya
+Soomra - Enemy → Ally
+
+The Fate of India
+Ghorids - Enemy
+
+The Legend of Prithviraj
+Ghorid Raiders - Enemy
+Ghorids - Enemy
+
+Tamerlane[]
+
+Sultan of Hindustan
+Delhi - Ally
+Delhi Garrison - Enemy
+Shah Tughlug - Enemy
+Outlying Villages - Enemy
+Outlying Villages - Enemy
+
+Devapala[]
+
+Renunciation
+Multan - Enemy
+
+Babur[]
+
+This campaign is played as the Hindustanis.
+
+The Last Timurids
+Kabul - Neutral → Potential Ally → Enemy
+Civillians - Ally
+
+Into India
+Lahore - Enemy
+Hostile Afghans - Enemy
+Yusufzai - Ally
+
+The Battle of Panipat
+Delhi Sultanate - Enemy
+Daulat Khan - Enemy → Potential Ally
+Alam Khan - Enemy → Potential Ally
+
+The Rajputs
+Purbiya Mercenaries - Ally or Enemy
+
+Ismail[]
+
+The Fallen Amir
+Babur - Ally
+
+Tamar[]
+
+The Queen in the Panther's Skin
+Ghorid Auxiliaries - Enemy
+
+In-game dialogue language[]
+
+Hindustani units speak Hindi. It was the lingua franca during the period of the Delhi Sultanate and Mughal Empire. Because of the Muslim rulers, Persian culture and language had a strong influence in India, which contributed the considerable number of loanwords to Hindi language. In-game Hindustanis represent the Muslims ruling North India. The following dialogues are not only presented in Hindi, but also their corresponding Urdu formats.
+
+Linguistically, as an Indic language, Hindi is closely related to Bengali (spoken by Bengalis) and Gujarati (spoken by Gurjaras).
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Indians_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Indians_Villager_Male_Select_1_AoE2.ogg Select 1 Haṁ? (हाँ? - ہاں؟) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Indians_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Indians_Villager_Male_Select_2_AoE2.ogg Select 2 Namaste (नमस्ते - نمستے) - Greetings (literally I bow before you)
+
+https://ageofempires.fandom.com/wiki/File:Indians_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Indians_Villager_Male_Select_3_AoE2.ogg Select 3 Maiṁ taiyar hūṁ (मैं तैयार हूँ - میں تیار ہوں) - I'm ready
+
+https://ageofempires.fandom.com/wiki/File:Indians_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Indians_Villager_Male_Select_4_AoE2.ogg Select 4 Ādeś? (आदेश? - آدیش؟) - Orders?
+
+https://ageofempires.fandom.com/wiki/File:Indians_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Indians_Villager_Male_Task_1_AoE2.ogg Task 1 Haṁ (हाँ? - ہاں؟) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Indians_Villager_Female_Task_2_AoE2.ogg Female Task 2 Samajh gaī (समझ गई - سمجھ گئی ) - Understood (feminine)
+
+https://ageofempires.fandom.com/wiki/File:Indians_Villager_Male_Task_2_AoE2.ogg Male Task 2 Samajh gayā (समझ गया - سمجھ گیا) - Understood (masculine)
+
+https://ageofempires.fandom.com/wiki/File:Indians_Villager_Female_Task_3_AoE2.ogg Female Task 3 Karūṁgī (करूँगी - کروں گی) - Will do (feminine)
+
+https://ageofempires.fandom.com/wiki/File:Indians_Villager_Male_Task_3_AoE2.ogg Male Task 3 Karūṁgā (करूँगा - کروں گا) - Will do (masculine)
+
+https://ageofempires.fandom.com/wiki/File:Indians_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Indians_Villager_Male_Task_4_AoE2.ogg Task 4 Turant (तुरंत - ترنت) - Right away
+
+https://ageofempires.fandom.com/wiki/File:Indians_Villager_Female_Task_5_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Indians_Villager_Male_Task_5_AoE2.ogg Task 5 Hamla! (हमला - حملہ) – Attack! (This one is probably left over from the time when Indians used Age of Empires III dialogue, since this line is used there when you order your villagers to attack. Seems to be fixed in the Definitive Edition)
+
+https://ageofempires.fandom.com/wiki/File:Indians_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Indians_Villager_Male_Build_AoE2.ogg Build Nirmātā (निर्माता - نرماتا) - Builder
+
+https://ageofempires.fandom.com/wiki/File:Indians_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Indians_Villager_Male_Chop_AoE2.ogg Chop Lakaṛhārā (लकड़हारा - لکڑھارا) - Lumberjack
+
+https://ageofempires.fandom.com/wiki/File:Indians_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Indians_Villager_Male_Farm_AoE2.ogg Farm Kisān (किसान - کسان) - Farmer
+
+https://ageofempires.fandom.com/wiki/File:Indians_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Indians_Villager_Male_Fish_AoE2.ogg Fish Machuā (मछुआ - مچھؤا) - Fisherman
+
+https://ageofempires.fandom.com/wiki/File:Indians_Villager_Female_Forage_AoE2.ogg Female Forage Kisān (किसान - کسان) - Farmer
+
+https://ageofempires.fandom.com/wiki/File:Indians_Villager_Male_Forage_AoE2.ogg Male Forage Chārā khojne vālā (चारा खोजने वाला - چارا کھوجنے والا) - Forager
+
+https://ageofempires.fandom.com/wiki/File:Indians_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Indians_Villager_Male_Hunt_AoE2.ogg Hunt Śhikārī (शिकारी - شکاری) - Hunter
+
+https://ageofempires.fandom.com/wiki/File:Indians_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Indians_Villager_Male_Mine_AoE2.ogg Mine Khanik (खनिक - کھانک) - Miner
+
+https://ageofempires.fandom.com/wiki/File:Indians_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Indians_Villager_Male_Repair_AoE2.ogg Repair Mistrī (मिस्त्री - مستری) - Repairer
+
+https://ageofempires.fandom.com/wiki/File:Indians_Soldier_Select_1_AoE2.ogg Select 1 Haṁ (हाँ? - ہاں؟) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Indians_Soldier_Select_2_AoE2.ogg Select 2 Āpkī sevā maiṁ (आपकी सेवा में - آپکی سیوا میں) - At your service
+
+https://ageofempires.fandom.com/wiki/File:Indians_Soldier_Select_3_AoE2.ogg Select 3 Ādeś? (आदेश? - آدیش؟) - Orders?
+
+https://ageofempires.fandom.com/wiki/File:Indians_Soldier_Move_1_AoE2.ogg Move 1 Samajh gayā (समझ गया - سمجھ گیا) - Understood
+
+https://ageofempires.fandom.com/wiki/File:Indians_Soldier_Move_2_AoE2.ogg Move 2 Maiṁ chal rahā hūṁ (मैं चल रहा हूँ - میں چل رہا ہوں) - I'm walking
+
+https://ageofempires.fandom.com/wiki/File:Indians_Soldier_Move_3_AoE2.ogg Move 3 Jī Śrīmān (जी श्रीमान - جی شریمان) - Yes sir
+
+https://ageofempires.fandom.com/wiki/File:Indians_Soldier_Attack_1_AoE2.ogg Attack 1 Ākraman! (आक्रमण - آکرمن) – Attack!
+
+https://ageofempires.fandom.com/wiki/File:Indians_Soldier_Attack_2_AoE2.ogg Attack 2 Āge baṛho! (आगे बढ़ो - آگے بڑھو) - Move forward!
+
+https://ageofempires.fandom.com/wiki/File:Indians_Soldier_Attack_3_AoE2.ogg Attack 3 Hamla! (हमला - حملہ) – Attack!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Indians_Monk_Select_1_AoE2.ogg Select 1 Haṁ (हाँ - ہاں) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Indians_Monk_Select_2_AoE2.ogg Select 2 Ādeś? (आदेश? - آدیش؟) - Orders?
+
+https://ageofempires.fandom.com/wiki/File:Indians_Monk_Select_3_AoE2.ogg Select 3 Āpkī sevā maiṁ (आपकी सेवा में - آپکی سیوا میں) - At your service
+
+https://ageofempires.fandom.com/wiki/File:Indians_Monk_Select_4_AoE2.ogg Select 4 Bhagvan ke nām pe (भगवन के नाम पे - بھگون کے نام پے) – In the name of God (not used)
+
+https://ageofempires.fandom.com/wiki/File:Indians_Monk_Move_1_AoE2.ogg Move 1 Maiṁ chal rahā hūṁ (मैं चल रहा हूँ - میں چل رہا ہوں) - I'm walking
+
+https://ageofempires.fandom.com/wiki/File:Indians_Monk_Move_2_AoE2.ogg Move 2 Haṁ (हाँ - ہاں)
+
+https://ageofempires.fandom.com/wiki/File:Indians_Monk_Move_3_AoE2.ogg Move 3 Samajh gayā (समझ गया - سمجھ گیا) - Understood
+
+https://ageofempires.fandom.com/wiki/File:Indians_Monk_Move_4_AoE2.ogg Move 4 Turant (तुरंत - ترنت) - Right away (not used)
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Indians_King_Select_1_AoE2.ogg Select 1 Yahā tum jāo (यहा तुम जाओ - یہا تم جاؤ) – Here you go
+
+https://ageofempires.fandom.com/wiki/File:Indians_King_Select_2_AoE2.ogg Select 2 Tumhe kyā chāhie? (तुम्हे क्या चाहिए? - تمہے کیا چاہئے؟) - What do you want?
+
+https://ageofempires.fandom.com/wiki/File:Indians_King_Select_3_AoE2.ogg Select 3 Mujhe kyoṁ ciṛh rahe ho? (मुझे क्यों चिढ़ रहे हो - مجھے کیوں چڑھ رہے ہو؟) – Why are you teasing me?
+
+https://ageofempires.fandom.com/wiki/File:Indians_King_Select_4_AoE2.ogg Select 4 Sūcnā denā (सूचना देना - سوچنا دینا) – Give information (not used)
+
+https://ageofempires.fandom.com/wiki/File:Indians_King_Move_1_AoE2.ogg Move 1 Tum jo bhī pūchoge, maiṁ vo karūṁgā (तुम जो भी पूछोगे, मैं वो करूंगा - تم جو بھی پوچھو گے، میں وہ کروں گا.) – I will do whatever you ask[note 2]
+
+https://ageofempires.fandom.com/wiki/File:Indians_King_Move_2_AoE2.ogg Move 2 Merī kŕpā se (मेरी कृपा से - میری کرپا سے) – By my grace
+
+https://ageofempires.fandom.com/wiki/File:Indians_King_Move_3_AoE2.ogg Move 3 Jaisā āpne nivedan kiyā (जैसा आपने निवेदन क्या - جیسا آپنے نویدن کیا) – As you requested
+
+https://ageofempires.fandom.com/wiki/File:Indians_King_Move_4_AoE2.ogg Move 4 Maiṁ karūṁgā! (मैं करूँगा - میں کروں گا) – I will do! (not used)
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Hindustanis AI characters:
+
+Akbar the Great (اکبر اعظم): Popularly known as Akbar I and later Akbar the Great, was the third Mughal emperor, who reigned from 1556 to 1605. He is the AI personality of the Indians in Age of Empires III: The Asian Dynasties.
+
+Ala-ud-Din Khalji (علاء الدین خلجی): The second and the most powerful ruler of the Khalji dynasty of Delhi Sultanate in the Indian subcontinent.
+
+Babur (بابر): Born Ẓahīr-ud-Dīn Muhammad (ظہیر الدین محمد), was an invader from Central Asia who, following a series of setbacks, finally succeeded in laying the base for the Mughal dynasty in the Indian subcontinent and became the first Mughal emperor. He is a descendant of Tamerlane and Genghis Khan.
+
+Bappa Rawal (बप्पा रावल): A semi-legendary ruler of the Mewar region in Rajasthan, India. The bardic chronicles describe him as a member of the Guhila clan of Rajputs, and some of these describe as the founder of his dynasty. Several historians have identified him with Kalabhoja, a ruler of the Mewar branch of the Guhilas.
+
+Chandragupta II: Also known by his title Vikramaditya, was one of the most powerful emperors of the Gupta Empire in northern India.
+
+Ghiyath al-Din (غیاث الدین محمد بن سام): brother of Ghori and ruler of the Ghurid Empire from 1163 and co-ruler with his brother from 1173 to 1202.
+
+Harsha Vardhana (हर्षवर्धन) (c. 590–647 CE) was an Indian emperor who ruled northern India from 606 to 647 CE. At the height of Harsha's power, his Empire covered much of North and Northwestern India. The peace and prosperity that prevailed made his court a centre of cosmopolitanism, attracting scholars, artists and religious visitors from far and wide. The Chinese traveller Xuanzang visited the court of Harsha and wrote a very favourable account of him, praising his justice and generosity. The Sanskrit poet Banabhatta wrote his biography Harshacharita ("Deeds of Harsha").
+
+Humayun (همایون): The second emperor of the Mughal Empire, who ruled over territory in what is now Afghanistan, Pakistan, and parts of northern India from 1531–1540 and again from 1555–1556. He is the father of Akbar.
+
+Iltutmish (ایلتتمش): The third ruler of the Delhi Sultanate, belonging to the Mamluk dynasty. Iltutmish consolidated the position of the sultanate in the Indian subcontinent.
+
+Mahmud Ghaznavi (محمود غزنوی): The first independent ruler of the Ghaznavid dynasty, ruling from 999 to 1030. At the time of his death, his kingdom had been transformed into an extensive military empire, which extended from northwestern Iran proper to the Punjab in the Indian subcontinent, Khwarazm in Transoxiana, and Makran.
+
+Man Singh I (राजा मान सिंह): The Rajput Raja of Amber, a state later known as Jaipur in Rajputana. He was a trusted general of the Mughal emperor Akbar, who included him among the Navaratnas, or the nine gems of the royal court.
+
+Muhammad Ghori (محمد غوری): Also known as Mu'izz ad-Din Muhammad, was the Sultan of the Ghurid Empire along with his brother Ghiyath ad-Din Muhammad from 1173 to 1202 and as the sole ruler from 1202 to 1206.
+
+Qutb-ud-Din Aibak (قطب الدین ایبک), (1150 – 14 November 1210) was a general of the Ghurid king Muhammad Ghori. He was in charge of the Ghurid territories in northern India, and after Muhammad Ghori's death, he became the ruler of an independent kingdom that evolved into the Delhi Sultanate ruled by the Mamluk dynasty.
+
+Sabuktigin: Also known as Abu Mansur Nasir al-Din Sabuktigin (ابو منصور سبکتگین) (942 – August 997), also spelled as Sabuktagin, Sabuktakin, Sebüktegin and Sebük Tigin, was the founder of the Ghaznavid dynasty, ruling from 977 A.D to 997 A.D.
+
+History[]
+
+“ As the medieval period dawned, the northern regions of modern-day India were ruled primarily by the Gupta Empire . At its zenith under Chandragupta II Vikramaditya, this short-lived state stretched from the Indus River to the Ganges Delta. While exceptionally advanced for its time in economic, political, military, intellectual, and social terms, the Gupta Empire was overextended and vulnerable to external invasions. Nomadic incursions from the northwest posed a constant problem, as did the extremes of the local climates; flooding in particular was a major issue. This state would not outlive the 6th century AD, but it left a significant imprint on the polities that succeeded it. After the Gupta Empire fell, its possessions passed to the control of countless major and minor entities. These never matched the power of the Guptas, but they inherited its strengths and advancements: a sophisticated division of labor system, significant scientific achievements, bustling trade networks, and powerful military technology, to name a few. Sanskrit epics tell of a powerful and magnanimous 7th century ruler, Harsha Vardhana, who forged some of these polities into a pseudo-empire, but his state, too, had relatively little longevity. The next couple of centuries saw the emergence of a new threat as waves of Muslim invasions cascaded into the Indian subcontinent. While Indian magnates such as Bappa Rawal (8th century) initially succeeded in stemming the onrushing tide, this threat gradually grew too much for the often fragmented Indian states to muster sustained resistances. Beyond the Hindu Kush, powerful Turco-Persian Muslim dynasties were rising: the Ghaznavids had formed a formidable state in modern Afghanistan, Pakistan, and Iran. One particularly infamous ruler, Mahmud Ghaznavi (10th-11th century), launched seventeen separate campaigns to pillage much of North and West India. Following the Ghaznavids were the Ghorids, another powerful dynasty that toppled the Ghaznavids and thrust further into India during the 12th and 13th centuries. Both factions were notable for their heavy use of Ghulams , former slaves who had been trained as professional soldiers, creating a warrior elite that dominated both battlefields and palaces. The Ghorid invasions were a watershed moment due to their permanent impact. Whereas their predecessors had merely lead campaigns of pillaging and destruction, the Ghorids, under the brothers Ghiyath and Muhammad, defeated Prithviraj Chauhan of Ajmer and established permanent control over much of northern India. Their successor, Qutb al-Din Aibak, created a new superpower: the Delhi Sultanate (13th-16th century), which essentially consisted of a Muslim warrior-elite ruling over a culturally and socially majority Indian population. Like many of history's conquerors, the Delhi sultans deemed it infinitely more prudent to perpetuate the existing systems in their new empire than to attempt to tear them down and impose their own. The following centuries were tumultuous ones. The Delhi Sultanate and its neighbors were rattled by successive Mongol invasions which, while achieving no significant lasting gains, gutted the region's infrastructure. Particularly brutal was Timur/Tamerlane's invasion of 1398, which tore through northern India and reduced the glorious city of Delhi to a charnel house. Over a century later, the Mughal conqueror Babur - yet another Persified warlord from Central Asia - would remark in his autobiographical Baburnama that he observed a land not yet healed from the ravages of the past centuries. Nevertheless, Babur was able to mold the weakened northern Indian polities that he conquered into a powerful state, the Mughal Empire, which would rule the region from 1526 well into the early-modern period. ” —In-game section
+
+Trivia[]
+
+The Hindustani civilization icon is a round shield with the Najmat-al-Quds or eight-pointed star of Jerusalem, an auspicious symbol in Islam derived from the Rub-el-Hizb symbol (shown on the Saracens icon).
+
+The user interface image displays a lion in front of a sun, based on the flag of the Mughal Empire. In Ain-i-Akbari, Hindustan is the official name of the Mughal Empire.
+
+Hindustanis are the only Indian civilization with access to Armored Elephants but not any other elephant unit, and whose Armored Elephants don't benefit from unique bonuses or technologies. They are also the only civilization who have Elephant units but have no unique technology and civilization bonus which affect them.
+
+The Hindustanis are the only Indian civilization with Cavalry Archers.
+Their access to Cavalry Archers instead of the other Indian civilizations' Elephant Archer is accurate, as northern India is not suitable for elephant breeding. Additionally, the in-game Hindustanis mostly represents Persianized Turkic peoples such as Ghorids, Delhi Sultans, and the Mughal Empire, whose ancestors were the raiders in northern India that heavily utilized nomadic tactics such as horse archery.
+
+The following heroes available in the Scenario Editor are themed on the Hindustanis: Babur (also as Tatar) and Ibrahim Lodi. Young Babur appears only as a Tatar in the campaign.
+
+The Steam Achievement for winning a game as the Indians before Dynasties of India has been accordingly renamed from Indian Victory to Hindustani Victory, but ironically still retains the image of the Elephant Archer, which the Hindustanis cannot train anymore.
+Similarly, when in the Ranked Benchmark testing function in multiplayer games, the Hindustanis still have the original Elephant Archers in the test, even though they have now lost it, and use an AI name which has been transferred to the Gurjaras.
+
+Despite being officially identified as a gunpowder civilization, the Hindustanis are the only such to not have access to the Bombard Tower.
+
+The Hindustani AI player Akbar is the AI personality of the Indians in Age of Empires III.
+
+Due to lacking proper units to counter ranged units and infantry as Indians, especially the Native Americans with Eagle Warriors (which erase the advantage of the Camel Riders), the Elephant Archer was replaced by the anti–archer anti-eagle unit, the Ghulam. In order to make them focus more on gunpowder units and Camels, Plate Barding Armor was restored and a faster attack speed bonus was added. Additionally, the Imperial Camel Rider has 1 less attack for balancing the attack rate, but the research cost is cheaper. Shatagni has double the effect due to players finding the previous effect underwhelming, and their gunpowder units are given 1 more armor.
+Due to these changes, the Hindustanis overall became one of the most effective civilizations in the game on most maps (especially on high-level games), with the former major weakness against Eagle Warriors addressed with the Ghulam, which became a universal unit that was overperforming beyond its original design. They also were the only Camel civilization with access to Halberdiers. In update 66692, Ghulam hit points were reduced by 10, and access to the Halberdier was removed. In later updates, the Camel Rider attack speed bonus was nerfed, as was the Armored and Siege Elephant hit points and upgrade cost, and the Villager discount bonus, which negatively impacted the civilization in high level tournaments. For this reason, it was re-buffed in update 87863, with the Ghulam being improved and the Grand Trunk Road technology being cheaper and giving a new effect.
+
+While other expansion civilizations have unique Castles based on specific structures, the Hindustani unique Castle design takes broad strokes inspiration from architectural elements of several forts in Delhi.
+
+Gallery[]
+
+The Wonder of the Hindustanis, Humayun's Tomb
+
+The unique Hindustani Castle
+
+The Indian architecture set in the 
+
+Dravidians,
+
+Bengalis, and
+
+Gurjaras
+
+A Hindustani town
+
+Hindustanis user interface image
+
+The flag of the Indians in 
+
+Video overview[]
+
+Hindustanis overview (AoE2)
+
+Notes[]
+
+↑ The following units are considered light cavalry units: Scout Cavalry line, Magyar Huszar, Steppe Lancer, and Shrivamsha Rider.
+
+↑ This has been translated literally, and as such "ask" contextually refers to a question
+
+References[]
+
+↑ https://www.ageofempires.com/news/dynasties_of_india_is_here/
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+Dynasties of India
+
+Asian civilizations
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

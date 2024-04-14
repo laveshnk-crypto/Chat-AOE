@@ -1,0 +1,648 @@
+This page is all about the Vikings
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Rise of the Rajas
+3.5 Definitive Edition
+3.6 Dynasties of India
+
+4 Campaign appearances
+
+4.1 Attila the Hun
+4.2 Battles of the Conquerors
+4.3 Bari
+4.4 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+European civilizations,
+
+The Age of Kings
+
+
+			English
+
+Español
+
+Vikings
+
+43
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+This article is about the civilization in Age of Empires II: The Age of Kings . For the civilization in Age of Mythology , see Norse .
+
+Civilization Technology tree Strategy
+
+DE
+
+HD
+
+Vikings
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: The Age of Kings
+
+Architecture
+
+Central European
+
+Continent
+
+Europe (northern)
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Vikings_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Vikings_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Vikings_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Infantry
+
+Navy
+
+Unique units
+
+Berserk
+
+Longboat
+
+Unique technologies
+
+Chieftains
+
+Bogsveigar
+
+Vikings
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: The Age of Kings
+
+Architecture
+
+Central European
+
+Continent
+
+Europe (northern)
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Vikings_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Infantry
+
+Navy
+
+Unique units
+
+Berserk
+
+Longboat
+
+Unique technologies
+
+Chieftains
+
+Berserkergang
+
+“ The vast forests and mountain fjords of Scandinavia were home to unpredictable, adventurous gods and even more daring folk. Rule the rivers and seas with lithe Longboats, initiate your most fearless warriors into the Berserkergang, and set forth to plunder, settle, and trade in new lands. The skálds will sing your glory in poetic verse from North America to Byzantium, and sagas shall tell of the exploits of legendary kings and warriors. Only the most daring will earn the right to enter Valhalla and feast at Odin's table! ” —Description [1]
+
+The Vikings are a Central European[note 1] civilization in Age of Empires II. They are based on the Scandinavian countries (Norway, Sweden, and Denmark) in the Viking Age. They focus on infantry and navy.
+
+The Swedes and Danes, two of the Scandinavian countries, are represented in Age of Empires III. The Vikings also appear in Age of Mythology as the Norse.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Rise of the Rajas
+3.5 Definitive Edition
+3.6 Dynasties of India
+
+4 Campaign appearances
+
+4.1 Attila the Hun
+4.2 Battles of the Conquerors
+4.3 Bari
+4.4 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+Characteristics[]
+
+Unique units[]
+
+Berserk: Infantry that can regenerate.
+
+Longboat: Quick warship that fires multiple arrows.
+
+Unique technologies[]
+
+Chieftains: Gives infantry +5 attack against cavalry and +4 attack against camels; infantry generate gold when killing villagers, trade units and monks.
+
+Bogsveigar: Archer-line and Longboats +1 attack (available since update 81058).
+
+Civilization bonuses[]
+
+Wheelbarrow and Hand Cart free.
+
+Warships cost -15%/-15%/-20% in the Feudal/Castle/Imperial Age.
+
+Infantry have +20% hit points starting from the Feudal Age.
+
+Team bonus[]
+
+Docks are 15% cheaper.
+
+Overview[]
+
+ships are indeed excellent, thanks to a discount which offsets the lack of
+
+Shipwright and gives them the ability to outproduce every other civilization, and the excellent
+
+Longboat. Despite lacking the
+
+Halberdier upgrade, their infantry are also remarkable, with all upgrades, additional HP, and an excellent
+
+unique technology that improves their performance when engaging
+
+cavalry units and while raiding. Their
+
+Castle unique unit, the
+
+Berserk, is a valuable all-purpose foot soldier that heals itself and has decent stats all around. Their economy is arguably the best in the game from the mid-
+
+Feudal Age to the early-
+
+Imperial Age due to free
+
+Wheelbarrow and
+
+Hand Cart, which give a 5
+
+Villager advantage, a boost to Villager collection, and saves a sizable amount of resources (475
+
+food, 250
+
+wood). They also have decent foot archers, as even though they lack
+
+Thumb Ring, they have
+
+Bogsveigar in the Imperial Age and are still decent during the Castle Age thanks to their economy. Viking
+
+siege weapons and
+
+defensive structures are both somewhat solid, with the
+
+Siege Ram in particular mixing well with the Vikings infantry.
+
+With all of these strengths come a few notable weaknesses. The absence of even Fire Galleys should be noted, though, as it can be a disadvantage early on when Longboats are not yet available. Viking cavalry are very weak, lacking upgrades across the board (Plate Barding Armor, Husbandry, and Bloodlines as well as all final tier upgrades), it is hard to justify their use outside of early-game raiding. A similar story applies for their Cavalry Archers, without Thumb Ring or the Heavy Cavalry Archer upgrade as well as the previous cavalry deficits. Their Monks are below average without technologies like Redemption, Sanctity, and Theocracy. Lastly, they lack any viable counters to enemy siege without Redemption, Bombard Cannon, or viable cavalry.
+
+Overall, the Vikings are a powerful civilization with their top-notch economy and great infantry and navy. Their economy gives them a lot of flexibility in the mid-game, with their biggest problem being their vulnerability to siege.
+
+Changelog[]
+
+The Conquerors[]
+
+Berserkergang introduced.
+
+Longboats training time decreased (41 → 25 seconds).
+
+Berserk movement speed increased (0.9 → 1.05).
+
+Berserk pierce armor increased (0 → 1).
+
+The Forgotten[]
+
+Warship discount staggered (20% (all ages) → 10% (Feudal)/15% (Castle)/20% (Imperial)).
+
+Treadmill Crane added to the technology tree.
+
+Berserkergang food cost increased (500 food → 850 food)
+
+Berserkergang gold cost decreased (850 gold → 400 gold).
+
+Chieftains introduced.
+
+Team bonus's Dock discount decreased (25% → 15%).
+
+Longboats wood cost decreased (100 wood → 90 wood).
+
+Berserk hit points increased (48 (non-Elite)/60 (Elite) → 54/62)
+
+Berserk training time reduced (16 → 14 seconds).
+
+The African Kingdoms[]
+
+Chieftains cost reduced (700 food, 400 gold → 400 food, 300 gold)
+
+Chieftains now increases anti-cavalry attack by +5 (from +4).
+
+Longboats no longer require a Castle.
+
+Longboats wood cost reverted (90 wood → 100 wood).
+
+With Patch 4.8, Chieftains affects all infantry units, instead of just Berserks.
+
+With Patch 4.8b, Chieftains gives infantry +2 attack against camels.
+
+Rise of the Rajas[]
+
+With Patch 5.5, Warship discount increased in Feudal Age (10% → 15%).
+
+With Patch 5.7, Chieftains' anti-camel damage increased (+2 → +4).
+
+Definitive Edition[]
+
+With update 42848, Chieftains' cost increased (400 food, 300 gold → 700 food, 500 gold).
+
+With update 56005:
+Vikings can no longer research Thumb Ring technology.
+Infantry HP bonus is now consistent (10% (Feudal)/15% (Castle)/20% (Imperial) → 20% (all)).
+Non-Elite Berserks have more attack (9 → 12) and melee armor (0 → 1).
+Elite Berserks train faster in (14 → 12) seconds.
+The Elite Berserk upgrade cost was reduced (1,300 food, 550 gold → 1,075 food, 475 gold).
+
+With update 73855, The Warship discount bonus no longer applies to Transport Ships.
+
+With update 81058:
+Berserkergang removed. Replaced with Bogsveigar.
+Chieftains cost reduced (700 food, 500 gold → 600 food, 450 gold)
+Chieftains has a new effect: Infantry generate 5 gold when killing a Villager, and 20 gold per Monk and Trade Cart.
+(Elite) Berserk healing rate increased (20 → 40 HP per minute)
+Elite Longboat anti-ship damage and anti-building damage decreased (11/8 → 10/7).
+
+Dynasties of India[]
+
+Receive Gambesons.
+
+Campaign appearances[]
+
+The Vikings are the playable civilization in the six following scenarios:
+
+Vinlandsaga ( Battles of the Conquerors): It depicts Erik the Red, who is the must-survive hero unit during the conquest of Britain and Greenland, and the arrival at the new world in North America.
+
+York ( Battles of the Forgotten): It is about Ragnar Lodbrok's sons who arrive on the British Isles to avenge the death of their father against Ælla of Northumbria.
+
+Ragnar ( Victors and Vanquished): Retelling of various Norse sagas and poetic Eddas related to the life and adventures of Ragnar Lothbrok.
+
+Ironside ( Victors and Vanquished): The daring raids and pillaging by the Vikings under Björn Ironside and his brothers on various cities of the Mediterranean.
+
+Finehair ( Victors and Vanquished): Reliving the sagas which tell of Harald Fairhair's conquest of Norway to unite it into a single kingdom for the first time.
+
+Karlsefni ( Victors and Vanquished): The Scandinavian migration into Ireland, Faroe Islands, Iceland, Greenland, Vinland, etc. by Nordic adventurers such as Thorfinn Karlsefni, Erik the Red, Flóki, and others.
+
+They also appear in:
+
+Attila the Hun[]
+
+The Catalaunian Fields
+Alans - Enemy
+
+Battles of the Conquerors[]
+
+Vinlandsaga is played as the Vikings.
+
+Vinlandsaga
+Greenland - Enemy → Ally
+
+Hastings
+Harald Hardraade - Enemy → Ally
+
+Bari[]
+
+In the Definitive Edition:
+
+Loose Ends
+Varangian Guards - Ally
+
+Victors and Vanquished[]
+
+Finehair
+Norse - Ally
+Southern Jarls - Enemy
+Hordaland  - Enemy
+Western Sea Kings - Enemy
+Danes - Enemy
+
+Ironside
+Vikings - Ally
+
+Karlsefni
+Vikings - Ally
+
+Ragnar
+Norse - Enemy
+Viking Raiders - Enemy
+
+Robert
+Norse - Enemy
+
+Otto
+Vikings - Enemy
+
+Vortigern
+Saxons - Ally → Enemy
+
+In-game dialogue language[]
+
+In-game, Viking units speak Old Norse, the North Germanic/Scandinavian language spoken by the Vikings. Old Norse is the ancestor of all the North Germanic/Scandinavian languages; Icelandic, Faroese, Danish, Swedish, Norwegian, and Norn which was spoken in Orkney and Shetland. Icelandic is by far the closest language to Old Norse. It was formerly written with Younger Futhark and later written with the Latin alphabet.
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Male_Select_1_AoE2.ogg Select 1 Já? (ᚢᛅ?) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Male_Select_2_AoE2.ogg Select 2 Hvat? (ᚼᚢᛅᛏ?) - What?
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Female_Select_3_AoE2.ogg Female Select 3 Búin (ᛒᚢᛁᚾ) - Done
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Male_Select_3_AoE2.ogg Male Select 3 Búinn (ᛒᚢᛁᚾᚾ) - Done
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Male_Select_4_AoE2.ogg Select 4 Wathothr? (ᚢᛅᚦᚬᚦᚱ?) - What?
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Male_Task_1_AoE2.ogg Task 1 Allt í lagi (ᛅᛚᛚᛏ ᛁ ᛚᛅᚴᛁ) - Alright
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Male_Task_2_AoE2.ogg Task 2 Já (ᚢᛅ) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Male_Task_3_AoE2.ogg Task 3 Rétt (ᚱᛁᛏᛏ) - Right
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Male_Task_4_AoE2.ogg Task 4 Vil ek (ᚢᛁᛚ ᛁᚴ) - I will
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Male_Build_AoE2.ogg Build Húsasmiðr (ᚼᚢᛋᛅᛋᛘᛁᚦᚱ) - Carpenter
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Male_Chop_AoE2.ogg Chop Timbrhǫggvandi (ᛏᛁᛘᛒᚱᚼᚬᚴᚴᚢᛅᚾᛏᛁ) - Lumber-chopping
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Male_Farm_AoE2.ogg Farm Búandi (ᛒᚢᛅᚾᛏᛁ) - Steadfast
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Male_Fish_AoE2.ogg Fish Fiskimaðr (ᚠᛁᛋᚴᛁᛘᛅᚦᚱ) - Fisherman
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Male_Forage_AoE2.ogg Forage Gagnismaðr (ᚴᛅᚴᚾᛁᛋᛘᛅᚦᚱ) - Useful man
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Male_Hunt_AoE2.ogg Hunt Veiðimaðr (ᚢᛁᛁᚦᛁᛘᛅᚦᚱ) - Hunterman
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Male_Mine_AoE2.ogg Mine Námamaðr (ᚾᛅᛘᛅᛘᛅᚦᚱ) - Gathering man
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Male_Repair_AoE2.ogg Repair Verkmaðr (ᚢᛁᚱᚴᛘᛅᚦᚱ) - Craftsman
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Male_Attack_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vikings_Villager_Female_Attack_AoE2.ogg Attack Sǿki þat! (ᛋᛁᚴᛁ ᚦᛅᛏ) - Attack it!
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Soldier_Select_1_AoE2.ogg Select 1 Já? (ᚢᛅ?) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Soldier_Select_2_AoE2.ogg Select 2 Búinn (ᛒᚢᛁᚾᚾ) - Done
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Soldier_Select_3_AoE2.ogg Select 3 Boðorð (ᛒᚬᚦᚬᚱᚦ) - Command
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Soldier_Move_1_AoE2.ogg Move 1 Já (ᚢᛅ) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Soldier_Move_2_AoE2.ogg Move 2 Vil ek (ᚢᛁᛚ ᛁᚴ) - I will
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Soldier_Move_3_AoE2.ogg Move 3 Allt í lagi (ᛅᛚᛚᛏ ᛁ ᛚᛅᚴᛁ) - Alright
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Soldier_Attack_1_AoE2.ogg Attack 1 Radi da! (ᚱᛅᛏᛁ ᛏᛅ!)
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Soldier_Attack_2_AoE2.ogg Attack 2 Til bardaga! (ᛏᛁᛚ ᛒᛅᚱᛏᛅᚴᛅ!) - To battle!
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Soldier_Attack_3_AoE2.ogg Attack 3 Já! (ᚢᛅ!) - Yes!
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Soldier_Attack_4_AoE2.ogg Attack 4 Radi da! (ᚱᛅᛏᛁ ᛏᛅ!) - Quickly Now! (Compared with Icelandic hratt i þa)
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Monk_Select_1_AoE2.ogg Select 1 Já? (ᚢᛅ?) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Monk_Select_2_AoE2.ogg Select 2 Hvat? (ᚼᚢᛅᛏ?) - What?
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Monk_Select_3_AoE2.ogg Select 3 Búinn (ᛒᚢᛁᚾᚾ) - Done
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Monk_Select_4_AoE2.ogg Select 4 Boðorð (ᛒᚬᚦᚬᚱᚦ) - Command
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Monk_Move_1_AoE2.ogg Move 1 Allt í lagi (ᛅᛚᛚᛏ ᛁ ᛚᛅᚴᛁ) - Alright
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Monk_Move_2_AoE2.ogg Move 2 Já (ᚢᛅ) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Monk_Move_3_AoE2.ogg Move 3 Rétt (ᚱᛁᛏᛏ) - Right
+
+https://ageofempires.fandom.com/wiki/File:Vikings_Monk_Move_4_AoE2.ogg Move 4 Vil ek (ᚢᛁᛚ ᛁᚴ) - I will
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Vikings_King_Select_1_AoE2.ogg Select 1 Já? (ᚢᛅ?) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Vikings_King_Select_2_AoE2.ogg Select 2 Hvat? (ᚼᚢᛅᛏ?) - What?
+
+https://ageofempires.fandom.com/wiki/File:Vikings_King_Select_3_AoE2.ogg Select 3 Búinn (ᛒᚢᛁᚾᚾ) - Done
+
+https://ageofempires.fandom.com/wiki/File:Vikings_King_Select_4_AoE2.ogg Select 4 Boðorð (ᛒᚬᚦᚬᚱᚦ) - Command
+
+https://ageofempires.fandom.com/wiki/File:Vikings_King_Move_1_AoE2.ogg Move 1 Allt í lagi (ᛅᛚᛚᛏ ᛁ ᛚᛅᚴᛁ) - Alright
+
+https://ageofempires.fandom.com/wiki/File:Vikings_King_Move_2_AoE2.ogg Move 2 Já (ᚢᛅ) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Vikings_King_Move_3_AoE2.ogg Move 3 Rétt (ᚱᛁᛏᛏ) - Right
+
+https://ageofempires.fandom.com/wiki/File:Vikings_King_Move_4_AoE2.ogg Move 4 Vil ek (ᚢᛁᛚ ᛁᚴ) - I will (not used)
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Viking AI characters:
+
+Canute IV (ᚴᚾᚢᛏ; c. 1042-1086): King of Denmark (1080-1086), ambitious ruler who aimed to increase the power of the Danish monarchy. He was canonized by the Roman Catholic Church in 1101.
+
+Chief Thorgest (ᛏᚼᚢᚱᚴᛁᛋᛏᚱ; died 845): Viking chief in Ireland. Launched conquests throughout Ireland as well as into Wales. He was defeated and vanquished by Irish King Niall.
+
+Erik Bloodax (ᛁᛁᚱᛁᚴᚱ ᛒᛚᚢᚦᚬᚴᛋ; c. 885-954): Eric Haraldsson, ruled first over Norway, later over Northumbria as well. Grandson of Halfdan the Black.
+
+Halfdan the Black (ᚼᛅᛚᚠᛏᛅᚾᚱ ᛋᚢᛅᚱᛏᛁ; c. 810-c. 860): King of Vestfold, known for subjugating many petty kingdoms in Norway throughout the ninth century. Father of Harald Fairhair (the first King of Norway). Grandfather of Erik Bloodax.
+
+Harald Bluetooth (ᚼᛅᚱᛅᛚᛏ ᛒᛚᚬᛏᛅᚾᛏ; died c. 985): Danish king of Denmark and Norway, first introduced Christianity to Denmark. Father of Sweyn Forkbeard; mounted a revolt against him and drove him into exile.
+
+Harald Hardraade (ᚼᛅᚱᛅᛚᛏᚱ ᚼᛅᚱᚦᚱᛅᚦᛁ; c. 1015-1066): Norwegian King, spent time in exile in Kievan Rus' and the Byzantine Empire before his ascent to the throne in 1046. Invaded England in 1066, but was defeated (and killed) in the Battle of Stamford Bridge.
+
+Harald Hardrada (ᚼᛅᚱᛅᛚᛏᚱ ᚼᛅᚱᚦᚱᛅᚦᛁ; c. 1015-1066): See Harald Hardraade.
+
+Harald I Fairhair (ᚼᛅᚱᛅᛚᛏ ᚼᛅᚱᚠᛅᚴᚱᛁ; c. 850-932): Son of Halfdan the Black and considered the first king of Norway. His existence is widely debated.
+
+King Godfred (ᚴᚬᛏᚠᚱᛁᛏ; died c. 985): Semi-legendary King of Denmark. Son of Siegfried. He supposedly killed by one of his own Huskarls.
+
+Jarl Thorfinn of Orkney (ᚦᚬᚱᚠᛁᚾᚾᚱ; 1009?–c. 1065): was an 11th-century Earl of Orkney. He was the youngest of five sons of Earl Sigurd Hlodvirsson and the only one resulting from Sigurd's marriage to a daughter of Malcolm II of Scotland.
+
+Jarl Osbiorn (ᚬᛋᛒᛁᚬᚱᚾ): Danish Jarl (Earl). Brother of the Danish King Sweyn II, commanded Sweyn II's fleet.
+
+Magnus Olafsson (ᛘᛅᚴᚾᚢᛋ ᚢᛚᛅᚠᛋᛋᚬᚾ; died 1265): King of Mann and the Isles (1254–1265). The last king of the Crovan dynasty. Though a monarch in his own right, he paid tribute to Norwegian King Haakon IV.
+
+Magnus the Strong (ᛘᛅᚴᚾᚢᛋ ᛏᛁᚾ ᛋᛏᚬᚱᚴᛁ; c. 1106-1134): Magnus I, King of Sweden. A tall, strong man, described as well-endowed by nature. He was defeated and killed at the Battle of Fotevik.
+
+Olaf Haraldson (ᚢᛚᛅᚠᚱ ᚼᛅᚱᛅᛚᛏᛋᛋᚬᚾ; 995-1030): King of Norway from 1015-1028. He was famous for temporarily freeing Norway of Danish domination; is now a symbol of Norwegian nationalism. He was canonized by the Roman Catholic Church.
+
+Olaf Tryggvasson (ᚢᛚᛅᚠᚢᚱ ᛏᚱᚢᚴᚴᚢᛅᛋᚬᚾ; died 1000): King of Norway from 995-1000. He was famous for spreading Christianity in Norway, and was killed at the battle of Svolder, which led to period of foreign domination over Norway.
+
+Siegfried (ᛋᛁᚴᚠᚱᛁᛏ; died c. 804): Semi-legendary King of Denmark from about 770 until his death. Father of King Godfred.
+
+Sigurd (ᛋᛁᚴᚢᚱᚦᚱ; c. 770-c. 804): Legendary Swedish King, supposedly defeated King Harald Wartooth of Denmark and conquered his land. Notably similar to Siegfried, the Danish King.
+
+Sweyn Forkbeard (ᛋᚢᛁᛁᚾᚾ ᛏᚢᚢᚴᚢᛋᚴᛁᚴᚴ; 960-1014): King of Denmark from 986-1014. Son of Harald Bluetooth, came to power by deposing his father. He successfully invaded England, becoming its first Danish King in 1013.
+
+History[]
+
+“ The Vikings (meaning "northmen") were the last of the barbarian tribes called Germans by the Romans to terrorize Europe. Spreading out from their homelands in Scandinavia, they struck suddenly across the seas from their dragon boats (called such because of the dragon heads carved on the bow and stern). They began by raiding, pillaging, and withdrawing before any serious armed resistance could be mounted, but they gradually grew more bold. Eventually they occupied and settled significant parts of Europe. Being pagan, they did not hesitate to kill churchmen and loot church holdings, and they were feared for their ruthlessness and ferocity. At the same time, they were remarkable craftsmen, sailors, explorers, and traders. The Viking homelands were Norway, Sweden, and Denmark. They and their descendants controlled, at least temporarily, most of the Baltic Coast, much of inland Russia, Normandy in France, England, Sicily, southern Italy, and parts of Palestine. They discovered Iceland in 825 (Irish monks were there already) and settled there in 875. They colonized Greenland in 985. Some people think that the Vikings reached Newfoundland and explored part of North America 500 years before the voyage of Columbus. Vikings began raiding and then settling along the eastern Baltic Sea in the sixth and seventh centuries. At the end of the eighth century, they were making long raids down the rivers of modern Russia and setting up forts along the way for defense. In the ninth century, they were ruling Kiev and in 907 a force of 2000 ships and 80,000 men attacked Constantinople. They were bought off by the emperor of Byzantium with very favorable terms of trade. Vikings struck first in the West in the late eighth century. Danes attacked and looted the famous island monastery at Lindisfarne on the northeast coast of England, beginning a trend. The size and frequency of raids against England, France, Ireland and Germany increased to the point of becoming invasions. Settlements were established as bases for further raids. Viking settlements in northwestern France came to be known as Normandy ("from the northmen"), and the residents were called Normans. In 865 a large Danish army invaded England, and they went on to hold much of England for the next two centuries. One of the last kings of all England before 1066 was Canute, who ruled Denmark and Norway simultaneously. In 871 another large fleet sailed up the Seine River to attack Paris. They besieged the city for two years before being bought off with a large cash payment and permission to loot part of western France unimpeded. In 911 the French king made the Viking chief of Normandy a duke in return for converting to Christianity and ceasing to raid. From the Duchy of Normandy came a remarkable series of warriors, including William I , who conquered England in 1066, Robert Guiscard and his family, who took Sicily from the Arabs between 1060 and 1091, and Baldwin I, king of the crusader kingdom of Jerusalem. Viking raids stopped at the end of the tenth century. Denmark, Sweden, and Norway had become kingdoms, and much of their king's energy was devoted to running their lands. The spread of Christianity weakened the old pagan warrior values, which died out. The Norse were also absorbed by the cultures into which they had intruded. The occupiers and conquerors of England became English , the Normans became French , and the Rus became Russians . [1] ”
+
+Trivia[]
+
+The Vikings' civilization icon is based on the raven banner.
+
+The user interface image in the Definitive Edition displays a vegvísir, an Icelandic magical stave intended to help the bearer find their way through rough weather.
+
+The King has a lost voice clip (Move 4).
+
+The Wonder of the Vikings is a church. In reality, though, the Vikings of the Viking Age were predominantly polytheistic pagans. Mass Christianization of the Scandinavian peninsula took place in the early 12th century, by which point the Viking Age was long over.
+
+The following heroes available in the Scenario Editor are themed on the Vikings: Erik the Red, Hrolf the Ganger, Siegfried, Harald Hardrada (and his older removed version Harold Haardraade), Jarl, and Leif Erikson. Also, The Middlebrook is an entirely modern reference, but does use a Viking Longboat model.
+
+For years, the Vikings have been one of the most banned civilizations in several tournaments due to their extremely effective economy in the early game, thanks to their free Wheelbarrow and Hand Cart technologies, which also translates into a solid and consistent Villager and military production in the Imperial Age, despite having very limited military options on land maps (mostly to archers and, particularly, their powerful infantry). In addition, the Vikings are tied with the Italians as the strongest and most effective civilization on water maps thanks to their discount on warships and Docks, as well having a strong unique warship.
+In many tournaments, the Vikings were normally played as an archer civilization: they used to have access to fully upgradable Arbalesters, and their solid economy allows them to commit to an archer rush strategy with the option of an early Imperial Age push with Arbalesters and Siege Rams. This may explain why update 56005 removed Thumb Ring in exchange for their infantry health bonus being buffed, as the Vikings were originally designed to be an infantry rush civilization rather than an archer rush civilization. After the loss of Thumb Ring, the Vikings were not as powerful as before in land maps even with their infantry buffed. Despite still having high win rates, they were one of the least picked civilizations in high-level tournaments. They regained their strength in Arbalesters with their new unique technology, which was comparable in strength to Thumb Ring. This ensured that their great economy was not abused with Archer-play in the mid-game.
+
+The Vikings and Dravidians are the only two civilizations capable of building Stables that lack both Stable technologies.
+
+The Warship discount bonus applied to Transport Ships ever since release until update 73855, despite them not being a military unit. This ambiguity was more pronounced with the new Korean bonus, whose discount military units which did not include Transport Ships.
+
+The Vikings' fully upgradable Castles could be a reference to their historical ring fortresses, although their design was remarkably different from a typical in-game Castle.
+
+Gallery[]
+
+The Wonder of the Vikings, the 
+
+Borgund Stave Church
+
+The Central European architecture set the Vikings share with the 
+
+Goths,
+
+Huns, and
+
+Teutons
+
+The set before the 
+
+Vikings preview in the 
+
+Definitive Edition
+
+Norse Warriors)
+
+Vikings 
+
+user interface image
+
+The Viking user interface before the 
+
+Viking overview (AoE2) - updated for 2023
+
+References[]
+
+↑ As in, they have Central European architecture. The Vikings are originally from Northern Europe.
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/vikings
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+European civilizations
+
+The Age of Kings
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

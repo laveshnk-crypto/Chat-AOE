@@ -1,0 +1,521 @@
+This page is all about the Romans
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Return of Rome
+3.2 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 Attila the Hun
+4.2 Alaric
+4.3 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Portrayal
+
+9 Trivia
+
+10 Gallery
+
+11 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+European civilizations,
+
+Return of Rome (Age of Empires II)
+
+
+			English
+
+Español
+
+Romans (Age of Empires II)
+
+21
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+This article is about the civilization in Age of Empires II: Definitive Edition - Return of Rome . For other uses, see Romans .
+
+Civilization Technology tree Strategy
+
+Romans
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: Definitive Edition - Return of Rome
+
+Architecture
+
+Mediterranean
+
+Continent
+
+Europe
+
+Africa (north)
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Romans_theme.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Returnofrome_jingle_romans.ogg
+
+Features/Characteristics
+
+Focus
+
+Infantry units
+
+Unique units
+
+Centurion
+
+Unique upgrades
+
+Legionary
+
+Unique technologies
+
+Ballistas
+
+Comitatenses
+
+“ Rise to the throne of an empire dominating the Mediterranean Sea and defend your borders against countless barbarian invasions. The Roman unique units are the Legionary, a sturdy infantry unit, and the Centurion, a heavy cavalry unit that increases the power of nearby Militia-line units. ” —Description [1]
+
+The Romans are a Mediterranean European civilization in Age of Empires II: Definitive Edition - Return of Rome, based on the Western Roman Empire centered at Rome and Ravenna.
+
+The Romans first featured as a playable civilization in Age of Empires: The Rise of Rome. The eastern continuation of their empire and culture are also represented in Age of Empires II as the Byzantines.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Return of Rome
+3.2 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 Attila the Hun
+4.2 Alaric
+4.3 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Portrayal
+
+9 Trivia
+
+10 Gallery
+
+11 References
+
+Characteristics[]
+
+Unique units[]
+
+Legionary: Sturdy infantry unit. Replacement of the Two-Handed Swordsman and Champion upgrades.
+
+Centurion: Heavy cavalry unit that increases the attack and movement speeds of nearby Militia-line units.
+
+Unique technologies[]
+
+Ballistas: Scorpions fire 33% faster, the Galley-line has +2 attack.
+
+Comitatenses: Militia-line, Knight-line, and Centurions train 50% faster and receive +5 charge attack over 20 seconds.
+
+Civilization bonuses[]
+
+Villagers gather, build, and repair 5% faster.
+
+Galley-line and Dromon +1/+1 armor.
+
+Infantry receives double the effect from Blacksmith armor upgrades.
+
+Scorpions cost -60% gold and benefit from Ballistics.
+
+Team bonus[]
+
+The Scorpion-line's minimum range is reduced to 1.
+
+Overview[]
+
+The Romans are classified as an infantry civilization, and in addition have very powerful Scorpions, and potent navy and heavy cavalry. Their infantry receive double the effect of the Blacksmith armor upgrades, which is offset by the lack of Plate Mail Armor (giving their infantry +1/0 armor in late game compared to generic infantry). Instead of having access to Two-Handed Swordsman and Champion upgrades, the Romans have access to their final unique upgrade for their Long Swordsman, the Legionary, which can be seen as a sturdier version of the Champion that is much cheaper to fully upgrade. Their cavalry have all of the upgrades they need for their Light Cavalry and Cavalier, with access to their unique unit, the Centurion, that boosts the combat effectiveness of nearby Militia-line units.
+
+Much like the Romans in Age of Empires: The Rise of Rome, they have very potent siege weapons, only missing out in Siege Onager and Bombard Cannon. In particular, their Heavy Scorpions are much cheaper in terms of gold and benefits from Ballistics, and can fire faster with Ballistas (which also benefit their Galley line), which greatly help compensate for their disasterous Archery Range. In terms of their navy, they have almost all of the upgrades they needed, and their Galley-line not only have an additional attack with Ballistas, but are tankier than most civilizations'. Their monks are average, as while they have Redemption to answer to enemy Bombard Cannon, the lack of Sanctity means they can easily die from enemy siege, and the lack of Theocracy leaves their Monks very limited uses in the Imperial Age. Their economy is solid, as their villagers work 5% faster, and only miss out in Stone Shaft Mining and Two-Man Saw.
+
+Archery Range is terrible, lacking
+
+Bracer,
+
+Thumb Ring,
+
+Arbalester, and
+
+Parthian Tactics. The lack of Bracer also hurts their Galley-line, which they are also less mobile since they lack
+
+Dry Dock. They also miss out in
+
+Demolition Ship, which makes their navy more vulnerable to enemy
+
+Fire Ships and makes it harder to come back from behind as well. Their Militia-line will be on the more expensive end, as they also lack
+
+Supplies, but make up for it for their durability thanks to the infantry receiving double the effect of armor upgrades. Hence, they focus on quality units over quantity units, very unlike their real-life opponents the
+
+Goths. Their cavalry are also less than perfect without any of the final unit upgrades or any regional unit. Their
+
+Castle unique unit fills in the role of the Paladin, with the added advantage of the
+
+aura effect and the disadvantage of cost. Their Imperial Age unique technology
+
+Comitatenses is pretty interesting since it makes their heavy units (Swordsmen, Knight and Centurion lines) train 50% faster, and gives them an extra punch with +5 charge attack over 20 seconds, reinforcing the theme of quality over quantity again. On top of that, the Romans lack
+
+Heresy, making their relatively expensive army composition vulnerable to conversion. Their defenses are somewhat spotty, as while they have
+
+Keeps,
+
+Architecture, and
+
+Fortified Walls, they lack
+
+Arrowslits,
+
+Hoardings,
+
+Heated Shot and the
+
+Bombard Tower.
+
+Changelog[]
+
+Return of Rome[]
+
+With update 87863, Romans are enabled for Ranked play.
+
+With update 87863, Galley-line +1 attack civilization bonus removed.
+
+With update 87863, War Galleys +1/+1 armor, Galleons and Dromons +2/+2 armor civilization bonus changed to Galley-line and Dromons +1/+1 armor.
+
+With update 87863, Ballistas' effect on Galley-line changed from +33% attack speed to +2 attack; effect on Scorpions unchanged.
+
+With update 87863, Centurion formation position moved behind infantry units instead of in front of them.
+
+With update 93001, Centurion (non-Elite only) hit points reduced from 120 to 110.
+
+The Mountain Royals[]
+
+Centurion aura effect for faster attacking Militia-line reduced from 25% (33%) to 20%.
+
+Campaign appearances[]
+
+The Romans are not playable in any campaign or scenario in Age of Empires II, but they do appear several times in other campaigns:
+
+Attila the Hun[]
+
+A Barbarian Betrothal and The Catalaunian Fields
+Western Roman Empire - Enemy
+
+The Fall of Rome
+Western Roman Empire - Ally
+
+Alaric[]
+
+The Battle of the Frigidus
+Western Roman Empire - Enemy
+
+The Belly of the Beast
+Ravenna - Neutral → Enemy
+
+The Giant Falls
+Rome - Neutral
+City Garrison - Enemy
+Imperial Legion - Enemy
+
+A Kingdom of Our Own
+Western Roman Empire - Neutral → Enemy
+
+Victors and Vanquished[]
+
+Gaiseric
+Romans - Enemy
+Comitatenses - Enemy
+
+In-game dialogue language[]
+
+The Roman units speak Latin, a classical language officially used in both the Roman Republic and the Roman Empire. After the collapse of Western Roman Empire, it was also widely used as a literary language through the medieval period and had a significant impact for the development of later Romance Languages.
+
+The in-game Roman Villager and military units use the vulgar (sermo vulgaris) pronunciation rather than the noble (sermo nobilis) phonology. Whereas the Monk and King units use a mix of vulgar and noble pronunciation. This is an intentional effort to depict the differences in way of speaking between societal elites and commoners during the early Roman Empire time period circa 50 CE. Even the elites would gradually adopt the vulgar phonology and stop using the noble pronunciation by the third century CE.
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Romans_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Romans_Villager_Male_Select_1_AoE2.ogg Select 1 Salvē - Hello
+
+https://ageofempires.fandom.com/wiki/File:Romans_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Romans_Villager_Male_Select_2_AoE2.ogg Select 2 Heus - Hey
+
+https://ageofempires.fandom.com/wiki/File:Romans_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Romans_Villager_Male_Select_3_AoE2.ogg Select 3 Prōmptus - Ready
+
+https://ageofempires.fandom.com/wiki/File:Romans_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Romans_Villager_Male_Select_4_AoE2.ogg Select 4 Imperā? - Order?
+
+https://ageofempires.fandom.com/wiki/File:Romans_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Romans_Villager_Male_Task_1_AoE2.ogg Task 1 Rēctē - Right
+
+https://ageofempires.fandom.com/wiki/File:Romans_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Romans_Villager_Male_Task_2_AoE2.ogg Task 2 Salve - Well (In the sense of I understood)
+
+https://ageofempires.fandom.com/wiki/File:Romans_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Romans_Villager_Male_Task_3_AoE2.ogg Task 3 Eō - I go
+
+https://ageofempires.fandom.com/wiki/File:Romans_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Romans_Villager_Male_Task_4_AoE2.ogg Task 4 Cōnfestim faciam - I will do immediately
+
+https://ageofempires.fandom.com/wiki/File:Romans_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Romans_Villager_Male_Build_AoE2.ogg Build Aedificō - I build
+
+https://ageofempires.fandom.com/wiki/File:Romans_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Romans_Villager_Male_Chop_AoE2.ogg Chop Lignor - I cut wood
+
+https://ageofempires.fandom.com/wiki/File:Romans_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Romans_Villager_Male_Farm_AoE2.ogg Farm Colligō - I gather
+
+https://ageofempires.fandom.com/wiki/File:Romans_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Romans_Villager_Male_Fish_AoE2.ogg Fish Piscor - I fish
+
+https://ageofempires.fandom.com/wiki/File:Romans_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Romans_Villager_Male_Forage_AoE2.ogg Forage Colligō - I gather
+
+https://ageofempires.fandom.com/wiki/File:Romans_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Romans_Villager_Male_Hunt_AoE2.ogg Hunt Vēnor - I hunt
+
+https://ageofempires.fandom.com/wiki/File:Romans_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Romans_Villager_Male_Mine_AoE2.ogg Mine Fodiō - I dig
+
+https://ageofempires.fandom.com/wiki/File:Romans_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Romans_Villager_Male_Repair_AoE2.ogg Repair Reficiō - I repair
+
+https://ageofempires.fandom.com/wiki/File:Romans_Soldier_Select_1_AoE2.ogg Select 1 Salvē - Hello
+
+https://ageofempires.fandom.com/wiki/File:Romans_Soldier_Select_2_AoE2.ogg Select 2 Tibi serviō - I serve you
+
+https://ageofempires.fandom.com/wiki/File:Romans_Soldier_Select_3_AoE2.ogg Select 3 Imperā? - Order?
+
+https://ageofempires.fandom.com/wiki/File:Romans_Soldier_Move_1_AoE2.ogg Move 1 Rēctē - Right
+
+https://ageofempires.fandom.com/wiki/File:Romans_Soldier_Move_2_AoE2.ogg Move 2 Eō - I go
+
+https://ageofempires.fandom.com/wiki/File:Romans_Soldier_Move_3_AoE2.ogg Move 3 Pāreō - I obey
+
+https://ageofempires.fandom.com/wiki/File:Romans_Soldier_Attack_1_AoE2.ogg Attack 1 Pugnāmus! - We attack!
+
+https://ageofempires.fandom.com/wiki/File:Romans_Soldier_Attack_2_AoE2.ogg Attack 2 Ad pugnam! - To battle!
+
+https://ageofempires.fandom.com/wiki/File:Romans_Soldier_Attack_3_AoE2.ogg Attack 3 Ad arma! - To arms!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Romans_Monk_Select_1_AoE2.ogg Select 1 Salvē – Hello
+
+https://ageofempires.fandom.com/wiki/File:Romans_Monk_Select_2_AoE2.ogg Select 2 Imperā? - Order?
+
+https://ageofempires.fandom.com/wiki/File:Romans_Monk_Select_3_AoE2.ogg Select 3 Tibi serviō - I serve you
+
+https://ageofempires.fandom.com/wiki/File:Romans_Monk_Select_4_AoE2.ogg Select 4 In nōmine Deī - In the name of the God
+
+https://ageofempires.fandom.com/wiki/File:Romans_Monk_Move_1_AoE2.ogg Move 1 Eō - I go
+
+https://ageofempires.fandom.com/wiki/File:Romans_Monk_Move_2_AoE2.ogg Move 2 Rēctē - Right
+
+https://ageofempires.fandom.com/wiki/File:Romans_Monk_Move_3_AoE2.ogg Move 3 Salve - Well
+
+https://ageofempires.fandom.com/wiki/File:Romans_Monk_Move_4_AoE2.ogg Move 4 Cōnfestim faciam - I will do immediately
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Romans_King_Select_1_AoE2.ogg Select 1 Ecce - Here (I am)
+
+https://ageofempires.fandom.com/wiki/File:Romans_King_Select_2_AoE2.ogg Select 2 Quid vīs? - What do you want?
+
+https://ageofempires.fandom.com/wiki/File:Romans_King_Select_3_AoE2.ogg Select 3 Cūr mē interpellās? - Why are you interrupting me?
+
+https://ageofempires.fandom.com/wiki/File:Romans_King_Select_4_AoE2.ogg Select 4 Adsīs - You would stand by
+
+https://ageofempires.fandom.com/wiki/File:Romans_King_Move_1_AoE2.ogg Move 1 Faciam quod rogās - I will do what you require
+
+https://ageofempires.fandom.com/wiki/File:Romans_King_Move_2_AoE2.ogg Move 2 Mē grātiā - By my grace
+
+https://ageofempires.fandom.com/wiki/File:Romans_King_Move_3_AoE2.ogg Move 3 Ut rogāstī - As you required
+
+https://ageofempires.fandom.com/wiki/File:Romans_King_Move_4_AoE2.ogg Move 4 Faciam - I will do
+
+AI player names[]
+
+Anthemius: Western Roman Emperor that failed to limit Ricimer's influence in Rome, reigned 467-472
+
+Arbogast: Frankish magister militum who supported Eugenius in The Battle of the Frigidus, died in 394
+
+Avitus: Western Roman Emperor of Gallo-Roman origins and Visigothic ties deposed by Ricimer, reigned 455-456
+
+Flavius Aetius: Western magister militum who stemmed the Hunnic invasions of Attila the Hun, notably defeating him at The Catalaunian Fields, died in 454
+
+Galla Placidia: Dowager empress who was also briefly the Queen consort of the Gothic king Ataulf after The Sack of Rome, died in 450
+
+Honorius: Western Roman Emperor who tried to negotiate with Alaric in Alaric's Second invasion of Italy, reigned 393-423
+
+Majorian: the last Western Roman Emperor that made a concerted effort at restoring the territorial integrity of the empire, reigned 457-461
+
+Odoacer: Germanic magister militum and later King of Italy after deposing Romulus Augustulus, which effectively ended the Western Roman Empire, reigned 476-493
+
+Pope Leo I: Pope during 440-461 and the pope who met with Attila the Hun.
+
+Ricimer: Germanic magister militum and the effective ruler of Rome through several puppet emperors, died in 472
+
+Romulus Augustulus: last Western Roman Emperor placed on the throne as a child by his father and dethroned by Odoacer, reigned 475-476
+
+Stilicho: half-Vandal Roman general who became one of the most powerful men in Western Roman Empire during his service, died in 408
+
+Theodosius I: last Roman Emperor to rule over both halves of the Empire, reigned 379-395
+
+Valentinian III: Western Roman Emperor during whose reign Rome lost much of its non-Italian territories to germanic invaders, reigned 425-455
+
+History[]
+
+“ Upon the death of Emperor Theodosius I in 395 CE, the Roman Empire was divided in two for the last time. Untold troubles and changes faced Rome and Europe as a whole during this time. Decades of internal instability and civil war had gutted the Empire from the inside, while the Hunnic migrations from the east started a chain reaction that caused wave after wave of Germanic and Alanic migrants to pour towards the Roman frontiers on the Rhine and Danube. By 395, despite being accustomed to centuries of military supremacy, Rome was ill-equipped to face these threats. The once-formidable border fortifications were in disrepair, the once-numerous legions were underpaid and understaffed, and the once-prosperous imperial land was ravaged and in dire need of reform. The Roman military was forced to change its defense strategy: whereas it was formerly capable of defending everything all of the time, its new strategy was to hold the frontiers with a token force while relying on an elite mobile reserve to swiftly respond to any threat that bypassed the border. Compounding the problem, many of Rome's northern neighbors had already forced their way across the border and established themselves within Roman territory by the early 400s, whether as hostile raiders or as allied federates – mercenaries that the Empire furnished with land and money in exchange for military service. These federates, though useful in a pinch, began to pose a long-term problem. Often unwilling to assimilate to Roman culture and law, they were functionally independent polities whose allegiances switched on a whim and were a massive drain on Rome's finances. Disgruntled federates could go rogue; the Visigoths , for example, even went so far as to sack Rome in 410 and seize much of Gaul (modern France). As the 5th century progressed, Rome faced a new threat: the Hunnic Empire – a massive confederation of Germanic, Alanic, and Hunnic people-groups – had established itself in Pannonia and Germania and began consistently raiding Roman borders. This rival reached its apogee under Attila , who pillaged much of both Eastern and Western Empires before marching on northern Italy and nearly sacking Rome. Contemporary sources credit the sitting Pope, Leo I , with intervening and convincing Attila to turn away – although famine and plague in his armies as the campaign wore on were likely more stirring factors than the threat of divine retribution. After Attila's death in 453 CE, the Hunnic Empire fragmented, shattering the balance of power between the Hunnic confederation and Rome and its few Germanic allies. Ineffectual rulers, a collapsing economy, and dwindling military manpower made the less defensible and poorer Western Roman Empire unable to prevent invading groups from tearing away Imperial territory. While the Vandals seized the Empire's breadbasket in North Africa, ambitious barbarian generals flexed their muscles on the imperial court. Finally, a Germanic chieftain, Odoacer, deposed the last Western Roman Emperor in 476, ending the era of Roman rule in the West. ”
+
+Portrayal[]
+
+“ In game, the Romans date back to about 395 C.E., making them contemporaries with the Goths , Celts , Britons , Franks , Persians , etc. By this period in Late Antiquity and Early Middle Ages – Rome was a crumbling shadow of its former glory. Plagued by an inability to pay its soldiers, lack of manpower, and its older fortifications in disrepair, they could not face the invasions of their former provinces or fend off attacks closer to home. By the time of Attila , Rome simply couldn't field any large armies of note, and relied on Germanic tribes to guard their frontiers, but those tribes often went rogue and became as enemies instead. The old Roman-controlled area was inundated with an influx of different peoples who settled the land, bringing their own culture and customs, annihilating the old Roman ways. By the end, Rome could not overcome a collapsing economy, loss of manpower, an inability to pay troops, plus bad leadership. When the "official" end in 476 came with the ousting of the last Roman emperor by a Germanic king, the Roman Empire had already silently melted away. ” — [2]
+
+Trivia[]
+
+While they were made available to content creators in ranked play with the content creator preview, upon release, the Romans were initially be playable only in singleplayer and unranked multiplayer games.[2] On May 26, 2023, it was announced that they would be made available in ranked as well in June 2023.[3] On June 28, 2023, accompanying update 87863, the Romans were made available on the ranked ladder.
+Before this update, it was also impossible to get them via the random civilization option on unranked multiplayer.
+
+The Roman civilization icon (Aquila-engraved shield) is based on shield insignias used by the Palatini royal guard (which replaced the Praetorians) of the late Western Roman Empire.[4]
+
+The user interface image portrays the full-length marble statue of the first Roman Emperor, Augustus Caesar, dated to 1st Century AD.
+
+This civilization is the fourth Roman civilization in the franchise, after the Romans of the original Age of Empires, the Byzantines in Age of Empires II, and the Romans of Age of Empires Online.
+
+The Romans in Age of Empires II share many strengths and weaknesses with their counterpart from the first game, as both have relatively strong infantry, navy, and siege with decent cavalry. Much like their Age of Empires counterpart, the Romans in Age of Empires II also have relatively weak Archery Range unit options.
+In addition, the Romans in Age of Empires II use the same civilization music theme as their counterparts of the first game.
+
+The model of the Wonder is reused from the Amphitheatre, whereas a distinct building called the Colosseum also exists in the game.
+
+The model of the Castle resembles a pair of Gatehouses of Castra connected by ramparts, with one gatehouse having a pair of towers with rounded walls on the outside, and the other gatehouse having a pair of rectangular towers.[5] Such Castles can be found all across Europe, especially at distant frontiers of the Empire, such as in Britannia (England) along Hadrian's Wall, in Hispania (Spain), in Germania (Germany), etc.
+
+The music theme features a Graeco-Roman bagpipe-like instrument in the beginning called an Aulos/tibia. It shares this theme with the Romans from the original game, as both themes were introduced simultaneously.
+
+Pope Leo I is the only hero available in the Scenario Editor who is themed on the (western) Romans.
+
+Gallery[]
+
+The Wonder of the Romans, the 
+
+Colosseum
+
+The unique Castle of the Romans, based on Gatehouses of "Castrum stativa" (permanent Roman fortresses) built by the late Roman Empire all across Europe.
+
+Official showcase
+
+The Mediterranean 
+
+architecture set the Romans share with the
+
+Armenians,
+
+Georgians,
+
+Byzantines,
+
+Italians,
+
+Portuguese,
+
+Spanish and
+
+Sicilians.
+
+Roman user interface image
+
+A section of the city of Rome seen in The Giant Falls
+
+A portion of the Roman army under Aetius in A Barbarian Betrothal
+
+Rectangular towers of the gatehouse of Arbeia Roman Fort (Castellum), 160 AD, in modern day South Shields, England
+
+Towers rounded on one side, gatehouse of Biriciana Roman Fort (Castrum), 90 AD, in modern day Weissenburg, Germany
+
+Statue of Roman Emperor Augustus Caesar, 1st century AD
+
+Roman Legionaries, Centurion, and Castle in an official post
+
+Roman overview (AoE2)
+
+References[]
+
+↑ https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/romans
+
+↑ Jump up to: 2.0 2.1 Return of Rome: Everything You Need to Know
+
+↑ Looking at the Month Ahead for Age II: DE
+
+↑ Symbols of the Senior Jovians
+
+↑ Roman Fort Encyclopaedia
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+European civilizations
+
+Return of Rome (Age of Empires II)
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

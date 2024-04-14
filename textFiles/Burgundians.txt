@@ -1,0 +1,529 @@
+This page is all about the Burgundians
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Lords of the West
+3.2 Dawn of the Dukes
+3.3 Dynasties of India
+
+4 Campaign appearances
+
+4.1 Joan of Arc
+4.2 Barbarossa
+4.3 Attila the Hun
+4.4 The Grand Dukes of the West
+4.5 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+European civilizations,
+
+Lords of the West
+
+
+			English
+
+Español
+
+Burgundians
+
+42
+
+Edit
+
+Edit source
+
+View history
+
+Talk (10)
+
+Civilization Technology tree Strategy
+
+Burgundians
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: Definitive Edition - Lords of the West
+
+Architecture
+
+Western European
+
+Continent
+
+Europe
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_theme_new_AoE2_DE.ogg
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_theme_AoE2_DE.ogg
+
+update 47820)
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_jingle_AoE2_DE.ogg
+
+Features/Characteristics
+
+Focus
+
+Cavalry
+
+Unique units
+
+Coustillier
+
+Flemish Militia
+
+Unique technologies
+
+Burgundian Vineyards
+
+Flemish Revolution
+
+“ Rise from a mere duchy to the marvel of Western Europe through economic might, cultural achievement, and the use of advanced military technology and tactics. The Burgundian unique unit is the Coustillier, a cavalry unit that utilizes a powerful shock attack when charging into battle. ” —Description [1]
+
+The Burgundians are a Western European civilization introduced in Age of Empires II: Definitive Edition - Lords of the West based on the Duchy of Burgundy in eastern France and the Burgundian state which additionally included parts of northern France and most of the Low Countries (present-day Netherlands, Belgium, and Luxembourg). In the game, they focus on cavalry.
+
+Burgundian successor states appear in Age of Empires III as Spanish and Dutch.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Lords of the West
+3.2 Dawn of the Dukes
+3.3 Dynasties of India
+
+4 Campaign appearances
+
+4.1 Joan of Arc
+4.2 Barbarossa
+4.3 Attila the Hun
+4.4 The Grand Dukes of the West
+4.5 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+Characteristics[]
+
+Unique unit[]
+
+Coustillier: Cavalry unit that can charge its attack over time.
+
+Flemish Militia: Infantry unit with a bonus vs cavalry; can only be obtained first via the Flemish Revolution technology.
+
+Unique technologies[]
+
+Burgundian Vineyards: Farmers slowly generate gold in addition to food.[note 1]
+
+Flemish Revolution: Upgrades all existing Villagers to Flemish Militia, and allows the training of Flemish Militia at Barracks.
+
+Civilization bonuses[]
+
+Economic upgrades (except Coinage and Banking)[note 2] cost -33% food and are available one Age earlier than other civilizations.
+
+Stable technologies are 50% cheaper. Cavalier upgrade available in the Castle Age.
+
+Gunpowder units gain +25% attack.[note 3]
+
+Team bonus[]
+
+Relics generate 0.5 food/s in addition to gold.
+
+Overview[]
+
+The Burgundians are a cavalry civilization. They have prominent cavalry units such as Hussars, Paladins, and their unique unit, the Coustillier. The Coustillier can charge its attack, which allows it to deal incredible amounts of damage, and they can then run away and rebuild their charge. Their cheaper Scout and Knight line upgrades will make them easier to fully upgrade, especially the expensive Paladin upgrade. In addition to this, they have access to the Cavalier in the Castle Age, granting them arguably the strongest Knight rush in the game. Adding on to their cavalry strengths is their economy, as they can research all economic upgrades one Age earlier with 2/3rds the food price normally required, giving them a slow but incredible economy. Later on, Burgundian Vineyards gives them a slow but guaranteed gold trickle once researched.
+
+Outside of their cavalry and economy, the Burgundians have a few notable options. Their infantry are respectable, with only Supplies and Gambeseons missing. With Flemish Revolution, their Villagers turn into Flemish Militia, which function like Two-Handed Swordsman with a bonus to cavalry; the upgrade gives the Burgundians a massive power spike. Their Hand Cannoneers, Bombard Cannons, and Cannon Galleons are much more effective with a 25% damage modifier that even applies to bonus damage. Their Monastery is decent, but it lacks Heresy and Theocracy. Their defense is nearly perfect, with all technologies available except Heated Shot, and Flemish Revolution is a trump card that can reverse a losing situation.
+
+As strong as the Burgundians are, they have several notable weaknesses. Burgundian cavalry lacks Bloodlines, so they can fall behind in the later stages of the game. While Flemish Revolution is an infamous power-spike, it also can kill a player's economy if used poorly. Their archer units are weak, lacking not only Arbalesters and Heavy Cavalry Archers, but also Thumb Ring, Parthian Tactics and Ring Archer Armor. Their siege weapons are also underwhelming without any final upgrades or Siege Engineers. Their navy is also somewhat lacking, missing Dry Dock, Heavy Demolition Ships, and Shipwright.
+
+Overall, the Burgundians run hot and cold: if they can get to their mighty economy and cavalry they can defeat any civilization in the game, but if they cannot they tend to fail. They are a civilization that prospers when they can play slow, but can struggle against a fast opponent. The Burgundians are a complex and difficult civilization to pick up, as they need to hit their power spikes at the right time to have an advantage over their opponent.
+
+Changelog[]
+
+Lords of the West[]
+
+Originally, Coustilliers' charge attack dealt 35 damage (40 for Elite) and dealt double damage against units (bug) with the archer armor class. With hotfix 45185, it dealt 25 damage (30 for Elite) and no longer deals double damage against units with the Archer armor class.
+
+With update 47820, economic upgrades cost -50% food.
+
+Initially, Flemish Militia have +12 attack vs cavalry and +8 attack vs camels and ships. With update 47820, they have +8 attack vs cavalry and +6 attack vs camels and ships.
+
+Originally, Relics generated 20 food/min. With update 47820, Relics generate 30 food/min.
+
+Originally, Burgundian Vineyards converted all food into gold, and around 44 farmers generated 1 gold per second. With update 47820, only half of the food is converted into gold, and around 33 farmers generate 1 gold per second (buffing the gold generation by 33%).
+
+Initially, Flemish Militia have +2 damage vs standard buildings. With update 50292, this bonus was removed.
+
+Initially, Flemish Revolution costs 800 food, 450 gold. With update 50292, it costs 1,200 food, 650 gold.
+
+Flemish Militia cost 60 food, 25 gold, are trained at the Town Center, have 75 hit points, 12 attack, and 1 pierce armor.
+
+Dawn of the Dukes[]
+
+With update 54480, Burgundian Vineyards: No longer converts half of the food stockpile to gold. Still enables Farmers to generate a small trickle of gold.
+
+Dynasties of India[]
+
+With update 66692, economic technologies cost -40% food. With update 78174, economic technologies cost -33% food.
+
+With update 66692, Coustilliers' charge attack now deals 20 damage (25 for Elite).
+
+With update 81058, Flemish Militia cost 50 food, 15 gold, are trained at the Barracks, have 60 hit points, 11 attack, and 0 pierce armor.
+
+With update 81058, Flemish Revolution costs (200 + 10n) food, (150 + 5n) gold, where n is number of Villagers converted.
+
+Campaign appearances[]
+
+The Burgundians have a campaign devoted to their civilization: The Grand Dukes of the West. They also appear in:
+
+Joan of Arc[]
+
+All scenarios except The Rising
+Burgundy - Enemy
+
+Barbarossa[]
+
+Holy Roman Emperor
+Burgundy - Enemy
+
+Attila the Hun[]
+
+A Barbarian Betrothal
+Burgundy - Enemy → Ally
+
+The Grand Dukes of the West[]
+
+This campaign is played as the Burgundians.
+
+Unholy Marriage and The Hook and Cod Wars
+Jacqueline of Hainaut - Enemy
+
+The Maid Falls
+Margny - Ally
+
+Victors and Vanquished[]
+
+Robert
+Burgundy - Ally → Potential enemy
+
+Otto
+Lotharingia - Ally → Potential enemy
+
+In-game dialogue language[]
+
+The Burgundian units speak their namesake (Burgundian: Bregognon, French: Bourguignon). It is an Oïl language spoken in Burgundy and particularly in the Morvan area of the region.
+
+There is also an East Germanic language called Burgundian, but it went extinct in the 6th century, and the in-game Burgundians are more representative of the late medieval Duchy of Burgundy.
+
+The Bourguignon language varies by region, especially the vocabulary spelling, and the form that fits the in-game dialog should be selected. For example, Jo/Jou/Ju/I/Y is the person singular pronoun in Bourguignon, cognates Je in French. Both I and Y are acceptable here, choosing I as it is more commonly used.
+
+Different voice actors pronounce the same words differently, even mispronouncing them. For example, syllable a in French sometimes cognates ai in Bourguignon, "I hunt" is more commonly pronounced as I chaisse rather I chasse. A similar principle can be applied to the words Attaque, Avance and Armes.
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Male_Select_1_AoE2.ogg Select 1 Sì – Yes
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Male_Select_2_AoE2.ogg Select 2 Bonjôr - Good day
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Male_Select_3_AoE2.ogg Select 3 Prât – Ready
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Male_Select_4_AoE2.ogg Select 4 Vous ordes? - Your order? (Probably mispronounced "ordres")
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Male_Task_1_AoE2.ogg Task 1 Sì – Yes
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Male_Task_2_AoE2.ogg Task 2 I compris – I understood (Elliptical phrase of I'ais compris)
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Male_Task_3_AoE2.ogg Task 3 I vais – I go
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Male_Task_4_AoE2.ogg Task 4 Immédiatement– Immediately
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Male_Build_AoE2.ogg Build I bâtis - I build
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Male_Chop_AoE2.ogg Chop I beûche du bô – I cut wood
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Male_Farm_AoE2.ogg Farm I cultive – I farm
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Male_Fish_AoE2.ogg Fish I pêche – I fish
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Male_Forage_AoE2.ogg Forage I recueille – I gather
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Male_Hunt_AoE2.ogg Hunt I chasse – I hunt
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Male_Mine_AoE2.ogg Mine I mine – I mine
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burgundians_Villager_Male_Repair_AoE2.ogg Repair I reparai – I repair
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Soldier_Select_1_AoE2.ogg Select 1 Sì? – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Soldier_Select_2_AoE2.ogg Select 2 À vous sarvice – At Your service
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Soldier_Select_3_AoE2.ogg Select 3 Vous ordes? – Your command?
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Soldier_Move_1_AoE2.ogg Move 1 I compris - I understood
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Soldier_Move_2_AoE2.ogg Move 2 I vais – I go
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Soldier_Move_3_AoE2.ogg Move 3 Sì monsieur – Yes Sir
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Soldier_Attack_1_AoE2.ogg Attack 1 Attaque – Attack!
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Soldier_Attack_2_AoE2.ogg Attack 2 Avance – Forward!
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Soldier_Attack_3_AoE2.ogg Attack 3 Armes – To arms!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Monk_Select_1_AoE2.ogg Select 1 Sì? – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Monk_Select_2_AoE2.ogg Select 2 Vous ordes? – Your command?
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Monk_Select_3_AoE2.ogg Select 3 À vous sarvice – At Your service
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Monk_Select_4_AoE2.ogg Select 4 À nom Dieu – In the name of the God
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Monk_Move_1_AoE2.ogg Move 1 I vais – I go
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Monk_Move_2_AoE2.ogg Move 2 Sì – Yes
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Monk_Move_3_AoE2.ogg Move 3 Bon – Well (In the sense of I understood)
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_Monk_Move_4_AoE2.ogg Move 4 Immédiatement – Immediately
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_King_Select_1_AoE2.ogg Select 1 Vois là – Look there
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_King_Select_2_AoE2.ogg Select 2 Quoi voules vous? – What do you desire?
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_King_Select_3_AoE2.ogg Select 3 Pourquoi me treuibles vous? – Why are you bothering me?
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_King_Select_4_AoE2.ogg Select 4 I seu iluec  – I am here (Iluec is an archaic word for "here")
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_King_Move_1_AoE2.ogg Move 1 I ferai quei vous me demandais – I will do what you're asking me
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_King_Move_2_AoE2.ogg Move 2 Per ma grâce – By my grace
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_King_Move_3_AoE2.ogg Move 3 Come vous demanda – As you requested
+
+https://ageofempires.fandom.com/wiki/File:Burgundians_King_Move_4_AoE2.ogg Move 4 I ferai – I will do
+
+Sources used (noted all sources are in French except wiki):
+
+Glossaire du Morvan by Eugene de Chambure
+
+Lexique du langage populaire de Mâcon et des environs by Léonce Lex and Laurent Jacquelot
+
+Le patois Bourguignon by Anatole Perrault-Dabot
+
+Vocabulaire patois de Sainte-Sabine by Jacques Denizot in Mémoires de la Société d'archéologie de Beaune (1909)
+
+Dictionnaire de patois de Mancey by Charles Millot
+
+Bourguignon Language Wiki Page
+
+French-Bourguignon Translation Tool
+
+French-Bourguignon Online Dictionary
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Burgundian AI characters:
+
+Charles the Bold: He was the Duke of Burgundy from 1467 to 1477. His main objective was to be crowned king by turning the growing Burgundian State into a territorially continuous kingdom. He declared himself and his lands independent, bought Upper Alsace and conquered Zutphen, Guelders and Lorraine, uniting at last Burgundian northern and southern possessions. This caused the enmity of several European powers and triggered the Burgundian Wars. He was killed in the Battle of Nancy which resulted in the dissolution of the Burgundian State.
+
+Eudes the Red (1060-1102): Also known as Odo I, Eudes the Red, Duke of Burgundy, participated in the French expedition to the Iberian peninsula, started after the Battle of Sagrajas and ending with little accomplished in the failed Siege of Tudela in 1087. Later, he participated in the Crusade of 1101, where he died, while in Asia Minor, in 1101.
+
+Gundaharius (died 437): Better known by his legendary names Gunther (Middle High German: Gunther) or Gunnar (Old Norse: Gunnarr), he was a historical king of Burgundy in the early 5th century.
+
+Gundobad (c. 452 – 516 AD): Gundobad (Latin: Flavius Gundobadus; French: Gondebaud, Gondovald) was King of the Burgundians (473 – 516), succeeding his father Gundioc of Burgundy. Previous to this, he had been a Patrician of the moribund Western Roman Empire in 472 – 473, three years before its collapse, succeeding his uncle Ricimer. He is perhaps best known today as the probable issuer of the Lex Burgundionum legal codes, which synthesized Roman law with ancient Germanic customs. He was the husband of Caretene.
+
+Gundomar: Gundomar I (also Gundimar, Godomar, or Godemar) was eldest son and successor of Gebicca, King of the Burgundians. He succeeded his father in 406 or 407 and reigned until 411. He was succeeded by his brother Giselher.
+
+Gunderic (c. 420-473): Also known as Gundioc, he was the first King of the Burgundians after their settlement in Gaul. Not to be confused with Gunderic (379–428), king of Hasding Vandals and Alans.
+
+John the Fearless (28 May 1371 – 10 September 1419): He was a scion of the French royal family who ruled the Burgundian State from 1404 until his death in 1419. He played a key role in French national affairs during the early 15th century, particularly in the struggles to rule the country for the mentally ill King Charles VI, his cousin, and the Hundred Years' War with England. A rash, ruthless and unscrupulous politician, John murdered the King's brother, the Duke of Orléans, in an attempt to gain control of the government, which led to the eruption of the Armagnac–Burgundian Civil War in France and in turn culminated in his own assassination in 1419.
+
+Odo IV of Burgundy (1295 – 3 April 1349): Odo IV or Eudes IV was Duke of Burgundy from 1315 until his death and Count of Burgundy and Artois between 1330 and 1347. He was the second son of Duke Robert II and Agnes of France.
+
+Philip the Bold (17 January 1342 – 27 April 1404): First Duke of Valois–Burgundy, son of the French King John II. He was fiefed the Duchy of Burgundy for ransoming his father. Due to his marriage, he acquired the territory of Flanders, which include nowadays Northern France, Belgium, and Southern Netherlands.
+
+Philip the Good (31 July 1396 – 15 June 1467): He was Duke of Burgundy from 1419 until his death. He was a member of a cadet line of the Valois dynasty, to which all 15th-century kings of France belonged. During his reign, the Burgundian State reached the apex of its prosperity and prestige, and became a leading centre of the arts
+
+Richard the Justiciar (858–921): Richard, Duke of Burgundy, also known as Richard of Autun or Richard the Justiciar, was Count of Autun from 880 and the first Margrave and Duke of Burgundy. He eventually attained suzerainty over all the counties of Burgundy save Mâcon and by 890 he was referred to as dux (duke) and by 900 as marchio (margrave). By 918 he was being called dux Burgundionem or dux Burgundiae, which probably signified less the existence of a unified Burgundian dukedom than feudal suzerainty over a multiplicity of counties in a specific region.
+
+Robert II of Burgundy (1248 – 21 March 1306): Robert II of Burgundy was Duke of Burgundy between 1272 and 1306. Robert was the third son of duke Hugh IV and Yolande of Dreux.
+
+Robert the Old (1011 – 21 March 1076): He was Duke of Burgundy from 1032 to his death. Robert was the son of King Robert II of France and Constance of Arles. His brother was Henry I of France.
+
+History[]
+
+“ Around the turn of the 5th century AD, the vast Roman Empire was unable to prevent the irruption of hostile Germanic tribes into its territory. One such group, the Burgundians, crossed the Rhine into Gaul and became established as Roman federates by 411. Peace did not hold, however, and around 437 the Romans employed Hunnic mercenaries against their former allies. Many Burgundians and their king, Gundaharius, were slaughtered, an event immortalized in Germanic epic works such as the Poetic Edda, Völsunga saga, and the Nibelungenlied. The following century was a tumultuous one. As the Hunnic and Western Roman empires fell into ruin, the surviving Burgundians carved out another kingdom along the upper Rhône River. This polity rose to prominence under Gundobad (452-516), a devout Christian who was most famous for enacting a law code reconciling Germanic tribal norms with Roman legal concepts. Gundobad's sons, however, could not resist the incursions of their aggressive Merovingian Frankish neighbors, and the kingdom was overrun by the Franks by 534. With the collapse of the Carolingian Frankish Empire in the 9th century, central authority gave way to local magnates who largely ruled independent polities, even if nominally under the authority of the king. One of these, Duke Richard the Justiciar (858-921), managed to increase his power so considerably that his son Rudolph was even elected King of France in 923. As the Capetian kings created a powerful ruling dynasty in France, the Duchy of Burgundy retained a position of power and prominence, but nevertheless subordination. Over the next several centuries, the dukes of Burgundy endeavored to aggrandize themselves as much as possible through shrewd diplomacy and capable management of their domains. A vibrant monastic culture blossomed under Burgundian patronage; many of these monasteries became centers of learning and viticulture, a tradition that exists in the region to the modern day. As a crossroads between the medieval states in modern-day France, Spain, Italy, and Germany, Burgundy enjoyed a powerful position in inter-regional trade and commerce. The Duchy of Burgundy reached its zenith during the 14th and 15th centuries under a series of powerful dukes known as the House of Valois-Burgundy. Through marriage, Duke Philip the Bold (1342-1404) acquired influence in Flanders, a region famed for its lucrative maritime, wool, and textile trades, but troublesome due to the independent tendencies of its cities. Philip's son, John the Fearless (1371-1419), violently expanded Burgundian influence in the Low Countries, but primarily occupied himself with a bloody civil war against the Armagnacs, a faction of French dukes competing with Burgundy for influence in the French royal court. The conflict culminated in John's seizure of Paris, but John was assassinated by his rivals immediately thereafter. By this time, the Hundred Years' War was in full-swing, with the English also threatening French royal sovereignty and claiming the crown. In response to John's murder, his successor, Philip the Good (1396-1467), did the previously unthinkable and allied himself with the English while greatly expanding his control over several counties and duchies in the Low Countries. As duke, Philip was known as a shrewd diplomat, an effective military expansionist, and an opportunistic, charismatic ruler who paired martial and political prowess with cultural patronage and economic growth. Burgundian wealth reached opulence, and Philip's affinity for foreign–-particularly Flemish and Italian-–art and other luxuries had a considerable influence on other European courts. Philip also famously captured the French heroine Joan of Arc and sold her to the English in 1430; subsequently, in 1435 he reneged on his alliance with the English and turned coat to support the French king. The Burgundian military enjoyed great success during this period due to its willingness to employ cutting-edge technology and tactics. Burgundian dukes used early artillery and firearms to deadly effect, and their armies were largely composed of professional forces as well. Mobile armed retinues of knights including the coustilliers , versatile medium cavalry who supported mounted knights in battle, formed a deadly complement to the rest of the army. This powerful military engendered the delusion of kingship in Philip's successor, Charles the Bold (1433-1477), whose belligerent nature threatened all of his neighbors. A failed invasion of the Swiss Confederacy culminated in his death in 1477, however, and he died without a male heir. Following his death, Burgundy was divided between the French crown, which claimed its lands, and the Holy Roman Emperor Maximilian of Habsburg, who married Philip's daughter Mary. ” — [1]
+
+Trivia[]
+
+The Burgundian civilization icon is a shield bearing the Cross of Burgundy, a symbol adopted by the Duchy of Burgundy for their troops in the early 15th century, though the actual arms of Burgundy were diagonal blue and gold stripes. The Cross was probably chosen by developers because the latter is too similar to the Hauteville arms used by the Sicilians.
+Due to dynastic marriages, Duchy and Cross were inherited by Holy Roman Emperor Charles V and then by his son, Philip II of Spain, in the 16th century. This is why the Cross of Burgundy is the Spanish flag in Age of Empires III.
+
+The user interface image displays the coat of arms of the House of Valois-Burgundy that ruled the Duchy of Burgundy from 1363 to 1482 and later came to rule vast lands including Artois, Flanders, Luxembourg, Hainaut, the county palatine of Burgundy (Franche-Comté), and other lands through marriage, forming what is now known as the Burgundian State.
+The Burgundian state was also one of the first States that unified the Netherlands into a single political entity. From the unified Netherlands under the Spanish and the Austrians would break free the Dutch Republic and eventually the Belgian state. However, apart from Elite Cannon Galleons which have more attack and earlier Gillnets, they do not have an excellent navy or great economy in the water.
+
+The Cross of Burgundy is sewn into the jacket of the Burgundians' first unique unit, the Coustillier.
+
+When initially announced, the Flemish Militia was known as the Flemish Pikeman and they originally had fallen Knights returning 50% of their gold cost as a civilization bonus. It was removed, possibly due to balance reasons, while the cheaper Stable technologies, Cavalier upgrade in the Castle Age, and Gunpowder units with 25% extra attack were added at launch. The Castle Age unique technology, Burgundian Vineyards, only converted food into gold. They also lacked Hussar, Elite Cannon Galleon, Two-Man Saw, and Stone Shaft Mining. The Coustillier also cost 10 less gold. Flemish Revolution only transformed all Villagers as the only effect, and was researched slower.
+
+Having access to Cavaliers in the Castle Age, the Burgundians are one of four civilizations which have access to a generic unit earlier than any other civilization, the other three being the Bohemians, Cumans and Armenians (Hand Cannoneer, Battering/Capped Ram, and generic Infantry respectively).
+
+The Burgundians are the only Western European civilization that have all gunpowder units and the Bombard Tower. They are also the only Western European civilization to have Redemption and Atonement, which make their Monks comparably usable in their building style. Also, they are the only civilization not introduced in The Age of Kings that get access to all economic technologies.
+They are also the only civilization having all gunpowder units and Bombard Tower, but none of them can be fully upgraded.
+
+The Burgundians were represented by the Franks in the campaigns before Lords of the West was released.
+
+The Burgundian AI players are always the enemy of the player in all of the campaign scenarios, except for the fourth Attila the Hun scenario, where they can potentially become the player's ally.
+
+The Burgundians are somewhat similar to Lithuanians. Both have bonus to their cavalry units, and their Castle unique units are both cavalry with powerful performance in melee. Both have good Monks and to some extent, they rely on Relics to get an advantage. Their infantry and archer units are average (Burgundians have usable Barracks while Lithuanians have usable Archery Range). Their siege weapons are all simply terrible, and they have a lackluster navy. Their economy and defense are both perfect, and similarly, they are the only civilizations with all gunpowder units in their own building sets.
+
+Despite the controversy about the double attack of the Coustillier against archer units and the better charge attack at release, the Burgundians were among the weakest civilizations when first released. Their win rates were among the lowest in the game, mostly because their earlier economic technologies came with the drawback of cost, which is very high to be researched one age earlier. This is very punishing to the player to use properly. This explains why from update 47820, the economic upgrades cost 50% less food. The similar situation is the Cuman double Town Center, though the latter have the protection of their economy circle. After the addition bonus to their economic technologies, they are one of the most powerful civilizations, as they can save a lot of food to research their advanced economic technologies, which will be more efficient for their Villagers at the same age, which may even be the best of the game. This, combined with the buffed team bonus, Burgundian Vineyards unique technology, and a wide technology tree, can make them a powerful civilization. However, after raising the price of Flemish Revolution and reducing the attack bonus against buildings for Flemish Militia, the Burgundians are now an average civilization in 1vs1 matches. The adjustment makes them less viable throughout the Revolution to boost a lot of military units, but still remains a controversial unique technology. Nevertheless, they still work well in team games, especially in closed maps. However, at higher levels, the Burgundians became one of the strongest civilizations for most land maps and commonly banned in tournaments. This was due to the extremely effective economy that can be gained in with the cheaper and earlier access to economic technologies, as well as accessible Stable technologies and overall strong units for Imperial Age. The Coustilier can also do lots of damage without many disadvantages. Because of this, the food discount on economic upgrades was reduced, as was the charge attack of the Coustilier, to give more chances to deal with it.
+
+The Burgundians have some of the most powerful economic bonuses, which may even be superior to the Vikings', who get free Wheelbarrow and Hand Cart. However, the Burgundians have a sub-optimal win rate against the latter, possibly because of Chieftains.
+
+The Burgundians have the worst Cavalry Archers, as they are the only civilization lacking Bloodlines, Thumb Ring and Heavy Cavalry Archer.
+
+The Burgundians are the only civilization having access to Paladin but not Heresy.
+
+The Burgundians are now the last civilization introduced with access to Paladin. They are also the last civilization using the original game building set.
+
+The Burgundians are the only civilization in the game that lack Bloodlines for their Paladin and Hussar, but have all other upgrades for them. However, they lack regional Stable units (i.e. Camel Rider, Steppe Lancer, and Battle Elephant) and have unusable mounted archers.
+
+The following heroes available in the Scenario Editor are themed on the Burgundians: Jacqueline of Hainaut, John the Fearless, and Philip the Good.
+
+Although being assimilated before the Age of Empires III timeline, one of their descendants, the Dutch, play a similar role, with a complex economy and gunpowder as one of their selling points. Also, both have very effective ways of countering cavalry, since the former have Flemish Militia while the latter have good infantry. Additionally, the Dutch can create Banks to get coin, while the Burgundians can collect gold by researching Burgundian Vineyards. Last but not least, both civilizations have weak military in the early game.
+
+Gallery[]
+
+The Burgundian 
+
+Wonder,
+
+Hôtel de Ville, Brussels
+
+Official preview
+
+The Western European 
+
+architecture set the Burgundians share with the
+
+Britons,
+
+Celts and
+
+Franks
+
+Unique Burgundian Castle: 
+
+Beersel Castle
+
+Burgundians user interface image
+
+Burgundian overview (AoE2)
+
+Notes[]
+
+↑ Farmers generate 0.017 gold per second while in gathering animation, or roughly 0.014 gold per second with no upgrades and 0.017 gold per second with full upgrades (Heavy Plow, Wheelbarrow, and Hand Cart).
+
+↑ The affected technologies are:
+ Wheelbarrow →  Hand Cart
+ Horse Collar →  Heavy Plow →  Crop Rotation
+ Double-Bit Axe →  Bow Saw →  Two-Man Saw
+ Gold Mining →  Gold Shaft Mining
+ Stone Mining →  Stone Shaft Mining
+ Caravan
+ Guilds
+ Gillnets
+
+↑ The bonus modifies all existing attack classes of the unit (e.g. Hand Cannoneer receives ×1.25 attack multiplier towards its pierce damage, anti-infantry damage, and anti-spearman damage). For more details, see Armor class (Age of Empires II).
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/burgundians
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+European civilizations
+
+Lords of the West
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

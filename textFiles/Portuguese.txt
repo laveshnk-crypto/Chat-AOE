@@ -1,0 +1,558 @@
+This page is all about the Portuguese
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique technologies
+1.3 Unique building
+1.4 Civilization bonuses
+1.5 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The African Kingdoms
+3.2 Rise of the Rajas
+3.3 Definitive Edition
+3.4 Lords of the West
+3.5 Dawn of the Dukes
+3.6 Dynasties of India
+3.7 Return of Rome
+
+4 Campaign appearances
+
+4.1 Bayinnaung
+4.2 Sforza (Definitive Edition)
+4.3 Francisco de Almeida
+4.4 Babur
+4.5 Ismail
+4.6 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+European civilizations,
+
+The African Kingdoms
+
+
+			English
+
+Español
+
+Portuguese (Age of Empires II)
+
+45
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+This article is about the civilization in Age of Empires II HD: The African Kingdoms . For other appearances of the faction in the series , see Portuguese .
+
+Civilization Technology tree Strategy
+
+Portuguese
+
+Civilization information
+
+Introduced in
+
+Age of Empires II HD: The African Kingdoms
+
+Architecture
+
+Mediterranean
+
+Continent
+
+Europe (southwestern)
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Navy
+
+Gunpowder units
+
+Unique units
+
+Organ Gun
+
+Caravel
+
+Unique technologies
+
+Carrack
+
+Arquebus
+
+Unique buildings
+
+Feitoria
+
+“ On the western edge of Europe, a resilient principality slowly grew into one of the greatest maritime powers of all time. Set sail on mighty Caravels and Carracks, discover new routes to unknown lands, and expand your trade routes to the mighty African empires. Construct Feitorias in faraway settlements and use your newly acquired riches to outfit your armies with the deadly arquebus! The Portuguese unique unit is the Organ Gun, an artillery piece that fires a volley of bullets in a lethal spread. ” —Description [1]
+
+The Portuguese are a Mediterranean civilization introduced in Age of Empires II HD: The African Kingdoms based on the kingdom of the same name in the western Iberian peninsula neighboring the Spanish. They focus on navy and gunpowder units.
+
+The Portuguese also appear in Age of Empires III, which shares the same characteristic of their Age of Empires II counterpart of having strong ranged units and navy with a solid economy.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique technologies
+1.3 Unique building
+1.4 Civilization bonuses
+1.5 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The African Kingdoms
+3.2 Rise of the Rajas
+3.3 Definitive Edition
+3.4 Lords of the West
+3.5 Dawn of the Dukes
+3.6 Dynasties of India
+3.7 Return of Rome
+
+4 Campaign appearances
+
+4.1 Bayinnaung
+4.2 Sforza (Definitive Edition)
+4.3 Francisco de Almeida
+4.4 Babur
+4.5 Ismail
+4.6 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+Characteristics[]
+
+Unique units[]
+
+Organ Gun: Gunpowder siege unit.
+
+Caravel: Warship that can damage multiple ships in a straight line, like the Scorpion.
+
+Unique technologies[]
+
+Carrack: Gives ships +1/+1 armor.
+
+Arquebus: Increases the accuracy of gunpowder units when firing at moving targets.
+
+Unique building[]
+
+Feitoria: Slowly generates resources.
+
+Civilization bonuses[]
+
+All units cost –20% gold.
+
+All ships have +10% hit points.
+
+Foragers generate wood in addition to food (0.33 wood per food).
+
+Team bonus[]
+
+All technologies (excluding Age ups) research 25% faster.
+
+Overview[]
+
+As a naval civilization, the Portuguese have one of the best navies. Their ships are more durable due to their +10% hit points civilization bonus and Carrack's +1/+1 armor. Additionally, their ships are more cost-effective, with a -20% gold that extends to the rest of their units. The Portuguese also have access to the Caravel, which can be a powerful asset in large naval engagements as it is capable of damaging multiple ships simultaneously.
+
+On the land, the Portuguese excel in diversity, fielding a versatile army. Their foot archers have access to every upgrade, their infantry only miss out on Squires, and their cavalry have every technology. Their flexibility is tied together by their -20% gold discount on every military unit. The gunpowder units deserve a special mention for the Portuguese as they can all be fully upgraded and receive a comrade-in-arms with the Organ Gun and an important accuracy boost with Arquebus. Their Monks are very good, lacking only Illumination. Again, the gold discount comes in handy here as these units are all very gold-intensive. The defensive structures rank above average, lacking only Arrowslits.
+
+The Portuguese economy is strong in both the early and late games. In the early game, their foragers generate 0.33 wood per food, giving them a boost to their early wood supplies. Later on, they have the Feitoria, which gives a continuous trickle of resources. It is a very useful building with a variety of use cases in any game mode, especially in maps with limited resources. Additionally, the Portuguese and their allies' technologies are researched 25% faster, enabling them to maintain a technological lead against other civilizations.
+
+However, the Portuguese do have some weaknesses. Their infantry sorely miss Squires, as it means they miss out on an important speed bonus. While their cavalry are well-rounded, the lack of final upgrades or any of the non-standard unit lines makes them underwhelming. Their Cavalry Archers cannot be upgraded and lack Parthian Tactics.
+
+Overall, the Portuguese is a very flexible civilization with a wide variety of strong units. Their naval strength is exceptional, while their land forces have a lot of versatility.
+
+Changelog[]
+
+The African Kingdoms[]
+
+With patch 4.8:
+Arrowslits is removed from the technology tree.
+Feitorias' wood cost was replaced with stone cost (250 wood → 250 stone)
+Feitoria food and wood trickles increased (0.7 food, 0.7 wood → 0.8 food, 0.8 wood per second); stone trickle decreased (0.45 stone → 0.25 stone per second).
+Organ Guns' minimum range increased (0 (None) → 1) and their anti-infantry attack bonus of +1 was removed.
+
+Rise of the Rajas[]
+
+Arquebus has a smaller effect on gunpowder units, the speed modifier is reduced by 75%.
+
+With patch 5.2, Arquebus's speed modifier for Bombard Cannons and Bombard Towers is removed (from +0.5).
+
+With patch 5.7:
+Arquebus's speed modifier for Bombard Cannons and Bombard Towers is +0.2.
+Organ Guns' secondary projectiles damage increased (1 → 2) on hit.
+Cartography was effectively removed from the game (now automatically researched after the construction of a Market). Before this update, the Portuguese acquired it for free from the Dark Age. However, the Portuguese team bonus still shares the LOS of all allies from the beginning of team games, while all other civilizations have to build a Market to share their LOS.
+
+Definitive Edition[]
+
+With update 35584, Feitorias' resource trickle is increased (0.8 food, 0.8 wood, 0.45 gold, 0.25 stone → 1.6 food, 1.0 wood, 0.7 gold, 0.3 stone per second).
+
+With update 39284, their unit gold discount increased (-15% gold → -20% gold).
+The Caravel cost was adjusted to retain a 34 gold cost after the discount.
+
+With update 42848, new civilization bonus: all technologies are researched 30% faster.
+
+Lords of the West[]
+
+With update 47820, Organ Gun's missed secondary projectiles deal 100% damage as well.
+
+Dawn of the Dukes[]
+
+With update 51737, Organ Guns' have a projectile speed increased (5.5 → 7.5).
+
+With update 54480, Feitorias' hit points decreased (5,200 → 2,700).
+
+Dynasties of India[]
+
+With update 61321:
+Feitorias' wood trickle decreased (1.0 wood → 0.7 wood per second); gold trickle increased (0.7 gold → 1.0 gold per second).
+Organ Guns are now resistant to armor-ignoring attacks, similarly to buildings.
+
+With update 73855:
+Since all teams in team games start with shared vision by default, their civilization bonus of faster research is made their team bonus, being reduced in the process (30% → 25% faster).
+New civilization bonus: Foragers generate 0.33 wood per food gathered.
+
+With update 81058:
+Organ Guns overhauled:
+Primary projectiles deal 16 (non-Elite)/20 (Elite → 7/9) damage. Secondary projectiles deal the same as the main projectile (from 2).
+It fires more projectiles (5 (both) → 6 (non-Elite)/7 (Elite)), accuracy reduced (50% → 0%), and dispersion reduced (0.75 → 0.25).
++1 bonus attack against Infantry added for Elite only, +1 bonus attack against Buildings added for both.
+The Elite Caravel upgrade was modified (750 food, 475 gold → 700 food, 525 gold).
+
+With hotfix 82587, Organ guns receive numerous fixes:
+Secondary projectiles of Organ Guns were removed, making all projectiles primary. This ensured that all projectiles would receive hill bonuses/penalties and that converted Elite Organ Guns would deal intended damage instead of the damage of unupgraded Organ Guns.
+Missed projectiles deal 100%.
+They fire less projectiles (6 (non-Elite)/7 (Elite) → 5/6) additional (but primary) projectiles, and dispersion is 0.6.
+Receive +1 attack against skirmishers.
+Fixed issues that prevented their projectiles from dispersing properly and caused their projectiles to pass between units without hitting them.
+
+Return of Rome[]
+
+With update 87863, Feitoria cost increased (250 gold, 250 stone → 350 gold, 300 stone).
+
+Campaign appearances[]
+
+The Portuguese have a campaign devoted to their civilization: Francisco de Almeida. They also appear in:
+
+Bayinnaung[]
+
+The Burmese Tigers
+Portuguese - Ally or Enemy
+
+The Old Tiger
+Portuguese - Enemy
+
+Sforza (Definitive Edition)[]
+
+Mercenaries and Masters, Blood and Betrayal
+Venetians - Enemy
+
+Viva Sforza!
+Venetians - Ally → Enemy
+
+Francisco de Almeida[]
+
+This campaign is played as the Portuguese.
+
+The Old World
+King Afonso's Army - Ally
+
+A Son's Blood
+Afonso's Armada - Ally → Neutral or Enemy
+
+Babur[]
+
+The Rajputs
+Portuguese - Enemy
+
+Ismail[]
+
+Alexander Safavi
+Alfonso de Albuquerque - Neutral → Ally
+
+Khata'i
+Alfonso de Albuquerque - Ally
+
+Victors and Vanquished[]
+
+Shimazu
+Nanban - Ally
+
+In-game dialogue language[]
+
+In-game, Portuguese units speak Modern Portuguese, though the in-game accent is not used by native Portuguese speakers, and has a very slight Brazilian tint.
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Male_Select_1_AoE2.ogg Select 1 Sim? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Male_Select_2_AoE2.ogg Select 2 Olá - Hello
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Male_Select_3_AoE2.ogg Select 3 Estou pronto - I'm ready (this is the masculine form; the female villagers should instead say "estou pronta")
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Male_Select_4_AoE2.ogg Select 4 Quais as vossas ordens? - What are your orders?
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Male_Task_1_AoE2.ogg Task 1 Sim - Yes
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Male_Task_2_AoE2.ogg Task 2 Entendido - Understood
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Male_Task_3_AoE2.ogg Task 3 Ir-me-ei - I shall go
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Male_Task_4_AoE2.ogg Task 4 Farei-lo-ei - I shall do it (grammatically incorrect; it should be "Fá-lo-ei")
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Male_Build_AoE2.ogg Build Construir - To build
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Male_Chop_AoE2.ogg Chop Cortar madeira - To chop wood
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Male_Farm_AoE2.ogg Farm Coletar - To gather
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Male_Fish_AoE2.ogg Fish Pescar - To fish
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Male_Forage_AoE2.ogg Forage Coletar - To gather
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Male_Hunt_AoE2.ogg Hunt Caçar - To hunt
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Male_Mine_AoE2.ogg Mine Minerar - To mine
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Portuguese_Villager_Male_Repair_AoE2.ogg Repair Reparar - To repair
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Soldier_Select_1_AoE2.ogg Select 1 Sim? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Soldier_Select_2_AoE2.ogg Select 2 Ao seu dispor - At your disposal
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Soldier_Select_3_AoE2.ogg Select 3 Quais são as vossas ordens? - What are your orders?
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Soldier_Move_1_AoE2.ogg Move 1 Entendido - Understood
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Soldier_Move_2_AoE2.ogg Move 2 Farei-lo-ei - I shall do it (grammatically incorrect; it should be "Fá-lo-ei")
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Soldier_Move_3_AoE2.ogg Move 3 Sim - Yes
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Soldier_Attack_1_AoE2.ogg Attack 1 Atacar! - Attack!
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Soldier_Attack_2_AoE2.ogg Attack 2 Avançar! - Advance!
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Soldier_Attack_3_AoE2.ogg Attack 3 Às armas! - To arms!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Monk_Select_1_AoE2.ogg Select 1 Sim? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Monk_Select_2_AoE2.ogg Select 2 Quais são as ordens? - What are the orders?
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Monk_Select_3_AoE2.ogg Select 3 Ao seu dispor - At your disposal
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Monk_Select_4_AoE2.ogg Select 4 Por Deus - By god
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Monk_Move_1_AoE2.ogg Move 1 Ir-me-ei - I shall go
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Monk_Move_2_AoE2.ogg Move 2 Sim - Yes
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Monk_Move_3_AoE2.ogg Move 3 Correto - Correct
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_Monk_Move_4_AoE2.ogg Move 4 Farei-lo-ei - I shall do it (grammatically incorrect; it should be "Fá-lo-ei")
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_King_Select_1_AoE2.ogg Select 1 Ei-lo aqui - Here he is
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_King_Select_2_AoE2.ogg Select 2 Que quereis? - What do you want?
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_King_Select_3_AoE2.ogg Select 3 Por que me perturbas? - Why do you disturb me?
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_King_Select_4_AoE2.ogg Select 4 Estou preparado - I'm prepared
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_King_Move_1_AoE2.ogg Move 1 Farei o que me pedires - I'll do what you ask me
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_King_Move_2_AoE2.ogg Move 2 Pela minha graça - By my grace
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_King_Move_3_AoE2.ogg Move 3 Como desejares - As you wish
+
+https://ageofempires.fandom.com/wiki/File:Portuguese_King_Move_4_AoE2.ogg Move 4 Farei-lo-ei - I shall do it (grammatically incorrect; it should be "Fá-lo-ei")
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Portuguese AI characters:
+
+Afonso de Albuquerque (c. 1453 – 16 December 1515): A Portuguese general, a "great conqueror", a statesman, and an empire builder. He appears in the second and fifth scenarios of the Francisco de Almeida campaign (in the latter the player's objective is to convert the unit of Afonso and several other troops).
+
+Afonso Henriques: The first King of Portugal. He achieved the independence of the southern part of the Kingdom of Galicia, the County of Portugal, from Galicia's overlord, the King of León, in 1139, establishing a new kingdom and doubling its area with the Reconquista, an objective that he pursued until his death in 1185, after forty-six years of wars against the Moors.
+
+Afonso V (15 January 1432 – 28 August 1481): Called the African (Portuguese: o Africano), was King of Portugal and of the Algarves. His sobriquet refers to his conquests in Northern Africa. He is an ally of the player during the The Old World scenario from the Francisco de Almeida campaign.
+
+Bartolomeu Dias: A nobleman of the Portuguese royal household, was a Portuguese explorer. He sailed around the southernmost tip of Africa in 1488, reaching the Indian Ocean from the Atlantic, the first European known to have done so.
+
+Duarte Pacheco Pereira: A Portuguese sea captain, soldier, explorer, and cartographer. He traveled particularly in the central Atlantic Ocean west of the Cape Verde islands, along the coast of West Africa and to India.
+
+Henry the Navigator: A royal prince (fourth son of Joao I) and a central figure in the early days of the Portuguese Empire and in the 15th-century European maritime discoveries and maritime expansion. He also is the AI personality of the Portuguese in Age of Empires III.
+
+Joao I: King of Portugal and the Algarve in 1385–1433. He was referred to as "the Good" (sometimes "the Great") or "of Happy Memory" in Portugal. More rarely, and especially in Spain, he was sometimes referred to as "the Bastard". He is recognized chiefly for his role in Kingdom of Portugal's victory in the Portuguese succession war against the Kingdom of Castile.
+
+Manuel I (31 May 1469 – 13 December 1521): The Fortunate, the king of Portugal and the Algarves. His name is associated with a period of Portuguese civilization that was distinguished by significant achievements both in political affairs and the arts.
+
+Nuno Alvares Pereira: A Portuguese general of great success who had a decisive role in the 1383-1385 Crisis that assured Portugal's independence from Castile.
+
+Pedro Alvares Cabral (c. 1467 or 1468 – c. 1520): A Portuguese nobleman, military commander, navigator, and explorer regarded as the European discoverer of Brazil.
+
+Vasco da Gama: A Portuguese explorer and the first European to reach India by sea. His initial voyage to India (1497–1499) was the first to link Europe and Asia by an ocean route, connecting the Atlantic and the Indian oceans and therefore, the West and the Orient.
+
+Vimara Peres (died 873): A ninth-century nobleman from the Kingdom of Asturias and the first ruler of the County of Portugal.
+
+History[]
+
+“ Similar to that of Spain , the Medieval history of Portugal can be divided into three principal chapters: the expansion of the Visigoth kingdom after the disintegration of the Roman Empire, the emergence of Islamic Iberia, and the reconquest by the Christian kingdoms in Iberia. Most noticeably during the third chapter, Portuguese and Spanish history diverged from each other, resulting in two distinctive cultures. The Reconquista of the Iberian Peninsula was initiated by Pelagius, a Visigoth nobleman, who successfully rebelled against the Muslim conquerors around AD 722. With this act, he was the first to re-establish a Christian foothold, namely the kingdom of Asturias. Over the next two centuries, Pelagius' successors would expand their rule over the north-western part of the peninsula. Most notably, in AD 868, Vimara Peres conquered the city of Portucale (present-day Porto) and the surrounding area. As a token of gratitude, King Alfonso III named him Count of Portugal. Geographically isolated and, as a frontier region, far away from the royal court, the County of Portugal enjoyed a relatively high degree of political autonomy. Culturally, the development of the Portuguese language revealed a difference with Leon, the successor state of Asturias, of which the County was a vassal. As a result, the sense of their unique identity spurred the desire of the Portuguese to gain de facto independence from Leon. This was eventually achieved between AD 1128 and AD 1143, when Afonso Henriques revolted against his mother, the countess of Portugal, and the king of Leon. During the next century, the Portuguese expanded their territory further south. Afonso Henriques capitalized on the collapse of the Umayyad Caliphate of al-Andalus to make major territorial gains. With the help of a passing Crusader army, he managed to take the city of Lisbon in AD 1147. Algarve, the southernmost region, was eventually conquered by AD 1250, allowing Portugal to consolidate its natural borders. Ever since, the country's boundaries have been relatively stable. The Portuguese economy traditionally focused on fishing and agriculture. In addition, the kingdom possessed one of the richest sources of copper and tin in Medieval Europe. With the incorporation of the Algarve region, wine and salt could be exported to England and Flanders. From the fourteenth century onwards, trade, especially maritime trade, became even more important. King Afonso IV (AD 1291 – 1357) and Prince Infante Henrique (AD 1394 – 1460) both invested heavily in the Portuguese navy and exploratory missions. For that reason, Infante Henrique is widely viewed as the main initiator of the Age of Discovery. Not only did he oversee the development of the caravel , a light and fast ship, but he also sponsored many expeditions to the African continent himself, laying the foundations of the Portuguese Empire. The immense trading network created by the exploration missions ushered in the golden age of Portugal. Between the fifteenth and sixteenth century, the Portuguese army would be one of the most technologically advanced armies in the world, making extensive use of gunpowder weaponry. However, the wealth acquired through trading was also used to sponsor advancements in the arts and sciences. Scholars and artists were attracted to Portugal from all over Europe and initiated a unique Portuguese Renaissance. For most of the Early Modern Period, Portugal would remain a major economic, political, and cultural power. [1] ”
+
+Trivia[]
+
+The bottom left and right of the navigation bar in the user interface feature blue tiles known as Azulejo, a form of Spanish and Portuguese painted tin-glazed ceramic tile-work. Before the Definitive Edition, the middle of the navigation bar showed the traditional royal Portuguese coat of arms.
+The coat of arms is also used as the civilization icon of the Portuguese in the Definitive Edition.
+
+Their user interface image is a Caravel, their unique ship.
+
+Vasco da Gama is the only hero available in the Scenario Editor who is themed on the Portuguese.
+
+The Portuguese were the first civilization in Age of Empires II to have a unique building: Feitoria.
+
+Alongside the Bohemians, the Portuguese are the only civilization whose unique Castle unit cannot be healed by a Monk, and also cannot be converted by monks that do not have Redemption researched.
+
+Before the release of Dynasties of India, the Portuguese are the only civilization with a unique ship that have access to both Fire Ships and Demolition Ships. Since the release of Dynasties of India, the Dravidians also possess the same trait.
+
+One of the AI player names, Prince Henry the Navigator, is the AI personality of the Portuguese in Age of Empires III.
+
+Before the debut of the Bohemians', the Portuguese were the last civilization introduced with a focus on gunpowder units.
+
+With a Bulgarian (providing 80% faster working Blacksmiths), a Lithuanian (providing 20% faster working Monasteries), and a Malian (providing 80% faster working Universities) allies, the Portuguese can research almost all technologies much faster than any other civilization in the game.
+
+The Portuguese warships are affected by all of their civilization's military bonuses and unique technologies, as all cost -20% gold, have +10% hit points, can be upgraded 25% faster, get +1/+1 armor with Carrack, and for the Cannon Galleon, they get better projectiles through Arquebus. Their Foraging bonus also aids their naval units, as it makes it easier to collect wood early on.
+
+The Portuguese are the only civilization with access to both a unique ship and a unique building.
+
+The Portuguese, along with the Koreans and Vietnamese, are one of the three civilizations that have a direct bonus to their Cavalry Archers without access to Parthian Tactics (in their case, their Cavalry Archers cost less gold). While the Portuguese Cavalry Archers are serviceable in the Castle Age, they also lack Heavy Cavalry Archer, making them situational units at best.
+
+Gallery[]
+
+The Wonder of the Portuguese, the 
+
+Belém Tower
+
+The Mediterranean architecture set the Portuguese share with the 
+
+Armenians,
+
+Byzantines,
+
+Georgians,
+
+Italians,
+
+Romans,
+
+Sicilians, and
+
+Spanish in the
+
+The Mediterranean architecture set the Portuguese share with the 
+
+Italians that was introduced in
+
+Feitoria; Unique building of the Portuguese in the
+
+Portuguese 
+
+user interface image
+
+The Portuguese user interface before the 
+
+A Portuguese town, as seen in 
+
+The Old World
+
+Official preview in the 
+
+Portuguese Overview AoE2
+
+Outdated
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/portuguese
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+European civilizations
+
+The African Kingdoms
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

@@ -1,0 +1,533 @@
+This page is all about the Lithuanians
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Definitive Edition
+3.2 Dawn of the Dukes
+3.3 Dynasties of India
+
+4 Campaign appearances
+
+4.1 Ivaylo
+4.2 Algirdas and Kestutis
+4.3 Jadwiga
+4.4 Jan Zizka
+4.5 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Video overview
+
+11 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+European civilizations,
+
+The Last Khans
+
+
+			English
+
+Español
+
+Lithuanians
+
+36
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+This article is about the civilization in Age of Empires II. For the civilization in Age of Empires III, see Polish .
+
+Civilization Technology tree Strategy
+
+Lithuanians
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: Definitive Edition - The Last Khans
+
+Architecture
+
+Eastern European
+
+Continent
+
+Europe (Baltics)
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_jingle_AoE2_DE.ogg
+
+Features/Characteristics
+
+Focus
+
+Cavalry
+
+Monks
+
+Unique units
+
+Leitis
+
+Unique upgrades
+
+Winged Hussar
+
+Unique technologies
+
+Hill Forts
+
+Tower Shields
+
+“ The forested boglands east of the Baltic Sea hold more than meets the eye. Coagulate the various Baltic tribes into a Grand Duchy with a new religion, smash invading forces with powerful cavalry and mobile spearmen and javelineers, and assemble the largest empire in late-medieval Europe! The Lithuanian unique unit is the Leitis, a heavy cavalry unit who strikes with such vigor that all armor is useless against his weaponry. ” —Description [1]
+
+The Lithuanians are an Eastern European civilization introduced in Age of Empires II: Definitive Edition. They focus on cavalry and Monks. Historically, the Lithuanians are made up of many Baltic tribes who eventually formed a united nation, the Grand Duchy of Lithuania, to withstand continued invasions from the Teutonic Order and Eastern Slavs before forming a union with Poland in the mid-16th century.
+
+The Lithuanians re-appear in Age of Empires III as the Polish, which represent the Polish-Lithuanian Commonwealth. In addition, the Lithuanians appear as a European Royal House in Age of Empires III: Definitive Edition - Knights of the Mediterranean: the House of Jagiellon. One of the Jagiellonian units, the Lipka Tatar, uses the Lithuanian military voice lines from Age of Empires II. The namesake Grand Duchy of Lithuania also appears in Age of Empires IV as a minor opponent.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Definitive Edition
+3.2 Dawn of the Dukes
+3.3 Dynasties of India
+
+4 Campaign appearances
+
+4.1 Ivaylo
+4.2 Algirdas and Kestutis
+4.3 Jadwiga
+4.4 Jan Zizka
+4.5 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Video overview
+
+11 References
+
+Characteristics[]
+
+Unique unit[]
+
+Leitis: Cavalry whose attack ignores unit's armor.
+
+Winged Hussar: Unique upgrade of the Light Cavalry replacing the Hussar (shared with the Poles).
+
+Unique technologies[]
+
+Hill Forts: Town Centers +3 range.
+
+Tower Shields: Spearman line and Skirmishers +2 pierce armor.
+
+Civilization bonuses[]
+
+Each Town Center provides +100 food.
+
+Spearman line and Skirmishers move 10% faster.
+
+Each garrisoned Relic gives +1 attack to Knights and Leitis (maximum +4).
+
+Team bonus[]
+
+Monasteries (and Fortified Churches) work 20% faster.
+
+Overview[]
+
+As a cavalry and Monk civilization, they have nearly all technologies (except Blast Furnace) and upgrades for Winged Hussars and Paladins for both of their strengths, and the Leitis, whose attack ignores melee armor and is very cheap for its melee prowess. Furthermore, their Knight line and Leiciai gain +1 attack from each garrisoned Relic (up to +4), making the Lithuanian cavalry a force to fear if the player manages to obtain Relics early. Their Monasteries also work 20% faster, which synergies with their excellent Monks with full upgrades.
+
+Their defenses are excellent, as both their Spearmen and Skirmishers move 10% faster, which allows them to better chase down their targets, especially Skirmishers when against foot archers. Tower Shields is also helpful, as it grants additional pierce armor to both of these units. Their Archery Range is very solid overall, only lacking Arbalester and Parthian Tactics. In addition, they only lack Arrowslits and have access to Hill Forts, their Castle Age unique technology that provides their Town Centers +3 range. They also have a solid navy. Their early economy is great, as their starting +100 food gives them a lot of extra versatility and reliability, and later they also get +100 food for every new Town Center they make, and they only lack Gold Shaft Mining.
+
+Apart from their previously mentioned strengths, the Lithuanians have several notable flaws. Their infantry lack Plate Mail Armor and Blast Furnace, which makes their Champions very poor. The lack of Blast Furnace also means the Lithuanians' Paladins are not as powerful as they may appear at first. Lithuanian siege units are mediocre, with Bombard Cannons without Siege Engineers as their only viable siege option.
+
+Overall, the Lithuanians are a flexible civilization with a multitude of strong military options. They are especially powerful on mixed maps with their extra starting food, which allows them to create a Dock earlier than normal.
+
+Changelog[]
+
+Definitive Edition[]
+
+Start with +150 food.
+
+Leiciai deal 12/14 damage (standard/elite).
+
+Initially, the Lithuanian cavalry attack bonus has a limit of +5 and affects all cavalry. With update 34055, the limit was reduced to +4 and the bonus no longer affects the Scout Cavalry line.
+
+Initially, Leiciai cost 50 food, 80 gold, and the training time was 23 seconds for standard and 20 for elite. With update 36906, they cost 70 food, 50 gold, and the training time is reduced to 20 seconds for standard and 18 for elite.
+
+Initially, Tower Shields cost 800 food, 300 gold and only granted +1 pierce armor. With update 36906, the food cost was dropped to 500 food, 300 gold and the extra pierce armor increased to 2.
+
+Initially could research Supplies. With update 37650, it was removed from their technology tree.
+
+Initially, Leiciai (both standard and elite) have 2 pierce armor. With update 42848, they have 1 pierce armor.
+
+Dawn of the Dukes[]
+
+With update 51737:
+Lithuanians lose access to the Blast Furnace technology.
+Leiciai deal 13/16 damage (standard/elite).
+Lithuanians' Hussars are replaced with Winged Hussars.
+
+Dynasties of India[]
+
+With update 81058, Bonus for starting with 150 food changed to each Town Center providing +100 food.
+
+Campaign appearances[]
+
+The Lithuanians have a campaign devoted to their civilization: Algirdas and Kestutis. They are also the playable civilization in a scenario from the Jadwiga campaign.
+They also appear in:
+
+Ivaylo[]
+
+Where the One-Eyed Man is King
+Poles - Enemy
+
+Algirdas and Kestutis[]
+
+This campaign is played as the Lithuanians
+
+Family Affairs
+Jaunutis - Enemy
+Narimantas - Enemy
+Kestutis - Ally
+Lithuanian Villages - Ally
+Christian Lithuanians - Ally
+Pagan Lithuanians - Ally
+
+The Tatar Yoke
+Kestutis - Ally
+
+In the Shadow of the Throne
+Kestutis - Enemy
+Kestutis' Forces - Enemy
+Vytautas - Enemy
+Robber Bands - Enemy
+Lithuanian Dukes - Enemy → Ally
+Lithuania - Ally
+
+Jadwiga[]
+
+The Matter of the Crown
+The Suitor - Ally
+
+Star of the Poles
+Lithuanian Villages → Lithuanian Rebels → Lithuanian Villages - Neutral → Enemy → Ally
+
+Duel of the Dukes
+Vytautas - Enemy
+Lithuanian Towns - Ally
+
+The Siege of Vilnius
+Vytautas - Ally
+Vilnius - Ally
+
+Vytautas' Crusade is played as the Lithuanians.
+Poland-Lithuania - Ally
+
+The Fruits of Her Labor
+Vytautas - Ally
+
+Jan Zizka[]
+
+Courage and Coin
+The Lithuanian Army - Ally
+
+Warrior of God
+Zygimantas Korybut - Ally
+
+Victors and Vanquished[]
+
+Mstislav
+Sviatoslav of Novgorod - Neutral → Potential ally
+
+In-game dialogue language[]
+
+Lithuanian units speak the Lithuanian language, an Eastern Baltic tongue closely related to the neighboring Latvian language. Baltic languages are grouped in the same family as the Slavic languages (see Balto-Slavic languages), and are distantly related to Germanic, such as the rest of the Indo-European languages. Like most of the Indo-European languages, Lithuanian is written with an alphabet based on a modification of the Latin script.
+
+Along with other Baltic languages, Lithuanian is notable for retaining many ancestral Proto-Indo-European features which are lost in most modern Indo-European descendants: notably, a pitch-accent system, dual number, a phonemic inventory which retains many PIE phonemes as well as phonemic contrasts, seven inflection cases (out of eight or nine PIE cases), among others. Thus, the late-attested Baltic languages' retention rate rivals those of early-attested languages like Vedic Sanskrit, Mycenaean Greek, and Old Latin. Although, on the other hand, some features were preserved in these classical languages while they were lost in Baltic tongues; for instance, Sanskrit retains murmured stops which are merged with voiced stops in Baltic.
+
+The in-game dialogue uses old-fashioned language, including some archaic word forms which are not used anymore in modern Lithuanian. For example, they say archaic "eimi žūklautų/kirstų/medžiotų" (subjunctive mood) instead of modern "einu žūklauti/kirsti/medžioti" (indefinite form). "Žūklauti" is an old form for "to go fishing", whereas "žvejoti" would be almost always preferred nowadays.
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Male_Select_1_AoE2.ogg Select 1 Klausau - I'm listening
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Male_Select_2_AoE2.ogg Select 2 Sveiki - Hello
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Male_Select_3_AoE2.ogg Select 3 Aš pasiruošęs - I am ready
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Male_Select_4_AoE2.ogg Select 4 Ką įsakysi? - What will you order?
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Male_Task_1_AoE2.ogg Task 1 Klausau - Listening
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Male_Task_2_AoE2.ogg Task 2 Supratau - Understood
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Male_Task_3_AoE2.ogg Task 3 Einu - I am going
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Female_Task_4_AoE2.ogg Female Task 4 Tuojaus - Immediately / At once / Right away
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Male_Task_4_AoE2.ogg (Old) Male Task 4 Stengiuosi - I am trying (Monk's file is erroneously used here)
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Male_Build_AoE2.ogg Build Eime statytum - Going to build
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Male_Chop_AoE2.ogg Chop Eime kirstum - I am going to chop
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Male_Farm_AoE2.ogg Farm Eime dirbtum - I am going to work
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Male_Fish_AoE2.ogg Fish Eime žuklautum - I am going to fish
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Male_Forage_AoE2.ogg Forage Eime dirbtum - I am going to work
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Male_Hunt_AoE2.ogg Hunt Eime medžiatum - Let's go hunting
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Male_Mine_AoE2.ogg Mine Eime kastum - I am going to mine
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Lithuanians_Villager_Male_Repair_AoE2.ogg Repair Eime taisyti - Let's go repairing
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Soldier_Select_1_AoE2.ogg Select 1 Klausau - Listening
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Soldier_Select_2_AoE2.ogg Select 2 Tavo valioje - At your will
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Soldier_Select_3_AoE2.ogg Select 3 Ką įsakysi? - What will you order?
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Soldier_Move_1_AoE2.ogg Move 1 Supratau - I understood
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Soldier_Move_2_AoE2.ogg Move 2 Eimi - Let's go
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Soldier_Move_3_AoE2.ogg Move 3 Klausau viešpatie - Lord I am listening
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Soldier_Attack_1_AoE2.ogg Attack 1 Pultie - Attack
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Soldier_Attack_2_AoE2.ogg Attack 2 Pirmyn - Forward
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Soldier_Attack_3_AoE2.ogg Attack 3 Į mūšį! - To battle! (not certain on the translation)
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Monk_Select_1_AoE2.ogg Select 1 Klausau - I'm listening
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Monk_Select_2_AoE2.ogg Select 2 Ką įsakysi? - What will you order?
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Monk_Select_3_AoE2.ogg Select 3 Tavo valioje - At your will
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Monk_Select_4_AoE2.ogg Select 4 Duodi Dieve - By God's permission
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Monk_Move_1_AoE2.ogg Move 1 Eimi - Let's go
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Monk_Move_2_AoE2.ogg Move 2 Klausau - Listening
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Monk_Move_3_AoE2.ogg Move 3 Teisiu esti - This is right
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_Monk_Move_4_AoE2.ogg Move 4 Stengiuosi - I am trying
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_King_Select_1_AoE2.ogg Select 1
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_King_Select_2_AoE2.ogg Select 2 Ką noretumė? - What would you like?
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_King_Select_3_AoE2.ogg Select 3 Kodėl mane trukdai? - Why are you bothering me?
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_King_Select_4_AoE2.ogg Select 4
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_King_Move_1_AoE2.ogg Move 1 Padarysiu, ką prašai- I will do, what you ask
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_King_Move_2_AoE2.ogg Move 2 Iš savo malonės- By my grace
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_King_Move_3_AoE2.ogg Move 3 Kaip pat tu prašei - Just as you asked
+
+https://ageofempires.fandom.com/wiki/File:Lithuanians_King_Move_4_AoE2.ogg Move 4 Padarysiu - I will do it
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Lithuanian AI characters:
+
+Algirdas: Grand Duke of Lithuania; died 1377. Alongside of Kestutis, he is the main subject of the Lithuanian campaign of the Dawn of the Dukes expansion.
+
+Gediminas: Grand Duke of Lithuania; died 1341
+
+Jaunutis: Grand Duke of Lithuania; died 1345.
+
+Jogaila: Founder of the Polish–Lithuanian union: died 1434. He is the protagonist of the last scenario of Algirdas and Kestutis and an important character in Jadwiga's campaign.
+
+Kestutis (Kęstutis): Also known as Kinstut, the ruler of the Grand Duchy of Lithuania and the Ruthenians as the Duke of Trakai from 1342 to 1382. Alongside Algirdas, he is the main subject of the Lithuanian campaign of the Dawn of the Dukes expansion.
+
+Mindaugas: First and only King of Lithuania; died 1263.
+
+Netimeras: Ruler of the Yotvingians; lived around 1009.
+
+Svitrigaila: Grand Duke of Lithuania; died 1432.
+
+Traidenis: Grand Duke of Lithuania; died 1282.
+
+Treniota: Grand Duke of Lithuania; died 1264.
+
+Vytautas the Great: Grand Duke of Lithuania and Postulated King of Hussites. He also concluded the Union of Krewo with Poland. He died 1430. He appears in the Algirdas and Kestutis and Jadwiga campaigns.
+
+Vytenis: Grand Duke of Lithuania; died 1316.
+
+Zebedenas: Yotvingian nobleman; lived around 1009.
+
+Zvelgaitis: First known Lithuanian duke; died 1205.
+
+History[]
+
+“ The Lithuanians are considered one of the oldest European civilizations, as their Baltic ancestors inhabited the Baltic region dating back to the third millennium BC. By the Early Middle Ages, the Balts had differentiated into distinct groups, including the Lithuanians. Society was structured around chiefdoms, which prevented the emergence of large states. However, under the pressure of Rus' and Viking raids, local chieftains started to cooperate. This confederacy of Lithuanian clans paved the way for a more complex polity. During the following centuries, strong rulers did not only unite the clans, but also expanded their territory to form one of the largest European states: At the beginning of the thirteenth century, a young duke named Mindaugas (r. 1236-1263) was building his fame through military successes. At the same time, Pope Gregory IX called for a crusade against the pagan Lithuanians. The latter united under Mindaugas and decimated the Christian military order of the Livonian Brothers of the Sword. The Teutonic Order, however, continued the campaign. Unable to defeat them through force, Mindaugas converted to Christianity, effectively removing the reason for crusading. In 1253, the pope recognized him as a ruler and crowned him the first and only king in all of Lithuanian history. All subsequent rulers would bear the title of Grand Duke. His alliance with the Christians was, however, ill-received by the pagan population and Mindaugas was assassinated in 1263. After decades of turmoil, the foundations for a long-term state were created under Gediminas (r. 1316-1341). First, he used his diplomatic skills to secure Lithuania's position in international politics. He acquired the favor of European rulers and the pope despite not adopting Christianity. Furthermore, he founded a new capital at Vilnius, to which he invited Western artisans and intellectuals. Finally, he secured the borders with a network of hillforts defended by professional guards and the Leiciai , who were personal servants of the Grand Duke. Due to all of these achievements, Gediminas is considered to be the true founder of the Grand Duchy of Lithuania. His offspring, the Gediminid dynasty, would rule for over two centuries. The greatest expansion of the duchy was conducted by Algirdas (r. 1345-1377) who annexed Rus' territories after defeating the Tatars of the Golden Horde. The absorption of so many Rus' resulted in the assimilation of some cultural elements, most notably the script. However, this all changed under Jogaila (r. 1377-1381). As the last pagan state, Lithuania was trapped between Christian Europe and Orthodox Muscovy. To protect the duchy, Jogaila adopted Christianity as the state religion and married the Polish queen. This union caused Lithuanian culture to become Polonized. Under Vytautas the Great (r. 1392-1430), the duchy reached the height of its power. Vytautas is best known for commanding the Lithuanian troops in the battle of Grunwald (1410), one of the largest battles to occur in Medieval Europe. In this battle, a joint Lithuanian-Polish army defeated the Teutonic Order, bringing a halt to two centuries of German expansion in the Baltic region. The core of the Lithuanian army consisted of light cavalry with shields and javelins in accordance with the type of warfare conducted in Rus' and Tatar territories. The infantry, equipped with a variety of weapons and pavise shields, functioned primarily as support for the cavalry. As the Middle Ages came to a close, the survival of the duchy was threatened by Muscovite invasions. In response, the Lithuanians strengthened the already existing union with Poland and established the Polish-Lithuanian Commonwealth in 1569. Lithuania remained an independent state, but due to a lack of strong rulers it soon became the subordinate member of the union. By 1795, its territories were annexed by neighboring states. ”
+
+Trivia[]
+
+The Lithuanians' civilization icon is a tower shield with the Columns of Gediminas on it, who ruled Lithuania from the 14th to the 16th century.
+Leiciai carry a tower shield; however, they are not affected by the namesake Tower Shields technology.
+
+User interface image displays Pahonia, the historical coat of arms of the Grand Duchy of Lithuania, one variation of which is the current coat of arms of Lithuania.
+
+Before the Dawn of the Dukes expansion, the Lithuanians were the only civilization that were not playable in a single scenario.
+Dawn of the Dukes gave the Lithuanians a total of 6 playable scenarios across 2 campaigns, and 20 additional non-playable appearances. This makes their representation in the campaigns fairly sizable, comparable to civilizations like the Celts (7 playable and 18 non-playable appearances). However, all appearances of the Lithuanians are limited to Dawn of the Dukes campaigns.
+
+Historically, the Lithuanian cavalry mostly consisted of light cavalry. However, the access to the Paladin upgrade reflects their alliance with the Poles, who utilized heavy cavalry during medieval times.
+
+In early beta versions, Lithuanians originally had Spearman and Skirmisher lines with wood cost removed. They also had access to Parthian Tactics and were unable to research Theocracy.
+
+The Lithuanians are the only civilization introduced in The Last Khans that have access to the Bombard Cannon.
+Before the Dawn of the Dukes expansion the Lithuanians were the only Eastern European civilization that had access to Bombard Cannons, Hand Cannoneers, and Bombard Towers. Now the Bohemians also share this trait.
+
+The Lithuanians might have the weakest siege units, as they lack all final upgrades and Siege Engineers. They are also the only civilization introduced in The Last Khans that does not get access to Siege Rams.
+The Lithuanians having a lackluster siege may have some historical merits, as while the Lithuanians had some knowledge on siege warfare, they were unable to break through the toughest fortifications such as the Kremlin and the extensive network of Castles in Prussia.
+
+At release, the Lithuanians probably had the strongest trash units in the game, mostly due to their Relic bonus which was capped at five and included all cavalry, meaning that the Lithuanian Hussars could reach the strongest attack among trash units with 16 attack. At that point, they dominated most match-ups when gold was scarce, combined with their strong Halberdiers and Skirmishers. Their Paladins also had the potential to reach the second highest attack of land units, only behind the Elite War Elephant, and was able to kill Halberdiers in three hits, which was widely considered overpowered, especially in team games where collecting Relics is easier. The Leitis was also very controversial after the cost reduction, due to their deadly nature in melee fights, so one pierce armor was removed to not make them too good facing lots of ranged units and raiding.
+In Dawn of the Dukes, the Lithuanians gained access to the Winged Hussar, replacing the Hussar upgrade, to reflect their commonwealth created with the Poles in the 15th and 16th centuries (also to give them an identity as a civilization with strong light cavalry, like they were historically), but losing the Blast Furnace technology to balance them. Leitis retain the option as the medium cavalry unit with high attack, which was in conflict with the Lithuanian Paladin, that had high attack with the Relic bonus.
+
+Of the civilizations that have a bonus to improve the Paladin's strength (Burgundians, Cumans, Franks, Huns, Lithuanians, Persians, and Teutons), the Lithuanians are the only ones that have access to Bracer and prominent Skirmishers, but lack an economic bonus for the late game, possibly to balance that they can potentially have the strongest one in the game.
+
+With update 44725, a new bug was introduced. If the player uses a Monk to collect a Relic and proceeds to repeatedly ungarrisoning and garrisoning it, their Knights and Leiciai can reach unlimited amount of attack. This was fixed in hotfix 44834.
+
+Despite the Lithuanians' unique unit being able to counter the Teutonic Knight, which represents the greatest historical enemy of the Grand Duchy of Lithuania, Lithuanians have a relatively low win rate against Teutons, possibly because the latter have a stronger economic bonus, plus stronger Halberdiers and siege weapons, a combination that enables them to hold the line against the strong Lithuanian cavalry and "trash units". Also, apart from the Leitis, they do not have effective units to deal with Teutonic high melee armor units, since their Knights need to collect Relics to empower, while the Teutons will access the advantage once they are in the Castle Age. The Leitis itself is a Castle unit, which is harder to mass compared to the Knight.
+This is somewhat justifiable on historical grounds, in that while Lithuania proved to be a hard nut for the Teutonic Order, the former was never able to expel the latter from Prussia.
+
+The following heroes available in the Scenario Editor are themed on the Lithuanians: Vytautas the Great, Algirdas, Jogaila (along with Poles), and Kestutis.
+
+While not culturally related, the Lithuanians are considered to be similar to the Spanish in terms of their technology tree and gameplay:
+Both civilizations have strong Monks and have strong bonuses or unique technologies related to their Monks.
+Both civilizations have all the upgrades and important technologies for their Knight and Scout Cavalry lines (although the Lithuanians have a direct bonus for their Paladins).
+Both civilizations have below-average Archer line, Hand Cannoneers, Elite Skirmishers, and average Heavy Cavalry Archers as their noticeable Archery Range unit options (although the Lithuanians have access to the Crossbowman while the Spanish do not).
+Both civilizations have average or below average siege, with Bombard Cannons as their only noticeable siege weapon (although the Spanish do have access to Siege Rams and have a civilization bonus that affects their Bombard Cannons).
+Both civilizations have a diverse technology tree that puts emphasis on their gold-intensive late-game units (such as their unique units and Paladins) and have one of the strongest "trash units" in low-gold situations (in the case of the Lithuanians, they have a unique technology and a civilization bonus that benefit their Spearman and Skirmisher unit-line, and a slightly better version of the generic Hussar, while the Spanish have access to all the important upgrades for their trash units).
+
+Another similar civilization is the Burgundians. Both have good cavalry units (Burgundians lack Bloodlines, but they have a faster and cheaper access to the Cavalier and Paladin). Both of their Castle unique units are cavalry, and they have good Monks. Their infantry lines are average and they also share mediocre archer lines. Other common factors are weak siege weapons and lacking navies.
+
+Due to their starting extra food, the Lithuanians might be the strongest civilization for hybrid maps like Four Lakes, as players can send their starting Villagers to wood so they get Fishing Ships earlier than other civilizations.
+
+Since Dawn of the Dukes, the Lithuanians are the only civilization without access to any Imperial Age Blacksmith upgrades for their infantry.
+
+Gallery[]
+
+The Lithuanian 
+
+Wonder, the Ducal Palace of
+
+Trakai Island Castle
+
+Official preview
+
+The Eastern European architecture set the Lithuanians share with the 
+
+Magyars,
+
+Slavs,
+
+Bulgarians,
+
+Bohemians and
+
+Poles
+
+Lithuanians user interface image
+
+Video overview[]
+
+Lithuanian Overview AoE2
+
+AoE2 vs History Ep. 1 - Lithuanians
+
+References[]
+
+↑ https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/lithuanians
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+European civilizations
+
+The Last Khans
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

@@ -1,0 +1,546 @@
+This page is all about the Ethiopians
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The African Kingdoms
+3.2 Rise of the Rajas
+3.3 Definitive Edition
+3.4 Dawn of the Dukes
+3.5 Dynasties of India
+
+4 Campaign appearances
+
+4.1 Sundjata
+4.2 Francisco de Almeida
+4.3 Yodit
+4.4 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+African civilizations,
+
+The African Kingdoms
+
+
+			English
+
+Español
+
+Ethiopians (Age of Empires II)
+
+30
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+This article is about the civilization in Age of Empires II HD: The African Kingdoms . For other uses, see Ethiopians .
+
+Civilization Technology tree Strategy
+
+Ethiopians
+
+Civilization information
+
+Introduced in
+
+Age of Empires II HD: The African Kingdoms
+
+Architecture
+
+African
+
+Continent
+
+Africa (east)
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Archers
+
+Unique units
+
+Shotel Warrior
+
+Unique technologies
+
+Royal Heirs
+
+Torsion Engines
+
+“ Relive the glory of the once mighty Aksumite Empire and rule the Red Sea. Launch military expeditions into the Arabian peninsula and far beyond to hold a firm grip on your trading partners. Lead forces of skilled archers, devastating siege engines, and hard-hitting Shotel Warriors to bloody victories. Will your dynasty stand strong against internal conflicts or will your successor already be preparing your funeral? ” —Description [1]
+
+The Ethiopians are an African civilization introduced Age of Empires II HD: The African Kingdoms based on the Aksumite and Zagwe kingdoms in the Horn of Africa. They focus on archers, more accurately foot archers.
+
+The Ethiopians as a civilization also appear as a playable civilization in the Age of Empires III: Definitive Edition - The African Royals expansion.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The African Kingdoms
+3.2 Rise of the Rajas
+3.3 Definitive Edition
+3.4 Dawn of the Dukes
+3.5 Dynasties of India
+
+4 Campaign appearances
+
+4.1 Sundjata
+4.2 Francisco de Almeida
+4.3 Yodit
+4.4 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+Characteristics[]
+
+Unique unit[]
+
+Shotel Warrior: Rapidly deployed infantry with high attack but low armor and hit points.
+
+Unique technologies[]
+
+Royal Heirs: Shotels and Camel units receive -3 damage from mounted units.
+
+Torsion Engines: Increases the blast radius of Siege Workshop units.
+
+Civilization bonuses[]
+
+The Archer line fires 18% faster.
+
+Receive +100 food, +100 gold whenever a new Age is reached.
+
+The Pikeman upgrade is free.
+
+Team bonus[]
+
+Outposts +3 Line of Sight and stone cost removed.
+
+Overview[]
+
+Archers get all upgrades and fire faster. Their
+
+siege weapons are another big selling point in the late game. They are the only civilization to get all the units available in the
+
+Siege Workshop (excluding the regional
+
+Armored Elephant unit), and have a
+
+unique technology that makes the siege engines far more dangerous by increasing their
+
+Area of Effect. Their team bonus allows them to create more Outposts with more Line of Sight, granting them more vision of the map. Their
+
+infantry are good, lacking the
+
+Champion, but getting the
+
+Shotel Warrior instead. In addition, the Ethiopians get the Pikeman upgrade for free. Their
+
+navy is average as well, lacking the
+
+Fast Fire Ship,
+
+Heavy Demolition Ship, and
+
+Elite Cannon Galleon, but possessing fully upgraded
+
+Galleons. Their
+
+Monks get almost all of the technologies, but they do not get the important
+
+Block Printing or
+
+Redemption technologies. Their
+
+defenses are somewhat average, and their economy is solid, with a free +100
+
+food, +100
+
+gold after every age advance, only lacking
+
+Crop Rotation.
+
+Their cavalry are weak, lacking Bloodlines and Plate Barding Armor. Even with Royal Heirs, their Camel Riders end up performing barely any better against cavalry while performing worse against foot units. Additionally, the Ethiopians do not have a long term economic bonus, so they can fall behind after their initial power spike.
+
+Overall, the Ethiopians can be best described as a "glass cannon" civilization. While the Ethiopians lack key important upgrades for their melee units, they make up for it with their strong firepower with their foot archers and siege weapons.
+
+Changelog[]
+
+The African Kingdoms[]
+
+With patch 4.8:
+Skirmishers no longer benefit from the faster firing civilization bonus.
+Arrowslits was removed from the technology tree.
+Shotel Warriors attack against standard buildings reduced by 2 (+2 (standard)/+3 (Elite) → 0/+1).
+
+Rise of the Rajas[]
+
+With patch 5.7, the Halberdier upgrade is no longer free.
+
+Definitive Edition[]
+
+With update 36906, Scorpions' projectile collision size with Torsion Engines was increased (0.3 → 0.5 tiles).
+
+With update 42848:
+Scorpions' projectile collision size with Torsion Engines was decreased (0.5 → 0.4 tiles), though it is still higher than pre-update 36906.
+Shotel Warriors' gold cost was reduced (35 gold → 30 gold).
+
+Dawn of the Dukes[]
+
+With update 56005, non-Elite Shotel Warriors have more hit points (40 → 45), and the Elite Shotel Warrior upgrade costs less (1,200 food, 550 gold → 900 food, 450 gold).
+
+Dynasties of India[]
+
+No longer receive bonus resources at the game start in games with Feudal or later starting age.
+
+With update 81058, their team bonus removes the stone cost of Outposts (on top of their +3 Line of Sight), but no longer gives Towers +3 Line of Sight.
+
+Campaign appearances[]
+
+The Ethiopians have a campaign devoted to their civilization: Yodit. They also appear in:
+
+Sundjata[]
+
+The Sting of the Scorpion
+Niger - Enemy
+
+Blood on the River Bank
+Sumanguru - Enemy
+
+Francisco de Almeida[]
+
+Ruins of Empires
+Kilwa - Ally → Enemy
+Bantu - Enemy
+
+Yodit[]
+
+This campaign is played as the Ethiopians.
+
+Path of Exile
+Gidajan - Enemy
+Fort in the Mountains - Enemy
+Camp in the Forest - Enemy
+Aksum - Ally
+
+The Right Partner
+Hostile Beja Tribes - Enemy
+Raiders - Enemy
+Nobatia - Ally → Potential Enemy
+Beja Tribes - Ally
+
+A Fallen Crown
+Dagnajan - Enemy
+Aksumite Empire - Enemy
+Begemder - Enemy
+Orthodox Monks - Enemy
+Alodian Traders - Neutral → Potential Ally
+Darginda - Ally
+
+Broken Stelae
+Gidajan - Enemy
+Aksumite Empire - Enemy
+Ethiopian Rebels - Ally
+Local Tribes - Ally
+
+Welcome Home
+Gidajan - Enemy
+Aksum (Gidajan) - Enemy
+Aksum (Yodit) - Ally
+Locals - Ally
+Aksum - Ally
+
+Victors and Vanquished[]
+
+Ironside
+Kutama - Enemy
+
+In-game dialogue language[]
+
+This section needs expansion . You can help by adding to it .
+
+Ethiopian units speak Amharic, a South Semitic language (related to the Hebrew, Aramaic, and Arabic languages) written with the Geʽez script descended from Egyptian hieroglyphs and ancient South Arabian script.
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Male_Select_1_AoE2.ogg Select 1 Āwo? (አዎ?) – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Female_Select_2_AoE2.ogg Female Select 2 Sälamnesh (ሰላምነሽ) – Hello (female)
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Male_Select_2_AoE2.ogg Male Select 2 Sälamneh (ሰላምነ) – Hello (male)
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Male_Select_3_AoE2.ogg Select 3 Zgju əne (ዝግጁእኔ) – I'm ready (literally - "Ready I am")
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Male_Select_4_AoE2.ogg Select 4 Təzazoci zigiju (ትእዛዞጭ ዝግጁ) – Ready for orders (literally "Order-ready")
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Male_Task_1_AoE2.ogg Task 1 Āwo (አዎ) – Yes
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Female_Task_2_AoE2.ogg Female Task 2
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Male_Task_2_AoE2.ogg Male Task 2
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Male_Task_3_AoE2.ogg Task 3 Əshi (እሺ) – All right
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Male_Task_4_AoE2.ogg Task 4 Afäts'ämäwalähu (አፈጸመዋለሁ) – I will do
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Female_Build_AoE2.ogg Female Build Gnbänyani (ግንበኛን) – Mason (female)
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Male_Build_AoE2.ogg Male Build Gnbänya (ግንበኛ) – Mason (male)
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Male_Chop_AoE2.ogg Chop Anch'ät fälägäny (ዕንጨት ፈለገኝ) – Wood seeker
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Female_Farm_AoE2.ogg Female Farm Mgb säbäsäbäny (ምግብ ሰበሰበኝ) – Food gatherer
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Male_Farm_AoE2.ogg Male Farm Əhl säbäsäbäny (እህል ሰበሰበኝ) – Grain gatherer
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Male_Fish_AoE2.ogg Fish Āsat magny (ዓሣት ማግኝ) – Fishes finder
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Female_Forage_AoE2.ogg Female Forage Əhl säbäsäbäny (እህል ሰበሰበኝ) – Grain gatherer
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Male_Forage_AoE2.ogg Male Forage Mgb säbäsäbäny (ምግብ ሰበሰበኝ) – Food gatherer
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Male_Hunt_AoE2.ogg Hunt Adany (አዳኝ) – Hunter
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Male_Mine_AoE2.ogg Mine Maadn qufäräny (ማዕድን ቁፈረኝ) – Mine digger
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Ethiopians_Villager_Male_Repair_AoE2.ogg Repair T'ägäny (ጠገኝ) – Repairer
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Soldier_Select_1_AoE2.ogg Select 1 Āwo? (አዎ?) – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Soldier_Select_2_AoE2.ogg Select 2
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Soldier_Select_3_AoE2.ogg Select 3
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Soldier_Move_1_AoE2.ogg Move 1
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Soldier_Move_2_AoE2.ogg Move 2 Əshi (እሺ) – All right
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Soldier_Move_3_AoE2.ogg Move 3
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Soldier_Attack_1_AoE2.ogg Attack 1 Wäga! (ወጋ!) – Attack!
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Soldier_Attack_2_AoE2.ogg Attack 2 Ənwagalän! (እንዋጋለን!) – Let us attack!
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Soldier_Attack_3_AoE2.ogg Attack 3
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Monk_Select_1_AoE2.ogg Select 1 Āwo? (አዎ?) – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Monk_Select_2_AoE2.ogg Select 2
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Monk_Select_3_AoE2.ogg Select 3
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Monk_Select_4_AoE2.ogg Select 4
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Monk_Move_1_AoE2.ogg Move 1
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Monk_Move_2_AoE2.ogg Move 2 Āwo (አዎ) – Yes
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Monk_Move_3_AoE2.ogg Move 3
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_Monk_Move_4_AoE2.ogg Move 4 Afäts'ämäwalähu (አፈጸመዋለሁ) – I will do
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_King_Select_1_AoE2.ogg Select 1
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_King_Select_2_AoE2.ogg Select 2
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_King_Select_3_AoE2.ogg Select 3
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_King_Select_4_AoE2.ogg Select 4
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_King_Move_1_AoE2.ogg Move 1
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_King_Move_2_AoE2.ogg Move 2
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_King_Move_3_AoE2.ogg Move 3
+
+https://ageofempires.fandom.com/wiki/File:Ethiopians_King_Move_4_AoE2.ogg Move 4
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Ethiopian AI characters:
+
+Abba Guba (አባ ጉባ): One of the Nine Saints of Ethiopia, who were important in the growth of Christianity in Ethiopia.
+
+Abuna Frumentius (ፍሬምናጦስ): See Frumentius.
+
+Amda Seyon (ዐምደ ጽዮን): An Ethiopian emperor from the Solomonic dynasty; reigns 1314–1344.
+
+Amir Habbuba (አሚር ሓብቡባ): Amir (king) ruled the ancient walled city of Harar (969–1000).
+
+Dil Na'od (ዲል ናኦድ): The last king of Aksum before the Zagwe dynasty; lived 9th–10th century.
+
+Frumentius (ፍሬምናጦስ): The first Bishop of Aksum who were credited for bringing Christianity to the kingdom; died 383.
+
+Gelawdewos (ገላውዴዎስ): Personal name of Asnaf Sagad I, an Ethiopian emperor from the Solomonic dynasty; lived 1521/1522–1559.
+
+Kaleb of Axum (እለ አጽብሐ): The most well-documented, if not the best known, king of Aksum; reigned ca. 520.
+
+Lalibela (ላሊበላ): Personal name of Gebre Mesqel, the most well-known of Zagwe kings known for completing the monolithic rock-cut churches on the namesake city; lived 1162–1221.
+
+Yakuno Amlak (ይኵኖ አምላክ): Personal name of Tasfa Iyasus, a descendant of Dil Nao'd and the restorer of the Solomonic dynasty; reigned 1270–1285.
+
+Yared (ያሬድ): A legendary Ethiopian musician credited for inventing the sacred music of the Ethiopian Orthodox Church and Ethiopian musical notation; lived 505–571.
+
+Yodit (ጉዲት): Yodit was a semi-legendary non-Christian queen (flourished c. 960) who laid waste to Axum and its countryside, destroyed churches and monuments, and attempted to exterminate the members of the ruling Axumite dynasty. Her deeds are recorded in the oral tradition and mentioned incidentally in various historical accounts.
+
+Zara Yaqob (ዘርአ:ያዕቆብ): Personal name of Kwestantinos I, emperor of Ethiopia from the Solomonic dynasty and one of the greatest rulers in Ethiopia's history; lived 1399–1468.
+
+History[]
+
+“ Ethiopia was mentioned for the first time around 1200BC in the Greek epic poem the Iliad , although the term referred to the entire region south of Egypt. Starting in the 4th century AD, "Ethiopia" was used more specifically to refer to the kingdom of Aksum and its successor states, situated in the present-day countries of Eritrea and northern Ethiopia. The 15th century Book of Aksum, a collection of historical documents, explained this connotation to Ityopp'is, son of the biblical Cush and legendary founder of the city of Aksum. The kingdom of Aksum (AD 100 – 940) was a major naval and trading power. Located at the mouth of the Red Sea, the empire profited from its central position in the maritime network between the Roman Empire , India and Arabia. The port of Adulis was an international trade hub for silk, spices, glass, gold and ivory. Although elephants have become an endangered species in the region, herds were abundant during the Middle Ages and, consequently, ivory was a major export product. Aksum's commercial dealings were at the same time a primary motivation and source for military campaigns: from the 3rd century onwards, the kingdom regularly sent expeditions to the Arabian Peninsula and in the 4th century, King Ezana conquered the neighboring kingdom of Kush. Surpassed only by Rome, Persia and China, Ethiopia was one of the greatest world powers of that time. At first, the Aksumites practiced a polytheistic religion. Most remarkably, they erected grand burial monuments, such as large stelae (up to 33 metres high) and tombs. Under the rule of King Ezana, Aksum adopted Christianity, which would remain the state religion throughout the Middle Ages. Nevertheless, both Jews and Muslims enjoyed toleration throughout the region. In AD 615, Ethiopia even gave shelter to some of the early followers of the prophet Muhammad, and would maintain generally good relations with Islamic powers until the 16th century. The decline of the Aksumite empire was a slow process that began in the 8th century and was caused by several factors. First, the rise of Islamic states in the Arabian Peninsula and Northern Africa marked the end of Aksum's dominance over trade in the Red Sea. Second, climate change and deforestation reduced agricultural output. Finally, a civil war around AD 940 weakened the kingdom, allowing Queen Yodit to kill the last Aksumite king. Historians still debate over whether this queen is to be seen as the founder of the Zagwe dynasty (AD 940- 1270) or whether this kingdom was established only after Mara Takla Haymanot overthrew her descendants in AD 1137. Likewise, the following history of the Zagwe remains shrouded in mystery. Sources on the subject of the successor state of the Zagwe Dynasty are more common. In AD 1270, a local nobleman, Yekuno Amlak , questioned the legitimacy of the ruling king and usurped the throne, thus founding the long-lasting Solomonic dynasty. Through military expeditions and administrative reformation, Emperor Amda Seyon (AD 1314-1344) managed to consolidate the dynasty's power and greatly expand Ethiopian territory. As with the Aksumite kingdom, the Ethiopian army consisted mainly of archers and infantry with spears and swords. Perhaps the most characteristic weapon was the Shotel, a curved sword used to dismount cavalry or to reach around shields. At the end of the Middle Ages, the Solomonic dynasty, surrounded by Islamic states, sought to make contact with European kingdoms. After the failure of the Crusades, Europe was looking for Christian allies. Pursuing the legend of Prester John, a wealthy Christian king rumored to reign in the east, a Portugese [sic] expedition reached Ethiopia in AD 1490. This proved to be an important meeting, as the Adal Sultanate invaded and conquered most of Ethiopia four decades later. In response, Emperor Dawit II requested the help of the Portuguese, who sent 400 musketeers. Together, they were able to repel the invaders, and until the late 20th century the Solomonic dynasty would remain in control. ” — [1]
+
+Trivia[]
+
+The user interface image displays a coin from the British Museum Collection[2][3] minted by Ezana, who was ruler of the Kingdom of Aksum, an ancient kingdom centered in what is now Eritrea and the Tigray Region of northern Ethiopia.
+
+The Ethiopians are the only civilization that has access to all non-regional units and their upgrades at the Siege Workshop (the Armored Elephant and Siege Elephant are exclusively South Asian regional units).
+
+The Ethiopians are one of the two civilizations that has access to Heavy Camel Rider, but not Bloodlines (the other being the Byzantines).
+
+Historically the Ethiopians had African war elephants; indeed, Axumite general Abraha's army included hundreds of war elephants. However the Ethiopians in-game do not have access to the Battle Elephant, Armored Elephant, or Siege Elephant.
+
+The African architecture set shared with the Malians is based on the Sudano-Sahelian architecture, with elements of Aksumite architecture in the Imperial Age.
+
+Due to sharing the same architecture style as the Malians and despite being Christians, the Ethiopians' Monastery is designed after a mosque rather than a Christian church. This is a quirk they shared with the Byzantines and Cumans before the former's architecture style was changed in the Definitive Edition.
+
+When Ensemble Studios still existed, one of the original designers, Sandy Petersen, hinted that he once proposed an Age of Africa expansion sequel, with Ethiopians as one of the planned civilizations. Unlike the Ethiopians from The African Kingdoms, his version of Ethiopians was a defensive-oriented civilization with unique Monk and ranged infantry.[4]
+
+The following heroes available in the Scenario Editor are themed on the Ethiopians: Archer of the Eyes (based on Nubians who are represented by Ethiopians but playable in the campaigns only as Saracens), Abraha Elephant, Dagnajan, Gidajan, Princess Yodit, Yekuno Amlak, and Yodit.
+
+Until the release of the Bohemians, the Ethiopians were the last civilization that lacked Crop Rotation (unlike Age of Empires III: Definitive Edition where both they and the Hausa have Crop Rotation).
+
+In Age of Empires III: Definitive Edition, Ethiopians are featured as the ally player representing the Ethiopians against the Adal Sultanate (Somalians) in the Christopher da Gama's Expedition scenario of the Historical Battles. They are also playable in The African Royals.
+
+Gallery[]
+
+The Wonder of the Ethiopians, the rock church of "Bete Amanuel" in Lalibela, Ethiopia
+
+The African 
+
+architecture set the Ethiopians share with the
+
+Malians
+
+The set before the 
+
+Ethiopians 
+
+user interface image
+
+The Ethiopian user interface before the 
+
+An Ethiopian city, seen in 
+
+Broken Stelae
+
+Church of Saint George, the original Ethiopian Wonder and a Palace in the final game
+
+Official preview in the 
+
+Ethiopians Overview AoE2
+
+Competitive Civ Overview -3- Ethiopians
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/ethiopians
+
+↑ http://worldcoincatalog.com/AC/C/Aksum/333-356CE-Ezana/333-356CE-Ezana.htm
+
+↑ https://www.britishmuseum.org/collection/object/C_1989-0518-41
+
+↑ http://aok.heavengames.com/cgi-bin/aokcgi/display.cgi?action=st&fn=3&tn=38338&f=,,,&st=125
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+African civilizations
+
+The African Kingdoms
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

@@ -31,7 +31,6 @@ def create_qa_bot():
     
     loader = SeleniumURLLoader(urls=urls)
     data = loader.load()
-    
     # Split the documents into chunks for smaller context windows for the LLM
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=0)
     split_docs = text_splitter.split_documents(data)

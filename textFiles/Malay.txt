@@ -1,0 +1,590 @@
+This page is all about the Malay
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique building
+1.3 Unique technologies
+1.4 Civilization bonuses
+1.5 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Rise of the Rajas
+3.2 Definitive Edition
+3.3 Dynasties of India
+3.4 Return of Rome
+
+4 Campaign appearances
+
+4.1 Prithviraj
+4.2 Gajah Mada
+4.3 Suryavarman I
+4.4 Bayinnaung
+4.5 Le Loi
+4.6 Rajendra
+4.7 The Art of War
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+Rise of the Rajas,
+
+Asian civilizations
+
+
+			English
+
+Español
+
+Malay
+
+61
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+Civilization Technology tree Strategy
+
+Malay
+
+Civilization information
+
+Introduced in
+
+Age of Empires II HD: Rise of the Rajas
+
+Architecture
+
+Southeast Asian
+
+Continent
+
+Asia
+
+Oceania
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Malay_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Malay_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Malay_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Navy
+
+Unique units
+
+Karambit Warrior
+
+Unique technologies
+
+Thalassocracy
+
+Forced Levy
+
+Unique buildings
+
+Harbor
+
+“ A fascinating and storied history lies in the islands of the Malay Archipelago. Restore your king to his rightful throne, defeat his oldest enemies, and unite the Malay under the leadership of the wise Gajah Mada. Conquer Southeast Asia with swarms of elephants and upgrade your docks to fortified harbors that can shoot arrows. The Malay unique unit is the Karambit Warrior, an extremely cheap infantry unit that can quickly overwhelm its foes. ” —Description [1]
+
+The Malay are a Southeast Asian civilization introduced in Age of Empires II HD: Rise of the Rajas based on various kingdoms in the the Malay archipelago such as the Majapahit Empire and Srivijaya Empire. In game, they focus on infantry and navy.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique building
+1.3 Unique technologies
+1.4 Civilization bonuses
+1.5 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Rise of the Rajas
+3.2 Definitive Edition
+3.3 Dynasties of India
+3.4 Return of Rome
+
+4 Campaign appearances
+
+4.1 Prithviraj
+4.2 Gajah Mada
+4.3 Suryavarman I
+4.4 Bayinnaung
+4.5 Le Loi
+4.6 Rajendra
+4.7 The Art of War
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+Characteristics[]
+
+Unique unit[]
+
+Karambit Warrior: Cheap infantry that only takes up half a population space.
+
+Unique building[]
+
+Harbor: Docks which shoots multiple arrows like a Yasama Watch Tower.
+
+Unique technologies[]
+
+Thalassocracy: Upgrades Docks to Harbors.
+
+Forced Levy: Militia line costs +20 food, -20 gold.
+
+Civilization bonuses[]
+
+Advancing in Age is +66% faster.
+
+Fish Traps are 33% cheaper and provide 3× food.
+
+Battle Elephants are 30% cheaper in the Castle Age, 40% cheaper in the Imperial Age.
+
+Infantry armor upgrades are free.
+
+Team bonus[]
+
+Docks have double Line of Sight.
+
+Overview[]
+
+The Malay are primarily a naval civilization. Consequently, their naval technology tree is flawless apart from the missing Heavy Demolition Ship. Their true strength lies in naval economy, however. Their Fish Traps are cheaper and provide 3x food meaning a lot of wood will be saved over the course of the game. Additionally, they can upgrade their Docks to Harbors which comes in handy when defending Fishing Ships on the shore.
+
+Their infantry units are strong thanks to receiving the infantry armor upgrades for free and having Forced Levy, which makes their Two-Handed Swordsmen trash units. Their Battle Elephants are also strong with a -30%/-40% cost reduction in the Castle/Imperial Ages. Additionally, they have fully upgraded Arbalesters, Elite Skirmishers, and Bombard Cannons. Their Monks are good as only two techs are missing. Lastly, their faster age up bonus not only allows them to access the power spike associated with further ages faster, but also gives them a Villager lead against an opponent.
+
+However, the Malay have several notable gaps in their technology tree. The biggest one is their cavalry, where they are not only the only civilization to lack Chain Barding Armor, but they also miss out on Bloodlines and Hussar, weakening their Battle Elephants and making their Cavaliers and Light Cavalry practically unusable in the late-game. Additionally, while their Two-Handed Swordsmen are very cheap, the lack of Champion and Gambesons makes them poor individually. Lastly, their defensive structures are lacking without Architecture, Fortified Wall, Hoardings, or Arrowslits.
+
+Overall, the Malay are a civilization who focuses on quantity over quality. However, they do have some good units in their Arbalesters and Bombard Cannons, and their economy is strong enough to enable a lot of strategies through the mid-game.
+
+Changelog[]
+
+Rise of the Rajas[]
+
+With patch 5.3:
+Their age advance speed up reduced (+100% → +80%).
+Their civilization bonus granting them 33% cheaper Fishing Ships was removed.
+Their Battle Elephant discount was increased (20% → 25%).
+Harbors' hit points decreased (2,200 → 2,000) and Rate of Fire increased (2.5 → 3).
+Elite Karambit Warriors' pierce armor reduced (2 → 1).
+
+With patch 5.5, Non-Elite Karambit Warriors' base attack increased (5 → 6).
+
+With patch 5.7:
+Elite Karambit Warriors' base attack decreased (8 → 7).
+Battle Elephants' discount increased (25% → 30%).
+
+With patch 5.8 (Elite) Karambit Warriors cost increased (25 food, 10 gold → 30 food, 15 gold).
+
+Definitive Edition[]
+
+Age advance speed up reduced (+80% → +66%).
+
+Harbors minimum range increased (0 → 1), and they are now affected by Murder Holes.
+
+Harbors base attack reduced (6 → 3).
+
+Harbor bonus attack vs. ships increased (9 → 10).
+
+Forced Levy now changes Militia line gold cost into additional food cost (so they cost +20 food),
+
+Forced Levy's price dropped (1,000 food, 600 gold → 850 food, 500 gold).
+
+With update 39284, Karambit Warriors' food cost reverted (30 food → 25 food).
+
+With update 47820:
+Malay Fish Traps provide 3 times more food instead of unlimited food.
+Battle Elephants' Imperial age discount increased (30% → 40%) (unchanged in Castle Age).
+(Elite) Karambit Warriors' attack is increased (6 (non-Elite)/7 (Elite) → 7/8).
+
+Dynasties of India[]
+
+With update 66692, Malay receive access to Treadmill Crane.
+
+With update 81058, as a new civilization bonus, infantry armor upgrades are free.
+
+Return of Rome[]
+
+With update 87863, Gambesons is removed.
+
+Campaign appearances[]
+
+The Malay have a campaign devoted to their civilization: Gajah Mada. They also appear in:
+
+Prithviraj[]
+
+The Digvijaya
+Naga - Enemy
+
+Hand of a Princess
+Yadavas - Enemy
+
+Gajah Mada[]
+
+This campaign is played as the Malay.
+
+The Story of Our Founders
+Singhasari - Enemy
+Kediri - Enemy
+Javanese - Ally
+
+Unconditional Loyalty
+Rakrian Kuti - Enemy
+Trowulan - Enemy
+Rebels - Enemy
+Jayaviryaman - Neutral → Ally
+King Jayanegara - Ally
+
+The Oath to Unify Nusantara
+Tumasik - Enemy
+Sunda - Enemy
+Majapahit Settlers - Ally
+Majapahit Settlers - Ally
+Majapahit Settlers - Ally
+Majapahit Settlers - Ally
+
+Serving the New King
+Luwu - Enemy
+Majapahit - Ally
+
+The Pasunda Bubat Tragedy
+Sunda - Enemy
+Trowulan - Ally
+Majapahit Army - Ally
+Javanese Villages - Ally
+
+Suryavarman I[]
+
+Quelling the Rebellion
+Jayaviryaman - Enemy
+Jayaviryaman's Army - Enemy
+
+Challenging a Thalassocracy
+Srivijaya - Enemy
+Tambralinga - Enemy
+
+Nirvanapada
+Southern Cham - Enemy
+
+Bayinnaung[]
+
+The Mandalay Cobra
+Rakhine - Enemy
+
+The White Elephant
+Hill tribes - Neutral
+
+The Old Tiger
+South Rakhine - Enemy
+
+Le Loi[]
+
+The Dai Viet Uprising
+Malay Pirates - Enemy
+
+Rajendra[]
+
+Rising Star
+Srivijaya - Neutral
+
+Slaying the Vritra
+Local Villages - Ally
+Srivijaya - Enemy
+Sailendra - Enemy
+
+The Art of War[]
+
+Naval Battle is played as the Malay.
+
+Naval Battle
+Dharmasetu - Ally
+Dharmasetu - Enemy
+
+In-game dialogue language[]
+
+Malay units speak Old Malay (Melayu Kuno or Melayu Tua), an Austronesian language which includes several Sanskrit words.
+
+Old Malay is spoken by the Shailendra dynasty of the Medang Kingdom and the Srivijaya Empire, and over time evolved into the modern Malay and Indonesian languages.
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Malay_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malay_Villager_Male_Select_1_AoE2.ogg Select 1 Iya? – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Malay_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malay_Villager_Male_Select_2_AoE2.ogg Select 2 Swasti – Sanskrit for "peace" or "prosper"
+
+https://ageofempires.fandom.com/wiki/File:Malay_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malay_Villager_Male_Select_3_AoE2.ogg Select 3 Siap – Ready
+
+https://ageofempires.fandom.com/wiki/File:Malay_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malay_Villager_Male_Select_4_AoE2.ogg Select 4 Apa syahsananya baginda? – What is the situation, sire?
+
+https://ageofempires.fandom.com/wiki/File:Malay_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malay_Villager_Male_Task_1_AoE2.ogg Task 1 Iya – Yes
+
+https://ageofempires.fandom.com/wiki/File:Malay_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malay_Villager_Male_Task_2_AoE2.ogg Task 2 Aku pangarti –I understand (pangarti is an archaic form of mengerti ("understand") in modern Malay and Indonesian)
+
+https://ageofempires.fandom.com/wiki/File:Malay_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malay_Villager_Male_Task_3_AoE2.ogg Task 3 Aku marwat – I take care (of it)
+
+https://ageofempires.fandom.com/wiki/File:Malay_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malay_Villager_Male_Task_4_AoE2.ogg Task 4 Aku akan merawatnya – I will tend it
+
+https://ageofempires.fandom.com/wiki/File:Malay_Villager_Female_Build_AoE2.ogg Female Build Siap – Ready
+
+https://ageofempires.fandom.com/wiki/File:Malay_Villager_Male_Build_AoE2.ogg Male Build Aku pembangun gedung. – I'm the builder.
+
+https://ageofempires.fandom.com/wiki/File:Malay_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malay_Villager_Male_Chop_AoE2.ogg Chop Aku panumbang kayu – I'm the woodcutter/lumberjack (literally "wood feller")
+
+https://ageofempires.fandom.com/wiki/File:Malay_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malay_Villager_Male_Farm_AoE2.ogg Farm Aku memanen – I'm harvesting
+
+https://ageofempires.fandom.com/wiki/File:Malay_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malay_Villager_Male_Fish_AoE2.ogg Fish Aku tuharawa - I'm a fisher
+
+https://ageofempires.fandom.com/wiki/File:Malay_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malay_Villager_Male_Forage_AoE2.ogg Forage Aku mengumpulkan – I'm gathering
+
+https://ageofempires.fandom.com/wiki/File:Malay_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malay_Villager_Male_Hunt_AoE2.ogg Hunt Aku tuhaburu - I'm a hunter
+
+https://ageofempires.fandom.com/wiki/File:Malay_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malay_Villager_Male_Mine_AoE2.ogg Mine Aku penggali tambang – I'm mining (literally "I'm the mine digger")
+
+https://ageofempires.fandom.com/wiki/File:Malay_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malay_Villager_Male_Repair_AoE2.ogg Repair Aku pamarbaik – I'm the repairer (pamarbaik is an archaic form of perbaik ("repair") in modern Malay and Indonesian)
+
+https://ageofempires.fandom.com/wiki/File:Malay_Soldier_Select_1_AoE2.ogg Select 1 Iya? – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Malay_Soldier_Select_2_AoE2.ogg Select 2 Yasaku ka baginda - My honor (to serve you) sire (yasa is loaned from Sanskrit "यशस् (yasas)", honor)
+
+https://ageofempires.fandom.com/wiki/File:Malay_Soldier_Select_3_AoE2.ogg Select 3 Apa syahsananya baginda? – What is the situation sire?
+
+https://ageofempires.fandom.com/wiki/File:Malay_Soldier_Move_1_AoE2.ogg Move 1 Aku pangarti – I understand (pangarti is an archaic form of mengerti ("understand") in modern Malay and Indonesian)
+
+https://ageofempires.fandom.com/wiki/File:Malay_Soldier_Move_2_AoE2.ogg Move 2 Aku marwat – I take care (of it)
+
+https://ageofempires.fandom.com/wiki/File:Malay_Soldier_Move_3_AoE2.ogg Move 3 Iya, baginda – Yes, sire
+
+https://ageofempires.fandom.com/wiki/File:Malay_Soldier_Attack_1_AoE2.ogg Attack 1 Tabik! – Salute!
+
+https://ageofempires.fandom.com/wiki/File:Malay_Soldier_Attack_2_AoE2.ogg Attack 2 Maju! – Onward!
+
+https://ageofempires.fandom.com/wiki/File:Malay_Soldier_Attack_3_AoE2.ogg Attack 3 Angkat sanjata! – To arms! (literally "Raise the weapon!")
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Malay_Monk_Select_1_AoE2.ogg Select 1 Iya? – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Malay_Monk_Select_2_AoE2.ogg Select 2 Titah baginda? – Order, sire?
+
+https://ageofempires.fandom.com/wiki/File:Malay_Monk_Select_3_AoE2.ogg Select 3 Aku yasa di baginda - My honor (for being here) sire
+
+https://ageofempires.fandom.com/wiki/File:Malay_Monk_Select_4_AoE2.ogg Select 4 Om maheshwaraya (ॐ महेश्वराय) – Om to the great Lord (in Sanskrit)
+
+https://ageofempires.fandom.com/wiki/File:Malay_Monk_Move_1_AoE2.ogg Move 1 Aku marwat – I take care (of it)
+
+https://ageofempires.fandom.com/wiki/File:Malay_Monk_Move_2_AoE2.ogg Move 2 Iya – Yes
+
+https://ageofempires.fandom.com/wiki/File:Malay_Monk_Move_3_AoE2.ogg Move 3 Benar – Right
+
+https://ageofempires.fandom.com/wiki/File:Malay_Monk_Move_4_AoE2.ogg Move 4 Aku akan marwatnya – I will take care (of it)
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Malay_King_Select_1_AoE2.ogg Select 1 Ini, ya – Yes, I'm here (literally "Here, right.")
+
+https://ageofempires.fandom.com/wiki/File:Malay_King_Select_2_AoE2.ogg Select 2 Apa mahumamu – What do you want?
+
+https://ageofempires.fandom.com/wiki/File:Malay_King_Select_3_AoE2.ogg Select 3 Mengapa kamu mamagatku? – Why did you disturb me?
+
+https://ageofempires.fandom.com/wiki/File:Malay_King_Select_4_AoE2.ogg Select 4 Marpadah – Respect
+
+https://ageofempires.fandom.com/wiki/File:Malay_King_Move_1_AoE2.ogg Move 1 Aku akan makaryakan pintamamu - I shall carry out your task
+
+https://ageofempires.fandom.com/wiki/File:Malay_King_Move_2_AoE2.ogg Move 2 Dengan anugerahku – By my grace
+
+https://ageofempires.fandom.com/wiki/File:Malay_King_Move_3_AoE2.ogg Move 3 Serupa pintamamu – As you (have) tasked
+
+https://ageofempires.fandom.com/wiki/File:Malay_King_Move_4_AoE2.ogg Move 4 Aku akan makaryakannya – I shall carry it out
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Malay AI characters:
+
+Balaputra (بالاڤوترا): A Srivijayan emperor in the 9th century CE as well as the former head of the Sailendra dynasty. Before rising as an emperor though, he was the heir to the Ancient Mataram Kingdom, a Hindu-Buddha kingdom in Java back then, but was eventually forced to leave Java by the forces of Rakai Pikatan, the seventh king of the Mataram kingdom.
+
+Dharmasetu (درماستو): An 8th century Srivijayan emperor. Under his reign, he successfully incorporated Pan Pan, a kingdom located in the north of the Malay Peninsula into Srivijayan sphere of influence before 775 AD.
+
+Gajah Mada (ݢاجه مادا): Commander of Majapahit elite guard, the Bhayangkara. Then the Prime Minister of Majapahit, replacing Arya Tadah. He was well known for his Palapa Oath and expanding Majapahit territories across the Malay Archipelago. He was dismissed after the Bubat Tragedy.
+
+Hayam Wuruk (هايم ووروک): A Javanese king from the Rajasa Dynasty and the fourth Majapahit emperor. Together with his prime minister Gajah Mada, he reigned the empire at the time of its greatest power.
+
+Jayanegara (جايانݢارا): Prince of Kediri in 1295 reigned from 1309 to 1328, was a Javanese king and the second Majapahit emperor.
+
+Parameswara (ڤاراميسوارا): The last king of Singapura. According to the Malay annals, he ruled Singapura from 1389 to 1398. The king fled the island kingdom after a Majapahit naval invasion in 1398 and founded his new stronghold on the mouth of Bertam river in 1402.
+
+Raden Wijaya (رادن ويجاي): A Javanese king, the founder and the first Majapahit emperor and the son-in-law of the last Singhasari monarch, Kertanegara.
+
+Samaratungga (ساماراتوڠݢ): The head of the Sailendra dynasty who ruled Central Java and Srivijaya in the 8th and the 9th century.
+
+Sang Nila Utama (سڠ نيلا اوتام): A prince from Palembang said to have founded the Kingdom of Singapura in 1299.
+
+Sultan Mansur Shah (سلطان منصور شاه): The sixth Sultan of Malacca. He ruled Malacca from 1459 to 1477. He ascended the throne after the death of his father, Muzaffar Shah.
+
+Sultan Muzaffar Shah (سلطان مظفر شاه): The fifth Sultan of Malacca. He ruled from 1445 to 1459.
+
+History[]
+
+“ The Malay Archipelago is the world's largest archipelago, consisting of more than 25,000 islands in present-day Indonesia, the Philippines, Brunei, East Timor, Malaysia and Singapore. To travel and colonize so many islands, the islanders developed sophisticated navigation and boat building skills beginning in 50,000 BC. From the first millennium AD, multiple port towns expanded into small kingdoms thanks to a profitable trade position between India and China . As a result of this interaction with India, these early states adopted many elements from Hinduism and Buddhism. During the Middle Ages, some port cities managed to conquer large parts of the archipelago. Three maritime empires, also called thalassocracies, were particularly influential: One of the first states to dominate the archipelago was Srivijaya (671-1377) in Southern Sumatra. To secure their trade with China, the maharajas of Srivijaya conquered several kingdoms in Sumatra, the Malaysian peninsula, and Java. Naval expeditions even ventured up the Mekong river in mainland Southeast Asia, but the emergence of the powerful Khmer Empire prevented a long-lasting presence. As an international center for Buddhism and education, the capital of Palembang attracted many pilgrims and scholars from all over Asia. Although the maharajas did not erect many temples themselves, their vassals in Java constructed some of the largest Buddhist monuments in the world, such as Borobudur and Sewu. Despite these economic and cultural achievements, the Srivijaya empire gradually disintegrated under the pressure of Indian raids and Javanese conquests beginning in the eleventh century. After Srivijaya, Javanese kingdoms rose to prominence. One of them, the Majapahit Empire (1293-1527), eventually became one of the most powerful states in Southeast Asia. In 1293, Raden Wijaya founded the empire by allying with the invading Mongol armies to depose his rival, after which he vanquished the Mongols in a surprise attack. Under the military leadership of Gajah Mada (1313-1364), prime minister to two emperors, Majapahit reached its largest extent: from the Malaysian peninsula in the west to New Guinea in the east. During this golden era, arts, literature, and architecture flourished. Puppet theatre and orchestras were developed. A truly Javanese culture emerged through the synthesis of Shiva worship and Tantric Buddhism. In the fifteenth century, internal strife and the emergence of a new trading power called Malacca led to the decline of the Majapahit. In 1398, the Majapahit had invaded Singapura, a small kingdom in the Malaysian peninsula. Their king, Parameswara, fled the state and founded the city of Malacca. Thanks to good relations with the Chinese Ming dynasty, the city attracted merchants and gradually became one of the major ports on the Indo-Chinese trade route. At the end of his reign, King Paramesware converted to Islam, thereby founding the Malacca Sultanate (1414-1511). Although Southeast Asia had come into contact with Islam from an early date via traders, Muslim communities had remained limited. With the territorial expansion of the Sultanate, Malacca became an important center from which Islam spread. Subsequently, the Malay culture, initially inspired by Hinduism and Buddhism, underwent profound cultural changes inspired by their new Islamic faith. Lured by the rich trade of the archipelago, European explorers came to Southeast Asia from the end of the Middle Ages. In 1511, a Portuguese army under Afonso de Albuquerque conquered the port of Malacca, marking the end of the Sultanate. For the next several centuries, European states would dominate the trade in the archipelago. ”
+
+Trivia[]
+
+This section may need to be cleaned up to reach a higher standard of quality. This may include editing to correct spelling and grammar, and rewriting sections to ensure they are clear and concise.
+
+The Malay's civilization icon is based on an Acehnese shield called Peurise Awe.[2] The shield is made of rattan with hexagonal brass decorations.
+
+Before the Definitive Edition, the bottom left and center of the navigation bar showed a ship image and a sun-like symbol, respectively. The ship is based on a ship relief on the Borobudur Temple, while the sun is based on the Surya Majapahit (Sun of Majapahit).
+In the Definitive Edition, the ship image is displayed in the center of the navigation bar.
+The ship presented in the history section and used as the Gajah Mada campaign icon resembles the Borobudur ship. However, recent studies showed that this kind of ship was not used by the Majapahit Empire; the Majapahit's main type of naval ship was the jong (related to the Chinese Junk).
+The ethnic Malays prefer to use shallow draught, oared, longships similar to the galley, such as lancaran, penjajap, and kelulus.[3][4] This is very different from the Javanese who prefer long-range, deep-draught round ships such as jong and malangbang. The reason for this difference is that the Malay operated their ships in sheltered straits zone and riverine water, while the Javanese are often active in the open sea.[5]
+In the Serving the New King scenario of the Gajah Mada campaign in the Definitive Edition, a sketch of a pinisi-rigged vessel is used to represent an east Indonesian ship. However, this is inaccurate, as pinisi-rigged vessels just started appearing after the 1900s.
+
+The Malay are the only civilization that can train cavalry but lack Chain Barding Armor.
+
+Since the Definitive Edition, the Malay are only civilization introduced in Rise of the Rajas to have access to Shipwright.
+
+Covering more than 1,500 ethnic groups (many of which are drastically different from their neighboring ethnic groups), the Malay are currently the largest umbrella civilization. The Malay civilization comprises not only their namesake but also other closely related Austronesians from the Malay archipelago:
+The name "Malay" in this case represents the term Malay race, a concept that is no longer used in modern times. The modern equivalent would be the Austronesian people (which covers the ethnic Malay, Malagasy people in Madagascar, Polynesians, and Taiwanese indigenous peoples).
+Their campaign focuses on Gajah Mada, the chief minister of the Majapahit Empire based on the island of Java, who is considered a significant figure in Indonesian history. Their Wonder is the Kalasan Temple, which is located in Yogyakarta, Java, Indonesia. Yogyakarta is also the Home City of the Indonesia revolution in Age of Empires III.
+The Karambit however, while a popular weapon with the peasants of Java, is actually said to originate from Sumatra (from where the Srivijaya Empire originated), and more specifically from the Minangkabau people, based in West Sumatra (Sumatera Barat) and known today as the largest matrilineal society in the world.
+
+The Malay are the second civilization in the game to receive a unique building, after the Portuguese. The Malay's unique building is also the only unique building which needs to be upgraded from a generic building.
+The boats moored in the Harbor are a Javanese and Malay type of boat, called kelulus. They use the same sprite as the boats in a Castle Age Southeast Asian Dock.
+
+According to Majapahit era literature, the Majapahit Empire controlled parts of the island of New Guinea, which geographically belongs to Australasia. This technically means that with the inclusion of the Malay, Age of Empires II now represents parts from all continents except Antarctica.
+
+The Malay are the only civilization in the game that has access to Bombard Towers, but not Fortified Walls.
+Malay also have access to both Bombard Cannons and Cannon Galleons. This may be a reference to the Cetbang, which was a Majapahit invention. In Age of Empires III: Definitive Edition, Cetbang Cannon is available when revolting as Indonesia.
+While in the game, they do not have access to Hand Cannoneer, historically, the Malay used a hand cannon called Bedil Tombak.
+However, ethnic Malays are not familiar with firearms and cannons (or, at least unfamiliar with their use as a weapon) until the arrival of the Portuguese in 1509, as recorded in Sejarah Melayu and various Portuguese books. Before this, the ethnicities who got hold of gunpowder weapons seemed to be only restricted to the island of Java and Bali. Before the capture of Malacca in 1511, ethnic Malays purchased cannons and muskets from the Javanese and Gujarati people.
+
+The Malay, as of Return of Rome, are the only civilization in the game that has access to Battle Elephants and Heresy.
+
+One of the in-game dialogues of the Monk (Om Maheshwaraya) is one of the praising forms associated with the Hindu god Shiva.
+
+The following heroes available in the Scenario Editor are themed on the Malay: Gajah Mada, Jayanegara, Jayaviravarman (as per campaign depiction), Raden Wijaya, and Sunda Royal Fighter.
+
+The Malay were originally going to have the Champion upgrade in exchange for not having Plate Mail Armor, but the developers realized the power-spike of the Champion would be too huge in conjunction with Forced Levy (the unique technology that makes the Militia line cost no gold) that it was decided to remove the Champion upgrade since the Two-Handed Swordsman upgrade is enough to be an effective gold-free late-game (aka "trash") unit. This explains why, in the Malay campaign before the Definitive Edition, the player had starting Champions in some scenarios.
+
+The Malay is also one of the most nerfed civilizations in the Definitive Edition, as their Battle Elephants, Age advancing speed, Harbor, unique unit, gold-free Two-Handed Swordsmen and Fish Traps have all been weakened.
+
+The Malay are similar to the Japanese in gameplay, as both civilizations have the same technology tree in the Dock. Both have a strong economy from fishing (for Malay, the triple Fish Trap food will delay its renewal, while it is also cheaper, saving wood). Both are infantry civilizations on land maps with fully upgraded Arbalesters. Both have good Monks, and their cavalry are lackluster with average siege units and defense. The main difference between them is the Japanese have more versatile Archery Range units and good quality infantry, while the Malay are a civilization that relies on quantity.
+The Malay are also similar to the Vikings, as both are naval and infantry civilizations with a similar technology tree with weak cavalry and are often played as an archer civilization in land maps due to their access to the Arbalester (although update 56005 removed Thumb Ring for the Vikings to encourage the use of their infantry). Both civilizations have strong early-game rushing potential and are at their strongest in the Castle Age. The biggest difference is the Vikings are considered to be very weak in the Imperial Age in land maps due to a very limited tech tree, while the Malay are considered to be at their strongest in the Imperial Age when gold runs out in one-on-one matches due to their ability to out-attrition their opponent.
+
+Gallery[]
+
+The Malay Wonder, the 
+
+Kalasan Temple
+
+The Southeast Asian 
+
+architecture set the Malay share with the
+
+Burmese and
+
+Khmer
+
+The set before the 
+
+Harbor; Unique building of the Malay
+
+Malay 
+
+user interface image
+
+The Malay user interface before the 
+
+A Malay town as seen in 
+
+The Story of Our Founders
+
+Official preview in 
+
+Malay Overview AoE2
+
+Outdated
+
+References[]
+
+↑ https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/malay
+
+↑ PEURISE AWE on Batavia Collectables[sic]
+
+↑ Albuquerque, Afonso de (1774). Commentários do Grande Afonso Dalbuquerque parte III. Lisboa: Na Regia Officina Typografica. Page 80–81.
+
+↑ Manguin, Pierre-Yves (1993). 'The Vanishing Jong: Insular Southeast Asian Fleets in Trade and War (Fifteenth to Seventeenth Centuries)', in Anthony Reid (ed.), Southeast Asia in the Early Modern Era (Ithaca: Cornell University Press), page 212.
+
+↑ Manguin, Pierre-Yves (2012). Lancaran, Ghurab and Ghali: Mediterranean Impact on War Vessels in Early Modern Southeast Asia. In G. Wade & L. Tana (Ed.), Anthony Reid and the Study of the Southeast Asian Past (pp. 146-182). Singapore: ISEAS Publishing.
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+Rise of the Rajas
+
+Asian civilizations
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

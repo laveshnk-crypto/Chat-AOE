@@ -1,0 +1,513 @@
+This page is all about the Burmese
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Rise of the Rajas
+3.2 Definitive Edition
+3.3 Lords of the West
+3.4 Dawn of the Dukes
+3.5 Dynasties of India
+3.6 Return of Rome
+
+4 Campaign appearances
+
+4.1 Prithviraj
+4.2 Gajah Mada
+4.3 Suryavarman I
+4.4 Bayinnaung
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Video overview
+
+11 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+Asian civilizations,
+
+Rise of the Rajas
+
+
+			English
+
+Español
+
+Burmese
+
+29
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+Civilization Technology tree Strategy
+
+Burmese
+
+Civilization information
+
+Introduced in
+
+Age of Empires II HD: Rise of the Rajas
+
+Architecture
+
+Southeast Asian
+
+Continent
+
+Asia
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Burmese_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Burmese_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Burmese_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Monks
+
+Elephants
+
+Unique units
+
+Arambai
+
+Unique technologies
+
+Manipur Cavalry
+
+Howdah
+
+“ East of the Indian subcontinent, a vibrant and learned culture flourished in the jungles and river valleys. Ascend to power, quash a treacherous rebellion, and restore the Burmese monarchy to its former glory. Assemble the largest empire in the history of Southeast Asia with a legion of Battle Elephants that can demolish the most powerful of defenses. The Burmese unique unit is the Arambai, a ranged cavalry unit with a deadly but inaccurate attack. ” —Description [1]
+
+The Burmese are a Southeast Asian civilization in Age of Empires II HD: Rise of the Rajas. They focus on Monks and Battle Elephants.
+
+The Burmese are based on the Pagan Kingdom and the later Toungoo Empire, the latter of which is the largest empire in Southeastern Asia. They also encompass the Meitei people of Kingdom of Manipur (India), who were their historical rivals, through their Manipur Cavalry unique technology and Arambai unique unit.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Rise of the Rajas
+3.2 Definitive Edition
+3.3 Lords of the West
+3.4 Dawn of the Dukes
+3.5 Dynasties of India
+3.6 Return of Rome
+
+4 Campaign appearances
+
+4.1 Prithviraj
+4.2 Gajah Mada
+4.3 Suryavarman I
+4.4 Bayinnaung
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Video overview
+
+11 References
+
+Characteristics[]
+
+Unique unit[]
+
+Arambai: Ranged cavalry with powerful but inaccurate attack.
+
+Unique technologies[]
+
+Manipur Cavalry: Gives cavalry units +4 attack against archers.
+
+Howdah: Gives Battle Elephants +1/+1 armor.
+
+Civilization bonuses[]
+
+Lumber Camp technologies are free.
+
+Battle Elephants have +1/+1 armor.
+
+Infantry units have +1/+2/+3 attack in the Feudal/Castle/Imperial Age.
+
+Monastery technologies are 50% cheaper.
+
+Team bonus[]
+
+Relics are visible on the map from the game start.
+
+Overview[]
+
+The Burmese have very solid cavalry, with full Blacksmith and Stable upgrades and Manipur Cavalry, which gives them +4 attack against archers. Their Battle Elephants in particular are very powerful, with not only everything previously mentioned but also +1/+1 armor, which further increases by another +1/+1 with Howdah. Their Monks are also very potent, with access to every Monk technology, with a 50% discount on every one. Their infantry is also great with full upgrades and +1 attack per age starting in the Feudal Age. The Arambai can be best described as a "short-ranged" (due to not benefiting from range upgrades) with a very high attack and low accuracy, but stray shots can deal full damage that hit other units. This makes the Arambai very threatening when massed against clumped units close together. Their navy and siege weapons are average with a few missing upgrades that do not do too much harm overall. Their economy is strong, with free Lumbercamp technologies.
+
+On the other hand, their archer units are the worst in the game, as they not only lack several key technologies, but they are the only civilization to lack Leather Archer Armor. Compounded by their lack of Arbalester, their foot archers are useless. Their Skirmishers in particular are infamously bad, to the point where the civilization is vulnerable to Crossbowmen rushes unless they invest into Manipur Cavalry quickly.
+
+Overall, with their bonuses for both Monks and cavalry, they are very flexible in both open and closed maps, as the former have a solid early game economic and military bonuses that can allow the Burmese to push for an infantry rush and transition to their main strength with cavalry; while the latter can allow the Burmese to take full advantage of their late-game army composition Monks, Battle Elephants, and Arambai due to the closed and defensive nature of the map allowing them to effectively boom up.
+
+Changelog[]
+
+Rise of the Rajas[]
+
+With patch 5.3, Manipur Cavalry's +6 anti-building bonus damage adjusted (+6 (building)/+0 (standard building) → +3/+3), so Architecture does not cancel the effect completely anymore.
+
+With patch 5.7:
+Howdah food cost increased (200 food → 400 food) and extra pierce armor decreased (+2 → +1).
+(Elite) Arambai attack decreased (18 (non-Elite)/20 (Elite) → 17/19) movement speed decreased (1.35 → 1.3).
+Elite Arambai anti-cavalry archer armor decreased (+2 → +0).
+
+With Patch 5.8, (Elite) Arambai wood cost increased (50 wood → 80 wood).
+
+Definitive Edition[]
+
+Burmese Relic team bonus now properly gives line of sight to Relics. Previously it permanently revealed the Relics' starting locations.
+
+With update 34699, Arambai wood cost decreased (80 wood → 75 wood).
+
+With update 37650, Manipur Cavalry's anti-building bonus adjusted (+3 (standard buildings)/+3 (buildings) → +6/+0), so it does not get partially negated by Masonry.
+
+With update 42848, the (Elite) Arambai Rate of Fire increased (2.0 → 2.2).
+
+With hotfix 43210, the Elite Arambai has a Rate of Fire decreased (2.2 → 2.0).
+
+Lords of the West[]
+
+With update 44725:
+(Elite) Arambai damage decreased (17 (non-Elite)/19 (Elite) → 12/15). However, stray shots deal full damage to the unit they hit (instead of half).
+Arambai Rate of Fire decreased (2.2 → 2).
+
+Dawn of the Dukes[]
+
+With update 51737, Howdah extra pierce armor reverted (+1 → +2).
+
+With update 56005, Manipur Cavalry reworked: it longer affects Arambai, and provides +5 attack against archers instead of +6 attack against buildings.
+
+Dynasties of India[]
+
+With update 61321:
+Burmese Battle Elephants get +1/+1 armor as a new civilization bonus.
+Howdah extra pierce armor un-reverted (+2 → +1).
+Manipur Cavalry food cost decreased (650 food → 400 food).
+(Elite) Arambai train time decreased (21 → 18 seconds).
+
+With update 73855, Arambai benefit from Parthian Tactics.
+
+With update 81058:
+Elite Arambai upgrade food cost decreased (1,100 food → 1,000 food); gold cost increased (675 gold → 750 gold).
+Gambesons introduced.
+
+Return of Rome[]
+
+With update 87863, (Elite) Arambai are affected by Chemistry. Elite Arambai attack reduced (15 → 14).
+
+With update 81058:
+Manipur Cavalry cost reduced (400 food, 400 gold → 300 food, 300 gold) and effect reduced (+5 → +4).
+Manipur Cavalry moved to Castle Age and Howdah moves to Imperial Age.
+
+Campaign appearances[]
+
+The Burmese have a campaign devoted to their civilization: Bayinnaung. They also appear in:
+
+Prithviraj[]
+
+The Fate of India
+Buddhist Monks - Ally
+
+The Legend of Prithviraj
+Pagan - Enemy
+
+Gajah Mada[]
+
+The Pasunda Bubat Tragedy
+Javanese Bandits - Enemy
+
+Suryavarman I[]
+
+A Dangerous Mission
+Andaman Port (Andaman Port in co-op version) - Ally
+
+Nirvanapada
+Lavo Kingdom - Enemy
+Hariphunchai - Enemy
+
+Bayinnaung[]
+
+This campaign is played as the Burmese.
+
+The Mandalay Cobra
+Ava - Enemy
+Toungoo Camp - Ally
+
+The Royal Peacock
+Sokkate - Enemy
+Smim Htaw - Enemy → potential Ally → Enemy
+Smim Sawhtut - Neutral → potential Ally → Enemy
+Pegu - Ally
+
+The White Elephant
+Nats - Enemy
+
+The Old Tiger
+Mrauk U - Neutral
+Bayinnaung - Ally
+
+In-game dialogue language[]
+
+Burmese units speak their namesake, a Sino-Tibetan language (related to the language spoken by the Chinese and Tibetic languages) written with a script descended from Brahmic, either Kadamba or Pallava. Note that the Romanization of the Burmese Language may differ from person to person, and there is no single standard. Additionally, Farmer and Forager use the same word in-game.
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Male_Select_1_AoE2.ogg Select 1 Hou'ke? (ဟုတ်ကဲ့) – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Male_Select_2_AoE2.ogg Select 2 Hae (ဟေ့) – Hey/Hi
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Male_Select_3_AoE2.ogg Select 3 Athin bai (အသင့်ပဲ) – Ready
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Male_Select_4_AoE2.ogg Select 4 Amein bhe pa? (အမိန့်ပေးပါ) – Give order
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Male_Task_1_AoE2.ogg Task 1 Hou'ke (ဟုတ်ကဲ့) – Yes
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Male_Task_2_AoE2.ogg Task 2 Mhaan ba (မှန်ပါ) – Right / Correct
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Female_Task_3_AoE2.ogg Female Task 3 Kyunma thwarnay pe (ကျွန်မသွားနေပြီ) – I am going
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Male_Task_3_AoE2.ogg Male Task 3 Kyunnaw thwarnay parpe  (ကျွန်တော်သွားနေပါပြီ) – I am going
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Female_Task_4_AoE2.ogg Female Task 4 Kyunma lote maal (ကျွန်မလုပ်မယ်) – I will do it
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Male_Task_4_AoE2.ogg Male Task 4 Kyunnaw lote lite maal (ကျွန်တော်လုပ်လိုက်မယ်) – I will do it
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Male_Build_AoE2.ogg Build Sout lote thai thamarr (ဆောက်လုပ်ရေးသမား) – Builder
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Male_Chop_AoE2.ogg Chop Thit khote thamarr (သစ်ခုတ်သမား) – Lumberjack
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Male_Farm_AoE2.ogg Farm Jhait thain thamarr (ရိတ်သိမ်းသမား) – Harvester
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Male_Fish_AoE2.ogg Fish Ngarr phan thamarr (ငါးဖမ်းသမား) – Fisherman
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Male_Forage_AoE2.ogg Forage Jhait thain thamarr (ရိတ်သိမ်းသမား) – Harvester
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Male_Hunt_AoE2.ogg Hunt Mowt soe (မုဆိုး) – Hunter
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Male_Mine_AoE2.ogg Mine Mine tuu thamarr (မိုင်းတူးသမား) – Excavator
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Burmese_Villager_Male_Repair_AoE2.ogg Repair Pyupyin thamarr (ပြုပြင်သမား) – Repairer
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Soldier_Select_1_AoE2.ogg Select 1 Hou'ke? (ဟုတ်ကဲ့) – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Soldier_Select_2_AoE2.ogg Select 2 A mintaw aatine par (အမိန့်တော်အတိုင်းပါ) - By [Your] Royal orders
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Soldier_Select_3_AoE2.ogg Select 3 Amein bhe pa (အမိန့်ပေးပါ) – Give [me/us] orders
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Soldier_Move_1_AoE2.ogg Move 1 Narr lae par taal  (နားလည်ပါတယ်) – I understand
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Soldier_Move_2_AoE2.ogg Move 2 Kyunnaw thwarnay parpe  (ကျွန်တော်သွားနေပါပြီ) – I am going
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Soldier_Move_3_AoE2.ogg Move 3 Hou'ke? (ဟုတ်ကဲ့) – Yes
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Soldier_Attack_1_AoE2.ogg Attack 1 Tet khya! (တက်ကြ) – Advance!
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Soldier_Attack_2_AoE2.ogg Attack 2 Ngartote titemaal! (ငါတို့တိုက်မယ်) – We will fight!
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Soldier_Attack_3_AoE2.ogg Attack 3 Laatnaat yuu kya! (လက်နက်ယူကြ) - Get your weapons! (i.e. To Arms!)
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Monk_Select_1_AoE2.ogg Select 1 Hou'ke? (ဟုတ်ကဲ့) – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Monk_Select_2_AoE2.ogg Select 2 Pyaww par (ပြောပါ) - Say
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Monk_Select_3_AoE2.ogg Select 3 A mintaw aatine par (အမိန့်တော်အတိုင်းပါ) - By [Your] Royal orders
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Monk_Select_4_AoE2.ogg Select 4 Phaya Tayar Sangha (ဘုရား၊တရား၊သံဃာ) - The Buddha, (His) Teachings, and The Order of Monks
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Monk_Move_1_AoE2.ogg Move 1 Khu lote litemaal (ခုလုပ်လိုက်မယ်) – I'll do it now
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Monk_Move_2_AoE2.ogg Move 2 Hou'ke (ဟုတ်ကဲ့) – Yes
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Monk_Move_3_AoE2.ogg Move 3 Hote pa (ဟုတ်ပ) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Burmese_Monk_Move_4_AoE2.ogg Move 4 Khyeth kyinn partaay (ချက်ချင်းပါပဲ) - Immediately
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Burmese_King_Select_1_AoE2.ogg Select 1 Thint a thwat (သင့်အတွက်) - For you
+
+https://ageofempires.fandom.com/wiki/File:Burmese_King_Select_2_AoE2.ogg Select 2 Bhar lote khyin tha lell (ဘာလုပ်ချင်သလဲ) - What do you want to do?
+
+https://ageofempires.fandom.com/wiki/File:Burmese_King_Select_3_AoE2.ogg Select 3 Bhar kyawwng kyut ko tarr tar lell (ဘာကြောင့်ကျုပ်ကိုတားတာလဲ) - Why do you impede/stop me?
+
+https://ageofempires.fandom.com/wiki/File:Burmese_King_Select_4_AoE2.ogg Select 4 Asin ayin kan par tae (အစင်အရင်ခန်ပါတယ်) - [Will do] first and foremost
+
+https://ageofempires.fandom.com/wiki/File:Burmese_King_Move_1_AoE2.ogg Move 1 Thin pyaw tar laut par mae (သင်ပြောတာလုပ်ပါမယ်) - [I] will do what you said
+
+https://ageofempires.fandom.com/wiki/File:Burmese_King_Move_2_AoE2.ogg Move 2 Gunyuuh zwar pyint (ဂုဏ်ယူစွာအဖြင့်) - With pride, [I will do]
+
+https://ageofempires.fandom.com/wiki/File:Burmese_King_Move_3_AoE2.ogg Move 3 Thin pyaw tae athine (သင်ပြောတဲ့အတိုင်း) - As you said
+
+https://ageofempires.fandom.com/wiki/File:Burmese_King_Move_4_AoE2.ogg Move 4 Kyut laut ya mae (ကျုပ်လုပ်ရမယ်) - I will have to do
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Burmese AI characters:
+
+Anawrahta (အနော်ရထာ): The founder of the Pagan Empire. Considered the father of the Burmese nation, Anawrahta turned a small principality in the dry zone of Upper Burma into the first Burmese Empire that formed the basis of modern-day Burma.
+
+Bayinnaung (ဘုရင့်နောင်): Bayinnaung Kyawhtin Nawrahta was king of the Toungoo Dynasty of Burma from 1550 to 1581. During his 31-year reign, which has been called the "greatest explosion of human energy ever seen in Burma," Bayinnaung assembled the largest empire in the history of Southeast Asia, which included much of modern-day Burma, Chinese Shan states, Lan Na, Lan Xang, Manipur, and Siam.
+
+Binnya Dala (ဗညားဒလ): A court title used at the courts of the Hanthawaddy Kingdom, Toungoo Dynasty and Restored Hanthawaddy Kingdom. Possibly refers to General of Hanthawaddy defeated in the Battle of Naungyo in 1538 or Chief Minister and general of Toungoo (1559–1573).
+
+Kyansittha (ကျန်စစ်သား): King of Pagan dynasty of Burma from 1084 to 1112/13, and is considered one of the greatest Burmese monarchs.
+
+Min Bin (မင်းပင်): King of Arakan from 1531 to 1554, "whose reign witnessed the country's emergence as a major power". Aided by Portuguese mercenaries and their firearms, his powerful navy and army pushed the boundaries of the kingdom deep into Bengal, where coins bearing his name and styling him sultan were struck, and even interfered in the affairs of mainland Burma.
+
+Mingyi Nyo (မင်းကြီးညို): The founder of Toungoo dynasty of Burma. Under his 45-year leadership (1485–1530), Toungoo (Taungoo), grew from a remote backwater vassal state of Ava Kingdom to a small but stable independent kingdom.
+
+Minkhaung (ပထမ မင်းခေါင်): A Burmese royal title, and may refer to monarchs (kings Minkhaung I/Minkhaung II/Minkhaung of Mrauk-U/Minkhaung of Prome) or viceroys of Toungoo (Minkhaung I of Toungoo/Minkhaung II of Toungoo) in late AoE II era.
+
+Nanda (နန္ဒဘုရင်): King of Toungoo Dynasty of Burma from 1581 to 1599. He presided over the collapse of Toungoo Empire, the largest empire in the history of Southeast Asia.
+
+Narapati (နရပတိ): A Burmese royal title, and may refer to: Narapati I of Ava, King of Ava, r. 1442–68; Narapati II of Ava, King of Ava, r. 1501–27; Narapati of Prome, King of Prome, r. 1532–39; Narapati III of Ava, King of Ava, r. 1545–51; and Narapati IV of Ava, King of Ava, r. 1551–55; in AoE II era.
+
+Sithu (စည်သူ): A Burmese royal title used in the days of Burmese monarchy and may refer to Sithu I/Sithu II/Sithu III/Sithu IV, kings of Pagan, Sithu of Pinya and Sithu Kyawhtin.
+
+Swasawke (စွာစော်ကဲ): King of Ava from 1367 to 1400. He reestablished central authority in Upper Burma for the first time since the fall of the Pagan Empire in the 1280s. He essentially founded the Ava Kingdom that would dominate Upper Burma for the next two centuries.
+
+Tabinshwehti (တပင်ရွှေထီး): Tabinshwehti was king of Toungoo Dynasty of Burma from 1530 to 1550, and the founder of Toungoo Empire. His military campaigns created the largest kingdom in Burma since the fall of Pagan Empire in 1287.
+
+History[]
+
+“ Since prehistoric times, the fertile plains, navigable rivers, and the protection of surrounding mountains have attracted many ethnic groups to settle in the area of present-day Myanmar (Burma). Between the end of the first millennium BC and the ninth century AD, a multitude of city-states emerged as a result of intensified rice cultivation and growing Indo-Chinese trade. Similar to other early Southeast Asian polities, culture became influenced by the interaction with India. Most of the urban civilizations of Myanmar gradually converted to Buddhism and built many temples. These tall cylindrical temples, called stupas, became the prototype for later religious architecture. For example, the famous 11th century Shwezigon Pagoda was based on this design. During the Middle Ages, two states succeeded in uniting the different polities of Myanmar into one powerful empire. In 1044, Anawrahta Minsaw (1044-1077) ascended the throne of the small Pagan kingdom in Upper Myanmar. After consolidating the state's economic power through the building of extensive irrigation networks, Anawrahta conquered most of Upper and Lower Myanmar. Around 1200, the Pagan empire (1044-1297) reached its zenith: the Burmese language became the lingua franca, laws were codified, and the territory reached its largest extent. The Pagan empire had only a limited standing army in their capital, called the brave ones, but additional troops were conscripted during times of war. The main body of the army consisted of infantry. A number of war elephants, the elite unit of the army and a symbol of power, were allotted to each force. The elephants were often equipped with a Howdah , a sort of carriage, from which multiple archers could shoot. In addition, the Burmese deployed a sizable cavalry force. Soldiers fought with a variety of weapons, including swords, spears, bows, and darts. Despite its many victories in the eleventh and twelfth centuries, the Pagan army was eventually defeated by the Mongols in 1285. Without powerful leadership, the empire soon disintegrated into rivaling states. By the fourteenth century, four states had filled the void of the Pagan Empire though their rule was highly contested and vassals often rebelled. While these four states waged war among each other, the small kingdom of Toungoo profited by welcoming refugees, expanding its own territory, and raiding neighboring cities. In 1510, King Mingyinyo (1485-1530) declared independence. Under his successors, King Tabinshwehti (1530-1550) and especially King Bayinnaung (1550-1581), Toungoo expanded from a regional kingdom into the largest empire of Southeast Asia, encompassing much of present-day Myanmar, Thailand, and Laos. Extensive use of firearms and the recruitment of Portuguese artillery gave the Burmese a technological advantage in battle. This explosive growth, however, left the Toungoo Empire ungovernable. Shortly after the death of Bayinnaung, different states rebelled. Instead of consolidating the kingdom's core region, Bayinnaung's son, King Nanda (1581-1599), desperately tried to hold on to the large empire. The failure of multiple campaigns against the Thai kingdom of Ayutthaya weakened Toungoo's military strength. Failed harvests due to climatic cooling weakened the imperial economy. In 1599, Toungoo's capital was besieged and burned to the ground, marking the end of the second Burmese Empire. ”
+
+Trivia[]
+
+Before the Definitive Edition the middle of the navigation bar showed a green peafowl, which is the royal symbol of Burmese kingdoms since the 11th century.
+This symbol is also used as the civilization icon of the Burmese in the Definitive Edition.
+This symbol is also used as the coat of arms of the Konbaung dynasty (18th century).
+
+The Burmese user interface image is an image of the temples and pagodas in Bagan, which between the 11th to 13th centuries hosted more than 10,000 temples, pagodas, and monasteries, out of which 2,200 still exist.
+
+The Burmese are the only civilization that lack Leather Archer Armor at the Blacksmith.
+
+The following heroes available in the Scenario Editor are themed on the Burmese: Bayinnaung and Tabinshwehti.
+
+While they primarily represent the Pagan Kingdom and the Taungoo/Toungoo dynasty, they also draw influence from modern northeastern India, namely the state of Manipur, reflected in their use of the Arambai and the Manipur Cavalry unique technology. This is slightly ironic, as the Kingdom of Manipur often fought against the Burmese Empire. In the 18th century, Manipur horsemen often fought in Burmese armies and constituted important portions of the Burmese cavalry, although this is far after the end of the game's time period. Ironically, the Burmese technology Manipur Cavalry (when its effect was granting bonus damage against buildings) could have potentially come from the deadly raids the Manipuris made into Burmese lands in the 18th century when they ravaged much of the countryside, destroying villages and pagodas.
+
+The civilization name is based on Burmese ဗမာ Bama, colloquial form of the ethnic name မြန်မာ Mranma, of unknown origin; French linguist Michel Ferlus included this ethnonym in the South-East Asia word-family *-ra:ŋ "human being". However, the term later referred to all ethnic groups within the boundaries of British Burma, including those ruled by the Shan, Mon, and Rakhine kingdoms.
+
+Unused data (under technology 633) suggests that Burmese infantry would have had an additional +1 attack starting in the Dark Age (stacking with their current bonus for a total +4 in the Imperial Age).
+
+Gallery[]
+
+The Burmese Wonder, 
+
+Shwezigon Pagoda
+
+The Southeast Asian 
+
+architecture set the Burmese share with the
+
+Khmer and
+
+Malay
+
+The set before the 
+
+The Burmese 
+
+user interface in the
+
+The Burmese user interface in the 
+
+Burmese user interface image in the 
+
+A Burmese town, seen in 
+
+The Mandalay Cobra
+
+A screenshot from the official preview
+
+Video overview[]
+
+Burmese Overview AoE2
+
+References[]
+
+↑ https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/burmese
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+Asian civilizations
+
+Rise of the Rajas
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

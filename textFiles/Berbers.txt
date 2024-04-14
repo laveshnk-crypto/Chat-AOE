@@ -1,0 +1,601 @@
+This page is all about the Berbers
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The African Kingdoms
+3.2 Rise of the Rajas
+3.3 Definitive Edition
+3.4 Dynasties of India
+
+4 Campaign appearances
+
+4.1 El Cid
+4.2 Battles of the Conquerors
+4.3 Sundjata
+4.4 Francisco de Almeida
+4.5 Bari
+4.6 The Hautevilles
+4.7 Victors and Vanquished
+4.8 The Art of War
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+African civilizations,
+
+The African Kingdoms
+
+
+			English
+
+Español
+
+Berbers (Age of Empires II)
+
+33
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+This article is about the civilization in Age of Empires II HD: The African Kingdoms . For other appearances of the faction in the series , see Berbers .
+
+Civilization Technology tree Strategy
+
+Berbers
+
+Civilization information
+
+Introduced in
+
+Age of Empires II HD: The African Kingdoms
+
+Architecture
+
+Middle Eastern
+
+Continent
+
+Africa 
+
+Europe
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Berbers_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Berbers_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Berbers_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Cavalry
+
+Navy
+
+Unique units
+
+Camel Archer
+
+Genitour
+
+Unique technologies
+
+Kasbah
+
+Maghrebi Camels
+
+“ The arid desert breeds tough men, horses, and camels alike. Unite the tribes of Northern Africa, prepare your naval vessels to escape the scorching heat of the Maghreb, and set sail to war-torn Iberia to conquer new riches. Are your powerful cavalry, camelry, and Camel Archers enough to defend your Kasbahs against the scrambled kingdoms of Iberia that are slowly uniting against you? ” —Description [1]
+
+The Berbers are a North African civilization (with Middle Eastern architecture) featured in Age of Empires II HD: The African Kingdoms.[2] They focus on navy and cavalry.
+
+The Berbers appear as a minor native and an alliance option for the Hausa in Age of Empires III: Definitive Edition - The African Royals. In addition, Barbary States appear as a revolution option for the Ottomans and Portuguese and the Moroccans (a Berber state in the Age of Empires III timeframe) appear in a Historical Battle and as another alliance option for the Hausa. Several units introduced in Age of Empires III: Definitive Edition reuse the same voice lines as the Berber units in Age of Empires II.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The African Kingdoms
+3.2 Rise of the Rajas
+3.3 Definitive Edition
+3.4 Dynasties of India
+
+4 Campaign appearances
+
+4.1 El Cid
+4.2 Battles of the Conquerors
+4.3 Sundjata
+4.4 Francisco de Almeida
+4.5 Bari
+4.6 The Hautevilles
+4.7 Victors and Vanquished
+4.8 The Art of War
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+Characteristics[]
+
+Unique unit[]
+
+Camel Archer: Mounted archer with attack bonus against mounted archers.
+
+Genitour: Mounted Skirmisher.
+
+Unique technologies[]
+
+Kasbah: Allied Castles work 25% faster.[note 1]
+
+Maghrebi Camels: Camel units regenerate 0.25 HP/s.
+
+Civilization bonuses[]
+
+Villagers move 5% faster in Dark Age, 10% faster starting in Feudal Age.
+
+Stable units are 15%/20% cheaper in the Castle/Imperial Age.
+
+Ships move 10% faster.
+
+Team bonus[]
+
+Genitours are available at the Archery Range starting in the Castle Age.
+
+Overview[]
+
+cavalry and their unique unit, the
+
+Camel Archer, a high damage mounted archer that deals bonus damage to mounted archers. In addition, their camels even
+
+regenerate health. The cavalry department only lacks the
+
+Paladin, hence is a viable option throughout the game, with their cheaper Hussars being very powerful in late game. Their
+
+infantry is also good with the
+
+Halberdier and
+
+Gambesons missing. Their
+
+Archers are subpar as they lack
+
+Arbalesters. Their
+
+Cavalry Archers are also unpopular due to lacking
+
+Parthian Tactics, as well as due to the presence of two other mounted archer options in the form of the Camel Archer and the
+
+Genitour, the latter of which is their team bonus. The
+
+siege weapons are average with all the technologies except
+
+Siege Rams and
+
+Siege Onagers. The
+
+navy is another selling point for the Berbers with faster ships and a full tech tree, though
+
+Shipwright hurts them in late game. Their
+
+Monks and
+
+defensive structures are average. Their
+
+Villagers +10% movement speed helps mostly with survival, and to an extent with farming. Their economy is slow during the early game, but become a powerhouse once they reach the
+
+Castle Age.
+
+Changelog[]
+
+The African Kingdoms[]
+
+Trade Cogs generate less gold per trip to offset the speed bonus and keep the gold generation in line with other civilizations.
+
+(Elite) Camel Archers have 60 (65) HP, +2 camel armor, +2 Cavalry Archer armor, as well as a +2 attack bonus against rams and +1 attack bonus against infantry.
+
+Camel Archers train in 21 seconds.
+
+Genitours cost 50 food, 35 wood.
+
+Initially, Stable units are 20% cheaper starting from the Castle Age. With patch 4.8, Stable units are 15%/20% cheaper in the Castle/Imperial Age.
+
+Initially, they cannot research Ring Archer Armor. With patch 4.8, it was added to their technology tree.
+
+Initially, Kasbah increases not only the team Castles' working speed by 25%, but also the Castles of the researching player by another 25% (resulting in a total 56.25% bonus). With patch 4.8, Kasbah only affects the researching player's Castles once.
+
+Initially, Non-Elite Genitours have 4 attack, 3 range, and 3 pierce armor. With patch 4.8, they have 3 attack and 4 range.
+
+Rise of the Rajas[]
+
+With patch 5.3, Camel Archers no longer have an attack bonus against infantry.
+
+With patch 5.7, (Elite) Camel Archers have 55 (60) HP, and they lose their bonus armor against anti-camel and anti-Cavalry Archer attacks. Also, they lose their attack bonus against rams.
+
+With patch 5.8, Camel Archers train in 25 seconds.
+
+Definitive Edition[]
+
+Genitours receive a +2 attack bonus against Spearmen.
+
+Trade Cogs no longer generate less gold per trip.
+
+With update 35584, non-Elite Genitours have 4 pierce armor.
+
+Dynasties of India[]
+
+Genitours cost 40 food, 35 wood.
+
+With update 81058, Villager movement speed bonus adjusted to 5% in Dark Age and 10% in Feudal Age onwards.
+
+Campaign appearances[]
+
+The Berbers have a campaign devoted to their civilization: Tariq ibn Ziyad. They also appear in:
+
+El Cid[]
+
+Black Guards and Reconquista
+Black Guard Army - Enemy
+Black Guard Navy - Enemy
+Yusuf - Enemy
+
+Battles of the Conquerors[]
+
+Tours
+Berbers - Enemy
+
+Sundjata[]
+
+The Sting of the Scorpion
+Labe - Enemy
+
+Blood on the River Bank
+Mema - Enemy → Ally
+
+Francisco de Almeida[]
+
+Lion of Africa
+Barbary Pirates - Enemy
+Banu Arous - Enemy
+Banu Arous - Enemy
+
+Bari[]
+
+Arrival at Bari
+Saracen Army - Enemy
+
+The Hautevilles[]
+
+Roger in Sicily
+Prince Ayyub Zirid - Enemy
+Prince Ali Zirid - Enemy
+Ibn at-Timmah - Ally → potential Enemy
+
+Wonder of the World
+Sultan al-Hassan - Ally → potential Enemy
+
+Victors and Vanquished[]
+
+Gaiseric
+Mauri - Enemy
+
+Ironside
+Ifriqiya - Enemy
+
+The Art of War[]
+
+Destroying a Castle is played as the Berbers.
+
+In-game dialogue language[]
+
+This section needs expansion . You can help by adding to it .
+
+In-game, Berber units speak Kabyle/Taqbaylit, a Berber language that is written in the Tifinagh script as well as Latin.
+
+Some words spoken by units are from Chleuh/tachelhit, a different Berber language, while others are not very understandable by native Berbers due to weird foreign pronunciations or made-up words. Some are Arabic like "sidi", but used in Rif, which is the Berber dialect closest to Kabyle. The correct form would be " A'sidi " or "A'si'" and not "sidi", even though it is understandable due to a shared history between Arabic and Berber speakers.
+
+Another example is the letter ɣ, which is not pronounced like the "gh" of Amazigh.
+
+"Eih" is foreign and should be closer to "yy/yé/wah" = "yes". Several words spoken by Berbers in-game cannot be found in the Amazigh dictionary.
+
+"Rebbi" is correct and means "god" but the "R" should be rolled and the"e" should mostly be pronounced like an "a". "Issem" means "name", though the "s" in the beginning is weird and should be closer to "r'iessem na'rebbi" or "gh'iessem n'rebbi" or "ɣ'iessem n'rebbi", "si'iessem n'rebbi".
+
+The letter "V" is very rare and weirdly put at the end of a word such as in "Vekhetov", which is a foreign word to Berbers and resembles something like Russian more.
+
+"Azul" is a recent neologism meaning "close to heart" to greet people and did not exist back in the time frame of Age of Empires II.
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Male_Select_1_AoE2.ogg Select 1 Eih? (ⵉⵀ?) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Male_Select_2_AoE2.ogg Select 2 Azul (ⴰⵣⵓⵍ) - Hello
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Male_Select_3_AoE2.ogg Select 3 ??? - Ready
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Male_Select_4_AoE2.ogg Select 4 Lehulwulmar? (ⵍⵀⵓⵍⵡⵓⵍⵎⴰⵔ?) - Your commands?
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Male_Task_1_AoE2.ogg Task 1 Eih (ⵉⵀ) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Male_Task_2_AoE2.ogg Task 2 Fehmeɣ (ⴼⵀⵎⵖ) - Understood
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Male_Task_3_AoE2.ogg Task 3 Aqli ruḥaɣ (ⴰⵇⵍⵉ ⵔⵓⵃⴰⵖ) - I'm going
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Male_Task_4_AoE2.ogg Task 4 Tuɣa atid xmaɣ - I'll do it now
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Female_Build_AoE2.ogg Female Build Thabbenaith - A builder (feminine)
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Male_Build_AoE2.ogg Male Build Abbenai (ⴰⴱⴱⵏⴰⵉ-ⵉⵏ) - A builder (masculine)
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Female_Chop_AoE2.ogg Female Chop Vekhetov (ⵖⴽⵀⵜⵓⴹ)- To cut
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Male_Chop_AoE2.ogg Male Chop Alye tabb (ⴰⵍⵢ ⵜⴰⴱⴱ) - To chop
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Female_Farm_AoE2.ogg Female Farm
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Male_Farm_AoE2.ogg Male Farm
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Female_Fish_AoE2.ogg Female Fish
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Male_Fish_AoE2.ogg Male Fish
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Female_Forage_AoE2.ogg Female Forage
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Male_Forage_AoE2.ogg Male Forage Nu *zhumeah - To forage (Going to forage)
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Female_Hunt_AoE2.ogg Female Hunt Tha seggad (ⵜⴰ ⵙⴳⴰⴷ) - A huntress
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Male_Hunt_AoE2.ogg Male Hunt Nek, segdaɣ (ⵏⴽ, ⵙⴳⴷⴰⵖ) - Me, I hunt
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Female_Mine_AoE2.ogg Female Mine Akheden tirminae (ⴰⴽⵀⴷⵏ ⵜⵉⵔⵎⵉⵏⴰ) - To work the mine
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Male_Mine_AoE2.ogg Male Mine Nek, ḥfraɣ (ⵏⴽ, ⵃⴼⵔⴰⵖ) - Me, I mine
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Female_Repair_AoE2.ogg Female Repair Imsgem (ⵉⵎⵙⴳⵎ) - Repairer
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Villager_Male_Repair_AoE2.ogg Male Repair Nek, sgymaɣ (ⵏⴽ, ⵙⴳⵢⵎⴰⵖ) - Me, I repair
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Soldier_Select_1_AoE2.ogg Select 1 Eih? (ⵉⵀ?) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Soldier_Select_2_AoE2.ogg Select 2 Alidil, Hadamenik (ⴰⵍⵉⴷⵉⵍ, ⵀⴰⴷⴰⵎⵏⵉⴽ) - Orders, sir
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Soldier_Select_3_AoE2.ogg Select 3 Lehulwulmar? (ⵍⵀⵓⵍⵡⵓⵍⵎⴰⵔ?) - Your commands?
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Soldier_Move_1_AoE2.ogg Move 1 Leusakh (ⵍⵓⵙⴰⴽⵀ) - Immediately
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Soldier_Move_2_AoE2.ogg Move 2 Anâam (ⴰⵏⵄⵎ) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Soldier_Move_3_AoE2.ogg Move 3 Anâam, acidi (ⴰⵏⵄⵎ ⴰⵙⵉⴷⵉ) - Yes, sir
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Soldier_Attack_1_AoE2.ogg Attack 1 Hezhuhmiv! (ⵀⵣⵀⵓⵀⵎⵉⴹ!) - Forward!
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Soldier_Attack_2_AoE2.ogg Attack 2 Zhudimiv, anano! (ⵥⵀⵓⴷⵉⵎⵉⴹ, ⴰⵏⴰⵏⵓ!) - Everyone, at them!
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Soldier_Attack_3_AoE2.ogg Attack 3 Dimifseulah, Hezhuhmiv! (ⴹⵉⵎⵉⴼⵙⵓⵍⴰⵀ, ⵀⵣⵀⵓⵀⵎⵉⴹ!) - My brothers, forward!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Monk_Select_1_AoE2.ogg Select 1 Eih? (ⵉⵀ?) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Monk_Select_2_AoE2.ogg Select 2 Lehulwulmar? (ⵍⵀⵓⵍⵡⵓⵍⵎⴰⵔ?) - Your commands?
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Monk_Select_3_AoE2.ogg Select 3 Alidil, Hadamenik (ⴰⵍⵉⴷⵉⵍ, ⵀⴰⴷⴰⵎⵏⵉⴽ) - Orders, sir
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Monk_Select_4_AoE2.ogg Select 4 Sisem n rebbi (ⵙⵉⵙⵎ ⵏ ⵔⴱⵉ) - In the name of God
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Monk_Move_1_AoE2.ogg Move 1 Anglia rohao (ⴰⵏⴳⵍⵉⴰ ⵔⵓⵀⴰⵓ) - I'm going
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Monk_Move_2_AoE2.ogg Move 2 Eih (ⵉⵀ) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Monk_Move_3_AoE2.ogg Move 3 Leusakh (ⵍⵓⵙⴰⴽⵀ) - Immediately
+
+https://ageofempires.fandom.com/wiki/File:Berbers_Monk_Move_4_AoE2.ogg Move 4 Feu vethit (k)omakh - On my way
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Berbers_King_Select_1_AoE2.ogg Select 1 Aqlik (ⴰⵇⵍⵉⴽ) - Here you are
+
+https://ageofempires.fandom.com/wiki/File:Berbers_King_Select_2_AoE2.ogg Select 2
+
+https://ageofempires.fandom.com/wiki/File:Berbers_King_Select_3_AoE2.ogg Select 3
+
+https://ageofempires.fandom.com/wiki/File:Berbers_King_Select_4_AoE2.ogg Select 4
+
+https://ageofempires.fandom.com/wiki/File:Berbers_King_Move_1_AoE2.ogg Move 1
+
+https://ageofempires.fandom.com/wiki/File:Berbers_King_Move_2_AoE2.ogg Move 2
+
+https://ageofempires.fandom.com/wiki/File:Berbers_King_Move_3_AoE2.ogg Move 3
+
+https://ageofempires.fandom.com/wiki/File:Berbers_King_Move_4_AoE2.ogg Move 4 Ad khemagh (ⴰⴷ ⴽⵀⵎⴰⴳⵀ) - I'll do
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Berber AI characters:
+
+Abd al- Mu'min (ⵄⴰⴱⴷ ⵍⵎⵓⵎⵏ ⵍⴳⵓⵎⵉ): A prominent member of the Almohad movement. As a leader of the Almohad Movement (since 1130), he became the first Caliph of the Almohad Empire (reigned 1147–63).
+
+Abdallah ibn Yasin (ⴰⴱⴷⴰⵍⵍⴰⵀ ⵉⴱⵏ ⵢⴰⵙⵉⵏ): A theologian and founder of the Almoravid movement and dynasty (died 7 July 1059 C.E. in "Krifla" near Rommani, Morocco).
+
+Abu Bakr ibn Umar (ⴰⴱⵓ ⴱⴽⵔ ⴱⵏ ⵄⵎⵔ): A chieftain of the Lamtuna Berber Tribe and commander of the Almoravids from 1056 until his death.
+
+Abu Yazid (ⴰⴱⵓ ⵢⵣⵉⴷ): An Ibadi Berber of the Banu Ifran tribe who led a rebellion against the Fatimid Caliphate in Ifriqiya (modern Tunisia and eastern Algeria) starting in 944.
+
+Ibn Tumart (ⵜⵓⵎⵔⵜ ⴰⴱⵓ): A Muslim Berber religious scholar, teacher and political leader, came from southern Morocco. He founded and served as the spiritual leader of the Almohad movement.
+
+Idris I (ⵉⴷⵔⵉⵙ I): The first Arab ruler and founder of the Idrisid dynasty, ruling from 788 to 791. He is credited with founding the dynasty that was instrumental in the early Islamization of Morocco.
+
+Kusayla (ⴰⴽⵙⵉⵍ): His name means "leopard" in the Berber language, died in the year 690 AD fighting Muslim invaders, was a 7th-century Berber Christian king of the kingdom of Altava and leader of the Awraba tribe of the Imazighen.
+
+Maysara (ⵎⵉⵙⵔⴰ): Berber rebel leader and original architect of the Great Berber Revolt that erupted in 739-743 against the Umayyad Muslim empire.
+
+Musa ibn Nusayr (ⵎⵓⵙⴰ ⴱⵏ ⵏⵚⵉⵔ): Served as a governor and general under the Umayyad caliph Al-Walid I. He ruled over the Muslim provinces of North Africa (Ifriqiya), and directed the Islamic conquest of the Visigothic Kingdom in the Iberian Peninsula and southeastern France. Despite appearing as a Berber AI, he was actually an Arab from Syria who landed in Spain with an Arab army - in part, to make sure Tariq ibn Ziyad's Berbers did not go rogue.
+
+Salih ibn Tarif (ⵚⴰⵍⵃ ⴱⵏ ⵟⵔⵉⴼ): The second king of the Berghouata Berber kingdom, and proclaimed himself a prophet of a new religion. He appeared during the caliphate of Hisham ibn Abd al-Malik in 744 AD.
+
+Tariq ibn Ziyad (ⵟⴰⵔⵉⵇ ⴱⵏ ⵣⵉⵢⴰⴷ): A Muslim commander who led the Islamic Umayyad conquest of Visigothic Hispania in 711–718 A.D. Under the orders of the Umayyad Caliph Al-Walid I he led a large army and crossed the Strait of Gibraltar from the North African coast, consolidating his troops at what is today known as the Rock of Gibraltar. The name "Gibraltar" is the Spanish derivation of the Arabic name Jabal Ṭāriq (جبل طارق), meaning "mountain of Ṭāriq", which is named after him.
+
+Yusuf ibn Tashfin (ⵢⵓⵙⴼ ⴱⵏ ⵜⴰⵛⴼⵉⵏ): was leader of the Berber Moroccan Almoravid empire. He co-founded the city of Marrakesh and led the Muslim forces in the Battle of Zallaqa/Sagrajas.
+
+History[]
+
+“ Archaeological evidence indicates the emergence of distinctively Berber tribes in North Africa around 2000 BC, while historical sources and inscriptions first mention them around the 8th century BC. Early Berbers were mostly pastoral nomads, though a minority practiced sedentary agriculture. These tribes had close contact with Carthage and the Greek colonies in North Africa. The word "Berber" itself derives from a Greek term used in this case to describe the local inhabitants of North Africa west of Egypt. In the 3rd and 2nd centuries BC, several Libyo-Berber groups formed the classical kingdoms of Numidia and Mauritania. These soon fell to the Romans , who left their own impressive legacy on North Africa. However, in the early 5th century AD, the Vandals invaded Roman North Africa and, allying with the Berbers, conquered it. The Byzantines launched several campaigns into North Africa in the 6th century, establishing tenuous control over the region. However, their persecution of the Arian and Donatist Christian sects throughout the next century drove a wedge between the Berbers and their Byzantine rulers, allowing the Muslim Arabs a relatively easy conquest of North Africa in the mid 7th century. The Arabs consolidated their conquests in North Africa by founding new cities (most notably Qayrawan in Tunisia), gradually spreading Islam, and allying with local Berber tribes. In 711, an army composed of Berbers and Arabs under Tariq ibn Ziyad and Musa ibn Nusayr crossed into Iberia, defeated the Visigoth king Roderic at the Battle of Guadalete, and quickly subdued the region. Medieval Berber armies were famed for their use of lightly armored but lightning-quick cavalry and camelry forces, particularly Genitours , cavalry wielding a spear overhead whose mobility and versatility made them lethal against a variety of troop types. The Berber horse is notorious for terrifying other horses with its aggressive personality, lending Berber horsemen a key advantage in combat. Despite some brief interruptions, the medieval Muslim Berber empires of North Africa and Iberia flourished as centers of culture and trade for centuries. Their architectural legacy is particularly rich, as they erected such impressive structures as the Alhambra in Granada, La Mezquita in Cordoba, the Koutoubia Mosque in Marrakesh, and the Hassan Tower in Rabat. The Berbers profited greatly from the commodities, especially gold, obtained through the lucrative Trans-Saharan trade routes, and were key players in the medieval Mediterranean economy. The maritime strength of the Berbers was impressive, and their fleets would remain as powerful commercial and military entities for centuries. In 909, a new power rose to dominate North Africa: the Fatimid Caliphate (909-1171). The Fatimid leader, Ubayd Allah, claimed to be the Imam, the Caliph, and the Mahdi (a messianic figure in Islam), beginning a precedent that would be followed by several subsequent political figures. However, overextension as the Fatimids pushed eastward cost them their possessions in the Maghrib, and a collapse in central authority in Muslim Spain led to its fragmentation into several Taifas, or city-states. Significant Arabization of the Maghrib was achieved through the Hilalian invasion of the 11th century, which greatly affected the agriculture and commerce of the region as well. The Almoravids (1040-1147), representing an elevated level of military, political, economic, and religious organization, rose to dominate the Maghrib and invaded Iberia, conquering the Taifas and halting the military advance of the Christian Spanish kingdoms . The Almohads (1121-1269) succeeded the Almoravids and decisively crushed the Castilians at the Battle of Alarcos in 1195, greatly expanding their political influence. Under the Almoravids and Almohads, the western medieval Muslim world reached its political and cultural zenith. The Spanish Christian kingdoms gradually conquered Muslim Iberia, a process that culminated with the fall of the Nasrid Emirate of Granada to a unified Castile-Aragon in 1492, and the Ottoman Turks conquered much of the Maghrib in the 16th century, leaving the Sa'adian (1549-1654) dynasty in the west as the predecessors of the modern Moroccan state. ” — [2]
+
+Trivia[]
+
+The Berbers' civilization icon is an Adarga, an apple-shaped leather shield originally from Fes, Morocco that was used by light cavalry in Muslim Spain before it was adopted by the Christians (the same shield is used by the second Berber unique unit, the Genitour, and by the Spanish Lancer and the Zenata Rider in Age of Empires III). The Adarga's unusual shape was designed to deflect arrows and javelins more than stop them.
+The painted symbol on the shield is a Yaz (ⵣ), which symbolizes the "free man" (Amazigh in Berber), and is in turn the name Berbers give to themselves in their own language.
+
+The user interface image displays the coat of arms of Nasrid dynasty, the last Muslim dynasty in the Iberian Peninsula, ruling the Emirate of Granada from 1230 until 1492.
+
+The Berbers are featured in El Cid campaign as one of the antagonistic factions in the late campaign, and were represented by Saracens and Turks. They also appear in the Tours scenario of the Battles of the Conquerors and were also represented by Turks.
+
+Berbers or Moors had actually been considered to appear as one of the new civilizations in The Conquerors. However, the plan was dropped because there were already four civilizations with the Middle Eastern architecture set.[3]
+
+Tariq ibn Ziyad is the only hero available in the Scenario Editor who is themed on the Berbers.
+
+The Berbers' strengths closely resemble the ones of the Yamato of Age of Empires (both having bonuses affecting their navy, cheaper cavalry units and extra speed for Villagers).
+
+Of all four shared-unit civilizations, they are the only one that does not have any bonus or technology for their own shared unit.
+
+The Berbers are considered one of the most jack–of-all-trade civilization, as they have many units suitable to use, but many of them are not the best contrast to other civilizations.
+
+In contrast to the Teutons, they are one of the few civilizations that lacks all rarest units and buildings (namely Paladins, Siege Onagers, and Bombard Towers).
+
+With the Byzantines switching to the Mediterranean architecture set in the Definitive Edition, the Berbers are the only Middle Eastern civilization without access to Parthian Tactics.
+The lack of Parthian Tactics may be historically inaccurate, as the Berbers had a reputation of mounted archery. However, their unique unit reflects the Berber's expertise in mounted archery.
+
+Because of their jack-of-all-trades tactics, they can be suited for most maps.
+On a related note, the Berbers may sometimes be recommended over Franks when it comes to learning the "Knight rush" strategy for newer players. This is because while the Franks' civilization bonuses are better for this strategy, the Berbers have more Castle Age options to mix in with their Knight rush strategy.
+
+When the Berbers were released, most players regarded this civilization as overpowered, since at that time, the Camel Armor bonus was not high, and Stable units cost 20% less once the Castle Age was reached. Most importantly, Camel Archers had better statistics, as they trained faster, had anti-armor, and 5 more hit points. This made Berbers more of a unique unit civilization, due to both unique technologies being beneficial for Camel Archers. Most of the Camel Archers' statistics were toned down, and the discount reduced in Rise of the Rajas. However, their shared unit, the Genitour, is underused, due to being extremely vulnerable against other trash units, with double the food cost, which is too much in the Castle Age. Overall, the Berbers still possess an above-average win rate, even though their picking rate is average at best.
+Similar to the Indians, the Berbers were originally set to counter the Mongols and Huns, due to both unique units being a great counter against Cavalry Archers, and the Berbers have cheaper Camels to face their cavalry. Ironically, the Berbers have some of the lowest win-rates against Mongols, due to the Mongols having siege weapons that are very effective against Camel Archers.
+
+Gallery[]
+
+The Wonder of the Berbers, the 
+
+Hassan Tower
+
+The Middle Eastern architecture set the Berbers share with the 
+
+Persians,
+
+Saracens, and
+
+Turks
+
+The Middle Eastern architecture set before the 
+
+Berbers user interface image
+
+The Berber 
+
+user interface before the
+
+Official preview for 
+
+A Berber town, seen in 
+
+Divide and Conquer
+
+Ali ibn Yusuf, a Berber warlord and enemy of 
+
+El Cid
+
+Yusuf on horseback
+
+Berbers Overview AoE2
+
+Notes[]
+
+↑ Does not affect Kreposts or Donjons.
+
+References[]
+
+↑ https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/berbers
+
+↑ Jump up to: 2.0 2.1 http://www.forgottenempires.net/aoak/civilizations/Berbers
+
+↑ http://aok.heavengames.com/university/game-info/general-info/ask-sandyman/ask-sandy-xxi/
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+African civilizations
+
+The African Kingdoms
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

@@ -1,0 +1,569 @@
+This page is all about the Huns
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Definitive Edition
+3.5 Lords of the West
+3.6 Dynasties of India
+3.7 Return of Rome
+3.8 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 Attila the Hun
+4.2 Alaric
+4.3 Battles of the Forgotten
+4.4 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+Eurasian civilizations,
+
+and
+
+2 more
+
+The Conquerors
+
+Nomadic civilizations
+
+
+			English
+
+Español
+
+Huns
+
+64
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+Civilization Technology tree Strategy
+
+Huns
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: The Conquerors
+
+Architecture
+
+Central European
+
+Continent
+
+Eurasia
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Huns_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Huns_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Huns_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Cavalry
+
+Unique units
+
+Tarkan
+
+Unique technologies
+
+Marauders
+
+Atheism
+
+“ Thundering into Europe during the 4th and 5th centuries, the Huns inspired such fear and curiosity that they seem otherworldly even to modern eyes. Take command of the dreaded horde, ride from Eurasia to Western Europe, and sack enemy towns with your marauding Tarkans. Deploy cavalry archers to shower opposing armies with storms of arrows and drive your enemies before you like sheep! The world will know you as the Scourge of God and your exploits will be remembered in lore from Italy to Scandinavia! ” —Description [1]
+
+The Huns are a Central European[note 1] civilization introduced in Age of Empires II: The Conquerors. They are based on the Hunnic Empire controlled by Attila the Hun. In game, they focus on cavalry with emphasis on early game rushing.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Definitive Edition
+3.5 Lords of the West
+3.6 Dynasties of India
+3.7 Return of Rome
+3.8 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 Attila the Hun
+4.2 Alaric
+4.3 Battles of the Forgotten
+4.4 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+Characteristics[]
+
+Unique unit[]
+
+Tarkan: Cavalry unit that excels at razing defensive structures.
+
+Unique technologies[]
+
+Marauders: Allows the creation of Tarkans at the Stable.
+
+Atheism: Adds 100 years to Wonder and Relic victory countdowns and reduces enemy Relic resource generation by 50%.
+
+Civilization bonuses[]
+
+Start the game with -100 wood, but with the population cap at the maximum.
+
+On Nomadic maps, the first Town Center spawns a Hunnic Horse.
+
+Mounted archers are 10%/20% cheaper in the Castle/Imperial Age.
+
+Trebuchets have +35% accuracy against units.[note 2]
+
+Team bonus[]
+
+Stables work 20% faster.
+
+Overview[]
+
+The Huns are a cavalry civilization. As such, they have an ample cavalry tech tree with access to the rare fully upgraded Paladin. Their Tarkan can be very useful thanks to their high pierce armor and anti-building damage. Their Cavalry Archers are also very prominent with a 10%/20% discount in the Castle/Imperial Ages respectively, but the foot archers are somewhat lacking without Ring Archer Armor or Arbalesters. That being said, their Archer line has decent value for early/mid-game aggression, especially when paired with their cavalry options. One big part reason for their great aggression is their House bonus, as the wood savings and ability to not have to worry about the population limit help greatly at their ability to create units. Outside of their cavalry and archer options, the Huns also have Siege Rams and more accurate Trebuchets, as well as an adequate navy for mixed maps.
+
+infantry lack the
+
+Plate Mail Armor,
+
+Supplies, and the
+
+Champion, making them rather weak overall. The Huns rank way below average in their
+
+Monks (missing
+
+Redemption,
+
+Block Printing, and
+
+Theocracy). Outside of the previously mentioned siege units, they have several important units missing:
+
+Onagers,
+
+Heavy Scorpions, and
+
+Bombard Cannons; and
+
+Siege Engineers as well. Their
+
+defenses are horrible, lacking
+
+Fortified Walls, all
+
+Watch Tower upgrades, and most technologies affecting structures. Lastly, their limited options gives them a hard time against certain army compositions, for example
+
+Halberdiers and
+
+Siege Rams.
+
+All in all, the Huns do what they do extremely well: rush, raze, and harass the enemy with powerful and mobile forces. Due to the fact that they have several options during the early and mid-game, they are especially strong in open maps. In the late-game, they still have Paladins, Heavy Cavalry Archers, and Tarkans, all of which are powerful units in their own right, but do tend to fall behind.
+
+Changelog[]
+
+The Conquerors[]
+
+Non-Elite Tarkans have 90 hit points and 7 attack.
+
+Tarkans have 2 pierce armor (3 for Elite).
+
+The Forgotten[]
+
+Cavalry Archer discount decreased (25% (Castle Age)/30% (Imperial Age) → 15%/25% cheaper).
+
+Cannon Galleon removed from the technology tree.
+
+Treadmill Crane removed from the technology tree.
+
+Non-Elite Tarkans now have 100 hit points and 8 attack.
+
+The African Kingdoms[]
+
+Cavalry Archers discount decreased by 5% (15% (Castle Age)/25% (Imperial Age) → 10%/20% cheaper).
+
+Marauders's food cost replaced with a lower wood cost (500 food → 300 wood).
+
+With patch 4.8:
+Arrowslits was removed from the technology tree.
+Tarkans have +1 base pierce armor (2 (standard)/3 (Elite) → 3/4).
+
+Definitive Edition[]
+
+With update 37650, Supplies was removed from their technology tree.
+
+Lords of the West[]
+
+With update 44725, Atheism's reduction in the cost of the Spies/Treason technology was removed, and replaced with 50% reduced resource generation for enemy Relics.
+
+Dynasties of India[]
+
+With update 81058, Atheism's gold cost replaced with lower wood cost (500 gold → 300 wood).
+
+Return of Rome[]
+
+Dromon added to the technology tree.
+
+The Mountain Royals[]
+
+The Huns now start with a unique scouting horse on nomad-style maps once their starting Town Center is completed.
+
+Campaign appearances[]
+
+The Huns have a campaign devoted to their civilization: Attila the Hun. In the Co-op version, they are also playable as the second player in all except the fifth scenario.
+
+They are also playable in the co-op version of the first scenario of the Alaric campaign.
+
+They also make appearances as AI players in:
+
+Attila the Hun[]
+
+This campaign is played as the Huns.
+
+The Scourge of God
+Bleda's Huns - Ally → Enemy
+
+The Catalaunian Fields
+Alans (as Alans) - Enemy
+
+Alaric[]
+
+In the Definitive Edition:
+
+The Battle of the Frigidus
+General Stilicho* - Ally
+
+Battles of the Forgotten[]
+
+Bukhara
+Hun Raiders - Enemy
+
+Honfoglalás (HD Edition version)
+Bulgars - Enemy
+
+Honfoglalás (Definitive Edition version)
+Avars - Enemy
+
+Victors and Vanquished[]
+
+Gaiseric
+Enemies/Huns - Enemy
+
+In-game dialogue language[]
+
+Historically, the Hunnic Empire's lingua franca has been claimed by some scholars to be Gothic, and it is not ascertained what Hunnic sounded like. In-game, the Hun units speak the same lines in Mongolian as the Mongols do, possibly because the physical description of Attila and the Huns by writers such as Priscus and Jordanes strongly suggested the Huns' North-East Asian origin.
+
+A number of linguists believe that Hunnish belongs to the Turkic languages, as research shows that some Hunnic names may be of Turkic origin. In addition, they suggest the Bulgar language was derived from Hunnish. Besides a Turkic origin, other assumptions for Hunnish classification are Indo-European, Yeniseian, Uralic, and unclassifiable.
+
+Knowledge about Hunnic language is sparse: With only three attested words, possibly borrowed from the Huns' Indo-European subjects, for two alcoholic beverages medos (cf. Polish miód "mead" < Proto-Slavic *mȇdu̯), kamos (cf. Paeonian kamon barley beer), and funeral feast strava (cf. Polish strawa "meal" < Proto-Slavic *su̯trava).
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Huns_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Huns_Villager_Male_Select_1_AoE2.ogg Select 1 Тiim üü? (Тийм үү? / ᠲᠡᠶᠢᠮᠦ ᠦᠦ?) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Huns_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Huns_Villager_Male_Select_2_AoE2.ogg Select 2 Amar mend üü? (Амар мэнд үү? / ᠠᠮᠤᠷ ᠮᠡᠨᠳᠦ ᠦᠦ?) - Everything's fine? (literally - "Is there peace and serenity?")
+
+https://ageofempires.fandom.com/wiki/File:Huns_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Huns_Villager_Male_Select_3_AoE2.ogg Select 3 Belen baina (Бэлэн байна / ᠪᠡᠯᠡᠨ ᠪᠠᠶᠢᠨ᠎ᠠ) - I am ready
+
+https://ageofempires.fandom.com/wiki/File:Huns_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Huns_Villager_Male_Select_4_AoE2.ogg Select 4 Zakhir (Захир / ᠵᠠᠬᠢᠷ) - Command! (imperative)
+
+https://ageofempires.fandom.com/wiki/File:Huns_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Huns_Villager_Male_Task_1_AoE2.ogg Task 1 Za za (За за / ᠵᠠ ᠵᠠ) - Okay / Of course
+
+https://ageofempires.fandom.com/wiki/File:Huns_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Huns_Villager_Male_Task_2_AoE2.ogg Task 2 Tiim ee (Тийм ээ / ᠲᠡᠶᠢᠮᠦ ᠡ) - Yes / Of course
+
+https://ageofempires.fandom.com/wiki/File:Huns_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Huns_Villager_Male_Task_3_AoE2.ogg Task 3 Züitei (Зүйтэй / ᠵᠦᠢᠲᠡᠢ) - Correct (literally - "appropriate")
+
+https://ageofempires.fandom.com/wiki/File:Huns_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Huns_Villager_Male_Task_4_AoE2.ogg Task 4 Bi bolgoyo (Би болгоё) - Let me do it (literally "Let me make it become", causative of "болох / bolokh")
+
+https://ageofempires.fandom.com/wiki/File:Huns_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Huns_Villager_Male_Build_AoE2.ogg Build Barilgachin (Барилгачин / ᠪᠠᠷᠢᠯᠭᠠᠴᠢᠨ) - Builder (it is pronounced barilagchin)
+
+https://ageofempires.fandom.com/wiki/File:Huns_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Huns_Villager_Male_Chop_AoE2.ogg Chop Modchin (Модчин / ᠮᠣᠳᠤᠴᠢᠨ) - Wood cutter ("мод / mod" - wood, tree)
+
+https://ageofempires.fandom.com/wiki/File:Huns_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Huns_Villager_Male_Farm_AoE2.ogg Farm Khödöö aj akhuin erkhlegch (Хөдөө аж ахуйн эрхлэгч / ᠬᠥᠳᠡᠭᠡ ᠠᠵᠤ ᠠᠬᠤᠢ ᠶᠢᠨ ᠡᠷᠬᠢᠯᠡᠭᠴᠢ) - Agricultural manager (unusual translation for "farmer", which would be "тариачин / tariachin" or even "фэрмэр / fermer"; notice that Mongols have never truly practiced agriculture until very recent times)
+
+https://ageofempires.fandom.com/wiki/File:Huns_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Huns_Villager_Male_Fish_AoE2.ogg Fish Zagaschin (Загасчин / ᠵᠢᠭᠠᠰᠤᠴᠢᠨ) - Fisher ("загас / zagas" - fish)
+
+https://ageofempires.fandom.com/wiki/File:Huns_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Huns_Villager_Male_Forage_AoE2.ogg Forage Amitan tejeegch (Амьтан тэжээгч / ᠠᠮᠢᠲᠠᠨ ᠲᠡᠵᠢᠭᠡᠭᠴᠢ) - Animal raiser (literally - "animal feeder", more correctly "[амьтан] үржүүлэгч / [amitan] ürjüülegch")
+
+https://ageofempires.fandom.com/wiki/File:Huns_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Huns_Villager_Male_Hunt_AoE2.ogg Hunt Anchin (Анчин / ᠠᠩᠴᠢᠨ) - Hunter
+
+https://ageofempires.fandom.com/wiki/File:Huns_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Huns_Villager_Male_Mine_AoE2.ogg Mine Uurhaichin (Уурхайчин / ᠠᠭᠤᠷᠬᠠᠶᠢᠴᠢᠨ) - Miner (уурхай / uurkhai - mine)
+
+https://ageofempires.fandom.com/wiki/File:Huns_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Huns_Villager_Male_Repair_AoE2.ogg Repair Zasvarchin (Засварчин / ᠵᠠᠰᠠᠪᠤᠷᠢᠴᠢᠨ) - Repairer
+
+https://ageofempires.fandom.com/wiki/File:Huns_Villager_Female_Attack_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Huns_Villager_Male_Attack_AoE2.ogg Attack Uragshaa davshaad! (Урагшаа давшаад!) - Charge(d) forward!!! (emphatic) - Advance forward! (not used)
+
+https://ageofempires.fandom.com/wiki/File:Huns_Soldier_Select_1_AoE2.ogg Select 1 Тiim üü? (Тийм үү? / ᠲᠡᠶᠢᠮᠦ ᠦᠦ?) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Huns_Soldier_Select_2_AoE2.ogg Select 2 Belen (Бэлэн / ᠪᠡᠯᠡᠨ) - Ready
+
+https://ageofempires.fandom.com/wiki/File:Huns_Soldier_Select_3_AoE2.ogg Select 3 Tushaal sons (Тушаал сонс / ᠲᠤᠰᠢᠶᠠᠯ ᠰᠣᠨᠤᠰ) - Listen to the command! (Strange translation, because it is an imperative, so it appears that it is the soldier who is telling the player to listen to a command. Alternatively, the soldier may be instructing his comrades to listen.)
+
+https://ageofempires.fandom.com/wiki/File:Huns_Soldier_Move_1_AoE2.ogg Move 1 Medlee, güitsetgiye (Мэдлээ, гүйцэтгье/ᠮᠡᠳᠡᠯ᠎ᠡ᠂ ᠭᠦᠢᠴᠡᠳᠭᠡᠢ) - Got it, let's carry it out (the common pronunciation for these forms in "-ье / -ye" is "-ий / iy")
+
+https://ageofempires.fandom.com/wiki/File:Huns_Soldier_Move_2_AoE2.ogg Move 2 Güitsetgiye (Гүйцэтгье/ᠭᠦᠢᠴᠡᠳᠭᠡᠢ) - Let's carry it out
+
+https://ageofempires.fandom.com/wiki/File:Huns_Soldier_Move_3_AoE2.ogg Move 3 Тiim (Тийм / ᠲᠡᠶᠢᠮᠦ) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Huns_Soldier_Attack_1_AoE2.ogg Attack 1 Uragshaa davshaad! (Урагшаа давшаад!) - Charge(d) forward!!! (emphatic) - Advance forward!
+
+https://ageofempires.fandom.com/wiki/File:Huns_Soldier_Attack_2_AoE2.ogg Attack 2 Baildaand! (Байлдаанд! / ᠪᠠᠶᠢᠯᠳᠤᠭᠠᠨ ᠳᠤ!) - To the fight!
+
+https://ageofempires.fandom.com/wiki/File:Huns_Soldier_Attack_3_AoE2.ogg Attack 3 Medlee, güitsetgiye (Мэдлээ, гүйцэтгье) - Got it, let's carry it out
+
+https://ageofempires.fandom.com/wiki/File:Huns_Soldier_Attack_4_AoE2.ogg Attack 4 Khurailan davsh! (Хурайлан давш!/ᠬᠤᠷᠤᠶᠢᠯ? ᠨ ᠳ? ᠪᠰᠢ!) - Advance with a "hurray!" (- "хурай / khurai", onomatopoeic)
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Huns_Monk_Select_1_AoE2.ogg Select 1 Bolgoson uu? (Болгосон уу? / ᠪᠣᠯᠭᠠᠭᠰᠠ ᠦᠦ?) - Has it been accomplished? (Have you/I/someone done it?)
+
+https://ageofempires.fandom.com/wiki/File:Huns_Monk_Select_2_AoE2.ogg Select 2 Amar baina uu? (Амар байна уу? / ᠠᠮᠤᠷ ᠪᠠᠶᠢᠨ᠎ᠠ ᠦᠦ?) - Everything's fine?
+
+https://ageofempires.fandom.com/wiki/File:Huns_Monk_Select_3_AoE2.ogg Select 3 Soyorkh"yo (Соёрxъё) - I will consent
+
+https://ageofempires.fandom.com/wiki/File:Huns_Monk_Select_4_AoE2.ogg Select 4 Surgaal sons (Сургаал сонс / ᠰᠤᠷᠭᠠᠯ ᠰᠣᠨᠤᠰ) - Listen to the doctrine
+
+https://ageofempires.fandom.com/wiki/File:Huns_Monk_Move_1_AoE2.ogg Move 1 Tiim ee (Тийм ээ / ᠲᠡᠶᠢᠮᠦ ᠡ) - Yes / Of course
+
+https://ageofempires.fandom.com/wiki/File:Huns_Monk_Move_2_AoE2.ogg Move 2 Bolgoyo (Болгоё) - Let me do it
+
+https://ageofempires.fandom.com/wiki/File:Huns_Monk_Move_3_AoE2.ogg Move 3 Za züitei (За зүйтэй / ᠵᠠ ᠵᠦᠢᠲᠡᠢ) - Yes, correct (literally - "appropriate")
+
+https://ageofempires.fandom.com/wiki/File:Huns_Monk_Move_4_AoE2.ogg Move 4 Bi bolgoyo (Би болгоё) - Let me do it
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Huns_King_Select_1_AoE2.ogg Select 1 Тiim üü? (Тийм үү? / ᠲᠡᠶᠢᠮᠦ ᠦᠦ?) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Huns_King_Select_2_AoE2.ogg Select 2 Amar mend üü? (Амар мэнд үү? / ᠠᠮᠤᠷ ᠮᠡᠨᠳᠦ ᠦᠦ?) - Everything's fine?
+
+https://ageofempires.fandom.com/wiki/File:Huns_King_Select_3_AoE2.ogg Select 3 Belen baina (Бэлэн байна / ᠪᠡᠯᠡᠨ ᠪᠠᠶᠢᠨ᠎ᠠ) - I am ready
+
+https://ageofempires.fandom.com/wiki/File:Huns_King_Select_4_AoE2.ogg Select 4 Aildvar sons (Айлдвар сонс / ᠠᠶᠢᠯᠠᠳᠪᠤᠷᠢ ᠰᠣᠨᠤᠰ) - Listen to [my] words (like the soldier and the monk, it is the king who is addressing the player, not the contrary!)
+
+https://ageofempires.fandom.com/wiki/File:Huns_King_Move_1_AoE2.ogg Move 1 Za (За / ᠵᠠ) - Okay (sounds condescending)
+
+https://ageofempires.fandom.com/wiki/File:Huns_King_Move_2_AoE2.ogg Move 2 Tiim ee (Тийм ээ / ᠲᠡᠶᠢᠮᠦ ᠡ) - Yes / Of course
+
+https://ageofempires.fandom.com/wiki/File:Huns_King_Move_3_AoE2.ogg Move 3 Züi (Зүй / ᠵᠦᠢ) - Decency
+
+https://ageofempires.fandom.com/wiki/File:Huns_King_Move_4_AoE2.ogg Move 4 Bi bolgoyo (Би болгоё) - Let me do it
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Hun AI characters:
+
+Attila the Hun: The ruler of the Huns from 434 until his death in March 453. He was also the leader of a tribal empire consisting of Huns, Ostrogoths, and Alans among others, with territories in Central and Eastern Europe. During his reign, he was one of the most feared enemies of the Western and Eastern Roman Empires. He crossed the Danube twice and plundered the Balkans, but was unable to take Constantinople. His unsuccessful campaign in Persia was followed in 441 by an invasion of the Eastern Roman (Byzantine) Empire, the success of which emboldened Attila to invade the West. He also attempted to conquer Roman Gaul (modern France), crossing the Rhine in 451 and marching as far as Aurelianum (Orléans) before being defeated at the Battle of the Catalaunian Plains.
+
+Balamber the Hun: A Hun king notable for crushing the Ostrogoths between 370 and 376.
+
+Bleda the Hun: A Hunnic ruler, the brother of Attila the Hun. As nephews to Rugila, Attila and his elder brother Bleda succeeded him to the throne. Bleda's reign lasted for eleven years until his death. While it has been speculated by Jordanes that Attila murdered him on a hunting trip, it is unknown exactly how he died. However, there is an alternative theory that Bleda attempted to kill Attila on a hunting trip, but Attila being a skilled warrior defeated Bleda.
+
+Charaton the Hun: was one of the first kings of the Huns.
+
+Dengizich the Hun: See Dengizk the Hun.
+
+Dengizk the Hun: Alternative spelling of Dengizich, second son of Attila and brother of Ellak and Ernak who ruled the Huns together after Attila's death; died 469.
+
+Ellak the Hun: First son of Attila and brother of Dengizk and Ernak who ruled the Huns together after Attila's death; died 454.
+
+Ernak the Hun: Third son of Attila and brother of Ellak and Dengizk who ruled the Huns together after Attila's death.
+
+Mundzuk the Hun: Father of Attila and Bleda, and brother of Rugila.
+
+Octar the Hun: was a Hunnic ruler. He ruled along brother Rugila.
+
+Onegesius the Hun: was a powerful Hunnic logades (minister) who supposedly held power second only to Attila the Hun.
+
+Ruga the Hun: Alternative spelling of Rugila, a Hun ruler who ruled over the Eastern Huns during the 5th century AD and the brother of Mundzuk; died ca. 430.
+
+Uldin the Hun: A Hun ruler; died ca. 412.
+
+History[]
+
+“ The Huns were a nomadic people from around Mongolia in Central Asia that began migrating toward the west in the third century, probably due to climatic change. They were a horse people and very adept at mounted warfare, both with spears and bows. Moving with their families and great herds of horses and domesticated animals they migrated in search of new grasslands to settle. Due to their military prowess and discipline, they proved unstoppable, displacing all in their path. They set in motion a tide of migration before them as other peoples moved to get out of their way. This domino effect of large populations passed around the hard nut of Constantinople and the Eastern Roman Empire to spill over the Danube and Rhine Rivers, and ultimately overwhelm the Western Roman Empire by 476. Finding lands to their liking, the Huns settled on the Hungarian plain in Eastern Europe, making their headquarters at the city of Szeged on the Tisza River. They needed large expanses of grasslands to provide forage for their horses and other animals. From this area of plains the Huns controlled through alliance or conquest an empire eventually stretching from the Ural Mountains in Russia to the Rhône River in France. The Huns were superb horsemen, trained from childhood, and some believe they invented the stirrup, critical for increasing the fighting power of a mounted man charging with a couched lance. They inspired terror in enemies due to the speed at which they could move, changing ponies several times a day to maintain their advance. A second advantage was their recurved composite bow, far superior to anything used in the West. Standing in their stirrups, they could fire forward, to the sides, and to the rear. Their tactics featured surprise, lightning attacks, and the ensuing terror. They were an army of light cavalry and their political structure required a strong leader to hold them to a purpose. The peak of Hun power came during the rule of Attila , who became a leader of the Huns in 433 and began a series of raids into south Russia and Persia. He then turned his attention to the Balkans, causing sufficient terror and havoc on two major raids to be bribed to leave. In 450 he turned to the Western Empire, crossing the Rhine north of Mainz with perhaps 100,000 warriors. Advancing on a front of 100 miles, he sacked most of the towns in what is now northern France. The Roman general Aetius raised a Gallo-Roman army and advanced against Attila, who was besieging the city of Orléans. At the major battle of Chalôns, Attila was defeated, though not destroyed. The defeat at Chalôns is considered one of the decisive battles of history, one that could have meant collapse of the Christian religion in Western Europe and perhaps domination of the area by Asian peoples. Attila then invaded Italy, seeking new plunder. As he passed into Italy, refugees escaped to the islands off the coast, founding, according to tradition, the city of Venice. Though Roman forces were depleted and their main army still in Gaul, the Huns were weak as well, depleted by incessant campaigns, disease, and famine in Italy. At a momentous meeting with Pope Leo I , Attila agreed to withdraw. The Hun empire disintegrated following the death of Attila in 453 with no strong leader of his ability to hold it together. Subject peoples revolted and factions within their group fought each other for dominance. They eventually disappeared under a tide of new invaders, such as the Avars, and disappeared from history. ” —In-game history section [1]
+
+Historically, the Huns were a civilization with no discernible origin besides the steppes of Central Asia that was most active in Eastern Europe during the Middle Ages. They are one of the few civilizations that invaded Eastern Europe and displaced many other "barbarian" tribes which caused the Roman Empire to crumble. Much of the depictions of the Huns in-game are based on various Roman descriptions and limited archaeological evidence, as much of their civilization remains unknown to this day.
+
+In the year 483, a branch of the Huns - White Huns - invaded the Persians, and then invaded India. During that time, they mixed intensely with the Indo-Iranian populations, acquiring a more civilized character. In this way, the Persian ruler, Kavad I, regained the throne of Persia with the help of the Huns. In India they were killed by the Turks in the year 528, while in Persia, Chosroes I — allied with the Turks — expelled the Huns established in Iran. In the year 563 they were massacred by a Turkish-Persian alliance, which forced them to form a series of small buffer states between the two empires. In the 7th century they allied with the Persians to fight the Saracen invasion. However, in the battle of Badghis in 654 the Persians and the Huns were finally defeated by the Saracens.
+
+Despite their disappearance from history, the Huns influenced many tribes and peoples that appeared in Europe in the centuries that follow. Among them are the Magyars, whose exonym "Hungarians" comes from the Latin word for Huns and the Bulgars, whose legendary first ruler is identified as Attila or a descendant of his.
+
+Trivia[]
+
+Before being reintroduced in The Conquerors, the Huns appear in the Coming of the Huns scenario of Age of Empires: The Rise of Rome, depicted by the Hittite civilization, and later by the Yamato civilization for the Age of Empires: Definitive Edition.
+
+There is no historical basis for the Hunnic civilization icon and user interface, as the Huns were completely erased from history and little is known of their culture.
+
+During the development of The Conquerors, the Magyars (along with even the Huns, Swiss, Habsburgs, and Slavs) had been considered to appear as the new civilization representing Eastern Europe. However, the Ensemble Studios team eventually picked the Huns because they were impressed by Attila the Hun's story and the medieval Magyars are less famous than the Huns.[2]
+
+The Hunnic Wonder, the Arch of Constantine, was actually built by the Roman Emperor Constantine the Great a century before the arrival of the Huns in Europe. Its appearance in the game symbolizes the threat the Huns posed to Rome (though they never captured the city itself).
+
+Despite being a civilization that originated from the steppes and continued their nomadic lifestyle during their lifetime, the Huns do not have access to Steppe Lancers.
+
+The following heroes available in the Scenario Editor are themed on the Huns: Attila the Hun and Bleda the Hun.
+
+The in-game Huns possess the full Knight line, even though Huns historically fielded mostly light cavalry, as they valued mobility.
+
+The Huns' mechanic of starting with their population cap at the maximum, not needing to build Houses, and strong focus on cavalry can be compared to other nomadic civilizations in future installments, viz the Lakota in Age of Empires III: The WarChiefs, and Mongols in Age of Empires IV.
+
+Despite their unique tech being called Atheism, Huns were likely religious. Huns, Mongols, pre-Christian Magyars, Bulgars, and pre-Islamic Turks and Cumans, are believed to have shared the worship of Tengri, a common religion in the Eurasian steppes. However, the game's description for the technology speaks of distrust and disinterest for organized religion, rather than outright denial of the existence of any gods.
+Despite worshiping Tengri, the Hunnic Monastery has the outlook of a Catholic church. This is due to them using the Central European architecture set.
+
+Their technology tree is similar to the Magyars'.
+Like the Magyars, the Huns have both Paladins and prominent Cavalry Archers, which can compensate for most of each other's weaknesses when paired together.
+
+Despite being a civilization that most likely originated from the steppes of Central Asia, the Huns do not have the Central Asian Architecture.
+
+The Huns are the only Central European civilization that can research Thumb Ring. They are also the only Central European civilization with access to Parthian Tactics.
+
+It is unclear why the Huns have a civilization bonus which strengthens trebuchets: the more sophisticated kind of trebuchet, the counterweight trebuchet, was developed during the High Middle Ages, many centuries after the disappearance of the Huns. However, the more primitive kind of trebuchet, the traction trebuchet, was developed in China before the European Middle Ages and brought westwards by the Avars during the late 6th century AD. It is therefore possible that the in-game Huns are also representing the Avars, a distinct nomadic civilization of which little is known about (similarly to the Huns).
+Indeed, the Huns are used in-game to represent the Avars in the Definitive Edition version of the Honfoglalás scenario.
+
+The Huns and Goths share similarities in both bonuses and themes. Historically, both groups were involved in the downfall of the Western Roman Empire and were its contemporaries. In-game, the unique units of both civilizations have high pierce armour and excel at razing buildings, they have a bonus each which discounts a core unit (Cavalry Archers for Huns and infantry for Goths), a bonus benefiting their population capacity, a team bonus that make their Stables and Barracks, respectively, work 20% faster, and furthermore, have unique technologies (Marauders and Anarchy) that allow the creation of their unique units in these respective buildings.
+
+Gallery[]
+
+The Wonder of the Huns, the ruins of the 
+
+Arch of Constantine
+
+The Central European architecture set the Huns share with the 
+
+Goths,
+
+Teutons, and
+
+Vikings
+
+The set before the 
+
+Huns 
+
+user interface image depicting
+
+Turul
+
+The Hunnic user interface before the 
+
+When appearing in campaigns, Huns barely have own cities or towns, but rather loose armies or camps, like this one seen in 
+
+Bukhara.
+
+Reconstruction of an early 5th c. Hunnic warrior, based on archeological finds in Volnikovka, Ukraine
+
+Huns Overview AoE2
+
+Notes[]
+
+↑ As in, they have Central European architecture. The Huns are most likely originally from Central Asia.
+
+↑ Meaning their accuracy against units is raised from 15% to 50%.
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/huns
+
+↑ http://aok.heavengames.com/gameinfo/conquerors-expansion
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+Eurasian civilizations
+
+The Conquerors
+
+Nomadic civilizations
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

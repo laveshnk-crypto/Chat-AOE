@@ -1,0 +1,539 @@
+This page is all about the Malians
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The African Kingdoms
+3.2 Rise of the Rajas
+3.3 Definitive Edition
+
+4 Campaign appearances
+
+4.1 Sundjata
+4.2 Francisco de Almeida
+4.3 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+African civilizations,
+
+The African Kingdoms
+
+
+			English
+
+Español
+
+Malians (Age of Empires II)
+
+48
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+This article is about the civilization in Age of Empires II HD: The African Kingdoms . For the civilization in Age of Empires IV , see Malians (Age of Empires IV) .
+
+Civilization Technology tree Strategy
+
+Malians
+
+Civilization information
+
+Introduced in
+
+Age of Empires II HD: The African Kingdoms
+
+Architecture
+
+African
+
+Continent
+
+Africa (west)
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Malians_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Malians_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Malians_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Infantry
+
+Unique units
+
+Gbeto
+
+Unique technologies
+
+Tigui
+
+Farimba
+
+“ Amass an elite force of female knife-throwing Gbeto Warriors, follow in the footsteps of the great Mansa Musa, and become the greatest king of Western Africa. Conquer surrounding kingdoms with tough infantry and Farimba cavalry to increase your wealth and hold a firm grip on the trade routes that zigzag through the the [sic] region. Will you be able to keep the formerly hostile provinces united under your crown? ” —Description [1]
+
+The Malians are an African civilization introduced in Age of Empires II HD: The African Kingdoms based on the Mali Empire. Due to the lack of alternative West African civilizations, the Malians also encompass various other West African kingdoms such as the Ghana, Sosso, and Songhai Empires. In the game, they focus on infantry.
+
+The Malians also appear as a playable civilization in Age of Empires IV.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The African Kingdoms
+3.2 Rise of the Rajas
+3.3 Definitive Edition
+
+4 Campaign appearances
+
+4.1 Sundjata
+4.2 Francisco de Almeida
+4.3 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+Characteristics[]
+
+Unique unit[]
+
+Gbeto: Fast light infantry with a powerful ranged attack.
+
+Unique technologies[]
+
+Tigui: Town Centers fire +8 arrows always.
+
+Farimba: Cavalry units +5 attack.
+
+Civilization bonuses[]
+
+Buildings cost -15% wood (except Farms and starting Town Center).
+
+Barracks units have +1/+2/+3 pierce armor in the Feudal/Castle/Imperial Age.
+
+Villagers drop off +10% gold.[note 1]
+
+Team bonus[]
+
+Universities work +80% faster.
+
+Overview[]
+
+infantry civilization with a versatile tech tree until the
+
+Castle Age. Their infantry are great, despite lacking
+
+Gambesons, due to the pierce armor bonus for their Barracks units. Their unique unit, the
+
+Gbeto, is a highly mobile ranged infantry unit that can be utilized for hit-and-run tactics. Their
+
+cavalry is also excellent because of
+
+Farimba that gives them a massive attack boost for all of their melee cavalry, particularly their
+
+Heavy Camel Riders, offsetting the lack of
+
+Blast Furnace. The
+
+archers are also solid early on, thanks to their economy. They have a great economy throughout the game, with their buildings (except
+
+Farms) costing less wood, and their Villagers dropping off +10%
+
+gold. The
+
+siege weapons are average at best, as they lack
+
+Siege Rams and
+
+Siege Engineers, but have access to
+
+Bombard Cannons and
+
+Siege Onagers. The
+
+Monks are great, with only
+
+Illumination missing. Their
+
+defensive structures are good despite lacking
+
+Bombard Tower, as
+
+Tigui gives their Town Centers extra fire power.
+
+While the Malians are versatile, they are not without weaknesses. Their infantry lack the Halberdier and Blast Furnace, which means it can fall behind when engaged in battle. The lack of Bracer is a massive blow for their late-game archers, navy, and defenses. Their navy is very underwhelming without Galleons and Elite Cannon Galleons.
+
+Changelog[]
+
+The African Kingdoms[]
+
+With patch 4.8:
+Their wood discount no longer affects Farms.
+Halberdiers and Arrowslits are removed from their technology tree
+Elite Gbetos's attack decreased (14 → 13)
+The pierce armor bonus correctly applies to Condottieri (previously did not).
+
+Rise of the Rajas[]
+
+With patch 5.7, Gold Shaft Mining is no longer free.
+
+Definitive Edition[]
+
+Malians get access to Fast Fire Ships, but lose access to Galleons.
+
+With update 42848, Gbeto (both standard and Elite) fire delay decreased (1.2 → 1.0).
+
+With update 51737, Gold Mining is no longer free. Instead, Gold Mines last 30% longer.
+
+With update 81058:
+The 30% longer-lasting Gold Mines bonus is changed to Villagers dropping off +15% gold.
+(Elite) Gbeto gain +5 hit points (35 (standard)/45 (Elite) → 40/50).
+Tigui gives more additional arrows (5 → 8).
+Their wood discount no longer applies for their starting Town Center.
+
+With update 87863, Villager gold drop off bonus decreased (+15% gold → +10% gold).
+
+Campaign appearances[]
+
+The Malians have a campaign devoted to their civilization: Sundjata. They also appear in:
+
+Sundjata[]
+
+This campaign is played as the Malians.
+
+Hunted
+Sosso Scouts - Enemy
+Niani - Ally → Enemy
+Kangaba - Ally
+
+The Sting of the Scorpion
+Sangaran - Enemy
+Tabon - Ally
+Wagadou - Ally
+
+Djeriba Gold
+Djenne - Enemy
+Djenne Villiages - Enemy
+Sosso Traders - Enemy
+Captured Villagers - Ally
+
+Blood on the River Bank
+Fakoli - Enemy → Ally
+Malian Trade Outpost - Ally
+
+The Lion's Den
+Koumbi Saleh - Enemy
+Sumanguru - Enemy
+
+Francisco de Almeida[]
+
+Lion of Africa
+Guanches - Enemy
+
+Ruins of Empires
+Swahili Villages - Ally
+Mombasa - Ally → Enemy
+
+Victors and Vanquished[]
+
+Drake
+Maroons - Ally
+
+In-game dialogue language[]
+
+In-game, Malian units speak Eastern Maninka that belongs to the Mande branch of the Niger-Congo language family. It was the administrative language of the Malian Empire.
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Malians_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malians_Villager_Male_Select_1_AoE2.ogg Select 1 Iwɔ? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Malians_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malians_Villager_Male_Select_2_AoE2.ogg Select 2 I ni cie - Hello
+
+https://ageofempires.fandom.com/wiki/File:Malians_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malians_Villager_Male_Select_3_AoE2.ogg Select 3 Nlabaqn naa - I'm ready
+
+https://ageofempires.fandom.com/wiki/File:Malians_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malians_Villager_Male_Select_4_AoE2.ogg Select 4 Ci kan? - Orders?
+
+https://ageofempires.fandom.com/wiki/File:Malians_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malians_Villager_Male_Task_1_AoE2.ogg Task 1 Iwɔ - Yes
+
+https://ageofempires.fandom.com/wiki/File:Malians_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malians_Villager_Male_Task_2_AoE2.ogg Task 2 Nga famou - I understood
+
+https://ageofempires.fandom.com/wiki/File:Malians_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malians_Villager_Male_Task_3_AoE2.ogg Task 3 Ayiwa - I do
+
+https://ageofempires.fandom.com/wiki/File:Malians_Villager_Female_Task_4_AoE2.ogg Female Task 4 Nbe o ke la sayi sayi - I will do it immediately (Only spoken by female villager)
+
+https://ageofempires.fandom.com/wiki/File:Malians_Villager_Male_Task_4_AoE2.ogg Male Task 4 Sayi sayi - Immediately
+
+https://ageofempires.fandom.com/wiki/File:Malians_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malians_Villager_Male_Build_AoE2.ogg Build Nbq ka jɔ̌ - I build
+
+https://ageofempires.fandom.com/wiki/File:Malians_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malians_Villager_Male_Chop_AoE2.ogg Chop Nbq l\g\d\ ti laa - I chop wood
+
+https://ageofempires.fandom.com/wiki/File:Malians_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malians_Villager_Male_Farm_AoE2.ogg Farm Nbq t\m\ la - I gather (from farm)
+
+https://ageofempires.fandom.com/wiki/File:Malians_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malians_Villager_Male_Fish_AoE2.ogg Fish Djqkq m\la - I fish
+
+https://ageofempires.fandom.com/wiki/File:Malians_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malians_Villager_Male_Forage_AoE2.ogg Forage Nbq ak\ kan le - I gather (from forage)
+
+https://ageofempires.fandom.com/wiki/File:Malians_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malians_Villager_Male_Hunt_AoE2.ogg Hunt Nbq dounsou ya la - I hunt
+
+https://ageofempires.fandom.com/wiki/File:Malians_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malians_Villager_Male_Mine_AoE2.ogg Mine Nbq jan laa - I mine
+
+https://ageofempires.fandom.com/wiki/File:Malians_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Malians_Villager_Male_Repair_AoE2.ogg Repair Nbq a dalan - I repair
+
+https://ageofempires.fandom.com/wiki/File:Malians_Soldier_Select_1_AoE2.ogg Select 1 Iwɔ? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Malians_Soldier_Select_2_AoE2.ogg Select 2 Nbi la mar\ lou - At your service
+
+https://ageofempires.fandom.com/wiki/File:Malians_Soldier_Select_3_AoE2.ogg Select 3 Ci kan? - Orders?
+
+https://ageofempires.fandom.com/wiki/File:Malians_Soldier_Move_1_AoE2.ogg Move 1 Nga famou - I understood
+
+https://ageofempires.fandom.com/wiki/File:Malians_Soldier_Move_2_AoE2.ogg Move 2 Ayiwa - I do
+
+https://ageofempires.fandom.com/wiki/File:Malians_Soldier_Move_3_AoE2.ogg Move 3 Iwɔ faama! - Yes, sir!
+
+https://ageofempires.fandom.com/wiki/File:Malians_Soldier_Attack_1_AoE2.ogg Attack 1 Keloo kee! - Attack!
+
+https://ageofempires.fandom.com/wiki/File:Malians_Soldier_Attack_2_AoE2.ogg Attack 2 An be ta keloo kee! - We'll fight!
+
+https://ageofempires.fandom.com/wiki/File:Malians_Soldier_Attack_3_AoE2.ogg Attack 3 An ga keloo kee! - We attack!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Malians_Monk_Select_1_AoE2.ogg Select 1 Iwɔ? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Malians_Monk_Select_2_AoE2.ogg Select 2 Ci kan ? - Orders?
+
+https://ageofempires.fandom.com/wiki/File:Malians_Monk_Select_3_AoE2.ogg Select 3 Nbi la mar\ l - At your service
+
+https://ageofempires.fandom.com/wiki/File:Malians_Monk_Select_4_AoE2.ogg Select 4 Mariga Allah - In the name of God
+
+https://ageofempires.fandom.com/wiki/File:Malians_Monk_Move_1_AoE2.ogg Move 1 Nbq kaga le - I'm going
+
+https://ageofempires.fandom.com/wiki/File:Malians_Monk_Move_2_AoE2.ogg Move 2 Iwɔ - Yes
+
+https://ageofempires.fandom.com/wiki/File:Malians_Monk_Move_3_AoE2.ogg Move 3 Kousobee - Right
+
+https://ageofempires.fandom.com/wiki/File:Malians_Monk_Move_4_AoE2.ogg Move 4 Nbe o ke la sayi sayi - I will do it immediately
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Malians_King_Select_1_AoE2.ogg Select 1 Taga fee - Here you go
+
+https://ageofempires.fandom.com/wiki/File:Malians_King_Select_2_AoE2.ogg Select 2 I bo mou no fee? - What do you want?
+
+https://ageofempires.fandom.com/wiki/File:Malians_King_Select_3_AoE2.ogg Select 3 Mouna i ba lafasa? - Why do you disturb me?
+
+https://ageofempires.fandom.com/wiki/File:Malians_King_Select_4_AoE2.ogg Select 4 Yaftuli kɛ - Reporting
+
+https://ageofempires.fandom.com/wiki/File:Malians_King_Move_1_AoE2.ogg Move 1 I bala mi fa nlo kɛla - I will do what you ask
+
+https://ageofempires.fandom.com/wiki/File:Malians_King_Move_2_AoE2.ogg Move 2 Nga kissi li - By my grace
+
+https://ageofempires.fandom.com/wiki/File:Malians_King_Move_3_AoE2.ogg Move 3 Ni i kote - As you requested
+
+https://ageofempires.fandom.com/wiki/File:Malians_King_Move_4_AoE2.ogg Move 4 Nyala ke - I shall do
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Malian AI characters:
+
+Abu Bakr II (fl. 14th century): Also spelled Abubakri and known as Mansa Qu, may have been the ninth mansa ("king of kings") of the Mali Empire. He succeeded his nephew Mansa Mohammed ibn Gao and preceded Mansa Musa. Abu Bakr II abdicated his throne in order to explore "the limits of the ocean".
+
+Mamadou: Mansa Mahmud II, also known as Mamadou, was mansa of the Mali Empire from 1481 to 1496.
+
+Mansa Mahmud IV: The last great emperor of the Mali Empire according to the Tarikh al-Sudan, the West African chronicle written in Arabic in around 1655 by Abd al-Sadi.
+
+Mansa Musa (c. 1280 – c. 1337): The tenth mansa of the Mali Empire. During his reign, Mali Empire reached its golden period. He is also considered as the richest man of all time.[2][3]
+
+Mansa Sakura (died c. 1300): A former slave who became the sixth mansa of the Mali Empire.
+
+Mari Djata I: The same as Sundjata according to Ibn Khaldun, a North African Arab historiographer and historian, in the late 14th century.
+
+Ouali Keita: Mansa Uli, also known as Ali or Wali in Arab sources, was the second mansa of the Mali Empire.
+
+Soumaba Cisse: A monarch of Ghanaian Empire, ally of Sundjata Keita: 1235–1240.
+
+Soumaoro Kante: Soumaoro Kanté, also known as Sumanguru, was a 13th-century king of the Sosso people. Seizing Koumbi Saleh, the capital of the recently defunct Ghana Empire, Soumaoro Kanté proceeded to conquer several neighboring states, including the Mandinka people in what is now Mali.
+
+Sundjata: A puissant prince and founder of the Mali Empire. The famous Malian ruler Mansa Musa who made a pilgrimage to Mecca was his grandnephew.
+
+Tiramakhan: A 13th century general in the Mali Empire who served under Sundjata Keita. Traore expanded the power of Mali westward and set up the Kabu Empire.
+
+History[]
+
+“ Throughout the Middle Ages, many city-states and kingdoms emerged in West Africa as a result of the lively trans-Saharan trade of salt and gold. The constant struggle to dominate commerce in this part of the world went hand in glove with the rise and fall of great empires that were able to conquer and unite the scattered kingdoms into one state. Between the 4th and 11th centuries AD, the Soninke people were the first to monopolize the gold trade and expand their rule over a vast area. At its largest extent, the Empire of Ghana covered present-day western Mali and southeastern Mauritania. However, by the end of the 11th century, the Berber Almoravid Empire had assumed control of the gold trade. Whether or not this was achieved through an invasion led by Amir Abu-Bakr Ibn Umar is still unclear. In any case, the loss of a major resource, combined with overgrazing and periodic droughts, led to the disintegration of the Empire of Ghana. In AD 1203, the Sosso people, former vassals of Ghana, conquered the capital city, Kumbi. In the following decades, the Sosso people continued their military campaign. According to oral tradition, king Sumanguru Kante conquered several small Mandinka chiefdoms. However, an exiled prince, Sundjata , united the different kingdoms, spurred a rebellion, and eventually defeated the Sosso army at the battle of Kirina in AD 1235. Five years later, Sundjata annexed Ghana and its important gold mines and trade routes, thus founding the Mali Empire. Further expansions led by successive Mansas (kings) extended the boundaries of the empire to Gao in the east and the Atlantic Ocean in the west. Especially under Mansa Sakura (AD 1285-1300), a freed slave, territorial conquest was significant. In order to defend and control this vast region, the Mali Empire maintained a full-time army, consisting of up to 100,000 soldiers of which the majority was infantry. Each tribe was expected to supply a certain number of freemen with their own weapons to serve. Only from the 14th century onwards, when the empire came increasingly under pressure, did the Mansa also rely on slaves to fight. Under the reign of Mansa Musa (AD 1312-1337), the Mali Empire reached its zenith. Due to his remarkable pilgrimage to Mecca he was and is probably the best-known Mandinka ruler: with an entourage of 500 slaves and 100 camels carrying 30,000 pounds of gold, Musa attracted attention everywhere he went. After his return, the king ordered the construction of two madaris (universities) in Timbuktu, namely the famous Sankore and Djinguereber mosque. For two centuries, these remained international centers of learning, housing books and scholars from all over the world. Although the different Mandinka tribes initially had their own animistic beliefs, Islam slowly spread throughout the empire due to Muslim involvement in the trans-Saharan trade. By the 14th century, the Mansas had converted to Islam, but never forced their subjects to do the same. Consequently, the Mali Empire was home to many religions, often mixed with local rituals and traditions. Starting in the late 14th century, the power of the Mandinkas began to decline. Internally, the governing lineage was plagued by intrigue and weak rulers, while the state was threatened externally by invasions and rebellions. Most importantly, Berber invasions and the rise of the Songhai Empire (AD 1464-1591) resulted in the loss of the northern and eastern regions, including Timbuktu, and control over the Sub-Saharan trade. In response, the Mali Empire shifted its attention to the southwestern provinces, where Portuguese explorers had arrived in 1455. However, the tide could not be turned, and by 1600 the Mali Empire gradually disintegrated completely back into several chiefdoms. ” — [1]
+
+Trivia[]
+
+The civilization icon is also the icon of the expansion the Malians were added in, The African Kingdoms, and resembles traditional west African bird-faced masks such as those from Ghana and Benin.
+
+The user interface image in the Definitive Edition displays an image of Mansa Musa, a ruler of the Malian Empire, from the Catalan Atlas.
+
+The African architecture set shared by the Malians and Ethiopians is based on the Sudano-Sahelian architecture, with elements of Aksumite architecture in the Imperial Age.
+
+The design for the Malian wonder is anachronistic by necessity. It is based on the current appearance of the Great Mosque of Djenne, but the mosque had been rebuilt in the early 20th century.
+The original mosque would likely have looked different; as the architect for the original mosque was from Egypt, so it is possible that the mosque would have been similar to medieval Egyptian mosques in appearance. Indeed, 19th-century French explorer René Caillié described the then-abandoned mosque as "built of earth, surmounted by two massive but not high towers; [...] rudely constructed, though very large".
+
+Sundjata is the only hero available in the Scenario Editor that is themed on the Malians. The Sosso Guard and the Sosso king Sumanguru are also represented by the Malians in the campaign, as they lack their own distinct civilization in the game.
+
+The Malians are the only civilization that lacks the final attack upgrades for both melee and ranged units at the Blacksmith (namely Blast Furnace and Bracer).
+
+Along with the Cumans and Dravidians, they are the only civilizations having access to Siege Onagers but not Siege Engineers.
+
+Since the Definitive Edition, they are the only civilization that lacks access to the Galleon but has access to the Cannon Galleon.
+
+They are also the only civilization that has access to Arbalesters, but lacks Bracer.
+
+There is a rumor that Malians had access to the Paladin in one of the betas but the Farimba technology only granted +3 attack, because they had Blast Furnace.
+
+Before update 81058, the Malians were the only civilization that had access to every single generic unit (along with Camel Riders) and technology available in the Castle Age. However, since then, the Malians lack access to Gambesons theoretically. They lack the technology specifically because of their civilization bonus, which more than compensates.
+
+With a Viking ally (providing 15% cheaper Docks), the Malians get the cheapest Docks in the game, costing only 105 wood. They can further their savings with a Dravidian ally, which saves them a House, saving another 30-ish wood (considering the building time of the House as well).
+
+Despite not being too related, some elements of the Malians civilization (like infantry and cavalry bonuses, and the University bonus, as well as being influenced by the the traditions of Songhai) are present in the Hausa civilization of Age of Empires III: Definitive Edition - The African Royals.
+
+Gallery[]
+
+The Wonder of the Malians, the 
+
+Great Mosque of Djenné
+
+Malians preview in the 
+
+The African 
+
+architecture set the Malians share with the
+
+Ethiopians
+
+The set before the 
+
+Malians user interface image in the 
+
+The Malian 
+
+user interface in the
+
+The city of Djenne as seen in 
+
+Djeriba Gold
+
+Official preview in the 
+
+The Larabanga Mosque, Ghana, that the African 
+
+Monastery is based on, is a good example of Sudano-Sahelian architecture.
+
+Sankore Mosque, the original Malian Wonder and a Palace in the final release, and a 
+
+separate building in the
+
+Terracotta figurine of a Mali rider
+
+Reconstruction of Mali gambesoned riders
+
+Malians Overview AoE2
+
+Medieval West African infantry
+
+Notes[]
+
+↑ This bonus has three implications:
+Gold miners work 10% faster.
+Gold mines have +10% gold.
+Gold miners have +10% carry capacity.
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/malians
+
+↑ https://www.independent.co.uk/news/world/world-history/meet-mansa-musa-i-of-mali-the-richest-human-being-in-all-history-8213453.html
+
+↑ http://www.history.com/news/who-was-the-richest-man-in-history-mansa-musa
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+African civilizations
+
+The African Kingdoms
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

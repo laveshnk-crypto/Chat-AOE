@@ -1,0 +1,704 @@
+This page is all about the Turks
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Definitive Edition
+3.5 Dynasties of India
+3.6 Return of Rome
+
+4 Campaign appearances
+
+4.1 Genghis Khan
+4.2 Barbarossa
+4.3 El Cid
+4.4 Battles of the Conquerors
+4.5 Vlad Dracula
+4.6 Prithviraj
+4.7 Battles of the Forgotten
+4.8 Francisco de Almeida
+4.9 Tamerlane
+4.10 Ivaylo
+4.11 The Hautevilles
+4.12 Babur
+4.13 Tamar
+4.14 Thoros II
+4.15 Ismail
+4.16 Victors and Vanquished
+4.17 Event Challenges
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Video overview
+
+11 Notes
+
+12 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+Asian civilizations,
+
+The Age of Kings
+
+
+			English
+
+Español
+
+Turks
+
+54
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+This article is about the civilization in Age of Empires II: The Age of Kings . For similar civilizations, see Ottomans .
+
+Civilization Technology tree Strategy
+
+Turks
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: The Age of Kings
+
+Architecture
+
+Middle Eastern
+
+Continent
+
+Asia
+
+Europe
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Turks_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Turks_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Turks_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Gunpowder units
+
+Unique units
+
+Janissary
+
+Unique technologies
+
+Sipahi
+
+Artillery
+
+“ Thousands of Seljuk Turkic riders poured out of Central Asia, thrusting into Persia and Mesopotamia during the 11th century. Challenge the mighty Byzantine Empire and battle Crusaders with mobile mounted armies, survive the Mongol onslaught, and establish the legendary Ottoman Empire. Can your vast gunpowder-wielding armies and lethal Janissaries overrun territories from the Levant to North Africa and Southeastern Europe, or will the Safavid armies and the walls of Constantinople foil them? ” —Description [1]
+
+The Turks are a Middle Eastern[note 1] civilization in Age of Empires II: The Age of Kings, representing the Turkic people west of Persia/Iran (called "Turkish" people). The Turks are based on the Oghuz Turks which included various Turkic dynasties (i.e. Seljuk Empire, Sultanate of Rum, and the Ottoman Empire). They focus on gunpowder units.
+
+The Turks also appear in Age of Empires III as the Ottomans. The Turks are also playable as a civilization in Age of Empires IV as the Ottomans as part of the free anniversary update.
+
+Other Turkic civilizations in Age of Empires II are:
+
+Tatars, representing the Turkic people in Central Asia.
+
+Cumans, representing the Turkic people who lived on the Eurasian steppes between the 10th and 13th centuries.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Definitive Edition
+3.5 Dynasties of India
+3.6 Return of Rome
+
+4 Campaign appearances
+
+4.1 Genghis Khan
+4.2 Barbarossa
+4.3 El Cid
+4.4 Battles of the Conquerors
+4.5 Vlad Dracula
+4.6 Prithviraj
+4.7 Battles of the Forgotten
+4.8 Francisco de Almeida
+4.9 Tamerlane
+4.10 Ivaylo
+4.11 The Hautevilles
+4.12 Babur
+4.13 Tamar
+4.14 Thoros II
+4.15 Ismail
+4.16 Victors and Vanquished
+4.17 Event Challenges
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Video overview
+
+11 Notes
+
+12 References
+
+Characteristics[]
+
+Unique unit[]
+
+Janissary: More powerful version of the Hand Cannoneer.
+
+Unique technologies[]
+
+Sipahi: Mounted archers +20 hit points.
+
+Artillery: +2 range for Bombard Towers, Bombard Cannons, Cannon Galleons.
+
+Civilization bonuses[]
+
+Gunpowder units have +25% hit points.
+
+Chemistry is free.
+
+Gunpowder technologies are 50% cheaper.[note 2]
+
+Gold Miners work 20% faster.
+
+Light Cavalry and Hussar upgrades are free.
+
+Scout Cavalry line gain +1 pierce armor.
+
+Team bonus[]
+
+Gunpowder units are created 25% faster.
+
+Overview[]
+
+The Turks are a gunpowder civilization, with some of the best in this category. They have greater range (excluding the Hand Cannoneer), are created faster, and have more hit points. Getting Chemistry for free means they are also very strong as an immediate option in the Imperial Age, giving them a strong Fast Imperial strategy.
+
+Their mounted units are great. The Turks have a complete cavalry line-up, apart from the Paladin. Their Light Cavalry free upgrades and 1 extra pierce armor, the latter making them great against archers. Furthermore, their Cavalry Archers are among the very best thanks to Sipahi.
+
+The Turkish navy is very good, only the Fast Fire Ship is missing. Their Monks are solid, with all Castle Age upgrades and their production being boosted by the Turk's economy bonus. Their Champions and Archers are also both decent. Their defensive structures get all upgrades, and their Bombard Towers have +2 range.
+
+However, despite the excellent line-up of Turkish units, the Turks do have some notable weaknesses. Their lack of the Elite Skirmisher and Pikeman upgrades are two massive holes. This means that defending as the Turks requires utilizing less conventional counters, using Light Cavalry and Mangonels against Crossbowmen, and Camel Riders and Monks against Knights. Not only that, they are also arguably the worst civilization when gold supplies run out, especially when factoring in the fact that they lack the Onager. Additionally, their economy is overall below average without Crop Rotation and Stone Shaft Mining, or any economy bonus outside of their gold miner bonus, which while strong furthers their reliance on gold and their burn-out.
+
+Overall, the Turks are a civilization that has a wide array of strong options, all tied together by their gold mining bonus. However, they are sluggish in the early game and wither when they run out of gold. They are best suited to closed maps and team-game settings, as the former can allow them to go for a Fast Castle or Fast Imperial strategy, while the latter allows them to have a constant supply of gold through Trade for their army composition.
+
+Changelog[]
+
+The Conquerors[]
+
+Gunpowder units extra hit points decreased (+50% → +25%).
+
+Artillery introduced.
+
+Janissaries revamped:
+Have more attack (15 (non-Elite)/18 (Elite) → 17/22), but lose their attack bonuses against infantry and buildings.
+Lose their attack bonuses against infantry (+4 (non-Elite)/+8 (Elite) → +0/+0)
+Elite version loses its attack bonus against buildings (+3 → +0)
+Accuracy reduced (55% → 50%).
+
+The Forgotten[]
+
+Sipahi introduced.
+
+Elite Janissaries are now affected by the Turkish team bonus.
+
+The African Kingdoms[]
+
+With patch 4.8, Gold Miners work rate bonus increased (15% → 20%).
+
+Definitive Edition[]
+
+With update 42848:
+New civilization bonus: Scout Cavalry line has +1 pierce armor.
+Elite Janissary's accuracy increased (50% → 65%).
+
+With update 50292, the stone cost of Artillery was changed to wood, so it now costs 450 wood, 500 gold (from 500 gold, 450 stone).
+
+Dynasties of India[]
+
+With update 81058, Artillery's costs 600 food instead of 450 wood and gold cost increased (500 gold → 650 gold).
+
+Return of Rome[]
+
+With update 87863, non-Elite Janissary attack range reduced (8 → 7).
+
+Campaign appearances[]
+
+The Turks are playable in the following scenarios:
+
+Manzikert, which is based on the Battle of Manzikert, where the player plays against the Byzantines and Saracens.
+
+Bapheus, where player controls the founder of the Ottoman Empire - Osman (and Osman's Followers as the second player in the co-op version).
+
+Fetih, which is based on the Fall of Constantinople from the perspective of the Ottoman Turks.
+
+They also appear in:
+
+Toggle campaign appearance list
+
+Genghis Khan[]
+
+Crucible
+Kereyids - Ally
+
+Barbarossa[]
+
+Barbarossa's March
+Seljuks - Enemy
+
+El Cid[]
+
+Reconquista
+Black Guard Army - Enemy
+Black Guard Navy - Enemy
+Yusuf - Enemy
+
+Battles of the Conquerors[]
+
+Tours
+Berbers - Enemy
+
+Lepanto
+Turks - Enemy
+
+Vlad Dracula[]
+
+The Dragon Spreads His Wings, the first scenario, is played as the Turks.
+
+The Dragon Spreads His Wings (HD Edition version only)
+Ottoman Empire - Ally
+
+The Return of the Dragon
+Ottoman Empire - Neutral
+
+The Breath of the Dragon
+Ottoman Army - Ally → Enemy → Ally → Enemy
+Darstor - Enemy
+
+The Moon Rises
+In the HD Edition version:
+Ottoman Camps - Ally → Enemy
+Ottoman Army - Enemy
+Ottoman Forward Troops - Enemy
+In the Definitive Edition version:
+Ottoman Empire - Enemy
+Sultan Mehmed II - Enemy
+Akinci Cavalry - Enemy
+
+The Night Falls
+Sabac - Ally
+Ottoman Army - Enemy
+Ottoman Empire - Enemy
+
+Prithviraj[]
+
+
+
+The Digvijaya
+Ghaznavids - Enemy
+
+Battles of Tarain
+Ghorid Army - Enemy
+
+
+
+The Fate of India
+Ghorids - Enemy
+Muhammad Ghori - Enemy
+
+Battles of the Forgotten[]
+
+The Bapheus scenario is played as the Turks
+
+Bukhara
+Gokturks - Neutral → Ally → Enemy
+
+Honfoglalás (HD Edition version)
+Pecheneg - Enemy → Ally → Enemy → Ally
+Kabars - Ally
+
+Bapheus
+Rum Sultanate - Ally
+Karesi - Ally or Enemy
+Germiyan - Ally or Enemy
+Candar - Ally or Enemy
+Turkish nomads - Enemy
+
+Francisco de Almeida[]
+
+Lion of Africa
+Kemal Reis - Enemy
+
+A Son's Blood
+Ottomans - Enemy
+
+Tamerlane[]
+
+A Titan Amongst Mortals
+Sultan Bayezid I - Enemy
+Ottoman Empire - Enemy
+Ottoman Auxiliaries - Ally → Enemy
+
+Ivaylo[]
+
+Echoes of Heroes
+Tatars - Enemy
+
+The Hautevilles[]
+
+Bohemond and the Emperor
+Seljuk Turks - Enemy
+
+Bohemond in the East
+Kerbogha's Guard - Enemy
+Seljuk Cavalry - Enemy
+Moslawi Conscripts - Enemy
+Damascene Army - Enemy
+Kerbogha's Pillagers - Enemy
+
+Babur[]
+
+The Battle of Panipat
+Ottoman Gunpowder Forces - Ally
+
+Tamar[]
+
+Takeover
+Seljuk Raiders - Enemy
+
+The Protectorate
+Shamkor Garrisons - Enemy
+
+Tamar the Builder
+Rum Sultanate - Enemy
+
+Thoros II[]
+
+Outlawed
+Seljuk Trading Post - Neutral → Ally → Potential Enemy
+
+Caught in the Crossfire
+Seljuks - Ally → Enemy
+
+Of Turncoats and Traitors
+Seljuks - Enemy → Potential Neutral → Enemy
+
+Ismail[]
+
+The Red Hats and Khata'i
+Ottomans - Enemy
+
+Alexander Safavi
+Ottoman Outpost - Enemy
+
+Victors and Vanquished[]
+
+Fetih is played as the Turks.
+
+Constantine XI
+Ottomans - Enemy
+
+Fetih
+Quartermasters - Ally
+
+Event Challenges[]
+
+Team 1 in the The Siege scenario can be played as the Turks.
+
+In-game dialogue language[]
+
+Turkish units speak their namesake language, an Oghuz Turkic language spoken in modern-day Turkey. It is formerly written with a modified Arabic script (Ottoman Turkish alphabet) and currently written with modified Latin letters.
+
+On a side note, Oghuz languages are related to other Turkic languages such as Cuman (spoken by the Cumans) and Chagatai (spoken by the Tatars).
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Turks_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Turks_Villager_Male_Select_1_AoE2.ogg Select 1 Evet? (أوت؟) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Turks_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Turks_Villager_Male_Select_2_AoE2.ogg Select 2 Efendim? (افندم؟) - My effendi? (Effendi is an Ottoman title of nobility meaning lord or master. In modern Turkish "Efendim?" is used in the meaning of "I beg your pardon?")
+
+https://ageofempires.fandom.com/wiki/File:Turks_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Turks_Villager_Male_Select_3_AoE2.ogg Select 3 Hazır (حاضر) - Ready
+
+https://ageofempires.fandom.com/wiki/File:Turks_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Turks_Villager_Male_Select_4_AoE2.ogg Select 4 Emrin? (امرڭ؟) - Your command?
+
+https://ageofempires.fandom.com/wiki/File:Turks_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Turks_Villager_Male_Task_1_AoE2.ogg Task 1 Tamam (تمام) - Okay
+
+https://ageofempires.fandom.com/wiki/File:Turks_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Turks_Villager_Male_Task_2_AoE2.ogg Task 2 Evet (أوت) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Turks_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Turks_Villager_Male_Task_3_AoE2.ogg Task 3 Doğru (طوغری) - Right
+
+https://ageofempires.fandom.com/wiki/File:Turks_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Turks_Villager_Male_Task_4_AoE2.ogg Task 4 Yaparım (یاپارم) - I'll do it
+
+https://ageofempires.fandom.com/wiki/File:Turks_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Turks_Villager_Male_Build_AoE2.ogg Build Usta (اوستا) - Master (builder)
+
+https://ageofempires.fandom.com/wiki/File:Turks_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Turks_Villager_Male_Chop_AoE2.ogg Chop Oduncu (اوٓدونجی) - Woodcutter
+
+https://ageofempires.fandom.com/wiki/File:Turks_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Turks_Villager_Male_Farm_AoE2.ogg Farm Çiftçi (چفتجی) - Farmer
+
+https://ageofempires.fandom.com/wiki/File:Turks_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Turks_Villager_Male_Fish_AoE2.ogg Fish Balıkçı (بالیقجی) - Fisherman
+
+https://ageofempires.fandom.com/wiki/File:Turks_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Turks_Villager_Male_Forage_AoE2.ogg Forage Seyis (سایس) - Groom
+
+https://ageofempires.fandom.com/wiki/File:Turks_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Turks_Villager_Male_Hunt_AoE2.ogg Hunt Avcı (آوجی) - Hunter
+
+https://ageofempires.fandom.com/wiki/File:Turks_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Turks_Villager_Male_Mine_AoE2.ogg Mine Madenci (معدنجي) - Miner
+
+https://ageofempires.fandom.com/wiki/File:Turks_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Turks_Villager_Male_Repair_AoE2.ogg Repair Tamirci (تعمیرجي) - Repairer
+
+https://ageofempires.fandom.com/wiki/File:Turks_Villager_Female_Attack_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Turks_Villager_Male_Attack_AoE2.ogg Attack Saldır! (!صالدر) - Attack! (not used)
+
+https://ageofempires.fandom.com/wiki/File:Turks_Soldier_Select_1_AoE2.ogg Select 1 Evet? (أوت؟) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Turks_Soldier_Select_2_AoE2.ogg Select 2 Hazır ol! (!حاضر اول) - Attention! (A military command, literally - "Be ready!")
+
+https://ageofempires.fandom.com/wiki/File:Turks_Soldier_Select_3_AoE2.ogg Select 3 Emret! (!امر ایت) - Waiting for orders! (Literally - "Order me!")
+
+https://ageofempires.fandom.com/wiki/File:Turks_Soldier_Move_2_AoE2.ogg Move 2 Yaparım (یاپارم) - I'll do it
+
+https://ageofempires.fandom.com/wiki/File:Turks_Soldier_Move_3_AoE2.ogg Move 3 Tamam (تمام) - Okay
+
+https://ageofempires.fandom.com/wiki/File:Turks_Soldier_Attack_1_AoE2.ogg Attack 1 Saldır! (!صالدر) - Attack!
+
+https://ageofempires.fandom.com/wiki/File:Turks_Soldier_Attack_2_AoE2.ogg Attack 2 İleri! (!ایلرو) - Forward!
+
+https://ageofempires.fandom.com/wiki/File:Turks_Soldier_Attack_3_AoE2.ogg Attack 3 Evet! (!أوت) - Yes!
+
+https://ageofempires.fandom.com/wiki/File:Turks_Soldier_Attack_4_AoE2.ogg Attack 4 Allah-Allah! (الله الله) - Warcry, similar to "In God's name!"
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Turks_Monk_Select_1_AoE2.ogg Select 1 Evet? (أوت؟) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Turks_Monk_Select_2_AoE2.ogg Select 2 Efendim? (افندم؟) - My effendi? (Effendi is an Ottoman title of nobility meaning lord or master. In modern Turkish "Efendim?" is used in the meaning of "I beg your pardon?")
+
+https://ageofempires.fandom.com/wiki/File:Turks_Monk_Select_3_AoE2.ogg Select 3 Hazır (حاضر) - Ready
+
+https://ageofempires.fandom.com/wiki/File:Turks_Monk_Select_4_AoE2.ogg Select 4 Emrin? (امرڭ؟) - Your command?
+
+https://ageofempires.fandom.com/wiki/File:Turks_Monk_Move_1_AoE2.ogg Move 1 Tamam (تمام) - Okay
+
+https://ageofempires.fandom.com/wiki/File:Turks_Monk_Move_2_AoE2.ogg Move 2 Evet (أوت) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Turks_Monk_Move_3_AoE2.ogg Move 3 Doğru (طوغری) - Right
+
+https://ageofempires.fandom.com/wiki/File:Turks_Monk_Move_4_AoE2.ogg Move 4 Yaparım (یاپارم) - I'll do it
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Turks_King_Select_1_AoE2.ogg Select 1 Evet? (أوت؟) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Turks_King_Select_2_AoE2.ogg Select 2 Efendim? (افندم؟) - My effendi? (Effendi is an Ottoman title of nobility meaning lord or master. In modern Turkish "Efendim?" is used in the meaning of "I beg your pardon?")
+
+https://ageofempires.fandom.com/wiki/File:Turks_King_Select_3_AoE2.ogg Select 3 Hazır (حاضر) - Ready
+
+https://ageofempires.fandom.com/wiki/File:Turks_King_Select_4_AoE2.ogg Select 4 Emrin? (امرڭ؟) - Your command?
+
+https://ageofempires.fandom.com/wiki/File:Turks_King_Move_1_AoE2.ogg Move 1 Tamam (تمام) - Okay
+
+https://ageofempires.fandom.com/wiki/File:Turks_King_Move_2_AoE2.ogg Move 2 Evet (أوت) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Turks_King_Move_3_AoE2.ogg Move 3 Doğru (طوغری) - Right
+
+https://ageofempires.fandom.com/wiki/File:Turks_King_Move_4_AoE2.ogg Move 4 Yaparım (یاپارم) - I'll do it
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Turkish AI characters:
+
+Alp Arslan (1029 - 1072) (Persian: آلپ آرسلان, Modern Turkish: Alp Arslan) : Real name Muhammad bin Dawud Chaghri; he was the second Sultan of the Seljuk Empire and great-grandson of Seljuk, the eponymous founder of the dynasty. As sultan, Alp Arslan greatly expanded Seljuk territory and consolidated power, defeating rivals to his south and northwest. His victory over the Byzantines at Manzikert ushered in the Turkish settlement of Anatolia. For his military prowess and fighting skills he obtained the name Alp Arslan, which means "Heroic Lion"in Turkish.
+
+Atsiz the Khwarezmian (? - 1078) (Persian: إتسيز الءخهواريزمي, Modern Turkish: Atsız bin Uvak): Known as Atsiz Ibn Uvaq, he was a Khwarezmian Turkish mercenary commander who established a principality in Palestine and southern Syria in 11th century. After capturing Damascus in 1076, he began constructing the Citadel of Damascus.
+
+Bayazid (1354 - 1403) (Ottoman Turkish: بايزيد, Modern Turkish: I. Bayezid): The Ottoman Sultan from 1389 to 1402. He was the son of Murad I and Gülçiçek Hatun. He built one of the largest armies in the known world at the time and unsuccessfully besieged Constantinople. He adopted the title of Sultan-i Rûm, Rûm being an old Islamic name for the Roman Empire. He was defeated and captured by Timur at the Battle of Ankara in 1402 and died in captivity in March 1403.
+
+Bayezid I Yildirim (1354 - 1403) (Ottoman Turkish: بايزيد, Modern Turkish: I. Bayezid): See Bayazid.
+
+Chaghri Beg (989 - 1060) (Persian: چاغرى بگ, Modern Turkish: Çağrı Bey) : Da'ud b. Mika'il b. Saljuq, also spelled Chaghri, was the co-ruler of the early Seljuq empire. The name Chaghri is Turkic (Çağrı in modern Turkish) and literally means "small falcon", "merlin".
+
+Danishmend (? - 1085) (Persian: دانشمند احمد غازی, Modern Turkish: Danişmend Ahmed Gazi): Danishmand Ahmad Gazi, was the founder of the beylik of Danishmends. After the Turkish advance into Anatolia that followed the battle of Manzikert, his dynasty controlled the north-central regions in Anatolia.
+
+Danishmend Gazi (? - 1085) (Persian: دانشمند احمد غازی, Modern Turkish: Danişmend Ahmed Gazi): See Danishmend.
+
+Ghiyas-ud-Din of Ghor (1139 - 1203) (Persian: غیاث الدین محمد بن سام, Modern Turkish: Gıyaseddin Muhammed): During his early reign, known more as Ghiyath al-Din Muhammad, defeated the Ghurid claimants to the throne and fought with the Khwarazmian Empire over the lordship of Khorasan. He occupied Herat in 1176 and went on to establish control over most of what is now Afghanistan and the surrounding areas by 1200, and as far west as Bastam and Gurgan. His brother, Mu'izz al-Din, helped manage and expand the eastern part of the empire (as far as Bengal) and served Ghiyath with utmost loyalty and deference. Ghiyath died in 1202 and was succeeded by his brother Mu'izz al-Din.
+
+Malik-Shah I (1055 - 1092) (Persian: سلطان ملكشاه, Modern Turkish: Sultan I. Melikşah): See Sultan Malik-shah.
+
+Orhan Gazi (1281 - 1362) (Ottoman Turkish: اورخان بگ, Modern Turkish: Orhan Gazi): See Orkhan.
+
+Orkhan (1281 - 1362) (Ottoman Turkish: اورخان بگ, Modern Turkish: Orhan Gazi): Also known as Orhan. He was born in Söğüt, Turkey,he was the second bey of the nascent Ottoman Sultanate from 1323/4 to 1362. He focused his energies on conquering most of northwestern Anatolia.
+
+Osman I Gazi (1258 - 1326) (Ottoman Turkish: عثمان بگ, Modern Turkish: Osman Gazi): He was the leader of the Ottoman Turks and the founder of the Ottoman dynasty. He and the dynasty bearing his name later established and ruled the nascent Ottoman Empire (then known as the Ottoman Beylik or Emirate). The state, while only a small principality during Osman's lifetime, transformed into a world empire in the centuries after his death. It existed until shortly after the end of World War I.
+
+Seljuk (960 - 1009) (Persian: سلجوق بگ, Modern Turkish: Selçuk Bey): The eponymous hero of the Seljuq Turks. He was the son of a certain Toqaq with the moniker Temür Yalığ (meaning "of the iron bow") and either the chief or an eminent member from the Kınık tribe of the Oghuz Turks. In 985, the Seljuq clan split off from the Oghuz Yabghu State, long settled between the Aral and Caspian Seas. They set up camp on the right bank of the lower Syr Darya (Jaxartes), in the direction of Jend, near Kzyl Orda in present-day south-central Kazakhstan. There, in 985, Seljuk converted to Islam.
+
+Sultan Malik-shah (1055 - 1092) (Persian: سلطان ملكشاه, Modern Turkish: Sultan I. Melikşah): During his youth, he spent his time participating in the campaigns of his father Alp Arslan, along the latter's vizier Nizam al-Mulk. During one of such campaigns in 1072, Alp Arslan was fatally wounded and died only a few days later. After that, Malik-Shah was crowned as the new sultan of the empire, however, Malik-Shah did not access the throne peacefully, and had to fight his uncle Qavurt, who claimed the throne. Although Malik-Shah was the nominal head of the Seljuq state, the vizier Nizam al-Mulk held near absolute power during his reign. Malik-Shah spent the rest of his reign waging war against the Karakhanids on the eastern side, and establishing order in the Caucasus.
+
+Sultan Murad (1404 - 1451) (Ottoman Turkish: سلطان مراد, Modern Turkish: Sultan II. Murad): Murad II's reign was marked by the long war he fought against the Christian feudal lords of the Balkans and the Turkish beyliks in Anatolia, a conflict that lasted 25 years. He was brought up in Amasya, and ascended the throne on the death of his father Mehmed I. His mother was Valide Sultan Emine Hatun (daughter of Suleyman Bey, ruler of Dulkadirids), his father's third consort. Their marriage served as an alliance between the Ottomans and this buffer state, and produced a son, Mehmed II, who would go on to successfully conquer the Byzantine Empire's capital, Constantinople, in 1453.
+
+Sultan Sanjar (1086 - 1157) (Persian: سلطان سنجر, Modern Turkish: Sultan Sencer): Also known as Ahmad Sanjar. The Seljuq ruler of Khorasan from 1097 until in 1118 when he became the Sultan of the Seljuq Empire, which he ruled as until his death in 1157.
+
+Suleiman the Magnificent  (1494 - 1566) (Ottoman Turkish: قانونى سلطان سليمان, Modern Turkish: Kanuni Sultan Süleyman): Suleiman became a prominent monarch of 16th-century Europe, presiding over the apex of the Ottoman Empire's economic, military, and political power. Suleiman personally led Ottoman armies in conquering the Christian strongholds of Belgrade and Rhodes as well as most of Hungary before his conquests were checked at the Siege of Vienna in 1529. He annexed much of the Middle East in his conflict with the Safavids and large areas of North Africa as far west as Algeria. Under his rule, the Ottoman fleet dominated the seas from the Mediterranean to the Red Sea and through the Persian Gulf. He is the AI personality of the Ottomans in Age of Empires III.
+
+History[]
+
+“ The name Turk refers to two different Muslim groups of the Middle East-first the Seljuks and then the Ottomans. The Seljuks, nomads from the steppes near the Caspian Sea, converted to Islam around the tenth century. Approximately 70,000 Seljuks started as mercenaries to fill the ranks of the Islamic army of the caliph of Baghdad. These mercenaries converted to the Sunni branch of Islam. In 1055 they became the real power behind the caliph in Baghdad and began extending their rule. Their leaders took the title sultan, meaning "holders of power". By 1100 they controlled most of Anatolia (taken from the Byzantines ), Palestine, the lands surrounding the Persian Gulf, the holy cities of Arabia, and as far east as Samarkand. In 1071 the Seljuks achieved a stunning victory over a Byzantine army at Malazgirt in modern Turkey, which led to Turkish occupation of most of Anatolia. At nearly the same time, they successfully captured Jerusalem from its Egyptian Muslim rulers. These two events shocked the Byzantines, the papacy, and the Christian Europeans. The result was the Crusades, which carried on for the next 200 years. The Seljuk Turks were worn down by the recurring wars with the Crusaders, even though they were successful ultimately in regaining control of Palestine. They were threatened simultaneously by the activities of the Assassins, a heretical sect of Islam. Internally, Islam entered a period of introspection because of the popularity of Sufi mysticism. During this period of exhaustion and weakness, they were attacked suddenly by the Mongols and collapsed. Baghdad fell to the invaders in 1258 and the Seljuk Empire disappeared. Islamic peoples from Anatolia (modern Turkey in Asia Minor) were unified in the early fourteenth century under Sultan Osman I and took the name Osmanli, or Ottomans, in his honor. The Ottomans swore a jihad against the crumbling Byzantine Empire and took their campaign around Constantinople into the Balkans. In 1389 the Serbs were defeated. In 1396 a "crusader" army from Hungary was defeated. Ottoman successes were temporarily halted by the Mongols [sic] under Tamerlane , but he moved on with his army and the Ottomans recovered. Sultan Mehmed II ("the Conqueror") at last captured Constantinople on May 29, 1453. The great walls of Constantinople were battered by 70 guns for eight weeks and then 15,000 Janissaries led the successful assault. The Ottomans pushed on into Europe following the capture of Constantinople and threatened a sort of reverse Crusade. They were stopped by a Hungarian army at Belgrade in 1456, however. Attacks on Vienna were repulsed in 1529 and again in 1683. At its peak in the sixteenth century, the Ottoman Empire reached up into Europe to Budapest and Odessa and included all of Greece and the Balkans, the lands surrounding the Black Sea, Asia Minor, the Levant, Arabia, Egypt, and most of North Africa. The Ottoman Empire remained a significant world power until World War I in the twentieth century. ” — [1]
+
+Trivia[]
+
+The Turks' civilization icon is based on the flag of the Ottoman Navy.
+
+The user interface image in the Definitive Edition displays 13th century double-headed eagle used by The Sultanate of Rum.
+
+The following heroes available in the Scenario Editor are themed on the (Oghuz) Turks: Osman, Mustafa Pasha, and Selim the Grim.
+
+The ethnonym Türk (𐱅𐰇𐰼𐰏) / Türük (𐱅𐰇𐰼𐰰) originally referred to only the Göktürks. They are represented by Turks in-game but had little connection to the Oghuz Turks, which serve as the basis of the civilization. In addition, Tatars also have some of their rulers as AI player names.
+The ethnonym Turks would later be used for other Turkic-speaking peoples, such as:
+The Khazars, represented in-game by ethnologically unrelated Cumans;
+The Toquz Oghuz (Nine Tribes) confederation, mentioned as drugu rus dgu "Turks of Nine Bones" in an 8th-century Tibetan document;
+The Karakhanids, whose rulers appear as names for Tatar AI players;
+The Oghuzes, from whom arose the Seljuks and Anatolian Turks (including the Ottomans), represented in-game by the Turks.
+Turks was also used for various Turkmen peoples with the two terms having common origins and being interchangeable; today, Turkmens / Turkomans describe only Eastern-Oghuz speaking peoples.
+Strangely, Oghuz Yabgu, Qara Qoyunlu, and Aq Qoyunlu polities, though historically Oghuz-speaking, are represented by the unrelated, Chagatai-speaking Tatars, either as AI player names for the Tatars or by being depicted as Tatars in-game in case of the Turkomen. This is potentially because these peoples were left out of the original Turks design, which focused on the Seljuks and the Ottomans.
+All this could also have stemmed from developers' oversight: even if the in-game Tatars and Cumans were supposed to also represent the 'less Persianate, less Islamized' Turkic polities, Tatars' and Cumans' in-game architectural set is Persianate (though topped with Timurid fluted domes).
+
+Despite the Turks being based on the Seljuk Turks and other Oghuz Turkish empires (all of whom were once a nomadic people), they do not get Steppe Lancers, possibly for gameplay balance purposes.
+
+The Scenario Editor building Mosque is identical to the Turkish Wonder.
+
+When the Turks are given other gunpowder units in the Scenario Editor, the hit point bonus does not apply to any gunpowder unit which the Turks cannot normally train, except the Houfnice.
+
+Gallery[]
+
+The Wonder of the Turks, the 
+
+Selimiye Mosque
+
+The Middle Eastern architecture set the Turks share with the 
+
+Berbers,
+
+Persians, and
+
+Saracens
+
+The Middle Eastern architecture set before the 
+
+A Turkish town, as seen in 
+
+Bapheus in the
+
+Turks 
+
+user interface image
+
+The Turkish user interface before the 
+
+Map of the Ottoman Empire as depicted in the outro of Bapheus
+
+Stucco figure of a Seljuk Warrior, 11th-13th century, Iran
+
+Seljuks as depicted in the in-game artwork
+
+Ottoman artillery besieging a city
+
+Video overview[]
+
+Turks Overview Part 1
+
+Turks Overview Part 2
+
+Notes[]
+
+↑ As per their building set.
+
+↑ Since update 47820, the 50% cost reduction only applies to the Bombard Tower technology and the Elite Cannon Galleon upgrade. It also applied to the Cannon Galleon technology before it was removed from the game with update 47820 and to Hand Cannon and the Bombard Cannon technologies before they were removed in The Conquerors. It does not apply to Artillery or the Elite Janissary upgrade.
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/turks
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+Asian civilizations
+
+The Age of Kings
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

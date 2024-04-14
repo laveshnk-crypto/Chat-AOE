@@ -1,0 +1,511 @@
+This page is all about the Poles
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique building
+1.3 Unique technologies
+1.4 Civilization bonuses
+1.5 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Dawn of the Dukes
+3.2 Dynasties of India
+3.3 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 Barbarossa
+4.2 Genghis Khan
+4.3 Ivaylo
+4.4 Jadwiga
+4.5 Jan Zizka
+4.6 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes and references
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+Dawn of the Dukes,
+
+European civilizations
+
+
+			English
+
+Español
+
+Poles
+
+39
+
+Edit
+
+Edit source
+
+View history
+
+Talk (1)
+
+Civilization Technology tree Strategy
+
+Poles
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: Definitive Edition - Dawn of the Dukes
+
+Architecture
+
+Eastern European
+
+Continent
+
+Europe
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Poles_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Poles_jingle_AoE2_DE.ogg
+
+Features/Characteristics
+
+Focus
+
+Cavalry
+
+Unique units
+
+Obuch
+
+Unique upgrades
+
+Winged Hussar
+
+Unique technologies
+
+Szlachta Privileges
+
+Lechitic Legacy
+
+Unique buildings
+
+Folwark
+
+“ Stride across fertile plains with industrious farmers and powerful nobles at your back as you build the fledgling Kingdom of Poland into one of medieval Europe's most powerful states. The Polish unique unit is the Obuch, a brutal infantryman whose war hammer tears the armor from enemy units. ” —Description [1]
+
+The Poles are an Eastern European civilization introduced in Age of Empires II: Definitive Edition - Dawn of the Dukes based on the medieval Poland, which would later form the Polish–Lithuanian Commonwealth with Lithuanians. They focus on cavalry.
+
+While the Polish-Lithuanian alliance existed in the Age of Empires III time frame, the Poles appear as a European Royal House in Age of Empires III: Definitive Edition - Knights of the Mediterranean: the House of Vasa. The namesake Kingdom of Poland also appears in Age of Empires IV as a minor campaign opponent.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique building
+1.3 Unique technologies
+1.4 Civilization bonuses
+1.5 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Dawn of the Dukes
+3.2 Dynasties of India
+3.3 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 Barbarossa
+4.2 Genghis Khan
+4.3 Ivaylo
+4.4 Jadwiga
+4.5 Jan Zizka
+4.6 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes and references
+
+Characteristics[]
+
+Unique unit[]
+
+Obuch: Infantry whose attack reduces the target unit's armor.
+
+Winged Hussar: Unique upgrade of the Light Cavalry replacing the Hussar (shared with the Lithuanians).
+
+Unique building[]
+
+Folwark: Free upgrade to the Mill,[note 1] which collects 8% food from nearby constructed Farms.
+
+Unique technologies[]
+
+Szlachta Privileges: Knight line costs -60% gold.
+
+Lechitic Legacy: Scout Cavalry line deals 33% trample damage in 0.5 tiles radius.
+
+Civilization bonuses[]
+
+Villagers regenerate 10/15/20 HP per minute in the Feudal/Castle/Imperial Age.
+
+Stone miners generate 33% gold in addition to stone.
+
+Team bonus[]
+
+The Scout Cavalry line has +1 attack vs. archers.
+
+Overview[]
+
+The Poles are a versatile civilization with access to wide variety of units, similar to the Malians and Chinese. Their heavy cavalry has a massive 60% gold discount thanks to Szlachta Privileges. Their Light Cavalry are strong thanks to an attack boost against archers early on, and later get the Winged Hussar and Lechitic Legacy. Their archer units are solid, having access to all important technologies and units except for Ring Archer Armor, Parthian Tactics, and Hand Cannoneers. Their unique unit, the Obuch, is an infantry unit with strong durability and an armor-shredding ability. Their siege is solid, as they have access to Bombard Cannons, Siege Rams, and Siege Engineers. Their Monks are solid, missing only Atonement and Illumination. Their economy is strong since their stone miners generate gold, their Villagers regenerate health, and they have access to a unique building, Folwark, which helps food generation by immediately collecting food from nearby Farms built. Their defenses are solid, missing only Architecture and Heated Shot, and their villagers have an extra layer of protection from enemy raids by slowly regenerating health.
+
+The Poles lack Plate Barding Armor, which makes their cavalry much more vulnerable to archers than normal. Combined with their lack of Ring Archer Armor, they are very reliant on Siege Rams to counter archers. Additionally, they lack Halberdier, and as a result have no strong anti-cavalry units. Their navy is below average, as they miss out a few important technologies, notably Shipwright and Dry Dock.
+
+Changelog[]
+
+Dawn of the Dukes[]
+
+Initially, (Elite) Obuch train in 9 seconds. With update 56005, (Elite) Obuch train in 12 seconds.
+
+Initially cannot research Siege Engineers. With update 56005, it was added to their tech tree.
+
+Villagers regenerate 5 hit points per minute in the Dark Age.
+
+Stone Miners generate 50 gold for every 100 stone collected.
+
+Folwark instant food conversion is 10%.
+
+Dynasties of India[]
+
+With update 73855, Stone Miners generate 33 gold for every 100 stone collected.
+
+With update 78174, Folwark instant food conversion is 8%.
+
+With update 81058, Villager regeneration bonus now starts in Feudal Age.
+
+The Mountain Royals[]
+
+With update 95810, lose access to Guilds.
+
+Campaign appearances[]
+
+The Poles have a campaign devoted to their civilization: Jadwiga. They also appear in:
+
+Barbarossa[]
+
+Henry the Lion
+Poland - Enemy
+
+Genghis Khan[]
+
+The Promise
+Polish - Enemy
+
+Ivaylo[]
+
+Where the One-Eyed Man is King
+Poles - Enemy
+
+Jadwiga[]
+
+This campaign is played as the Poles
+
+The Matter of the Crown
+The Duke of Opole - Enemy → Ally
+The Duke of Mazovia - Enemy → Ally
+Mazovian Guards - Enemy
+Krakow - Ally
+
+Star of the Poles
+Pohonicz - Ally
+
+Duel of the Dukes
+Polish Forces - Ally
+
+The Fruits of Her Labor
+The Polish Army - Ally
+
+Jan Zizka[]
+
+Courage and Coin
+The Polish Army - Ally
+Wladyslaw II Jagiello - Ally
+
+The Emperor's Fury
+Zawisza - Enemy
+
+Victors and Vanquished[]
+
+Mstislav
+Danylo of Halych - Neutral → Potential ally
+
+Otto
+Wends - Enemy
+
+In-game dialogue language[]
+
+Polish units in-game speak Polish (Polish: Język polski) with some archaic phrases. It is a Western Slavic language that belongs to the Lechitic family.
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Poles_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Poles_Villager_Male_Select_1_AoE2.ogg Select 1 Tak? – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Poles_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Poles_Villager_Male_Select_2_AoE2.ogg Select 2 Witajcie  - Welcome
+
+https://ageofempires.fandom.com/wiki/File:Poles_Villager_Female_Select_3_AoE2.ogg Female Select 3 Gotowam jest- I'm ready (feminine, in modern Polish: Jestem gotowa)
+
+https://ageofempires.fandom.com/wiki/File:Poles_Villager_Male_Select_3_AoE2.ogg Male Select 3 Gotów jestem - I'm ready (masculine, in modern Polish: Jestem gotowy)
+
+https://ageofempires.fandom.com/wiki/File:Poles_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Poles_Villager_Male_Select_4_AoE2.ogg Select 4 Rozkazania? – Your orders? (in modern Polish: Rozkazy?)
+
+https://ageofempires.fandom.com/wiki/File:Poles_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Poles_Villager_Male_Task_1_AoE2.ogg Task 1 Tak – Yes
+
+https://ageofempires.fandom.com/wiki/File:Poles_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Poles_Villager_Male_Task_2_AoE2.ogg Task 2 Pojmuję – I understand (in modern Polish: Rozumiem)
+
+https://ageofempires.fandom.com/wiki/File:Poles_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Poles_Villager_Male_Task_3_AoE2.ogg Task 3 Tak też uczynię – I'll do it
+
+https://ageofempires.fandom.com/wiki/File:Poles_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Poles_Villager_Male_Task_4_AoE2.ogg Task 4 Natychmiast wykonam – I perform [this task] immediately
+
+https://ageofempires.fandom.com/wiki/File:Poles_Villager_Female_Build_AoE2.ogg Female Build Jestem sprawiaczką - I'm a builder (feminine)
+
+https://ageofempires.fandom.com/wiki/File:Poles_Villager_Male_Build_AoE2.ogg Male Build Sprawiacz - Builder (masculine, in modern Polish: Buduję/Budowniczy)
+
+https://ageofempires.fandom.com/wiki/File:Poles_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Poles_Villager_Male_Chop_AoE2.ogg Chop Drwal - Lumberjack
+
+https://ageofempires.fandom.com/wiki/File:Poles_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Poles_Villager_Male_Farm_AoE2.ogg Farm Zbieracz – Collector
+
+https://ageofempires.fandom.com/wiki/File:Poles_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Poles_Villager_Male_Fish_AoE2.ogg Fish Rybitw – Fisherman (in modern Polish: Rybak)
+
+https://ageofempires.fandom.com/wiki/File:Poles_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Poles_Villager_Male_Forage_AoE2.ogg Forage Zbieram - I gather
+
+https://ageofempires.fandom.com/wiki/File:Poles_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Poles_Villager_Male_Hunt_AoE2.ogg Hunt Łowię zwierzynę - I hunt game
+
+https://ageofempires.fandom.com/wiki/File:Poles_Villager_Female_Mine_AoE2.ogg Female Mine Jestem górniczką – I'm a miner (feminine)
+
+https://ageofempires.fandom.com/wiki/File:Poles_Villager_Male_Mine_AoE2.ogg Male Mine Jestem górnikiem – I'm a miner (masculine)
+
+https://ageofempires.fandom.com/wiki/File:Poles_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Poles_Villager_Male_Repair_AoE2.ogg Repair Naprawiam – I'm repairing
+
+https://ageofempires.fandom.com/wiki/File:Poles_Soldier_Select_1_AoE2.ogg Select 1 Owszem – Correct/Right
+
+https://ageofempires.fandom.com/wiki/File:Poles_Soldier_Select_2_AoE2.ogg Select 2 Do waszych usług - At Your Service
+
+https://ageofempires.fandom.com/wiki/File:Poles_Soldier_Select_3_AoE2.ogg Select 3 Jakieś rozkazania? – Commands? (in modern Polish: Jakieś rozkazy?)
+
+https://ageofempires.fandom.com/wiki/File:Poles_Soldier_Move_1_AoE2.ogg Move 1 Pojmuję was – I understand
+
+https://ageofempires.fandom.com/wiki/File:Poles_Soldier_Move_2_AoE2.ogg Move 2 Dobrze, tak uczynię – Yes/Good, I'll do it
+
+https://ageofempires.fandom.com/wiki/File:Poles_Soldier_Move_3_AoE2.ogg Move 3 Tak, panie – Yes [my] Lord
+
+https://ageofempires.fandom.com/wiki/File:Poles_Soldier_Attack_1_AoE2.ogg Attack 1 Atakujmy! - Attack!
+
+https://ageofempires.fandom.com/wiki/File:Poles_Soldier_Attack_2_AoE2.ogg Attack 2 Naprzód! – Foward!
+
+https://ageofempires.fandom.com/wiki/File:Poles_Soldier_Attack_3_AoE2.ogg Attack 3 Do broni! – To arms!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Poles_Monk_Select_1_AoE2.ogg Select 1 Tak? – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Poles_Monk_Select_2_AoE2.ogg Select 2 Przykazania, panie? - Your commands?
+
+https://ageofempires.fandom.com/wiki/File:Poles_Monk_Select_3_AoE2.ogg Select 3 Do usług – At Your Service
+
+https://ageofempires.fandom.com/wiki/File:Poles_Monk_Select_4_AoE2.ogg Select 4 W imię Boga – In the name of God
+
+https://ageofempires.fandom.com/wiki/File:Poles_Monk_Move_1_AoE2.ogg Move 1 Idę zatem – I am going
+
+https://ageofempires.fandom.com/wiki/File:Poles_Monk_Move_2_AoE2.ogg Move 2 Tak – Yes
+
+https://ageofempires.fandom.com/wiki/File:Poles_Monk_Move_3_AoE2.ogg Move 3 Oczywiście – Of course
+
+https://ageofempires.fandom.com/wiki/File:Poles_Monk_Move_4_AoE2.ogg Move 4 Natychmiast się tym zajmę – I'll do it immediately
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Poles_King_Select_1_AoE2.ogg Select 1 Proszę waćpana – Yes "sir" (waćpan is archaic word and means "polite term of address among the nobility")
+
+https://ageofempires.fandom.com/wiki/File:Poles_King_Select_2_AoE2.ogg Select 2 Czegóż chcecie, waszmości? – What do you want "sir"? (waszmość has similiar usage to "waćpan")
+
+https://ageofempires.fandom.com/wiki/File:Poles_King_Select_3_AoE2.ogg Select 3 Czemuż mnie niepokoicie? – Why are you bothering me?
+
+https://ageofempires.fandom.com/wiki/File:Poles_King_Select_4_AoE2.ogg Select 4 Służę pomocą – I offer my help
+
+https://ageofempires.fandom.com/wiki/File:Poles_King_Move_1_AoE2.ogg Move 1 Uczynię jak prosicie – I will do what you're asking me
+
+https://ageofempires.fandom.com/wiki/File:Poles_King_Move_2_AoE2.ogg Move 2 Z mojej łaski – By my grace
+
+https://ageofempires.fandom.com/wiki/File:Poles_King_Move_3_AoE2.ogg Move 3 Tak jak prosiliście – As you will
+
+https://ageofempires.fandom.com/wiki/File:Poles_King_Move_4_AoE2.ogg Move 4 Tak też uczynię – I will do it
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Polish AI characters:
+
+Boleslaw III Wrymouth: Bolesław III Wrymouth (also known as Boleslaus III the Wry-mouthed, Polish: Bolesław III Krzywousty) (20 August 1086 – 28 October 1138), was the duke of Lesser Poland, Silesia and Sandomierz between 1102 and 1107 and over the whole Poland between 1107 and 1138. He was the only child of Duke Władysław I Herman and his first wife, Judith of Bohemia.
+
+Boleslaw the Brave: Bolesław the Brave, less often known as Bolesław the Great (Polish: Bolesław Chrobry), was Duke of Poland from 992 to 1025, and the first King of Poland in 1025. He was also Duke of Bohemia between 1003 and 1004 as Boleslaus IV.
+
+Duke Henryk the Pious: Henry II the Pious (Polish: Henryk II Pobożny) (1196 – 9 April 1241), of the Silesian line of the Piast dynasty, was Duke of Silesia at Wrocław and Duke of Kraków and thus High Duke of Poland as well as Duke of Southern Greater Poland from 1238 until his death. During 1238–1239 he also served as a regent of two other Piast duchies: Sandomierz and Upper Silesian Opole–Racibórz. In October 2015, the Roman Catholic Diocese of Legnica opened up his cause for beatification, obtaining him the title of Servant of God
+
+Jadwiga: Jadwiga (Polish: [jadˈvʲiɡa]; 1373 or 1374 – 17 July 1399), also known as Hedwig (Hungarian: Hedvig), was the first female monarch of the Kingdom of Poland, reigning from 16 October 1384 until her death. She was the youngest daughter of Louis the Great, King of Hungary and Poland, and his wife Elizabeth of Bosnia. Jadwiga was a member of the Capetian House of Anjou, but she had more close forebears among the Polish Piasts than among the Angevins. In 1997 she was canonized by the Catholic Church.
+
+Jan I Olbracht: John I Albert (Polish: Jan I Olbracht; 27 December 1459 – 17 June 1501) was King of Poland (1492–1501) and Duke of Głogów (1491–1498).
+
+Kazimierz III the Great: Casimir III the Great (Polish: Kazimierz III Wielki; 30 April 1310 – 5 November 1370) reigned as the King of Poland from 1333 to 1370. He also later became King of Ruthenia in 1340, and fought to retain the title in the Galicia-Volhynia Wars. He was the third son of Ladislaus the Short and Jadwiga of Kalisz, and the last Polish king from the Piast dynasty.
+
+Kazimierz IV Jagiellon: Casimir IV (in full Casimir IV Andrew Jagiellon; Polish: Kazimierz IV Andrzej Jagiellończyk [kaˈʑimi̯ɛʒ jaɡi̯ɛlˈlɔɲt͡ʃɨk] (listen); Lithuanian: Kazimieras Jogailaitis; 30 November 1427 – 7 June 1492) was Grand Duke of Lithuania from 1440 and King of Poland from 1447, until his death. He was one of the most active Polish-Lithuanian rulers, under whom Poland, by defeating the Teutonic Knights in the Thirteen Years' War recovered Pomerania, and the Jagiellonian dynasty became one of the leading royal houses in Europe.
+
+Kazimierz the Restorer: Casimir I the Restorer (Polish: Kazimierz I Odnowiciel; 25 July 1016 – 19 March 1058), a member of the Piast dynasty, was the duke of Poland from 1040 until his death. Casimir was the son of Mieszko II Lambert and Richeza of Lotharingia. He is known as the Restorer because he managed to reunite all parts of the Kingdom of Poland after a period of turmoil. He reinstated Masovia, Silesia and Pomerania into his realm. However, he failed to crown himself King of Poland, mainly because of internal and external threats to his rule.
+
+Mieszko I (c. 930 – 25 May 992): Mieszko I was the ruler of Poland from about 960 to his death and was the founder of the first independent Polish state, the Duchy of Poland. He was a member of the Piast dynasty, a son of Siemomysł and a grandson of Lestek. He was the father of Bolesław I the Brave (the first crowned king of Poland) and of Gunhild of Wenden. Most sources make Mieszko I the father of Sigrid the Haughty, a Scandinavian queen (though one source identifies her father as Skoglar Toste), the grandfather of Canute the Great (Gundhild's son) and the great-grandfather of Gunhilda of Denmark, Canute the Great's daughter and wife of Henry III, Holy Roman Emperor.
+
+Sieciech: Sieciech (AD 11th century – after AD 1100) was a medieval Polish magnate and statesman.
+
+Wladyslaw II Jagiello: Jogaila (Jogaila), later Władysław II Jagiełło (Polish pronunciation: [vwaˈdɨswaf jaˈɡʲɛwːɔ] (listen)) (c. 1352/1362 – 1 June 1434) was Grand Duke of Lithuania (1377–1434) and then King of Poland (1386–1434), first alongside his wife Jadwiga until 1399, and then sole ruler of Poland. He ruled in Lithuania from 1377. Born a pagan, in 1386 he converted to Catholicism and was baptized as Władysław in Kraków, married the young Queen Jadwiga, and was crowned King of Poland as Władysław II Jagiełło. In 1387 he converted Lithuania to Christianity. His own reign in Poland started in 1399, upon the death of Queen Jadwiga, lasted a further thirty-five years, and laid the foundation for the centuries-long Polish–Lithuanian union. He was a member of the Jagiellonian dynasty in Poland that bears his name and was previously also known as the Gediminid dynasty in the Grand Duchy of Lithuania. The dynasty ruled both states until 1572, and became one of the most influential dynasties in late medieval and early modern Europe. During his reign, the Polish-Lithuanian state was the largest state in the Christian world.
+
+Zawisza the Black: Zawisza Czarny of Garbow (c. 1379 – 12 June 1428), also known as Zawisza the Black, of Sulima coat of arms, was a Polish knight and nobleman who served as a commander and diplomat under Polish king Władysław II Jagiełło and Hungarian-Bohemian king Sigismund of Luxembourg. During his life, he was regarded as a model of knightly virtues and was renowned for winning multiple tournaments. His nickname is due to his black hair and his custom-made, black armor which is kept at the Jasna Góra Monastery.
+
+Zbigniew Olesnicki: Zbigniew Oleśnicki (Polish: [ˈzbiɡɲɛf ɔlɛɕˈɲitskʲi]; 5 December 1389 – 1 April 1455), known in Latin as Sbigneus, was a high-ranking Roman Catholic clergyman and an influential Polish statesman and diplomat. He served as Bishop of Kraków from 1423 until his death in 1455. He took part in the management of the country's most important affairs, initially as a royal secretary under King Władysław II Jagiełło and later as the effective regent during King Władysław III's minority. In 1439 he became the first native Polish cardinal.
+
+Zygmunt I Stary: Sigismund I the Old (Polish: Zygmunt I Stary, Lithuanian: Žygimantas II Senasis; 1 January 1467 – 1 April 1548) was King of Poland and Grand Duke of Lithuania from 1506 until his death in 1548. Sigismund I was a member of the Jagiellonian dynasty, the son of Casimir IV and younger brother of Kings John I Albert and Alexander I Jagiellon. He was nicknamed "the Old" in later historiography to distinguish him from his son and successor, Sigismund II Augustus.
+
+History[]
+
+“ Archaeological evidence and codified remnants of oral tradition indicate that the regions comprising modern-day Poland were inhabited by Germanic-speaking peoples during much of the Migration Period (4th-6th centuries CE). By the 6th century, however, these groups had migrated to the west and south and new arrivals began to populate the region. Small groups of Baltic-speaking peoples settled in the northeast, while the remainder of the area became home primarily to speakers of the Lechitic branch of West Slavic languages. Non-archaeological evidence narrating the events of the following centuries is scant, but the material culture indicates the gradual growth of settlements, centers of trade and craftsmanship, and gords – fortified communities that suggest tense competition over territory and point to the consolidation of political power. These became increasingly prevalent during the 8th and 9th centuries, a time when the region was often threatened by Avar and Moravian invaders. Around the turn of the 10th century, the Magyars poured into Central Europe, toppling the existing balance of power and several states along with it. By this point, Christianity had begun to spread into the region from the west and south, as the Carolingians and Byzantines competed for influence among the local inhabitants. Due in part to the Magyars disrupting communication between Byzantium and Central Europe, Latin Catholicism gained greater traction and established a tenuous bond between the new converts and their western neighbors. In the ensuing decades, the Piast dynasty of dukes gradually consolidated power, forming an early Polish state. Under Mieszko I (c. 930-992), the state underwent a Christianization process spurred by Mieszko's wife Dobrawa, expanded its borders, and established firmer contacts with neighboring powers, particularly Bohemia and the Holy Roman Empire to the west. In 1025, Mieszko's son, Boleslaw the Brave (967-1025)–known for successful campaigns against the Holy Roman Empire and the Kievan Rus'–was elevated to kingship just prior to his death. Poland's period of growth and expansion continued for roughly a century under Boleslaw's successors. During this time, in emulation of its western neighbors, the kingdom developed a feudal social structure founded primarily on serfdom agriculture, which was facilitated by the exceedingly fertile nature of the region. This epoch of success and consolidation, however, was abruptly halted when Boleslaw III Wrymouth divided the kingdom among his sons in 1138, spurring a tendency towards increased localism and division that would plague Poland for decades. In the early 13th century, two occurrences unfolded that would prove disastrous for the struggling kingdom. First, a local duke enlisted the Teutonic Order in a war against the pagan Prussians, establishing its presence in the Baltic region. Second, the Mongol hordes thrust into Central Europe from 1240-41, devastating much of the local infrastructure and killing thousands. It was not until the beginning of the 14th century that Polish kings reclaimed sovereignty over the territories that their ancestors had ruled. However, they had a new and formidable rival in the Teutonic Order, which sought to expand its domains into Pomerania. Conflict seethed on multiple levels, for the Order not only coveted the neighboring territories but also disapproved of the Polish monarchy's policy of religious toleration: in comparison to its western neighbors, Poland was extremely progressive in establishing and upholding the rights and privileges of its religious minorities, especially Jews. Poland was also notable for being relatively unaffected by the bubonic plague pandemic of 1346-1353, mainly due to the strict but successful quarantine measures imposed by Kazimierz III the Great (1310-1370), a king known also for his skill as an administrator, a promoter of education, and a military leader. In 1384, Poland's first queen, Jadwiga (1373-1399), inherited the throne. Despite her young age, she proved herself an elite political strategist and local administrator, winning the hearts of the common people and masterminding a political union through marriage with the powerful Lithuanian pagan duke Jogaila –and, by extension, his cousin Vytautas . After Jadwiga's untimely death, Jogaila–baptized as Wladyslaw II Jagiello–would rule successfully for over three more decades, most famously breaking the power of the Teutonic Order at Grunwald in 1410. The realms that Jadwiga brought together would eventually comprise the Polish-Lithuanian Commonwealth, a powerful joint state that dominated much of Central and Eastern Europe over the following centuries. Several factors contributed to unprecedented growth in late-medieval Poland. Improved agricultural techniques bolstered productivity and exports, causing a massive influx of wealth. This led to an increase in the power of the nobility, strengthening the state locally and centrally. Finally, a strengthened policy of religious toleration promoted internal stability at a time when the remainder of Europe was wracked by religious conflict. As a result, Poland-Lithuania became a major player in Central-East Europe and often stood alongside Hungary in the struggle to resist Ottoman expansion into Europe during the late-medieval and early-modern periods. ” — [1]
+
+Trivia[]
+
+The Poles' civilization icon is based on the Kingdom of Poland's coat of arms in the 14th century.
+
+The Poles are the only civilization who have access to a unique building in the Dark Age.
+
+The Poles are one of three civilizations to have a trainable unit with hit point regeneration, among Berbers and Vikings, and the only one with innate regeneration for a generic unit.
+
+The Poles are the only Eastern European civilization to not have access to the Halberdier.
+
+The following heroes available in the Scenario Editor are themed on the Poles: Zawisza the Black, Jadwiga, and Young Jadwiga. Jogaila, who is originally Lithuanian, is also thematically related to the Poles by way of being the king of unison of those two states, and being playable as such in the Polish campaign.
+
+The Poles are considered to be similar to the Malians and Chinese for being "jack of all trades" civilizations, with the ability to go for any of the main 3 military unit types (archers, infantry, and cavalry). The Chinese have better cavalry, along with variety (Camels) whereas the Poles have much better siege. Additionally:
+The Poles and Malians have an economic bonus that improves the gold generation for their miners (the Poles' stone miners generating gold is comparable to Malians' extra gold drop off), as well as having an infantry unique unit with access to at least one unique technology that improves their cavalry.
+The Chinese and Poles have civilization bonuses that directly benefit their Farms (in the case with the Poles, their Folwark is comparable to the Chinese Farm team bonus, which also benefit Poles in team games) and bonuses that involve their Villagers. Both Poles and Chinese are also designed for more experienced players than for beginners.
+
+The Poles are also to a degree similar to Mongols. Their Blacksmith technology tree is the same, and they have buffs to their Light Cavalry units (While the Mongols have more hit points and access to Steppe Lancers, the Poles have the Winged Hussar, which has higher attack and trample damage, and an attack bonus to archers and gunpowder units). Both have exactly the same Arbalesters, which gets overshadowed by Mangudai and even regular Cavalry Archers in case of Mongols. Both have the exact same Barracks, except for missing Supplies for Mongols, which does not affect combat in equal numbers. Lack of Halberdiers restricts them from having a cost-effective way to counter heavy cavalry; in the case of Mongols, they have Camel Riders without Plate Barding Armor, while Poles need to use a combination of Obuchs, Monks, ranged units, cheaper Cavaliers, and some of the best light cavalry in melee combat. They also lack such counters against Elephant units (despite the Poles having average Monks, while Mongol ones are awful). Both have a good economy for their food and are weak in wood collection. The biggest difference is the Mongols are more focused on mounted archers and siege weapons, while the Poles focus on infantry and the cheaper Knight line.
+
+The Poles' civilization bonus of generating gold from stone mines is similar to one of the Inca civilization bonus in Rise of Nations, where the latter also produces gold as well as metal from mountains.
+
+Similar to the Bohemians, the Poles have very high win rates in closed maps, but slightly below average on open maps. This is probably due to the Folwark, which gives the Poles a great but risky economy advantage in open maps, while the stone miners generating gold makes them a good civilization in closed maps with a good Castle drop strategy.
+The Poles are an accidental Arena civilization. When the expansion was being developed, the Bohemians were meant to the Arena civilization. However, the Folwark and the gold-generation from mining stone behind the safety of walls enables Poles to develop their economy and prepare defenses, making them one of the best civilizations on Arena.
+
+Much like the Chinese, the Poles have a significantly lower win rate in lower Elo while having slightly higher win rates in higher Elo, probably because newer players may not able to take full advantage of the Folwark.
+
+The Poles' theme choir recites the lyrics of Gregorian chant piece In paradisium, but in a truncated version. This chant is still sung to this day during Catholic Requiem in the older form - the Tridentine or traditional Latin Mass. The lyrics that can be heard in game are in bold:
+
+Lyrics Translation In paradisum deducant te angeli, in tuo adventu suscipiant te martyres, et perducant te in civitatem sanctam Ierusalem. Chorus angelorum te suscipiat, et cum Lazaro quondam paupere æternam habeas requiem. May the angels lead you into paradise; may the martyrs receive you at your arrival and lead you to the holy city Jerusalem. May choirs of angels receive you and with Lazarus, once (a) poor (man), may you have eternal rest.
+
+Several elements of the Polish civilization are incorporated in Age of Empires III. One of the Germans' Home City Cards can ship 6 of their iconic Winged Hussars with the "Polish Winged Hussar" card (reflecting Prussia and Austria's partitioning of the Polish-Lithuanian state at the end of the 18th century), which also appear as a unit from the Swedish-Polish House of Vasa, in Age of Empires III: Definitive Edition - Knights of the Mediterranean, using the same military voice lines from Age of Empires II. The Uhlan, an unique unit of the Germans, has a Polish origin. The "Pulaski's Legion" Home City Card available to the United States references a cavalry and infantry regiment under the command of Polish-born General Casimir Pulaski and Hungarian nobleman Michael Kovats de Fabriczy. Additionally, the Polish people's historical legacy and their unique Folwarks are provided by the Polish House of Jagiellon.
+
+Gallery[]
+
+The Polish 
+
+Wonder:
+
+Wawel Cathedral
+
+Official preview image showing the Poles' Wonder, unique Castle, and Folwark
+
+The Eastern European architecture set the Poles share with the 
+
+Magyars,
+
+Slavs,
+
+Bulgarians,
+
+Lithuanians and
+
+Bohemians
+
+Unique Polish Castle: 
+
+Będzin Castle
+
+The unique building of the Poles, the 
+
+Folwark, which replaces the
+
+Mill
+
+Poles user interface image
+
+Another preview image
+
+Poles Overview (AoE2)
+
+Notes and references[]
+
+↑ Unlike the Donjons for Sicilians, the Folwark does not actually replace the Mill. The Folwark is an upgrade to the Mill at the start of the game for free.
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/poles
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+Dawn of the Dukes
+
+European civilizations
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

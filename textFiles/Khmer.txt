@@ -1,0 +1,534 @@
+This page is all about the Khmer
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Rise of the Rajas
+3.2 Definitive Edition
+3.3 Lords of the West
+3.4 Dynasties of India
+
+4 Campaign appearances
+
+4.1 Gajah Mada
+4.2 Suryavarman I
+4.3 Bayinnaung
+4.4 Le Loi
+4.5 Rajendra
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Behind the scenes
+
+10 Gallery
+
+11 Video overview
+
+12 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+Asian civilizations,
+
+Rise of the Rajas
+
+
+			English
+
+Español
+
+Khmer
+
+44
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+Civilization Technology tree Strategy
+
+Khmer
+
+Civilization information
+
+Introduced in
+
+Age of Empires II HD: Rise of the Rajas
+
+Architecture
+
+Southeast Asian
+
+Continent
+
+Asia
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Khmer_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Khmer_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Khmer_jingle_AoE2.ogg
+
+Pronunciation
+
+https://ageofempires.fandom.com/wiki/File:Pronounce_khmer.ogg
+
+Features/Characteristics
+
+Focus
+
+Siege weapons
+
+Elephants
+
+Unique units
+
+Ballista Elephant
+
+Unique technologies
+
+Tusk Swords
+
+Double Crossbow
+
+“ Along the valleys of the Mekong and Chao Phraya, a culture of architects, statesmen, warriors, and religious devotees flourished. Overthrow the king of Khmer, build strategic alliances, and settle the score with your historic rivals. Construct the largest religious monument in the world and amass an unstoppable army of devastating siege weapons. The Khmer unique unit is the Ballista Elephant, a mounted scorpion that can be upgraded to fire two bolts simultaneously. ” —Description [1]
+
+The Khmer are a Southeast Asian civilization introduced in Age of Empires II HD: Rise of the Rajas. The Khmer are based on the Khmer Empire, whose capital was Angkor (located in present Cambodia), one of the largest pre-industrial cities. They focus on siege weapons and elephant units, in their case Battle Elephants and Ballista Elephants.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Rise of the Rajas
+3.2 Definitive Edition
+3.3 Lords of the West
+3.4 Dynasties of India
+
+4 Campaign appearances
+
+4.1 Gajah Mada
+4.2 Suryavarman I
+4.3 Bayinnaung
+4.4 Le Loi
+4.5 Rajendra
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Behind the scenes
+
+10 Gallery
+
+11 Video overview
+
+12 References
+
+Characteristics[]
+
+Unique unit[]
+
+Ballista Elephant: Heavy cavalry siege unit.
+
+Unique technologies[]
+
+Tusk Swords: Battle Elephants +3 attack.
+
+Double Crossbow: Ballista Elephants and Scorpions fire an additional bolt of half strength.
+
+Civilization bonuses[]
+
+No buildings are required to advance to the next age or to unlock other buildings.
+
+Battle Elephants move 10% faster.
+
+Farmers don't carry food but rather add it directly to the stockpile without any drop-off, but work 5% slower.
+
+Villagers (and Kings) can garrison in Houses.
+
+Team bonus[]
+
+Scorpions have +1 range.
+
+Overview[]
+
+The Khmer are classified as an elephant and siege civilization, and they really shine in their advertised departments. Their Battle Elephants are particularly dangerous as they get a notable speed boost which, along with Husbandry, effectively addresses their greatest weakness which is the low speed (although they are still not fast enough to escape Halberdiers). Additionally, they get +3 attack out of Tusk Swords which lifts their attack to levels only the Elite War Elephant sits in. Their cavalry department in general is fairly solid, with fully upgraded Hussars and Cavaliers.
+
+The Khmer siege weapons are excellent for one reason: their Scorpions. They get +1 range from their team bonus and another +1 from Siege Engineers for a total of 9 - enough to outrange Arbalesters, and they get a second bolt fired simultaneously (from Double Crossbow) which greatly increases their damage output. The Ballista Elephant, while lacking range and damage output, is a very durable unit that is very self-sufficient. Their navy is average, as they lack the Heavy Demolition Ship and Shipwright. Their defensive structures and Monks are likewise average. Their economy is great with their Farmers' ability to drop off food instantly.
+
+The Khmer infantry are very weak, without Champions, Squires, Supplies, and Plate Mail Armor. Their archers are decent, but the lack of Thumb Ring can hurt.
+
+Overall, the Khmer are a diverse civilization with both conventional and unconventional unit choices. They are very flexible when it comes to their build orders and opening up to unconventional and unpredictable strategies.
+
+Changelog[]
+
+Rise of the Rajas[]
+
+With patch 5.8, the Arbalester was added to the technology tree.
+
+Definitive Edition[]
+
+Faith added to the technology tree.
+
+Hussar added to the technology tree.
+
+Shipwright removed from the technology tree.
+
+With update 34699, a new civilization bonus was added: Farmers no longer require Mills or Town Centers to drop off food.
+As part of this, Farmers work 3% slower, to balance out the fact that dropping off food normally slows down farmers by a lot.
+
+With update 36906, the Bombard Cannon is no longer available.
+
+With update 37650, Supplies was removed from their technology tree.
+
+With update 42848:
+Farmers' work rate debuff increased (3% → 5%).
+Battle Elephants' speed buff decreased (15% → 10% faster).
+Tusk Swords costs more (200 wood, 300 gold → 300 wood, 450 gold).
+
+Lords of the West[]
+
+With update 44725, Treadmill Crane removed from the technology tree.
+
+Dynasties of India[]
+
+With update 81058, Ballista Elephants' cavalry armor, elephant armor, and siege armor is set to 0 (from -2 for all). They also gain the Heavy siege armor class, with +20 armor.
+
+Campaign appearances[]
+
+The Khmer have a campaign devoted to their civilization: Suryavarman I. They are also playable as the second player in the co-op version of the campaign in all but the fourth scenario.
+They also appear in:
+
+Gajah Mada[]
+
+The Oath to Unify Nusantara
+Dhamasraya - Enemy
+
+Suryavarman I[]
+
+This campaign is played as the Khmer.
+
+Usurpation
+Udayavidityavarman I - Enemy
+Udayavidityavarman's Army - Enemy
+Angkor - Enemy
+Local Inhabitants - Ally
+
+Quelling the Rebellion
+Northern Rebels - Enemy
+Eastern Rebels - Enemy
+Local Inhabitants - Ally
+
+A Dangerous Mission
+Hostile Locals - Enemy
+Khmer Empire - Ally
+Local Inhabitants - Ally
+
+Nirvanapada
+Khmer Rebels - Enemy
+
+Bayinnaung[]
+
+The Burmese Tigers
+Hanthawaddy - Enemy
+
+The Royal Peacock
+Thado Dhamma Yaza - Enemy → Potential Allies → Enemy
+
+The White Elephant
+Mountain Thai - Ally
+Ayutthaya - Neutral
+Lan Na - Neutral
+Lan Xang - Neutral
+Hill Tribes - Neutral
+
+Le Loi[]
+
+A Three-Pronged Attack
+Ai Lao - Neutral
+
+Rajendra[]
+
+Slaying the Vritra
+Suryavarman - Ally
+Tambralinga - Enemy
+
+In-game dialogue language[]
+
+This section needs expansion . You can help by adding to it .
+
+Khmer units speak their namesake, an Austroasiatic language (related to the language spoken by the Vietnamese) spoken as the official language of the modern Cambodia.
+
+Along with the Malay, Khmer is one of the few major languages of mainland Southeast Asia that is non-tonal. It also shares similarities with Malay due to Indian and Sanskrit influence (e.g. Suosdey in Khmer and Swasti in Malay).
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Female_Select_1_AoE2.ogg Female Select 1 Cha? (ចា?) — Yes? (female)
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Male_Select_1_AoE2.ogg Male Select 1 Bat? (បាទ?) — Yes? (male)
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Male_Select_2_AoE2.ogg Select 2 E suosdey (អេសួរស្ដី) — Hello there
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Male_Select_3_AoE2.ogg Select 3 Tream ruochroal (ត្រៀម រួចរាល់) — Ready
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Male_Select_4_AoE2.ogg Select 4 Peap banhchea? (ភាពបញ្ជា?) — Command?
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Female_Task_1_AoE2.ogg Female Task 1 Cha (ចា?) — Yes? (female)
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Male_Task_1_AoE2.ogg Male Task 1 Bat (បាទ?) — Yes? (male)
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Female_Task_2_AoE2.ogg Task 2 Truemtrouv (ត្រឹមត្រូវ) — All right
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Male_Task_2_AoE2.ogg Task 2 Triem trauv (ត្រៀមត្រូវ) — Prepared
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Female_Task_3_AoE2.ogg Female Task 3 Oukhe (អូខេ) - Okay
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Male_Task_3_AoE2.ogg Male Task 3 Khnhom noeng tov (ខ្ញុំនឹងទៅ) - I will go
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Female_Task_4_AoE2.ogg Female Task 4 Khnhom noeng thveu vea (ខ្ញុំនឹងធ្វើវា) — I will do it
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Male_Task_4_AoE2.ogg Male Task 4 Phleam phleam (ភ្លាមៗ) — Immediately
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Male_Build_AoE2.ogg Build Neak sangsong (អ្នកសាងសង់) — Builder
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Male_Chop_AoE2.ogg Chop Neak kab ok  (អ្នកកាប់អុក) — Woodcutter
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Male_Farm_AoE2.ogg Farm Neak bramoul (អ្នកប្រមូល) — Gatherer
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Male_Fish_AoE2.ogg Fish Neak stuch trei (អ្នកស្ទូចត្រី) — Fisherman
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Male_Forage_AoE2.ogg Forage Neak bramoul (អ្នកប្រមូល) — Gatherer
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Male_Hunt_AoE2.ogg Hunt Neak promanh (អ្នកប្រមាញ់) — Hunter
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Male_Mine_AoE2.ogg Mine Neak chik rae (អ្នកជីករ៉ែ) — Mine excavator
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Khmer_Villager_Male_Repair_AoE2.ogg Repair Neak chuoschul (អ្នកជួសជុល) — Repairer
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Soldier_Select_1_AoE2.ogg Select 1 Bat? (បាទ?) — Yes?
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Soldier_Select_2_AoE2.ogg Select 2 Nov bamraeu neak (នៅបម្រើ អ្នក) - At your service
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Soldier_Select_3_AoE2.ogg Select 3 Peap banhchea? (ភាពយបញ្ជា?) — Command?
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Soldier_Move_1_AoE2.ogg Move 1 Khnhom yol (ខ្ញុំយល់) — I understand
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Soldier_Move_2_AoE2.ogg Move 2 Khnhom neung teuw (ខ្ញុំនឹងទៅ) — I will go
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Soldier_Move_3_AoE2.ogg Move 3 Bat tean (បាទទាន) - Affirmative
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Soldier_Attack_1_AoE2.ogg Attack 1 Veayluk! (វាយលុក!) — Assault!
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Soldier_Attack_2_AoE2.ogg Attack 2 Teuw moukh! (ទៅមុខ!) — Forward!
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Soldier_Attack_3_AoE2.ogg Attack 3 Triem avouth! (ត្រៀមអាវុធ!) — Prepare weapons!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Monk_Select_1_AoE2.ogg Select 1 Atma? (អាត្មា?) - Me?
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Monk_Select_2_AoE2.ogg Select 2 Peap banhchea? (ភាពយបញ្ជា?) — Command?
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Monk_Select_3_AoE2.ogg Select 3 Nov bamraeu neak (នៅបម្រើ អ្នក) - At your service
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Monk_Select_4_AoE2.ogg Select 4 Knung neam preah chea mchas (ក្នុងនាមព្រះជាម្ចាស់) - In the name of god
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Monk_Move_1_AoE2.ogg Move 1 Atma nueng nimun (អាត្មានឹងនិមន្ត) - I will
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Monk_Move_2_AoE2.ogg Move 2 Atma (អាត្មា) - Me
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Monk_Move_3_AoE2.ogg Move 3 Triem trauv (ត្រៀមត្រូវ) — Prepared
+
+https://ageofempires.fandom.com/wiki/File:Khmer_Monk_Move_4_AoE2.ogg Move 4 Phleam phleam (ភ្លាមៗ) — Immediately
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Khmer_King_Select_1_AoE2.ogg Select 1 Neh samrab neak (នេះសម្រាប់អ្នក) - This is for you
+
+https://ageofempires.fandom.com/wiki/File:Khmer_King_Select_2_AoE2.ogg Select 2 Taeu neak chang ban avei? (តើ អ្នក ចង់បាន អ្វី?) — What do you want?
+
+https://ageofempires.fandom.com/wiki/File:Khmer_King_Select_3_AoE2.ogg Select 3 Haet avei neak rumkhan khnhom? (ហេតុអ្វីអ្នករំខានខ្ញុំ?) — Why are you disturbing me?
+
+https://ageofempires.fandom.com/wiki/File:Khmer_King_Select_4_AoE2.ogg Select 4 Karya-ka
+
+https://ageofempires.fandom.com/wiki/File:Khmer_King_Move_1_AoE2.ogg Move 1 Khnhom noeng thveu avei dael neak suor (ខ្ញុំនឹងធ្វើអ្វីដែលអ្នកសួរ) — I'll do whatever you ask
+
+https://ageofempires.fandom.com/wiki/File:Khmer_King_Move_2_AoE2.ogg Move 2
+
+https://ageofempires.fandom.com/wiki/File:Khmer_King_Move_3_AoE2.ogg Move 3
+
+https://ageofempires.fandom.com/wiki/File:Khmer_King_Move_4_AoE2.ogg Move 4 Khnhom noeng tov (ខ្ញុំនឹងទៅ) — I will go
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Khmer AI characters:
+
+Barom Reachea I (បរមរាមាធិបតីទី១, also known as Dhamkat (ដំខាត់); reigned 1363 to 1370): One of the last kings of the Khmer Empire under the rule of the Thai Kingdom of Ayutthaya. He lead a rebellion against the Ayutthaya Empire before he died after being poisoned by his crucibles, leading to civil war and downfall of Khmer Empire. Father of Ponhea Yat.
+
+Indravarman III (ឥន្ទ្រវរ្ម័នទី៣; reigned 1295 to 1308): King of the Khmer Empire, also titled Srindravarman (Khmer: ស្រីន្ទ្រវរ្ម័ន). Upon his ascent to power, he declared Theravada Buddhism as the state religion. Son-in-law of Jayavarman VIII.
+
+Jayavarman II (ជ័យវរ្ម័នទី២; reigned 802 to 835): Founder of the Khmer Empire, he unified several parts of Khmer warlord states, marking the beginning of Angkor (great city) era in Cambodia history.
+
+Jayavarman VII Mahaparamasaugata (ជ័យវរ្ម័នទី៧; 1125-1218, reigned 1181 to 1218): Regarded as one of the greatest kings in Khmer history and his reign is remembered as the "golden age" of the Khmer Empire. During his reign, he defeated the Champas, expanding his empire to its greatest extent, as well as building the Bayon Temple and hundreds of Buddhist temples.
+
+Jayaviravarman (ជយវីរវម៌្ម, reigned 1002 to 1006): Khmer King who dethroned Udayadityavarman I, ruled the Khmer Empire during the civil war before being defeated by Suryavarman I.
+
+Ponhea Yat (ពញាយ៉ាត; 1396-1463, reigned 1405 - 1463): The last king of the Khmer Empire who reigned at the age of 11, known by his reigning title as Barom Reachea II (បរមរាជាទី២). After the attack by the Ayutthaya Kingdom in 1436, he was forced to submit his kingdom to the Ayutthaya, ending the Angkor era and beginning the era of the Kingdom of Cambodia, which saw the conquest over Cambodia between the Siamese and the Vietnamese.
+
+Rajendravarman II (រាជេន្ទ្រវរ្ម័នទី២; reigned 944 to 968): King of the Khmer Empire, described as a great warrior-king who ruled his people kindly.
+
+Sangrama (សង្គ្រាម, died in 1065): General under the service of Udayadityavarman II, he was credited for putting down several rebellions against Udayadityavarman II's rule.
+
+Suryavarman I (សូរ្យវរ្ម័នទី១; reigned 1006 to 1050): First king of the united Khmer Empire. During his reign, he expanded his territory to the west to Lopburi, including the Menam basin in Thailand, and east into the Mekong basin. After his death in 1050, he gained the posthumous title Nirvanapada (the king who has gone to nirvana) for his Buddhist beliefs.
+
+Suryavarman II Paramavishnuloka (សូរ្យវរ្ម័នទី២; reigned 1113 to 1145/1150): King of the Khmer Empire, widely regarded as the greatest king of Khmer Empire, well known for building the Angkor Wat, the largest religious monument in the world.
+
+Udayadityavarman I (ឧទយាទិត្យវម៌្មទី១, reigned for only few months in 1002): Succeeded the throne after Jayavarman V, Udayadityavarman I later dethroned by Jayaviravarman in 1002.
+
+Yasovarman I (ព្រះបាទយសោវរ្ម័នទី១; reigned 889 - 910): King of the Khmer Empire. His reign is remarkable for various major construction projects, he built several water reservoirs around the new capital of Yasodharapura (later known as Angkor) as well as a hundred monasteries.
+
+History[]
+
+“ Although the Khmer people had already settled in present-day Cambodia since the second millennium BC, larger polities would only emerge from the first century AD on. Along the Mekong river, the kingdom of Funan (68-550) and the kingdom of Chenla (550-802) profited greatly from trade and rice cultivation. However, it was their successor, the Khmer Empire (802-1431), that became the most powerful state during the Middle Ages in mainland Southeast Asia. A century after the kingdom of Chenla had disintegrated, a local chief from Southeast Cambodia called Jayavarman II (770-834) reunited the different polities through military conquest and marriages. Following his successful expedition, Jayavarman crowned himself God King (Deva Raja) in 802. This ritual act, inspired by Indian Hinduism and local traditions, not only marked the birth of the Khmer empire, but also legitimized the Khmer kings as manifestations of the Hindu gods Shiva or Vishnu. Successive rulers used this power to intervene in many aspects of the Khmer society: First, kings ordered largescale waterworks. Because monsoons greatly affected water levels, proper irrigation systems were essential for the widespread rice cultivation. At the same time, the government did not try to control production itself. Instead, local officials collected a levy from the traders in the marketplace, which was mainly run by women. Temples served as storage and were connected by an extensive network of roads, facilitating long-distance trade. Second, Khmer rulers funded extensive building programs as they regularly moved their capital. This relocation was often accompanied by the construction of a new state temple that acted as the center of the city and a place for worshiping the king. Angkor, one of the largest pre-industrial urban areas, consisted of seven capital cities and housed over one thousand temples. In the early twelfth century, Suryavarman II (1113-1150) constructed the most famous state temple, Angkor Wat. Today, the temple is still considered the largest religious complex in the world, testifying to the engineering and architectural skills of the Khmer. Finally, the king commanded the army. Between the ninth and fourteenth centuries, Khmer rulers continuously conducted military campaigns and conquered much of Southeast Asia. Their major enemies were the Siamese, the Vietnamese , and the Cham, who raided Angkor in 1177 and 1178. The Khmer had no standing army, but relied on appointed captains who were responsible for conscripting peasants in times of war. Aside from this large contingent of peasant infantry, the army deployed war elephants, sometimes mounted with ballistae . The Khmer not only fought other civilizations. Because kings married multiple women, disputes between different lineages often resulted in civil wars. For example, after Suryavarman I (1002-1049) had claimed the throne, he fought eight years with other contenders. Political instability was inherent to the Khmer society. However, from the fourteenth century on, civil wars became more frequent as rulers were unable to deal with other, structural problems: rice cultivation declined due to a cooling of temperature, the conversion from Hinduism to Theravada Buddhism undermined the legitimacy of kings as divine ruler, and warfare with the Siamese resulted in a continuous loss of territory. Eventually, king Ponhea Yat (1405-1463) abandoned Angkor in 1431, marking the end of the great Khmer Empire. ”
+
+Trivia[]
+
+The bottom left and right of the navigation bar in the user interface display an image of human face based from the statues found in Bayon Temple depicting the face of Avalokiteśvara.
+This image is also used as the civilization icon of the Khmer in the Definitive Edition.
+
+The middle of the navigation bar displays a human-bird creature based on the Garuda, commonly depicted in Angkor reliefs as a symbol of power and is similar to the national emblem of modern Thailand.
+
+Khmer Houses can be compared to Atlantean Manors from Age of Mythology: The Titans; both can garrison Villagers. However, Manors support more population, soldiers can garrison inside and also cost some gold alongside wood.
+
+The following heroes available in the Scenario Editor are themed on the Khmer: Suryavarman I and Udayadityavarman I. Jayaviravarman is portrayed as a Malay prince, but he was also distantly related to the Khmer ruling family before Suryavarman's ascension.
+
+They are the only civilization outside most Age of Empires III civilizations (Asian ones, however, need to construct Wonders) that can advance to the next Age without requirements. They also are the only civilization outside of the Age of Empires III civilizations and the Atlantean Citizens of Age of Mythology: The Titans that don't need dropsites for food produced by farms.
+
+Until the Definitive Edition, Khmer Battle Elephants were the weakest against conversion as they did not have access to Faith.
+
+The original Rise of the Rajas campaign scenario prologues and epilogues consistently mispronounce the name of the civilization. The Definitive Edition re-dub uses the proper pronunciation, better approximated by the spelling "K'mai" (https://ageofempires.fandom.com/wiki/File:Pronounce_khmer.ogg).
+
+The Khmer are the only civilization added in Rise of the Rajas that can train Hand Cannoneers. They are also the only Rise of the Rajas civilization to lack the Bombard Cannon, and to lack Supplies.
+The Khmer are one of the three civilizations that have access to Parthian Tactics, but not Thumb Ring (the others being the Bengalis and Burmese). They are also the only civilization that can train Heavy Cavalry Archers without Thumb Ring, but have all other important upgrades to them.
+
+During the beta, Khmer Villagers could use Houses as dropsites for resources, mostly due to a bug.
+
+The Khmer are the only non-India civilization with access to more than one type of elephant unit.
+
+Behind the scenes[]
+
+Although the Khmer are one of the newest civilizations in Age of Empires II series, they have long been considered as the new potential addition by Ensemble Studio. During the development of The Conquerors, Khmer - along with Tibetans and Koreans - were considered as one of the new factions to represent the Far East region. Eventually, the developers picked Koreans because they were impressed with Turtle Ships and attracted by potential sales in South Korea.[2]
+
+Gallery[]
+
+The Wonder of the Khmer, the central shrine/Third Gallery of the 
+
+Angkor Wat temple, in the
+
+The Khmer Wonder in 
+
+The Southeast Asian 
+
+architecture set the Khmer share with the
+
+Burmese and
+
+Malay
+
+The set before the 
+
+Khmer 
+
+user interface image
+
+The Khmer user interface before the 
+
+A Khmer town, as seen in 
+
+Usurpation
+
+Official preview
+
+The Khmer battling the Vietnamese
+
+Khmer preview in the 
+
+Definitive Edition
+
+Video overview[]
+
+Khmer overview (AoE2) - updated for 2023
+
+References[]
+
+↑ https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/khmer
+
+↑ http://aok.heavengames.com/gameinfo/conquerors-expansion
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+Asian civilizations
+
+Rise of the Rajas
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

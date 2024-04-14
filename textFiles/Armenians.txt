@@ -1,0 +1,539 @@
+This page is all about the Armenians
+
+This section is about the Armenians
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique building
+1.3 Unique technologies
+1.4 Civilization bonuses
+1.5 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 Tamerlane
+4.2 Tamar
+4.3 Thoros II
+4.4 Ismail
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+The Mountain Royals,
+
+Eurasian civilizations
+
+
+			English
+
+Español
+
+Armenians
+
+11
+
+Edit
+
+Edit source
+
+View history
+
+Talk (2)
+
+Civilization Technology tree Strategy
+
+Armenians
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: Definitive Edition - The Mountain Royals
+
+Architecture
+
+Mediterranean
+
+Continent
+
+Asia (Caucasus)
+
+Europe (border)
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Armenians_theme_AoE2DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Mountainroyals_armenians_jingle.ogg
+
+Features/Characteristics
+
+Focus
+
+Infantry
+
+Naval
+
+Unique units
+
+Composite Bowman
+
+Warrior Priest
+
+Unique technologies
+
+Cilician Fleet
+
+Fereters
+
+Unique buildings
+
+Mule Cart
+
+Fortified Church
+
+“ Throw off the yoke of foreign domination and rebuild your ancestral kingdom in the mountainous terrain near Lakes Van, Sevan, and Urmia. The Armenian unique units are the Composite Bowman, a skilled archer capable of piercing even the sturdiest armor, and the Warrior Priest, an infantry unit that can fight and heal allied units. ” —Description [1]
+
+The Armenians are a Mediterranean civilization introduced in Age of Empires II: Definitive Edition - The Mountain Royals, based on Bagratid Armenia and Cilician Armenia.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique building
+1.3 Unique technologies
+1.4 Civilization bonuses
+1.5 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 Tamerlane
+4.2 Tamar
+4.3 Thoros II
+4.4 Ismail
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+Characteristics[]
+
+Unique units[]
+
+Composite Bowman: Foot archer that ignores armor.
+
+Warrior Priest: Religious infantry that can fight, carry Relics, and heal allied units.
+
+Unique building[]
+
+Mule Cart: Mobile dropsite for wood, gold, stone, and hunted food. Replaces the Lumber and Mining Camps.
+
+Fortified Church: Trains and upgrades Monks, and can garrison certain units. Fires arrows when garrisoned with Villagers or Relics. Replaces the Monastery.
+
+Unique technologies[]
+
+Cilician Fleet: Demolition Ships +20% blast radius; Galley-line and Dromons +1 range.
+
+Fereters: Infantry (except Spearman-line) +30 hit points, Warrior Priests +100% heal speed.
+
+Civilization bonuses[]
+
+Mule Carts cost -25%.
+
+Mule Cart technologies are 40% more effective.[note 1]
+
+First Fortified Church receives a free Relic.
+
+Long Swordsman and above, and Spearman line[note 2] available one Age earlier.
+
+Galley-line and Dromons* fire an additional projectile. The additional projectile for the Galley-line deals 1 damage.
+
+Team bonus[]
+
+Infantry have +2 Line of Sight.
+
+Overview[]
+
+The Armenians are classified as an infantry and naval civilization. In practice, they have all Barracks technologies and units, except the Eagle Scout line. They also have a unique Imperial Age technology which boosts the hit points of infantry except the Spearman line. Further, they have Warrior Priests, which functions both as an infantry unit and a Monk (healing allied units, picking up Relics, etc.), allowing the Armenians to secure Relics relatively easily. In addition, they have all Fortified Church (unique Monastery) technologies. With regards to navy, they lack Fast Fire Ships, but their Galley-line and Dromons fire an additional projectile. The effect for the former is negligible, dealing only +1 damage, but for the latter it increases the damage output by 20% (since all projectiles deal equal damage). With Cilician Fleet researched, they also have more blast radius for their Demolition Ships, and their Dromons and Galley-line have increased range. Combining both properties, the Armenian Dromons' behaviour against buildings is similar to a generic Dromon with Siege Engineers, which the Armenians lack, while being better against units. A noticeable point is that they access Barracks units one age earlier, with the exception of the Man-at-Arms and Condottieri from an Italian ally. Their unique unit from the Castle, the Composite Bowman, has 100% base accuracy that can ignore pierce armor except for ships and siege units. Their early-game economy is also solid, as their Mule Carts are not only cheaper, but technologies researched from them (i.e. woodcutting and mining upgrades) are 40% more effective. Their mid-game economy can further be boosted with building their first Fortified Church, which grants them a free Relic.
+
+infantry,
+
+foot archers,
+
+navy, and
+
+Monks, the other areas of specialty are lackluster. The
+
+Archery Range lacks
+
+Hand Cannoneers and their
+
+Cavalry Archers are borderline unusable, lacking
+
+Heavy Cavalry Archer,
+
+Parthian Tactics, and
+
+Thumb Ring. Lacking Hand Cannoneer is not a big deal, since they can use either
+
+Composite Bowmen,
+
+Arbalesters, or their superior infantry to counter infantry. The lack of Thumb Ring hurts their Arbalesters and Composite Bowmen, but it should be considered only a hindrance. While they have
+
+Bloodlines in the Castle Age, their Imperial Age cavalry is lackluster, missing
+
+Hussar,
+
+Paladin, and
+
+Plate Barding Armor. Their siege is flatout terrible, missing
+
+Siege Ram,
+
+Bombard Cannon,
+
+Siege Onager, and
+
+Siege Engineers. Their defenses are a bit spotty, as they lack
+
+Keeps,
+
+Arrowslits, and
+
+Architecture, but they do get at least get
+
+Bombard Tower and
+
+Hoardings.
+
+To conclude, the Armenians can have versatile tactics due to their good economy in the early to mid-game, as they can go for an infantry rush (supported by their advanced Barracks units) or an archer rush (using Composite Bowmen), even transitioning from one to the other. They can also play a Monk rush, since they have all technologies at the Fortified Church, and can even perform a Knight rush, which is considerable in the Castle Age. Due to having good Dock technologies and bonuses, they are a strong civilization in water and hybrid maps while being a solid civilization in open maps thanks to their early game economy and infantry rush. However, having lackluster siege weapons and late game cavalry can be a problem for them in closed maps, especially in Black Forest; and their army composition of Composite Bowmen and infantry makes them relatively vulnerable to enemy compositions that utilize Siege Onagers and Siege Rams.
+
+Changelog[]
+
+The Mountain Royals[]
+
+Upon release, Galley-line fires an additional projectile, which deals 1 damage. With update 99311, Galley-line and Dromons fire an additional projectile. Galley-line secondary projectile changed to always be an arrow for better readability of the bonus.
+
+Upon release, Mule Cart technologies are 25% more effective. With update 99311, they are 40% more effective.
+
+Upon release, Cilician Fleet improved the blast radius of Demolition Ships by 33%. With update 99311, it's 20%.
+
+Campaign appearances[]
+
+The Armenians have a campaign devoted to their civilization: Thoros II. They also appear in:
+
+Tamerlane[]
+
+Scourge of the Levant
+Cilician Armenia - Enemy
+
+Tamar[]
+
+Takeover
+Armenians - Ally
+Brigands - Enemy
+
+Yury's Revenge
+Ivane - Ally
+Zakare - Ally
+
+Tamar the Builder
+Zakarian Brothers - Ally
+Armenian Civilians - Ally
+
+The Queen in the Panther's Skin
+Armenians - Ally
+
+Thoros II[]
+
+This campaign is played as the Armenians.
+
+Outlawed
+Stephan - Ally
+Mleh - Ally
+Armenian Peasants - Ally
+
+The Emperor's Revenge
+Hethumids - Enemy
+Stephan - Ally
+Mleh - Ally
+Armenian Army - Ally
+Armenian Villages - Ally
+
+Of Turncoats and Traitors
+Tarsos - Ally
+Stephan - Ally
+Mleh - Ally
+
+Ismail[]
+
+The Red Hats, Road to Royalty, and Khata'i
+Armenians - Enemy
+
+In-game dialogue language[]
+
+In the game, Armenian units speak Middle Armenian (Armenian: Միջին հայերէն, Mijin hayeren), also known as Cilician Armenian (Armenian: կիլիկեան հայերէն, kilikean hayeren), historically spoken in the Armenian highlands as well as in Cilician Armenia.
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Male_Select_1_AoE2.ogg Select 1 Ayo, Ter im T'agavor (Այո, Տեր իմ Թագավոր) - Yes, my lord king
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Male_Select_2_AoE2.ogg Select 2 Barev Dzez, Ter im T'agavor (Բարեւ Ձեզ, Տեր իմ Թագավոր) - Hello, my lord king
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Male_Select_3_AoE2.ogg Select 3 Hramanq Dzer, Ter im T'agavor (Հրամանք Ձեր, Տեր իմ Թագավոր) - Your commands, my lord king
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Male_Select_4_AoE2.ogg Select 4 Yes patrast em (Ես պատրաստ եմ) - I am ready
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Male_Task_3_AoE2.ogg Task 1 Ayo, Ter im (Այո, Տեր իմ) - Yes, my lord
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Male_Task_1_AoE2.ogg Task 2 Yes gnam, Ter im (Ես գնամ, Տեր իմ) - I go, my lord
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Male_Task_4_AoE2.ogg Task 3 Yes haskanam, Ter im (Ես հասկանամ, Տեր իմ) - I understand, my lord
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Male_Task_2_AoE2.ogg Task 4 Anpayman, Ter im T'agavor (Անպայման, Տեր իմ Թագավոր) - Absolutely, my lord
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Male_Build_AoE2.ogg Build Yes u zays karutsanem (Ես ու զայս կառուցանեմ) - I construct this
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Male_Chop_AoE2.ogg Chop Yes p'ayt ktrem (Ես փայտ կտրեմ) - I cut wood
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Male_Farm_AoE2.ogg Farm Yes berk' hawak'em (Ես բերք հաւաքեմ) - I gather crops
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Male_Fish_AoE2.ogg Fish Yes dzukn brrnem (Ես ձուկն բռնեմ) - I catch fish
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Male_Forage_AoE2.ogg Forage Yes zhoghovem (Ես ժողովեմ) - I gather
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Male_Hunt_AoE2.ogg Hunt Yes mis vorsam (Ես միս որսամ) - I hunt meat
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Male_Mine_AoE2.ogg Mine Yes hank' p'vorem (Ես հանք փորեմ) - I dig a mine
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Armenians_Villager_Male_Repair_AoE2.ogg Repair Yes u zays veranorogem (Ես ու զայս վերանորոգեմ) - I repair this
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Soldier_Select_1_AoE2.ogg Select 1 Ayo, Ter im Sparapet (Այո, տեր իմ սպարապետ) - Yes my lord commander
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Soldier_Select_2_AoE2.ogg Select 2 Hramanq Dzer, Ter im Sparapet (Հրամանք Ձեր, Տեր իմ սպարապետ) - Your commands, my lord commander
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Soldier_Select_3_AoE2.ogg Select 3 Es tsara dzer em, Ter im Sparapet (Ես ծառա Ձեր եմ, տեր իմ սպարապետ) - I am your servant, my lord commander
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Soldier_Move_1_AoE2.ogg Task 1 Ayo, Ter im ark'a (Այո, Տեր իմ արքա) - Yes, my lord King
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Soldier_Move_2_AoE2.ogg Task 2 Yes haskanam, Ter im (Ես հասկանամ, Տեր իմ) - I understand, my lord
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Soldier_Move_3_AoE2.ogg Task 3 Yes gnam, Ter im (Ես գնամ, Տեր իմ) - I go, my lord
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Soldier_Attack_1_AoE2.ogg Attack 1 Zoravorq', harvatsek'! (Զորավորք, հարվածե՛ք!) - Mighty (soldiers), strike!
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Soldier_Attack_2_AoE2.ogg Attack 2 I zen, zoravorq'! (Ի զեն, զորավորք!) - To arms, mighty (soldiers)!
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Soldier_Attack_3_AoE2.ogg Attack 3 Zoravorq', araj! (Զորավորք, հառաջ!) - Mighty (soldiers), forward!
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Monk_Select_1_AoE2.ogg Select 1 Ayo, Ter im ark'a (Այո, Տեր իմ արքա) - Yes, my lord King
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Monk_Select_2_AoE2.ogg Select 2 I tsarayutyan dzerunq (Ի ծառայության ձերունք) - At your service
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Monk_Select_3_AoE2.ogg Select 3 Hramanq dzer, Ter im Arqa (Հրամանք Ձեր, տեր իմ արքա) - Your commands, my lord King
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Monk_Select_4_AoE2.ogg Select 4 Astutso anunov (Աստծո անունով) - In the name of God
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Monk_Move_1_AoE2.ogg Move 1 Ayo, Ter im (Այո, Տեր իմ) - Yes, my lord
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Monk_Move_2_AoE2.ogg Move 2 Yes gnam, Ter im (Ես գնամ, Տեր իմ) - I go, my lord
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Monk_Move_3_AoE2.ogg Move 3 Anpayman, Ter im (ամպայման, Տեր իմ) - Absolutely, my lord
+
+https://ageofempires.fandom.com/wiki/File:Armenians_Monk_Move_4_AoE2.ogg Move 4 Yes haskanam, Ter im (Ես հասկանամ, Տեր իմ) - I understand, my lord
+
+https://ageofempires.fandom.com/wiki/File:Armenians_King_Select_1_AoE2.ogg Select 1 Aha (Ահա) - Here
+
+https://ageofempires.fandom.com/wiki/File:Armenians_King_Select_2_AoE2.ogg Select 2 Ah zinj uzes (Ահ զինջ ուզես) - Ah, what you want?
+
+https://ageofempires.fandom.com/wiki/File:Armenians_King_Select_3_AoE2.ogg Select 3 Ynder es zis khangares (Ընդեր ես զիս խանգարես) - Why are you bothering me?
+
+https://ageofempires.fandom.com/wiki/File:Armenians_King_Select_4_AoE2.ogg Select 4 Yes asteghyazs em (Ես աստեղյացս եմ) - I am nearby
+
+https://ageofempires.fandom.com/wiki/File:Armenians_King_Move_1_AoE2.ogg Task 1 Shnorhiv mero (Շնորհիվ մերո) - Thanks to us
+
+https://ageofempires.fandom.com/wiki/File:Armenians_King_Move_2_AoE2.ogg Task 2 Yes anetsem zays, vor hartses (Ես անեցեմ զայս, որ հարցես) - I will do as you ask
+
+https://ageofempires.fandom.com/wiki/File:Armenians_King_Move_3_AoE2.ogg Task 3 I khndrats dzerats (Ի խնդրաց ձերաց) - To your request
+
+https://ageofempires.fandom.com/wiki/File:Armenians_King_Move_4_AoE2.ogg Task 4 Yes zays arnetsem (Ես զայս առնեցեմ) - I buy this
+
+AI player names[]
+
+Vardan Mamikonian (Վարդան Մամիկոնեան, 387-451): A nobleman and military leader who led a rebellion against the Persian Sassanian dynasty who were suppressing Armenian Christianity to impose Zoroastrianism, which culminated in the Battle of Avarayr. Due to his actions and sacrifice, he has been immortalized as a national and cultural hero of the Armenians and canonised as a saint in the Armenian Apostolic Church.
+
+Vahan (Վահան, d. 636): A Byzantine military commander of Armenian origin, he was one of the main commanders of the Byzantine army to fight against the Rashidun Caliphate at the Battle of Yarmuk, where he most likely died during a rout, as the Caliphate decisively won and captured Syria. Arab sources emphasise his "noble and righteous conduct" compared to other Roman commanders, while Byzantine sources accuse him of treachery.
+
+Ashot I: was the king of Armenia at the beginning of whose reign the Armenian second golden age began.
+
+Smbat: Smbat I was the son of Ashot I.
+
+Abas I: He was the son of Smbat I.
+
+Gagik: King of Armenia from 989 to 1020, Bagratid Armenia reached its height under his reign.
+
+Ashot Kaj: Ashot IV, nicknamed "Kaj" meaning "brave", was the younger son of Gagik I.
+
+Roupen: Ruben I (Ռուբեն Ա), also called Roupen I or Rupen I, became the first lord of Armenian Cilicia when he declared its independence from the Byzantine Empire and militarily consolidated his new realm.
+
+Thoros the Great: Thoros II of the Rubenid dynasty was the lord of Cilician Armenia from 1144-1169. He is known for his wars and victories over the Turks and Byzantines, and his associations with the Crusader armies.
+
+Mleh: The younger brother of Thoros II, he converted to Islam which caused a divide and subsequent conflict with his brother.
+
+Levon the Magnificent (r. 1187 to 1219): Leo I, also named Leo II, Levon I, and Levon the Magnificent (Լեւոն Ա Մեծագործ) was the tenth lord of Cilician Armenia and its first crowned king. He turned Cilician Armenia from a small offshoot of Byzantine authority to a larger unified Christian state with strong diplomatic and religious ties to the west, especially through its support of the Crusader armies and knightly orders. Under his reign Cilician Armenia picked up Frankish customs in law, administration, and military, including the use of western-styled heavy cavalry.
+
+Zabel: Isabella, also called Isabel or Zabel (Զապել), was the queen regent of Armenian Cilicia from 1219 to 1252.
+
+Hethum II: He was king of Cilician Armenia in intermittent periods between 1289 to 1303, while Armenia was a subject state of the Mongol Empire. He and his named successor were murdered by a Mongol general Bilarghu due to false charges accused against Hethum by members of the Armenian Church who were opposing its fusion with the Roman Catholic Church, which Hethum was encouraging.
+
+Oshin: Brother of Hethum II, Oshin succeeded as Cilician Armenia's king and then avenged Hethum's death by defeating Bilarghu in battle, who then escaped. Oshin had the support of the Ilkhan, who captured and executed Bilarghu.
+
+History[]
+
+“ By the beginning of the medieval period, Armenia, a state whose history stretched back nearly a millennium prior, was caught in the midst of a conflict between two giants. Hostilities had flared up between the Eastern Roman Empire and the Sasanian Persian Empire, both of which often sought to set Armenia up as a buffer state to deter invasions along their northern frontier. As Roman power waned, the Persians gained the upper hand, but their oppressive overlordship – especially the persecution of Armenian Christians in an attempt to spread Zoroastrianism – sparked constant tensions. These culminated in the Battle of Avarayr (451), where the magnate Vardan Mamikonian – who lives on in Armenian national lore – died defending his homeland. The Near East was changed forever in the 7th century when the forces of the rising Arab Caliphate poured into the Levant. Withered by mounting internal crises and constant conflict, Persia and Byzantium – the medieval iteration of Eastern Rome – were unable to fend off the Arab invasions, causing the former to collapse entirely and the latter to lose most of its territory in the Levant and Africa. Armenia, formerly coveted by both powers, was then conquered by the armies of the new Umayyad Caliphate. History repeated itself, however, as an outsider's oppressive rule once more led to violent rebellions. After the Abbasid Caliphate replaced the Umayyad Caliphate, Armenia gradually drifted further and further towards autonomy. By the late 9th century, the balance of power had shifted once more. A rejuvenated Byzantium had diminished Abbasid power along the frontier, offering Armenia the opportunity to extricate itself from foreign domination. Ashot I (9th century) of the Bagratid family shrewdly allied himself with the Byzantines and became Armenia's first king in four centuries. The fledgling Armenian kingdom remained in a precarious position and was invaded by the Caliphate's vassals several times, but during the 10th century gradually stabilized, capitalizing on the resurgence of lucrative trade routes and the political fortunes of its powerful neighbors. Trouble arrived once more during the 11th century, however, as the Byzantines sought to fully incorporate Armenia into their domain. Simultaneously, massive invasions of Seljuk Turks rocked the Middle East, thoroughly redefining the balance of power and ravaging much of the region. As Seljuk incursions tore Armenia apart, Byzantium – albeit loosely – incorporated the leftover pieces. These shifts led to a mass migration of Armenians to Cilicia in southeast Anatolia, where they established a new state on the periphery of the Byzantine Empire. Crucially, these nomadic invasions also led the Armenians to incorporate cohorts of composite bowmen into their armies as a recourse against large mounted forces. Cilician Armenia initially sat in a precarious position, but that swiftly changed when the Crusades led thousands of European soldiers to attack the Seljuks and neighboring Islamic states in Palestine and the Levant. The Armeno-Cilicians allied with the crusaders and fought with them on several occasions against their mutual foes. Byzantium made further designs on the region during the 12th century, but under the leadership of Thoros II the Great, the Armeno-Cilicians prevailed. As the Mongol invasions of the 13th century rang the death-knell for many of the region's states, Cilician Armenia wisely allied with the Mongols, but then struggled against the rising Mamluk Sultanate of Egypt and Syria. The last straw for the battered kingdom was Tamerlane 's invasion of 1400, which reduced it to a minor polity wedged between the rising superpowers to come. ” —In-game section
+
+Trivia[]
+
+The Armenian icon is based on the Coat of Arms of House Bagratuni, of the dynasty of the same name, which ruled over Armenia from c. 885-1045.
+
+The Armenian Wonder is the Etchmiadzin Cathedral in Vagharshapat, Armenia. Its model is based on a later rebuilding of the structure, which was completed after the medieval period.
+
+The Armenian Castle is the Yılankale Hill Fort (current name in Turkish, in Armenian: Levonkla).
+
+The user interface image is the Armenian eternity sign, an old national and cultural symbol of Armenia.
+
+The Armenians are the first civilization to have a foot archer as its unique unit since the Vietnamese were introduced in Rise of the Rajas.
+
+The Armenians are one of four civilizations that have access to a generic unit earlier than other civilizations (the others being Cumans, Bohemians and Burgundians). In the case of the Armenians, they have access to upgrades of the Militia and Spearman lines one age earlier (starting in the Feudal Age).
+
+The following heroes available in the Scenario Editor are themed on Armenians: Ivane, Mleh, Stephan, Thoros, and Zakare.
+
+Despite medieval Armenian architecture being unique within the Caucasus region, and being similar to the Eastern/Central European architecture set, the Armenians use the Mediterranean architecture set.
+
+In Return of Rome for Age of Empires, since the Armenians are not featured as a civilization, the Persian civilization was used as a placeholder for them in the fourth scenario of the Trajan campaign. The Persian civilization reflects their influence on Armenia during antiquity, as opposed to the Byzantine influence on Armenia during the medieval period.
+
+Historically, the Armenians were well-known for their use of mounted archery and heavy cavalry from antiquity; Armenian kingdoms even supplied the Sassanid Empire with cavalry as elite troops. The Armenians continued to utilize ranged and shock cavalry in the medieval period where they played a crucial role in defending their homeland against the Seljuk Turks and Abbasid Dynasty; and Cilician Armenia adopted heavy cavalry tactics and equipment from the Frankish Crusaders. Despite this, the Armenian cavalry archers and cavalry are lackluster, missing key important technologies across the board.
+
+Despite the Bactrian Camel being native in the northern Caucasus, and Armenians historically utilizing them for both military and domestic purposes,[2] the Armenians do not have access to the Camel Rider.
+
+While Armenia is landlocked, historically, Cilician Armenia had a fleet which were hired for the Crusaders in the Mediterranean. This can explain why their navy is above average. Due to the connection with the Byzantine Empire, they also have access to Dromons.
+
+Gallery[]
+
+The Armenian Wonder, Etchmiadzin Cathedral
+
+The unique Armenian Castle, based on the hill fort Yılankale
+
+The Mediterranean architecture set the Armenians share with the 
+
+Byzantines,
+
+Georgians,
+
+Italians,
+
+Portuguese,
+
+Romans,
+
+Sicilians, and
+
+Spanish
+
+Armenian Galley line (left) firing projectiles with an extra arrow projectile
+
+An Armenian town showing off the Armenian Wonder. Additionally, Warrior Priests are stationed by the Fortified Church, and cloaked archers (
+
+Composite Bowmen) scattered around the city, and a decorative Chapel is present in the bottom left corner.
+
+An Armenian army besieging a 
+
+Central Asian city, showcasing Composite Bowmen.
+
+The Armenian user interface image
+
+A section of an engraving showing the Etchmiadzin Cathedral, by French traveler Jean Chardin, 1670s
+
+Armenians overview (AoE2)
+
+Notes[]
+
+↑ This means that:
+ Double-Bit Axe and  Bow Saw provide +28% boost instead of +20%.
+All mining upgrades provide +21% boost instead of +15%.
+
+↑ Hence, the Militia, Man-at-Arms, and Condottiero are excluded
+
+References[]
+
+↑ https://www.xbox.com/en-US/games/store/age-of-empires-ii-definitive-edition-the-mountain-royals/9NJJ29G85VXW/0010
+
+↑ Rocca, S. (2005). The Book of Judith, Queen Salome Alexandra, and Tigranes of Armenia. Materia giudaica, X/1, 93 http://aisg.cise.unipi.it/Materia-giudaica-2005/X-1%20del%202005/X1-001pp216.pdf
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+The Mountain Royals
+
+Eurasian civilizations
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

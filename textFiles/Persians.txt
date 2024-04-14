@@ -1,0 +1,690 @@
+This page is all about the Persians
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique building
+1.3 Unique technologies
+1.4 Civilization bonuses
+1.5 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Rise of the Rajas
+3.5 Definitive Edition
+3.6 Lords of the West
+3.7 Dynasties of India
+3.8 Return of Rome
+3.9 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 Saladin
+4.2 Genghis Khan
+4.3 Barbarossa
+4.4 Attila the Hun
+4.5 El Cid
+4.6 Alaric
+4.7 Prithviraj
+4.8 Battles of the Forgotten
+4.9 Francisco de Almeida
+4.10 Tamerlane
+4.11 Babur
+4.12 Tamar
+4.13 Ismail
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+Asian civilizations,
+
+The Age of Kings
+
+
+			English
+
+Español
+
+Persians (Age of Empires II)
+
+52
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+This article is about the civilization in Age of Empires II: The Age of Kings . For the civilization in Age of Empires , see Persians (Age of Empires) .
+
+Civilization Technology tree Strategy
+
+DE
+
+HD
+
+Persians
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: The Age of Kings
+
+Architecture
+
+Middle Eastern
+
+Continent
+
+Asia
+
+In-game theme
+
+http://ageofempires.fandom.com/wiki/File:Persians_theme_AoE2_DE.ogg
+
+Jingle
+
+http://ageofempires.fandom.com/wiki/File:Persians_jingle_AoE2_DE.ogg
+
+Old jingle
+
+http://ageofempires.fandom.com/wiki/File:Persians_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Cavalry
+
+Unique units
+
+War Elephant
+
+Unique upgrades
+
+Savar
+
+Unique technologies
+
+Kamandaran
+
+Citadels
+
+Unique buildings
+
+Caravanserai
+
+Persians
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: The Age of Kings
+
+Architecture
+
+Middle Eastern
+
+Continent
+
+Asia
+
+Old jingle
+
+http://ageofempires.fandom.com/wiki/File:Persians_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Cavalry
+
+Unique units
+
+War Elephant
+
+Unique technologies
+
+Boiling Oil
+
+Mahouts
+
+“ Emerging from inner Persia, the House of Sasan toppled feeble Parthia, establishing a dynasty capable of challenging their Roman neighbors to the west. Even after the Muslim conquest, the Sasanian legacy lived on in the structure of the medieval Persian states. Stun your enemies with a stampede of mahouted War Elephants and hails of arrows thick enough to blot out the sun while your Savaran ride them down, or field an army of gunpowder units worthy of the great Safavid Empire. Nothing is beyond your grasp! ” —Description [1]
+
+The Persians are a Middle Eastern civilization in Age of Empires II based on various Persian states such as the Safavid dynasty, Sasanian Empire, various Sogdian city-states, and the Samanid Empire. They focus on cavalry.
+
+The Persians received a rework with the release of The Mountain Royals, making them the second civilization to receive one (the first being the Indians). Unlike the Indian rework, the Persian one was not a civilization split, but rather a rework to some of their core gameplay mechanics.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique building
+1.3 Unique technologies
+1.4 Civilization bonuses
+1.5 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Rise of the Rajas
+3.5 Definitive Edition
+3.6 Lords of the West
+3.7 Dynasties of India
+3.8 Return of Rome
+3.9 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 Saladin
+4.2 Genghis Khan
+4.3 Barbarossa
+4.4 Attila the Hun
+4.5 El Cid
+4.6 Alaric
+4.7 Prithviraj
+4.8 Battles of the Forgotten
+4.9 Francisco de Almeida
+4.10 Tamerlane
+4.11 Babur
+4.12 Tamar
+4.13 Ismail
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+Characteristics[]
+
+Unique units[]
+
+War Elephant: Slow but extremely powerful cavalry unit.
+
+Savar: Unique upgrade of the Cavalier, replacing the Paladin.
+
+Unique building[]
+
+Caravanserai: Building which heals and speeds up nearby allied Trade Carts.
+
+Unique technologies[]
+
+Kamandaran: Archer-line cost changed from 25 wood, 45 gold to 60 wood.
+
+Citadels: Castles +4 attack, +3 against rams, +3 against infantry, and receive -25% bonus damage.
+
+Civilization bonuses[]
+
+Start the game with +50 food, +50 wood.
+
+Town Centers and Docks have double hit points and work 5%/10%/15%/20% faster in the Dark/Feudal/Castle/Imperial Age.
+
+Parthian Tactics available in the Castle Age.
+
+Team bonus[]
+
+Knight line has +2 attack against archers.
+
+Overview[]
+
+The Persians are a cavalry civilization. They have access to fully upgraded Hussars and Heavy Camel Riders and, despite not having access to Paladins, they can upgrade their Cavaliers to Savars, which, in comparison with Paladins, have more armor and are cheaper to upgrade. Their Knight line is great with +2 anti-archer damage, which is very helpful given the prevalence of the Crossbowman line during the Castle Age. Their unique unit, the War Elephant, is a situational but incredibly strong unit with great attack and durability.
+
+Their Halberdiers are fully upgradeable. Thanks to Kamandaran, their Archer line costs no gold: this makes Persian Crossbowmen cheap disposable units that pair well with cavalry, as the Crossbowmen can counter Camel Riders and Halberdiers. In addition to trash Crossbowmen, they also have perfectly serviceable Hand Cannoneers. They also have access to Siege Rams and Bombard Cannon at the Siege Workshop, but they lack Siege Engineers, which overall averages out.
+
+Their economy is simply excellent; they get all economic upgrades, as well as a head start with +50 food, +50 wood given at the start of the game. All of this is further bolstered by their faster working Town Centers and Docks, which also gets them Villager and Fishing Ship leads over their opponents, furthermore, translating into economic, and military production advantages. The bonus on their Docks also gives them a solid early-game navy. In the Imperial Age, they can build the Caravanserai, an economic building which heals and speeds up nearby allied Trade Carts.
+
+However, the Persians have some weaknesses. Their heavy infantry, viz. the Militia line, is abysmal in the late game on account of lacking the Two-Handed Swordsman upgrade. Their Archer line is poor in combat without Bracer or Arbalester. The lack of Bracer also hurts their Skirmishers, Cavalry Archers, Castles, and Galleons. The latter is also hurt by a lack of Shipwright, giving them a poor late-game navy.
+
+Persian defenses are a rather mixed bag. While they do get access to Architecture, Heated Shot, Hoardings and the unique technology Citadels, which makes their Castles very strong, they lack Keeps, Arrowslits, Bombard Towers, and even Fortified Walls.
+
+The Persian Monks are among the weakest of all civilizations, without Redemption, Sanctity, or Illumination. The lack of Heresy is unfortunate, as the Persians rely on expensive heavy cavalry units that are prime targets for conversion: the Savar and the War Elephant. Because of this, it is important to mix in Hussars along with the heavy cavalry.
+
+Overall, the Persians have a wide selection of strong cavalry units and supported by economic advantages.
+
+Changelog[]
+
+The Conquerors[]
+
+Mahouts introduced.
+
+The Forgotten[]
+
+Boiling Oil introduced.
+
+The African Kingdoms[]
+
+Arrowslits added. With patch 4.8, Arrowslits was removed from the technology tree.
+
+Rise of the Rajas[]
+
+Non-Elite War Elephant now also deal trample damage (previously only the Elite variant did).
+
+Definitive Edition[]
+
+Boiling Oil is replaced with Kamandaran, which replaces gold cost of foot archers with additional wood cost.
+
+Town Centers and Docks work 5% faster in the Dark Age.
+
+With update 35584, Kamandaran cost is raised from 200 food, 200 gold to 400 food, 300 gold).
+
+With update 36906, Town Centers and Docks no longer work +5% faster in the Dark Age (like before the Definitive Edition).
+
+Lords of the West[]
+
+With update 50292:
+War Elephant cost changed from 200 food, 75 gold to 170 food, 85 gold.
+War Elephant train time decreased from 31 to 25 seconds.
+
+Dynasties of India[]
+
+With update 81058, the initial resource bonus is received after completing the first Town Center (previously they possessed it from the start).
+
+Return of Rome[]
+
+With update 87863, (Elite) War Elephant Line of Sight increased from 4/5 to 7/8.
+
+The Mountain Royals[]
+
+With update 95810, Town Centers and Docks work 5% faster in the Dark Age again.
+
+New civilization bonuses:
+Parthian Tactics available in the Castle Age.
+Mounted units get 5 gold for each military unit killed.
+Can build Caravanserai in the Imperial Age.
+
+Mahouts removed - replaced by Citadels.
+
+Savar introduced. Consequently, the Paladin is removed.
+
+(Elite) War Elephant speed increased by 33% (0.6 → 0.8) (slightly more than Mahouts' effect).
+
+(Elite) War Elephant attack vs buildings increased (7/10 → 30).
+
+Elite War Elephant upgrade cost reduced from 1,600 food, 1,200 gold → 1,350 food, 800 gold.
+
+With update 99311:
+Civilization bonus of cavalry generate 5 gold per kill removed.
+Savar bonus damage vs. Archers reduced from 3 to 2.
+Savar upgrade research time increased from 150 seconds to 160 seconds.
+
+Campaign appearances[]
+
+The Persians are a playable civilization in the Ismail campaign, as well as in the Bukhara scenario from Battles of the Forgotten. They are also playable as the second player in the co-op version of the second scenario of the Tamerlane campaign and the sixth scenario of the Saladin campaign.
+
+They also appear in:
+
+Saladin[]
+
+Jihad!
+Tiberias - Enemy → Ally
+
+The Lion and the Demon
+Persian Outpost* - Ally
+
+Genghis Khan[]
+
+The Horde Rides West
+Khwarazm - Ally → Enemy
+
+Barbarossa[]
+
+The Emperor Sleeping
+Damascus - Ally → Enemy
+
+Attila the Hun[]
+
+The Scourge of God
+Persians - Enemy
+
+El Cid[]
+
+King of Valencia
+Denia - Ally
+
+Alaric[]
+
+All scenarios in the HD Edition:
+Yakub - Enemy
+
+Prithviraj[]
+
+In the HD Edition:
+
+The Digvijaya
+Solankis - Neutral
+
+Battles of Tarain
+Muhammad Ghori - Enemy
+
+In the Definitive Edition:
+
+Born of Fire
+Ghaznavids - Enemy
+
+The Fate of India
+Ghorids - Enemy
+
+Battles of the Forgotten[]
+
+The Bukhara scenario is played as the Persians.
+
+Bukhara
+Persians - Ally
+
+Honfoglalás (before the Definitive Edition)
+Khazars - Ally or Enemy
+
+Francisco de Almeida[]
+
+A Son's Blood
+Diu - Ally → Enemy
+Enemy Leaders - Ally → Enemy
+Gujarati Traders - Ally
+
+Tamerlane[]
+
+Gurkhan of Persia
+Sabzevar* - Ally
+Zaranj - Enemy
+Isfahan - Enemy → Ally → Enemy
+
+Scourge of the Levant (before The Mountain Royals)
+Georgia - Enemy
+
+Babur[]
+
+Pearl of the East
+Samarkand - Neutral
+
+Tamar[]
+
+The Protectorate
+Shirvan - Ally
+
+Tamar the Builder
+Shaddadids - Enemy
+
+The Queen in the Panther's Skin
+Khwarazm Shah - Enemy
+Persian Cities - Ally
+
+Ismail[]
+
+This campaign is played as the Persians.
+
+The Red Hats
+Shirvan - Enemy
+Farrukh Yasar - Enemy
+
+Road to Royalty
+Tabriz - Enemy
+Nobles - Enemy
+
+The Fallen Amir
+Merv - Ally
+
+Khata'i
+Shirvan - Enemy
+
+In-game dialogue language[]
+
+In the game, Persian units speak modern Persian (Persian : فارسی, Farsi). It is a pluricentric language predominantly spoken in Iran, Afghanistan and Tajikistan. The Persian speech in the game uses modern Iranian accent in a robotic, dreary tone that is devoid of proper emotional intonation. Words and phrases are often poorly chosen, without regards to context.
+
+Villager
+
+http://ageofempires.fandom.com/wiki/File:Persians_Villager_Female_Select_1_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Persians_Villager_Male_Select_1_AoE2.ogg Select 1 Āri? (آری؟) - Affirmative? (Intended to be "Yes?")
+
+http://ageofempires.fandom.com/wiki/File:Persians_Villager_Female_Select_2_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Persians_Villager_Male_Select_2_AoE2.ogg Select 2 Salām (سلام) - Hello
+
+http://ageofempires.fandom.com/wiki/File:Persians_Villager_Female_Select_3_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Persians_Villager_Male_Select_3_AoE2.ogg Select 3 Āmāde (آماده) - Ready
+
+http://ageofempires.fandom.com/wiki/File:Persians_Villager_Female_Task_2_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Persians_Villager_Male_Task_2_AoE2.ogg Task 2 Āri (آری) - Affirmative
+
+http://ageofempires.fandom.com/wiki/File:Persians_Villager_Female_Task_3_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Persians_Villager_Male_Task_3_AoE2.ogg Task 3 Sahih (صحیح) - Correct (actually Arabic)
+
+http://ageofempires.fandom.com/wiki/File:Persians_Villager_Female_Task_4_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Persians_Villager_Male_Task_4_AoE2.ogg Task 4 Mikonam (می کنم) - I'll do
+
+http://ageofempires.fandom.com/wiki/File:Persians_Villager_Female_Build_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Persians_Villager_Male_Build_AoE2.ogg Build Me'mār (معمار) - Architect
+
+http://ageofempires.fandom.com/wiki/File:Persians_Villager_Female_Chop_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Persians_Villager_Male_Chop_AoE2.ogg Chop Chubbor (چوب بر) - Wood cutter
+
+http://ageofempires.fandom.com/wiki/File:Persians_Villager_Female_Farm_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Persians_Villager_Male_Farm_AoE2.ogg Farm Mikonam (می کنم) - I'll do
+
+http://ageofempires.fandom.com/wiki/File:Persians_Villager_Female_Fish_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Persians_Villager_Male_Fish_AoE2.ogg Fish Māhigir (ماهی گیر) - Fisher
+
+http://ageofempires.fandom.com/wiki/File:Persians_Villager_Female_Forage_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Persians_Villager_Male_Forage_AoE2.ogg Forage Olufe jam'kon (علوفه جمع کن) - Hay gatherer
+
+http://ageofempires.fandom.com/wiki/File:Persians_Villager_Female_Hunt_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Persians_Villager_Male_Hunt_AoE2.ogg Hunt Shekārchi (شکارچی) - Hunter
+
+http://ageofempires.fandom.com/wiki/File:Persians_Villager_Female_Mine_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Persians_Villager_Male_Mine_AoE2.ogg Mine Ma'danchi (معدن چی) - Miner
+
+http://ageofempires.fandom.com/wiki/File:Persians_Villager_Female_Repair_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Persians_Villager_Male_Repair_AoE2.ogg Repair Ta'mir kār (تعمیرکار) - Repairer
+
+http://ageofempires.fandom.com/wiki/File:Persians_Villager_Female_Attack_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Persians_Villager_Male_Attack_AoE2.ogg Attack Hamle! (!حمله) - Attack! (not used)
+
+http://ageofempires.fandom.com/wiki/File:Persians_Soldier_Select_1_AoE2.ogg Select 1 Āri? (آری؟) - Affirmative? (Intended to be "Yes?")
+
+http://ageofempires.fandom.com/wiki/File:Persians_Soldier_Select_2_AoE2.ogg Select 2 Āmāde (آماده) - Ready
+
+http://ageofempires.fandom.com/wiki/File:Persians_Soldier_Select_3_AoE2.ogg Select 3 Farmān? (فرمان؟) - Order?
+
+http://ageofempires.fandom.com/wiki/File:Persians_Soldier_Move_1_AoE2.ogg Move 1 Āri (آری) - Affirmative
+
+http://ageofempires.fandom.com/wiki/File:Persians_Soldier_Move_2_AoE2.ogg Move 2 Mikonam (می کنم) - I'll do
+
+http://ageofempires.fandom.com/wiki/File:Persians_Soldier_Attack_1_AoE2.ogg Attack 1 Hamle! (!حمله) - Attack!
+
+http://ageofempires.fandom.com/wiki/File:Persians_Soldier_Attack_2_AoE2.ogg Attack 2 Bejangid! (بجنگید!) - Fight!
+
+http://ageofempires.fandom.com/wiki/File:Persians_Soldier_Attack_3_AoE2.ogg Attack 3 Āri! (!آری) - Affirmative!
+
+http://ageofempires.fandom.com/wiki/File:Persians_Soldier_Attack_4_AoE2.ogg Attack 4 Hamle! (!حمله) - Attack!
+
+Monk
+
+http://ageofempires.fandom.com/wiki/File:Persians_Monk_Select_1_AoE2.ogg Select 1 Āri? (آری؟) - Affirmative? (Intended to be "Yes?")
+
+http://ageofempires.fandom.com/wiki/File:Persians_Monk_Select_2_AoE2.ogg Select 2 Salām (سلام) - Hello
+
+http://ageofempires.fandom.com/wiki/File:Persians_Monk_Select_3_AoE2.ogg Select 3 Āmāde (آماده) - Ready
+
+http://ageofempires.fandom.com/wiki/File:Persians_Monk_Select_4_AoE2.ogg Select 4 Farmān? (فرمان؟) - Order?
+
+http://ageofempires.fandom.com/wiki/File:Persians_Monk_Move_2_AoE2.ogg Move 2 Āri (آری) - Affirmative
+
+http://ageofempires.fandom.com/wiki/File:Persians_Monk_Move_3_AoE2.ogg Move 3 Sahih (صحیح) - Correct (actually Arabic)
+
+http://ageofempires.fandom.com/wiki/File:Persians_Monk_Move_4_AoE2.ogg Move 4 Mikonam (می کنم) - I'll do
+
+King
+
+http://ageofempires.fandom.com/wiki/File:Persians_King_Select_1_AoE2.ogg Select 1 Āri? (آری؟) - Affirmative? (Intended to be "Yes?")
+
+http://ageofempires.fandom.com/wiki/File:Persians_King_Select_2_AoE2.ogg Select 2 Salām (سلام) - Hello
+
+http://ageofempires.fandom.com/wiki/File:Persians_King_Select_3_AoE2.ogg Select 3 Āmāde (آماده) - Ready
+
+http://ageofempires.fandom.com/wiki/File:Persians_King_Select_4_AoE2.ogg Select 4 Farmān? (فرمان؟) - Order?
+
+http://ageofempires.fandom.com/wiki/File:Persians_King_Move_2_AoE2.ogg Move 2 Āri (آری) - Affirmative
+
+http://ageofempires.fandom.com/wiki/File:Persians_King_Move_3_AoE2.ogg Move 3 Sahih (صحیح) - Correct (actually Arabic)
+
+http://ageofempires.fandom.com/wiki/File:Persians_King_Move_4_AoE2.ogg Move 4 Mikonam (می کنم) - I'll do
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Persian AI characters.
+
+Ala ad-Din Muhammad II (علاءالدین محمد خوارزمشاه): was the Shah of the Khwarezmian Empire from 1200 to 1220. His ancestor was a Turkic slave who eventually became a viceroy of a small province named Khwarizm. He is perhaps best known for inciting the Mongol invasion of Khwarezmia, which resulted in the utter destruction of his empire.
+
+Emp. Hormizd (شاهنشاه هرمز چهارم): A name of rulers of the Sasanian Empire, in early Age of Empires II era Hormizd III/Hormizd IV/Hormizd V/Hormizd VI.
+
+Emp. Kavadh (شاهنشاه قباد): A name of rulers of the Sasanian Empire, Kavadh I/Kavadh II.
+
+Emp. Yazdgerd (شاهنشاه یزدگرد): A name of kings of the Sasanian Empire, Yazdegerd I/Yazdegerd II/Yazdegerd III.
+
+Ismail Samani: (اسماعیل سامانی) was the Samanid amir of Transoxiana (892–907) and Khorasan (900–907). His reign saw the emergence of the Samanids as a powerful force.
+
+Khosrau Anushirvan (خسرو انوشیروان): Khosrow I was the Sasanian Emperor of Iran from 531 to 579. He inherited the Sassanid empire at war with the Byzantines. He made a peace treaty with them that will be known as the Perpetual Peace. He was remembered as a patron of the arts.
+
+King Bahram (شاه بهرام): Many of the Sasanian Empire rulers held this name. In early Age of Empires II era, it could refer to Bahram V or Bahram VI Chobin.
+
+King Chosroes II (خسرو پرویز دوم): The last great king of the Sasanian Empire, reigning from 590 to 628.
+
+Malik Nasir (مَلک ناصر): The Ayyubid Emir of Syria from his seat in Aleppo (1236–1260) and the Sultan of the Kurdish Ayyubid Empire from 1250 until the sack of Aleppo by the Mongols in 1260.
+
+Mohammad Shah (محمد شاه): In the Age of Empires II era the last Seljuq amir of Kerman, from 1183 until 1186.
+
+Mondhir (ٱلْمُنْذِر): Munzir ibn Sawa Al Tamimi, the governor of the Persian Sasanian Empire in some parts of the Southern Persian Gulf.
+
+Shahanshah Hormizd (شاهنشاه هرمز): Hormizd I, was the third shahanshah of Persia. He is the founder of the city of Hormizd-Ardashir which will be later called the city of Ahvaz of Iran which is an important fragment of Persian history.
+
+Shah Rukh (شاهرخ): Shahrukh Mirza, son of Tamerlane was the Timurid ruler of the eastern portion of the empire established by his father.
+
+Shah Takash (شاه تكش): Ala ad-Din Tekish, the Shah of Khwarezmian Empire from 1172 to 1200.
+
+Shapur the Great (شاپور بزرگ): The second Sasanian emperor of Iran. The dating of his reign is disputed, but it is generally agreed that he ruled from 240 to 270, with his father Ardashir I as co-regent until the death of the latter in 242.
+
+Yakub (يعقوب) or Yaqub al-Saffar (یعقوب الصفْار): Ya'qūb-i Layth-i Saffārī, a Persian coppersmith, was the founder of the Saffarid dynasty of Sistan.
+
+The following AI players names were also Persian before being moved to the Hindustanis:
+
+Mahmud Ghaznavi (محمود غزنوی): The first independent ruler of the Ghaznavid dynasty, ruling from 999 to 1030. At the time of his death, his kingdom had been transformed into an extensive military empire, which extended from northwestern Iran proper to the Punjab in the Indian subcontinent, Khwarazm in Transoxiana, and Makran.
+
+Muhammad Ghori (محمد غوری):was the Sultan of the Ghurid Empire along with his brother Ghiyath ad-Din Muhammad from 1173 to 1202 and as the sole ruler from 1202 to 1206.
+
+History[]
+
+“ The Persian Empire had existed for many centuries when the Middle Ages began. It had been reassembled following the conquest by Alexander in the fourth century BC and the subsequent breakup of his empire in later centuries. The Persians had been fighting the Romans since the third century AD. The Persian Empire stretched from Mesopotamia to India and from the Caspian Sea to the Persian Gulf, encompassing the modern nations of Iraq, Iran, and Afghanistan. They fought the Romans , and later the Byzantines , for control of modern Syria, Turkey, Palestine, Israel, Egypt, and Arabia. The capital of the Persian Empire was Ctesiphon, called Baghdad today. During the third and fourth centuries, the Romans made several attempts to subdue the Persians. In 364 a peace treaty was signed between the two that allowed the Persians to consolidate their power to the east and north. Beginning with the sixth century, the Persians began attacking the Byzantine Empire in Syria, Palestine, Egypt, and modern Turkey. The war between the two powers went back and forth. In 626 the Persians besieged Byzantium itself without success, and the Byzantines were able to invade Persia the following year. Peace was made between the two exhausted empires in 628. The Persians were unprepared for the fury of the Islamic Arabs in the seventh century. The Sassanid dynasty of Persia ended in battle in 636. The Persians did not have a capital with defenses comparable to those of Constantinople. Muslim conquest of Persia was complete by 651. ” — [1]
+
+Trivia[]
+
+The Persian civilization's icon is based on a real 7th-8th century Sassanid silver plate depicting the Simurgh, a fantastic creature from Persian mythology with the wings of a bird, the head of a dog, and the claws of a lion.
+
+The user interface image in the Definitive Edition displays the Faravahar symbol.
+
+With The Mountain Royals, the Persians and Saracens became the first civilizations to have both of their original unique technologies changed.
+
+Before Citadels replaced Mahouts, the Persians were the only civilization whose Castle Age unique technology costs more than the Imperial Age one.
+
+The Persians are the only civilization that cannot upgrade the swordsman line past the Long Swordsman.
+The Persians and the Romans are the only two civilizations lacking the Two-Handed Swordsman, with the latter instead having the Legionary replacing the Champion.
+
+In update 95810, the Persians received several major changes. The developers felt that despite the Persians' historical use of heavy cavalry being represented by the game, the European-styled Paladin felt unfaithful to the civilization, and thus the Paladin was replaced by the Savar. The rationale behind the earlier access to Parthian Tactics is the first attestation of the Parthian Shot at the Battle of Carrhae, and the continuation of Parthian legacy by the Sasanian Empire well into the early medieval period[2].
+
+Before Rise of the Rajas, the Persians were the only civilization with access to all Stable units and technologies. They are still the only civilization with fully upgraded Hussar, Paladin-equivalent (Savar), and Heavy Camel Rider.
+The Byzantines also have said units, but they lack Bloodlines and Blast Furnace. Coincidentally, both civilizations have cavalry unique units.
+
+The following heroes available in the Scenario Editor are themed on the Persians: Khosrau and Ismail (whose older form is Shah Ismail).
+
+After the Byzantines were changed to the Mediterranean building set in the Definitive Edition, the Persians became the only Middle Eastern civilization with access to the Halberdier and one of only two non-European civilizations with access to the Paladin (the other being the Cumans), before the Paladin was replaced with the unique Savar upgrade.
+
+The Persians share similar characteristics with their first game's counterpart where they have an expensive army consisting of heavy cavalry and War Elephants with lackluster heavy infantry and average everything else. More importantly, both versions of the Persians lack the last range technology for their Archery Range units and miss an important upgrade or unit in their Archery Range (in this case, the Persians in Age of Empires II lack the Arbalester while their first game's counterpart lack the Chariot Archer). Like their first game counterpart, the Persians are a solid choice in both water and land maps due to having bonuses for their cavalry and their navy (in this case, the Persian Docks have increased work rate).
+
+Before The Mountain Royals, The Persians were tied with the Poles (this excludes the latter's unique building) for the civilization with the fewest civilization bonuses, with two.
+
+The former extra 5% work rate for Town Centers and Docks in the Dark Age at release of the Definitive Edition boosted Persians to be one of the "top tier" civilizations on nomad and hybrid maps, to the point that most of the match-ups at higher levels of competitive games were Persian mirrors. Following update 36906, they lost the extra work rate in the Dark Age and are not considered the strongest in those settings, thus no longer being highly picked in non-hybrid and non-nomad maps. Instead, they became one of the least popular civilizations on land maps in most settings. In addition, their identity as a cavalry civilization became overshadowed due to the presence of other prominent cavalry civilizations and cavalry unique units. Because of all this, many changes were done to the Persians in The Mountain Royals to make them more popular and viable, viz a new unique unit, two new bonuses, a new building, a new Imperial Age unique technology, the comeback of the extra work rate in the Dark Age, and the improvement of the War Elephant.
+
+The Persians are the only civilization with access to only two Castle Age Monastery technologies. They, the Britons, and the Vietnamese are the only civilizations with access to more Imperial Age Monastery technologies than Castle Age ones.
+
+Gallery[]
+
+The Wonder of the Persians, the 
+
+Taq-i Kisra Palace
+
+The Middle Eastern architecture set the Persians share with the 
+
+Berbers,
+
+Saracens, and
+
+Turks
+
+The Middle Eastern architecture set before the 
+
+Persian buildings under attack in the 
+
+Definitive Edition
+
+A Persian town, as seen in 
+
+The Horde Rides West
+
+Persians user interface image in the 
+
+The Persian 
+
+user interface in the
+
+Persians overview (AoE2) - updated for 2023!
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/persians
+
+↑ https://www.ageofempires.com/news/new-update-to-the-persians-coming-soon-to-aoe-ii-de/
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+Asian civilizations
+
+The Age of Kings
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

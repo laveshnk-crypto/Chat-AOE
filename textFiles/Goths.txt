@@ -1,0 +1,689 @@
+This page is all about the Goths
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Definitive Edition
+3.5 Dynasties of India
+3.6 Return of Rome
+
+4 Campaign appearances
+
+4.1 Genghis Khan
+4.2 Barbarossa
+4.3 Attila the Hun
+4.4 Battles of the Conquerors
+4.5 Alaric
+4.6 Bari
+4.7 Battles of the Forgotten
+4.8 Tariq ibn Ziyad
+4.9 Victors and Vanquished
+4.10 The Art of War
+4.11 Barbarossa Brawl
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Videos
+
+11 Notes
+
+12 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+European civilizations,
+
+The Age of Kings
+
+
+			English
+
+Español
+
+Goths
+
+44
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+Civilization Technology tree Strategy
+
+Goths
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: The Age of Kings
+
+Architecture
+
+Central European
+
+Continent
+
+Europe
+
+In-game theme
+
+http://ageofempires.fandom.com/wiki/File:Goths_theme_AoE2_DE.ogg
+
+Jingle
+
+http://ageofempires.fandom.com/wiki/File:Goths_jingle_AoE2_DE.ogg
+
+Old jingle
+
+http://ageofempires.fandom.com/wiki/File:Goths_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Infantry
+
+Unique units
+
+Huskarl
+
+Unique technologies
+
+Anarchy
+
+Perfusion
+
+“ The mere mention of the Goths struck terror into the inhabitants of the Roman Empire. Migrate across thousands of miles and overwhelm your enemies with floods of infantry numerous as the grains of sand on a beach. Drive a once-great empire into anarchy, distribute plunder to your warbands, and establish your own kingdom where others once stood. Your Huskarls, pride of any chieftain or king, fear neither barbed arrow nor spear. ” —Description [1]
+
+The Goths are a Central European civilization in Age of Empires II. They are based on the medieval Germanic Gothic tribes and kingdoms, primarily the Visigoths and the Ostrogoths. They focus on infantry.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Definitive Edition
+3.5 Dynasties of India
+3.6 Return of Rome
+
+4 Campaign appearances
+
+4.1 Genghis Khan
+4.2 Barbarossa
+4.3 Attila the Hun
+4.4 Battles of the Conquerors
+4.5 Alaric
+4.6 Bari
+4.7 Battles of the Forgotten
+4.8 Tariq ibn Ziyad
+4.9 Victors and Vanquished
+4.10 The Art of War
+4.11 Barbarossa Brawl
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Videos
+
+11 Notes
+
+12 References
+
+Characteristics[]
+
+Unique unit[]
+
+Huskarl: Archer-resistant infantry unit.
+
+Unique technologies[]
+
+Anarchy: Allows the creation of Huskarls at the Barracks.
+
+Perfusion: Increases the working speed of Barracks by +100%.
+
+Civilization bonuses[]
+
+Infantry are 20%/25%/30%/35% cheaper in the Dark/Feudal/Castle/Imperial Age.
+
+Infantry have +1/+2/+3 attack bonus against standard buildings in the Feudal/Castle/Imperial Age.
+
+Hunters have +5 attack against aggressive huntables (Wild Boar, Javelina, Elephant, Rhinoceros) and carry +15 food. Hunt lasts 20% longer.
+
+Loom is researched instantly.
+
++10 population cap in the Imperial Age.
+
+Team bonus[]
+
+Barracks work 20% faster.
+
+Overview[]
+
+The Goths are one of the best infantry civilizations. Their main advantages are a faster creation speed and massive discount, which scales through the Ages. This grants them an effective infantry early on, as well as great infantry in the late game. Their unique unit, the Huskarl, is a mobile high-pierce armor anti-archer infantry unit with low base melee armor, reversing the traditional rock-papers-scissors concept that infantry has with archers and cavalry. It is arguably the best anti-archer unit in the entire game, despite being one of the most expensive infantry units by base costs. They are also boosted by Anarchy, which allows them to be created from Barracks. Combined with Perfusion, their late-game infantry is easily replenished while being effective.
+
+The Goths also have an effective early-game economy as their hunters have extra carry capacity, extra anti-animal attack, and drop off extra food. They can also research Loom instantly, which gives a margin of error in the Dark Age while hunting, while letting them have one Villager advantage when other civilizations have to research Loom. The Gothic technology tree provides their infantry the bare minimum support in the forms of Hand Cannoneers to counter stronger infantry, Bombard Cannons to counter siege, and Skirmishers (to counter enemy Hand Cannoneers).
+
+The Goths have several notable weak points, some of which impact their infantry. The lack of Gambesons and Plate Mail Armor means that their infantry on their own are statistically weak. Additionally, while their infantry are a notorious deathball, civilizations with melee counters to infantry (like the Teutonic Knight and Cataphract), gunpowder, or Siege Onagers can prove to be tough opponents.
+
+Arbalester and
+
+Thumb Ring upgrades makes it questionable past the Castle Age. However, they can fully upgrade their Hand Cannoneers and have solid Skirmishers. The
+
+cavalry branch is overall mediocre, featuring
+
+Bloodlines and
+
+Hussars, but lacking
+
+Plate Barding Armor and
+
+Paladins. This makes their cavalry usable in the Castle Age, and Hussars as an adequate option when needed. They have infamously poor defenses, lacking both
+
+Stone Walls and
+
+Guard Towers. The
+
+Siege Workshop is lackluster without
+
+Siege Rams,
+
+Siege Onagers, or
+
+Siege Engineers. Their
+
+navy is fairly usable, but
+
+Dry Dock is missing, so their ships lack speed. The Gothic
+
+Monks are way below average, missing four out of ten technologies (including the very important
+
+Redemption and
+
+Block Printing technologies).
+
+The Goths are a straightforward and strong civilization to play. However, their options are limited and restricted.
+
+Changelog[]
+
+The Conquerors[]
+
+Anarchy introduced.
+
+Perfusion introduced.
+
+Huskarls received numerous buffs:
+Non-Elite Huskarls train much faster (26 → 16 seconds).
+(Elite) Huskarls gain +2 base pierce armor (4 (6) → 6 (8)).
+(Elite) Huskarls anti-archer attack increased (+3 (+4) → +6 (+10)).
+Huskarls move faster (0.9 → 1.05).
+
+Boars are given their separate armor class (previously shared it with siege weapons). This means that Villagers no longer deal extra damage to siege weapons.
+
+With patch 1.0b, infantry discount increased (10% (Feudal Age)/15% (Castle Age)/25% (Imperial Age) → 35% (Feudal Age - Imperial Age)).
+
+The Forgotten[]
+
+Treadmill Crane removed from the technology tree.
+
+The African Kingdoms[]
+
+With patch 4.8, Arrowslits was removed from the technology tree.
+
+Definitive Edition[]
+
+With update 35584, infantry discount applies in the Dark Age.
+
+With update 36202:
+The civilization bonus affecting the cost of infantry units has now been staggered per Age (35% (all) → 20% (Dark Age)/25% (Feudal Age)/30% (Castle Age)/35% (Imperial Age)).
+They no longer have access to the Arson technology. Instead, their civilization bonus boosting infantry attack vs. buildings now increments by +1 attack per Age (starting in the Feudal Age).
+
+With update 36906, they get free Loom as a civilization bonus.
+
+With update 42848, Loom is no longer free or automatic, but it can be researched instantly.
+
+Dynasties of India[]
+
+With update 81058, they gain a new civilization bonus: food from hunt lasts 20% longer.
+
+Return of Rome[]
+
+With update 83607, the Cannon Galleon is replaced by the Dromon.
+
+Campaign appearances[]
+
+The Goths have a campaign devoted to their civilization: Alaric. They are also playable in the Gaiseric scenario from Victors and Vanquished.
+
+They are playable as the second player in the Co-op version of the Alaric campaign in all except the first scenario. They are also playable as Ostrogoths in the fifth scenario of the co-op version of the Attila the Hun campaign.
+
+Originally, they featured in various campaigns representing different unrelated peoples, particularly Slavs. After the introduction of the Slavs, the Goths have served to primarily represent Germanic peoples of the Migration Period and Early Medieval Period, like the Langobards and the Saxons.
+
+They appear as allies or enemies in:
+
+Toggle campaign appearance list
+
+Genghis Khan[]
+
+The Horde Rides West
+Russians - Enemy
+
+The Promise
+Polish - Enemy
+
+Barbarossa[]
+
+Holy Roman Emperor
+Austria - Enemy
+
+Henry the Lion
+Poland - Enemy
+
+Attila the Hun[]
+
+The Great Ride
+Naissus - Enemy
+
+The Walls of Constantinople
+Marcianopolis - Enemy
+
+The Catalaunian Fields
+Ostrogoths* - Ally
+Visigoths - Enemy
+
+Battles of the Conquerors[]
+
+Hastings
+Harold's Raiders - Enemy
+Harold the Saxon - Enemy
+Saxon Navy - Enemy
+
+Alaric[]
+
+This campaign is played as the Goths.
+
+
+
+All Roads Lead to a Besieged City
+Goths - Ally
+Goth refugees - Ally
+
+Legionaries on the Horizon!
+Athaulf's Forces - Ally
+Goths - Ally
+
+Emperor of the West
+Alaric - Ally
+Saurus - Enemy
+
+The Sack of Rome
+Athaulf - Ally
+Goths - Ally
+
+
+
+The Belly of the Beast
+Ataulf* - Ally
+Sarus - Neutral → Enemy
+
+The Giant Falls
+Ataulf* - Ally
+Visigoths - Ally
+
+A Kingdom of Our Own
+Sarus - Enemy
+
+Bari[]
+
+
+
+Arrival at Bari
+Lombards - Ally → Enemy
+
+The Rebellion of Melus
+Friendly Lombards - Ally
+Rebels - Enemy
+
+
+
+The Rebellion of Melus
+Melus' Scouts - Enemy
+Melus' Garrison - Enemy
+Lombard Rebels - Enemy
+Melus' Mercenaries - Enemy
+
+Loose Ends
+Melus' Army - Enemy
+
+The Best Laid Plans
+Dattus' Rebels - Enemy
+
+Battles of the Forgotten[]
+
+York
+Wessex - Enemy
+
+Tariq ibn Ziyad[]
+
+The Battle of Guadalete
+Locals - Ally
+Roderic's Army - Enemy
+Visigoths - Enemy
+
+Consolidation and Subjugation
+Visigoth Garrison - Enemy
+Merida - Enemy
+Guadalajara - Enemy
+
+Divide and Conquer
+Theodemir of Murcia (Theodemir of Murcia in co-op version) - Ally
+Locals - Ally
+Kingdom of Asturias - Enemy
+Narbonne - Enemy
+
+Crossing the Pyrenees
+Locals - Ally
+Asturians - Enemy
+Visigoths - Enemy
+
+Victors and Vanquished[]
+
+Charlemagne
+Saxons - Enemy
+
+Gaiseric
+Goths - Enemy
+
+Otto
+Bavaria - Ally → Potential Enemy
+
+Robert
+Gascony - Ally → Potential Enemy
+
+The Art of War[]
+
+Booming is played as the Goths.
+
+Barbarossa Brawl[]
+
+Austria - Enemy
+
+In-game dialogue language[]
+
+In-game, Gothic units speak classical Old or Middle High German, which is also spoken by the Teutons. Historically, however, they spoke their very own Gothic language, which was related to Old Norse as much as to Old High German, and became extinct in the 8th or 9th century. A closely related language called Crimean Gothic possibly survived until the 18th century.
+
+Villager
+
+http://ageofempires.fandom.com/wiki/File:Goths_Villager_Female_Select_1_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Goths_Villager_Male_Select_1_AoE2.ogg Select 1 Ja? - Yes?
+
+http://ageofempires.fandom.com/wiki/File:Goths_Villager_Female_Select_2_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Goths_Villager_Male_Select_2_AoE2.ogg Select 2 He, ja - Why, yes
+
+http://ageofempires.fandom.com/wiki/File:Goths_Villager_Female_Select_3_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Goths_Villager_Male_Select_3_AoE2.ogg Select 3 Bereyte - Ready
+
+http://ageofempires.fandom.com/wiki/File:Goths_Villager_Female_Select_4_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Goths_Villager_Male_Select_4_AoE2.ogg Select 4 Heisse? - Order?
+
+http://ageofempires.fandom.com/wiki/File:Goths_Villager_Female_Task_1_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Goths_Villager_Male_Task_1_AoE2.ogg Task 1 Des ware - Truly
+
+http://ageofempires.fandom.com/wiki/File:Goths_Villager_Female_Task_2_AoE2.ogg Task 2 Ja - Yes
+
+http://ageofempires.fandom.com/wiki/File:Goths_Villager_Female_Task_3_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Goths_Villager_Male_Task_3_AoE2.ogg Task 3 Reyte - Right
+
+http://ageofempires.fandom.com/wiki/File:Goths_Villager_Female_Task_4_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Goths_Villager_Male_Task_4_AoE2.ogg Task 4 Das ich soll - That I shall
+
+http://ageofempires.fandom.com/wiki/File:Goths_Villager_Female_Build_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Goths_Villager_Male_Build_AoE2.ogg Build Buuwere - To build
+
+http://ageofempires.fandom.com/wiki/File:Goths_Villager_Female_Chop_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Goths_Villager_Male_Chop_AoE2.ogg Chop 'Holza/Holzer - To cut wood
+
+http://ageofempires.fandom.com/wiki/File:Goths_Villager_Female_Farm_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Goths_Villager_Male_Farm_AoE2.ogg Farm Gebuure - To go farming
+
+http://ageofempires.fandom.com/wiki/File:Goths_Villager_Female_Fish_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Goths_Villager_Male_Fish_AoE2.ogg Fish Fischere - To fish
+
+http://ageofempires.fandom.com/wiki/File:Goths_Villager_Female_Forage_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Goths_Villager_Male_Forage_AoE2.ogg Forage Suocha - To seek, gather
+
+http://ageofempires.fandom.com/wiki/File:Goths_Villager_Female_Hunt_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Goths_Villager_Male_Hunt_AoE2.ogg Hunt Jägere - To hunt
+
+http://ageofempires.fandom.com/wiki/File:Goths_Villager_Female_Mine_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Goths_Villager_Male_Mine_AoE2.ogg Mine Houwa - To quarry, cut
+
+http://ageofempires.fandom.com/wiki/File:Goths_Villager_Female_Repair_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Goths_Villager_Male_Repair_AoE2.ogg Repair Flickmann - Tinkerer, repairer (of small objects)
+
+http://ageofempires.fandom.com/wiki/File:Goths_Villager_Female_Attack_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Goths_Villager_Male_Attack_AoE2.ogg Attack Striitet! - Fight! (not used)
+
+http://ageofempires.fandom.com/wiki/File:Goths_Soldier_Select_1_AoE2.ogg Select 1 Ja? - Yes?
+
+http://ageofempires.fandom.com/wiki/File:Goths_Soldier_Select_2_AoE2.ogg Select 2 Bereyte - Ready
+
+http://ageofempires.fandom.com/wiki/File:Goths_Soldier_Select_3_AoE2.ogg Select 3 Heisse? - Order?
+
+http://ageofempires.fandom.com/wiki/File:Goths_Soldier_Move_1_AoE2.ogg Move 1 Ja - Yes
+
+http://ageofempires.fandom.com/wiki/File:Goths_Soldier_Move_2_AoE2.ogg Move 2 Das ich soll - That I shall
+
+http://ageofempires.fandom.com/wiki/File:Goths_Soldier_Move_3_AoE2.ogg Move 3 Des ware - Truly
+
+http://ageofempires.fandom.com/wiki/File:Goths_Soldier_Attack_1_AoE2.ogg Attack 1 Striitet! - Fight!
+
+http://ageofempires.fandom.com/wiki/File:Goths_Soldier_Attack_2_AoE2.ogg Attack 2 Se stöörme! - Storm them!
+
+http://ageofempires.fandom.com/wiki/File:Goths_Soldier_Attack_3_AoE2.ogg Attack 3 Ja! - Yes!
+
+http://ageofempires.fandom.com/wiki/File:Goths_Soldier_Attack_4_AoE2.ogg Attack 4 Sassa! - To battle!
+
+Monk
+
+http://ageofempires.fandom.com/wiki/File:Goths_Monk_Select_1_AoE2.ogg Select 1 Heisse? - Order?
+
+http://ageofempires.fandom.com/wiki/File:Goths_Monk_Select_2_AoE2.ogg Select 2 He, ja - Why, yes
+
+http://ageofempires.fandom.com/wiki/File:Goths_Monk_Select_3_AoE2.ogg Select 3 Bereyte - Ready
+
+http://ageofempires.fandom.com/wiki/File:Goths_Monk_Select_4_AoE2.ogg Select 4 Ja? - Yes?
+
+http://ageofempires.fandom.com/wiki/File:Goths_Monk_Move_1_AoE2.ogg Move 1 Des ware - Truly
+
+http://ageofempires.fandom.com/wiki/File:Goths_Monk_Move_2_AoE2.ogg Move 2 Ja - Yes
+
+http://ageofempires.fandom.com/wiki/File:Goths_Monk_Move_3_AoE2.ogg Move 3 Reyte - Right
+
+http://ageofempires.fandom.com/wiki/File:Goths_Monk_Move_4_AoE2.ogg Move 4 Das ich soll - That I shall
+
+King
+
+http://ageofempires.fandom.com/wiki/File:Goths_King_Select_1_AoE2.ogg Select 1 Ja? - Yes?
+
+http://ageofempires.fandom.com/wiki/File:Goths_King_Select_2_AoE2.ogg Select 2 He, ja - Why, yes
+
+http://ageofempires.fandom.com/wiki/File:Goths_King_Select_3_AoE2.ogg Select 3 Bereyte - Ready
+
+http://ageofempires.fandom.com/wiki/File:Goths_King_Select_4_AoE2.ogg Select 4 Heisse? - Order?
+
+http://ageofempires.fandom.com/wiki/File:Goths_King_Move_1_AoE2.ogg Move 1 Des ware - Truly
+
+http://ageofempires.fandom.com/wiki/File:Goths_King_Move_2_AoE2.ogg Move 2 Ja - Yes
+
+http://ageofempires.fandom.com/wiki/File:Goths_King_Move_3_AoE2.ogg Move 3 Reyte - Right
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Gothic AI characters:[note 1]
+
+Athaulf (𐌰𐌸𐌰𐍅𐌿𐌻𐍆𐍃; c. 360-415): King of the Visigoths from 411-415. Led his people from Italy to Southern Iberia, building the Visigothic state into a major political power. Successor and brother-in-law of Alaric I.
+
+Athanaric or Atanaric (𐌰𐌸𐌰𐌽𐌰𐍂𐌴𐌹𐌺𐍃; Latin: Athanaricus; died 381; reign 369-381): was king of several branches of the Thervingian Goths for at least two decades in the 4th century.
+
+Alaric II (𐌰𐌻𐌰𐍂𐌴𐌹𐌺𐍃; c. 458/466-507): King of the Visigoths from 484-507. Defeated by Franks under Clovis at the Battle of Vouillé, killed in the fighting allegedly by Clovis himself. Son of Euric the Visigoth, Great-grandson of Alaric I.
+
+Alaric the Visigoth (𐌰𐌻𐌰𐍂𐌴𐌹𐌺𐍃; c. 370-410; reign 395-410): Alaric I, was the first king of the Visigoths. He invaded [[wikipedia:Moesia|Moesi]a] and he is responsible for the Sack of Rome, contributing to the fall of the Romans.
+
+Ermanaric the Amal (𐌰𐌹𐍂𐌼𐌰𐌽𐌰𐍂𐌴𐌹𐌺𐍃; c. 291-376): is identified as a Greuthungian king (reign 296-376) who ruled territories in modern Ukraine.
+
+Fritigern (𐍆𐍂𐌹𐌸𐌿𐌲𐌰𐌹𐍂𐌽𐍃; fl. 370s): was a Thervingian Gothic chieftain whose decisive victory at Adrianople during the Gothic War (376–382) led to favorable terms for the Goths when peace was made with Gratian and Theodosius I in 382.
+
+General Theodemir (𐌸𐌹𐌿𐌳𐌰𐌼𐌴𐍂𐍃; died 743): Prominent count and general in the Visigothic kingdom. Attempted to halt the Moorish conquest of Iberia, however his forces were defeated by emir Abd al-Aziz ibn Musa in 713.
+
+King Euric the Visigoth (𐌰𐌹𐍅𐌰𐍂𐌴𐌹𐌺𐍃; c. 420-484): King of the Visigoths from 466-484. Defeated other factions of Visigoths to become the first ruler of a unified kingdom of Visigoths. Father of Alaric II.
+
+King Leovigild (𐌻𐌹𐌿𐌱𐌰𐌲𐌹𐌻𐌳; c. 519-586): Visigothic King of Hispania and Gallia from 568-586. Known for expanding his Visigothic kingdom through successful military campaigns, as well as for his introduction of the Code of Leovigild, which guaranteed equal rights for Goths and Hispano-Romans within his territories.
+
+King Wallia (𐍅𐌰𐌻𐌾𐌰; c. 385-418): King of the Visigoths from 415-418. Formed an alliance with the Roman Emperor Honorius, mounted a successful campaign against the Silingi Vandals.
+
+Radagaisus (𐍂𐌰𐌳𐌰𐌲𐌰𐌹𐍃𐌿𐍃; died 23 August 406): was a Gothic king who led an invasion of Roman Italy in late 405 and the first half of 406.
+
+Teias the Goth (𐍄𐌴𐌹𐌰𐍃; died c. 552): Last Ostrogothic king in Italy. Led Ostrogoths in the Gothic War against the Byzantine Empire, defeated at the Battle of Mons Lactarius in Southern Italy, where he was killed.
+
+Theodoric the Goth (𐌸𐌹𐌿𐌳𐌰𐍂𐌴𐌹𐌺𐍃; c. 390/393-451): King of the Visigoths from 418 until his death in June of 451. Allied with General Flavius Aetius of the Western Roman Empire against Attila and the Huns following their invasion of Gaul. Lead a coalition of men alongside Aetius against the Huns at the Battle of the Catalaunian Plains where he died in battle.
+
+Totila the Ostrogoth (𐍄𐍉𐍄𐌹𐌻𐌰; died July 1 of 552): was the penultimate King of the Ostrogoths, reigning from 541 to 552 AD. A skilled military and political leader, Totila reversed the tide of the Gothic War, recovering by 543 almost all the territories in Italy that the Eastern Roman Empire had captured from his kingdom in 540.
+
+Sarus the Goth (𐍃𐌰𐍂𐌿𐍃; d. 413 AD): was a Gothic chieftain and commander for the emperor Honorius. He was known for his hostility to the prominent Gothic brothers-in-law Alaric I and Ataulf, and was the brother of Sigeric, who ruled the Goths briefly in 415.
+
+History[]
+
+“ The Goths were a Germanic tribe on the Danube River frontier known to the Romans from the first century AD. Pressured and then displaced when the Huns moved west out of Central Asia, the Goths moved west into Europe and over the Danube River to escape the oncoming hordes. After taking part in the fall of Rome, they vied with other barbarians for the leavings of the Western Roman Empire during the Early Middle Ages. The Goths originated on the island of Gotland in the Baltic, to the best of our knowledge, and split into two groups as they migrated south across Central Europe. The Visigoths, or West Goths, settled in modern Romania during the second century. The Ostrogoths, or East Goths, settled farther to the east on the northwest coast of the Black Sea. In 376 AD the Visigoths were driven from modern Romania by the Huns and moved south across the Danube. Their strength was estimated at 60,000 men, women, and children. They defeated a Roman army from Constantinople, settled briefly south of the Danube, and then pushed into Italy. In 409 they sacked Rome under their king Alaric and then moved north into Gaul. The Romans gave them southwestern Gaul. From there they eventually extended their rule into all of modern Spain and Portugal. The Ostrogoths broke away from Hunnish rule and followed their cousins into Italy late in the fifth century. They were encouraged to invade by the Eastern emperor, who wanted deposed the barbarian then ruling as viceroy. Under Theodric , king of modern Switzerland and the Balkans already, the Goths entered Italy in 488, completing its conquest in 493. Theodric's kingdom did not last long following his death in 526. Using a struggle for succession as an excuse, the Byzantines sent an army to Italy in 536 led by their great general Belisarius . The Byzantines hoped to regain Italy and restore the old Roman Empire in the West. The war dragged on, devastating the countryside in conjunction with plague and famine. In 552 the Ostrogoths were finally defeated in Italy. They ceased to exist as a separate group by the late sixth century when northern Italy was invaded by a new group of barbarians called the Lombards. The Visigoth kingdom lasted somewhat longer. In the late fifth century Clovis of the Franks pushed the Visigoths out of France and over the Pyrenees Mountains. Following the death of Clovis his kingdom fragmented and the Visigoths were temporarily left alone. In 711 a new threat appeared from the south. Islamic armies crossed over from North Africa and destroyed the last Gothic kingdom in four years. The Goths are remembered for being the first to sack Rome and thereby beginning the final collapse of the ancient world order in Europe. Their admiration for Rome and attempts to preserve it, however, allowed much of the Roman culture to survive. For example, the modern languages of Italy, France, Spain, Portugal, and Romania are derived from Latin influenced by later settlers. They are not variations of German, as was the case in England. [1] ” —In-game history section
+
+The Goths were a collection of Eastern Germanic tribes that constantly warred with the Roman Empire during its later years, known for bringing Rome to its knees and traveling all over Europe, bringing devastation with them. Following the fall of the Empire, the Goths divided into the Ostrogoths (East Goths) who settled in Italy, and the Visigoths (West Goths[note 2]) who settled in the region that would later become Portugal and Spain.
+
+Trivia[]
+
+The Goths' civilization icon is based on Ostrogothic and Visigothic eagle-shaped fibulae.
+
+The Gothic user interface image is a Spangenhelm, which were Iranian nomadic (Scythian and Sarmatian) origin helmets which arrived in Europe during their migrations, and by 6th century AD became the most widely used type of helmet among the Germanic peoples of Europe such as Goths and Franks.
+
+Goths' portrayal as a heavy-infantry-rush civilization Age of Empires II is somewhat historically accurate; however, contemporary authors also recognized the supportive role of Gothic heavy, light, and missile cavalry.
+
+The Goths have among the weakest defenses in the game; they lack the tower upgrades, and until the introduction of the Cumans in the Definitive Edition, they were the only civilization unable to build Stone Walls and Gates.
+
+In The Conquerors, the Goths are the only civilization with two unique technologies.
+As a side effect, they were also the only civilization to not receive a new unique technology in The Forgotten.
+
+In the The Conquerors instruction booklet, the Goths are represented by a Hussar, as opposed to the other civilizations, which are represented by their unique unit(s). This may be due to a possible misunderstanding, as "Huskarl" and "Hussar" sound similar.
+
+Since update 36202, the Goths are the only civilization that lacks Arson, which was done to adjust their civilization bonus of attack bonus vs buildings.
+
+In the Definitve Edition until update 37650, the Goths were the only civilization that lacked Supplies, which was likely because they already had a discount for their infantry which was stronger than Supplies.
+
+Their free Loom bonus was originally possessed by the Aztecs in patch 1.0b for The Conquerors. In The Forgotten, the Aztec bonus was changed to +50 gold at the start of the game.
+
+The following heroes available in the Scenario Editor are themed on the Goths: Theodoric the Goth, Alaric the Goth, and Ataulf.
+
+The Goths had a fundamental role in the destiny of Europe in the first centuries of the Middle Ages. However, they had a discreet presence in the following centuries, keeping the Gothic culture alive until the 16th century in some parts of Mediterranean Europe, as is the case of the Crimean Goths, who lost their independence in 1475 to the Turks.
+
+The Teutons and the Goths are the first civilizations with the same language lines.
+
+The Goths are viewed as one of the most controversially handled civilization, possibly due to the several changes that they received through the updates of the Definitive edition, because of being very predictable and one-dimensional, thus being considered as a mediocre civilization in the competitive scene (with infantry as their only option to go). Their former big discount in the Dark Age made their Militia rush very annoying to all players, their modified bonus against buildings and the loss of Arson only affected them in the Castle Age, and their Militia rush was severely weakened. Their new bonus of free Loom allowed them to gain an economic advantage, but also gained a reputation of various commentators and expert players as the "Laming civilization" (stealing or killing the enemy herdables, Deer, or Boars) due to the free protection of their Villagers in the Dark Age and the extra attack against Boars. In addition, it gave a very big advantage on Nomad maps for Villager fights early, eventually ending in the Loom technology researched instantly rather than free. This still gives an extra Villager before aging up, but certainly restricts their Drushing potential. Eventually, their hunting bonus also gave them longer-lasting food from hunted animals. This greatly improved their offensive potential, to the point where they are now considered a viable pick at high level play, but are still limited by their predictability.
+
+The Goths have the second fewest fully–upgraded units, only ahead of the Gurjaras; only their Hand Cannoneers can be fully upgraded.
+
+The Huns and Goths share similarities in both bonuses and themes. Historically, both groups were involved in the downfall of the Western Roman Empire and were its contemporaries. In-game, the unique units of both civilizations have high pierce armor and excel at razing buildings, they have a bonus each which discounts a core unit (Cavalry Archers for Huns and infantry for Goths), a bonus benefiting their population capacity, a team bonus that make their Stables and Barracks, respectively, work 20% faster, and furthermore, have unique technologies (Marauders and Anarchy) that allow the creation of their unique units in these respective buildings.
+
+Gallery[]
+
+The Wonder of the Goths, the 
+
+Mausoleum of Theoderic I
+
+The Central European architecture set the Goths share with the 
+
+Huns,
+
+Teutons, and
+
+Vikings
+
+The set before the 
+
+Goths 
+
+user interface image
+
+The Gothic user interface before the 
+
+A Gothic town, appearing in 
+
+Emperor of the West
+
+In the 
+
+Videos[]
+
+Goths Overview AoE2
+
+Notes[]
+
+↑ Few documents in Gothic have survived to nowadays. Thus for names did not appear in primary resources, we implement word reconstruction to make a possible form in Gothic alphabet. For unreconstructed names, we do the simple Latin-Gothic alphabet transliteration, without considering linguistic morphology.
+
+↑ The exact meaning of prefix "Visi-" is still argued; some contemporary scholars believe it means "good" or "educated" (link: Etymology of Visigoths)
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/goths
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+European civilizations
+
+The Age of Kings
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

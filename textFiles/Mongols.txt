@@ -1,0 +1,675 @@
+This page is all about the Mongols
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Definitive Edition
+3.5 Lords of the West
+
+4 Campaign appearances
+
+4.1 Genghis Khan
+4.2 Barbarossa
+4.3 Attila the Hun
+4.4 Battles of the Forgotten
+4.5 Gajah Mada
+4.6 Tamerlane
+4.7 Ivaylo
+4.8 Kotyan Khan
+4.9 Edward Longshanks
+4.10 Algirdas and Kestutis
+4.11 Babur
+4.12 Ismail
+4.13 Victors and Vanquished
+4.14 The Art of War
+4.15 Event Challenges
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+Asian civilizations,
+
+and
+
+2 more
+
+Nomadic civilizations
+
+The Age of Kings
+
+
+			English
+
+Español
+
+Mongols (Age of Empires II)
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+This article is about the civilization in Age of Empires II . For the civilization in Age of Empires IV , see Mongols (Age of Empires IV) .
+
+Civilization Technology tree Strategy
+
+Mongols
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: The Age of Kings
+
+Architecture
+
+East Asian
+
+Continent
+
+Asia
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Mongols_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Mongols_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Mongols_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Cavalry Archers
+
+Unique units
+
+Mangudai
+
+Unique technologies
+
+Nomads
+
+Drill
+
+“ A harsh life of hunting and pastoralism breeds a hardier people. Unite the fractious tribes of the Mongolian steppe and lead vast mounted hordes to the edges of the known world. Learn siegecraft from Chinese engineers and demolish even the sturdiest cities while you build the greatest empire that the world has ever seen! Your potent Mangudai shower all who dare stand in your way with a storm of arrows while tumens of lightning-quick cavalry ride them down into the dirt. ” —Description [1]
+
+The Mongols are an East Asian civilization in Age of Empires II based on confederation of nomadic tribes in central Asia who would eventually form the Mongol Empire under the leadership of Genghis Khan. They focus on cavalry archers.
+
+The Mongols also appear in Age of Empires IV with access to the a cavalry archer unit with the same name, although the depictions of the Mongols in Age of Empires IV incorporate civilization bonuses from other Age of Empires II civilizations (i.e. the Huns civilization bonus of starting at maximum population is incorporated in the Age of Empires IV Mongols). Because the Mongols were subjugated under Qing rule, they do not appear as a playable civilization in Age of Empires III. However, several Chinese units, such as the Steppe Rider and Keshik, represent the Mongols under the Qing dynasty (albeit the units themselves speak Chinese with a Mongolian accent). Moreover, Mongol religion and society are also represented by the Tengri Shrine, which offers some unique Mongolian improvements.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Definitive Edition
+3.5 Lords of the West
+
+4 Campaign appearances
+
+4.1 Genghis Khan
+4.2 Barbarossa
+4.3 Attila the Hun
+4.4 Battles of the Forgotten
+4.5 Gajah Mada
+4.6 Tamerlane
+4.7 Ivaylo
+4.8 Kotyan Khan
+4.9 Edward Longshanks
+4.10 Algirdas and Kestutis
+4.11 Babur
+4.12 Ismail
+4.13 Victors and Vanquished
+4.14 The Art of War
+4.15 Event Challenges
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+Characteristics[]
+
+Unique unit[]
+
+Mangudai: Mounted archer with an attack bonus against siege weapons.
+
+Unique technologies[]
+
+Nomads: Makes Houses keep their population space if they are destroyed.
+
+Drill: Increases the movement speed of Siege Workshop units by +50%.
+
+Civilization bonuses[]
+
+Cavalry archers fire 25% faster.
+
+Light Cavalry, Hussars, and Steppe Lancers have +30% HP.[note 1]
+
+Hunters work 40% faster.
+
+Team bonus[]
+
+The Scout Cavalry line has +2 Line of Sight.
+
+Overview[]
+
+As a cavalry archer civilization, the Mongols have excellent mounted archers, arguably the best of all civilizations. This is due to their higher Rate of Fire which greatly improves the effective damage output of not only Cavalry Archers but also Mangudai, which in particular is arguably their best unit in the late game. The other key unit of the Mongol army, the Hussar, comes with great advantages, too, with greater Line of Sight which is extremely beneficial in the very early game for scouting, and higher hit points. The Steppe Lancer is also affected by the bonus and is exceptional at early-Castle-Age pressure. Put all together, these units form a very threatening and very mobile force. Complementing their fast mounted units are their excellent siege weapons which also receive a great speed boost thanks to Drill. Their economy is great early on, with their 40% faster hunters, giving them one of the best Feudal Age rushes, backed by their +2 Line of Sight Scout Cavalry.
+
+Outside these areas of expertise, the Mongols fare rather poorly. The lack of Plate Barding Armor and Ring Archer Armor makes their mounted units less durable than they might initially appear during the late game. In particular, their foot soldiers lack key upgrades across the board, with Elite Skirmishers lacking Ring Archer Armor, and they lack the Halberdier upgrade. This leaves Arbalesters and Champions (without Supplies and Gambesons) as their only reliable foot unit options. Additionally, their Cavaliers and their Heavy Camel Riders are fairly mediocre without Plate Barding Armor and no bonuses. On the water, the lack of Dry Dock is really unfortunate, since it means their ships miss out on an important speed boost. Otherwise, their navy is fair, but nothing spectacular. Their Monks are among the worst of all civilizations, and their defensive structures are not great either. As excellent as their early economy is, it drops off significantly during the mid-game.
+
+Overall, the Mongols are a solid civilization that possess great options throughout the game, but have limited options.
+
+Changelog[]
+
+The Conquerors[]
+
+Drill introduced.
+
+(Elite) Mangudai received several changes:
+They gain a +1 attack bonus against Spearmen.
+Rate of Fire increased (2.0 → 2.1).
+Base accuracy lowered (100% → 95%).
+Movement speed increased (1.43 → 1.45).
+Training time increased (21 → 26 seconds).
+
+The Forgotten[]
+
+Elite Cannon Galleon removed from the technology tree.
+
+Nomads introduced.
+
+(Elite) Mangudai attack bonus against siege weapons reduced (+3 (+5) → +1).
+
+(Elite) Mangudai receive an attack bonus against rams of +3 (+5).
+
+Non-Elite Mangudai frame delay reduced (10 → 5).
+
+The African Kingdoms[]
+
+With patch 4.8:
+Arrowslits was removed from the technology tree.
+Elite Mangudai frame delay increased (0 → 5).
+(Elite) Mangudai get back their original attack bonus of +3 (+5) against siege weapons. Their attack bonus against rams is removed.
+
+Definitive Edition[]
+
+Destroyed house foundations no longer provide population space with the Nomads technology.
+
+With update 35584:
+Steppe Lancer and Elite Steppe Lancer added to their technology tree, which benefit from +30% HP bonus.
+Hunters work rate bonus decreased (50% → 40% faster).
+
+With update 37650, Supplies was removed from their technology tree.
+
+Lords of the West[]
+
+With update 47820, Mangudai movement speed reduced (1.45 → 1.4).
+
+Campaign appearances[]
+
+The Mongols have a campaign and a scenario devoted to their civilization, Genghis Khan and Temujin respectively. Both revolve around the life of Genghis Khan.
+
+They are playable as the second player in the first scenario of the co-op version of the Tamerlane campaign.
+
+They also appear in:
+
+Genghis Khan[]
+
+This campaign is played as the Mongols.
+
+Crucible
+Kara Khitai - Enemy
+Genghis Khan - Ally
+Kereyids - Ally
+Tayichi'uds - Ally or Enemy
+Uighurs - Ally
+Naiman - Ally or Enemy
+Ungirrads - Ally
+
+A Life of Revenge
+Kara Khitai - Enemy
+Kushluk - Enemy
+Tayichi'uds - Enemy
+
+The Horde Rides West
+Merkids - Enemy
+
+Barbarossa[]
+
+Holy Roman Emperor
+Mongols - Ally
+
+Attila the Hun[]
+
+The Scourge of God
+Scythians - Enemy or Ally
+
+The Great Ride
+Scythians - Ally
+
+Battles of the Forgotten[]
+
+Bukhara
+White Huns - Ally → Enemy
+
+Gajah Mada[]
+
+The Story of Our Founders
+Mongols - Neutral → Ally → Enemy
+
+Tamerlane[]
+
+Amir of Transoxiana
+Tokhtamysh* - Ally
+The Blue Horde - Enemy
+Eastern Chagatai Khanate - Enemy
+Urus Khan - Enemy
+
+Gurkhan of Persia
+Tokhtamysh - Ally → Enemy
+Tabriz - Enemy
+
+Harbinger of Destruction
+Sarai - Enemy
+
+Ivaylo[]
+
+Tsar of the Bulgars
+Golden Horde - Enemy
+
+Where the One-Eyed Man is King
+Nogai Khan - Ally
+
+Kotyan Khan[]
+
+Raising the Banners
+Mongol Scouts - Enemy
+
+The Battle at the Kalka River and Saving the Huts
+Mongols - Enemy
+Subotai - Enemy
+
+Edward Longshanks[]
+
+A Man of God
+The Ilkhanate - Ally
+
+Algirdas and Kestutis[]
+
+The Tatar Yoke and A Worthy Opponent
+The Golden Horde - Enemy
+
+Babur[]
+
+The Last Timurids
+Northern Uzbeks - Enemy
+
+Ismail[]
+
+The Fallen Amir
+Shaybani Khan - Enemy
+
+Victors and Vanquished[]
+
+Temujin is played as the Mongols.
+
+Mstislav
+Unknown Invaders/Mongols - Enemy
+
+Seljuk
+Nomadic Tribes/Kutalmish/Kara-Khitai - Enemy
+
+Temujin
+Merkits - Enemy
+Kereyids - Ally → Enemy
+Naimans - Ally → Enemy
+Khamag Mongols - Ally
+
+The Art of War[]
+
+Early Economy
+Khabul Khan - Ally
+
+Event Challenges[]
+
+The Mongol Raiders and Mangudai Madness scenarios were played as the Mongols.
+
+Mongol Raiders
+Mongols - Ally
+
+In-game dialogue language[]
+
+In-game, Mongol units speak the Khalkha variety of Mongolian, the most widely spoken of the Mongolic languages and the official language of modern-day Mongolia. Mongolian script (Монгол бичиг), derived from the Old Uyghur alphabet, was used to write Classical Mongolian (spoken around the 13th century) and has been used until modern times, before being replaced in the Republic of Mongolia by a version of the Cyrillic alphabet specifically created for Mongolian, which also adopts an orthography much closer to the current pronunciation. However, Mongolians in China still use the traditional Mongolian alphabet and old orthography. The in-game pronunciation, however, seems sometimes to lean towards an Inner Mongolian accent.
+
+Note: The Mongol script is written vertically and from left to right (see here for an example), so the one shown here has to be rotated clockwise by 90°; further, it might not be visualized well in the browser
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Male_Select_1_AoE2.ogg Select 1 Тiim üü? (Тийм үү? / ᠲᠡᠶᠢᠮᠦ ᠦᠦ?) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Male_Select_2_AoE2.ogg Select 2 Amar mend üü? (Амар мэнд үү? / ᠠᠮᠤᠷ ᠮᠡᠨᠳᠦ ᠦᠦ?) - Everything's fine? (literally - "Is there peace and serenity?")
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Male_Select_3_AoE2.ogg Select 3 Belen baina (Бэлэн байна / ᠪᠡᠯᠡᠨ ᠪᠠᠶᠢᠨ᠎ᠠ) - I am ready
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Male_Select_4_AoE2.ogg Select 4 Zakhir (Захир / ᠵᠠᠬᠢᠷ) - Command! (imperative)
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Male_Task_1_AoE2.ogg Task 1 Za za (За за / ᠵᠠ ᠵᠠ) - Okay / Of course
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Male_Task_2_AoE2.ogg Task 2 Tiim ee (Тийм ээ / ᠲᠡᠶᠢᠮᠦ ᠡ) - Yes / Of course
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Male_Task_3_AoE2.ogg Task 3 Züitei (Зүйтэй / ᠵᠦᠢᠲᠡᠢ) - Correct (literally - "appropriate")
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Male_Task_4_AoE2.ogg Task 4 Bi bolgoyo (Би болгоё) - Let me do it (literally "Let me make it become", causative of "болох / bolokh")
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Male_Build_AoE2.ogg Build Barilgachin (Барилгачин / ᠪᠠᠷᠢᠯᠭᠠᠴᠢᠨ) - Builder (it is pronounced barilagchin)
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Male_Chop_AoE2.ogg Chop Modchin (Модчин / ᠮᠣᠳᠤᠴᠢᠨ) - Wood cutter ("мод / mod" - wood, tree)
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Male_Farm_AoE2.ogg Farm Khödöö aj akhuin erkhlegch (Хөдөө аж ахуйн эрхлэгч / ᠬᠥᠳᠡᠭᠡ ᠠᠵᠤ ᠠᠬᠤᠢ ᠶᠢᠨ ᠡᠷᠬᠢᠯᠡᠭᠴᠢ) - Agricultural manager (unusual translation for "farmer", which would be "тариачин / tariachin" or even "фэрмэр / fermer"; notice that Mongols have never truly practiced agriculture until very recent times)
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Male_Fish_AoE2.ogg Fish Zagaschin (Загасчин / ᠵᠢᠭᠠᠰᠤᠴᠢᠨ) - Fisher ("загас / zagas" - fish)
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Male_Forage_AoE2.ogg Forage Amitan tejeegch (Амьтан тэжээгч / ᠠᠮᠢᠲᠠᠨ ᠲᠡᠵᠢᠭᠡᠭᠴᠢ) - Animal raiser (literally - "animal feeder", more correctly "[амьтан] үржүүлэгч / [amitan] ürjüülegch")
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Male_Hunt_AoE2.ogg Hunt Anchin (Анчин / ᠠᠩᠴᠢᠨ) - Hunter
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Male_Mine_AoE2.ogg Mine Uurkhaichin (Уурхайчин / ᠠᠭᠤᠷᠬᠠᠶᠢᠴᠢᠨ) - Miner (уурхай / uurkhai - mine)
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Male_Repair_AoE2.ogg Repair Zasvarchin (Засварчин / ᠵᠠᠰᠠᠪᠤᠷᠢᠴᠢᠨ) - Repairer
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Female_Attack_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mongols_Villager_Male_Attack_AoE2.ogg Attack Uragshaa davshaad! (Урагшаа давшаад!) - Charge(d) forward!!! (emphatic) (not used)
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Soldier_Select_1_AoE2.ogg Select 1 Тiim üü? (Тийм үү? / ᠲᠡᠶᠢᠮᠦ ᠦᠦ?) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Soldier_Select_2_AoE2.ogg Select 2 Belen (Бэлэн / ᠪᠡᠯᠡᠨ) - Ready
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Soldier_Select_3_AoE2.ogg Select 3 Tushaal sons (Тушаал сонс / ᠲᠤᠰᠢᠶᠠᠯ ᠰᠣᠨᠤᠰ) - Listen to the command! (Strange translation, because it is an imperative, so it appears that it is the soldier who is telling the player to listen to a command. Alternatively, the soldier may be instructing his comrades to listen.)
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Soldier_Move_1_AoE2.ogg Move 1 Medlee, güitsetgiye (Мэдлээ, гүйцэтгье) - Got it, let's carry it out (the common pronunciation for these forms in "-ье / -ye" is "-ий / iy")
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Soldier_Move_2_AoE2.ogg Move 2 Güitsetgiye (Гүйцэтгье/ᠭᠦᠢᠴᠡᠳᠭᠡᠢ) - Let's carry it out
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Soldier_Move_3_AoE2.ogg Move 3 Тiim (Тийм / ᠲᠡᠶᠢᠮᠦ) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Soldier_Attack_1_AoE2.ogg Attack 1 Uragshaa davshaad! (Урагшаа давшаад!) - Charge(d) forward!!! (emphatic)
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Soldier_Attack_2_AoE2.ogg Attack 2 Baildaand! (Байлдаанд! / ᠪᠠᠶᠢᠯᠳᠤᠭᠠᠨ ᠳᠤ!) - To the fight!
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Soldier_Attack_3_AoE2.ogg Attack 3 Medlee, güitsetgiye! (Мэдлээ, гүйцэтгье!) - Got it, let's carry it out!
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Soldier_Attack_4_AoE2.ogg Attack 4 Khurailan davsh! (Хурайлан давш!) - Advance with a "hurray"! (- "хурай / khurai", onomatopoeic)
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Monk_Select_1_AoE2.ogg Select 1 Bolgoson uu? (Болгосон уу? / ᠪᠣᠯᠭᠠᠭᠰᠠ ᠦᠦ?) - Has it been accomplished? (Have you/I/someone done it?)
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Monk_Select_2_AoE2.ogg Select 2 Amar baina uu? (Амар байна уу? / ᠠᠮᠤᠷ ᠪᠠᠶᠢᠨ᠎ᠠ ᠦᠦ?) - Everything's fine?
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Monk_Select_3_AoE2.ogg Select 3 Soyorkh"yo (Соёрxъё) - I will consent
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Monk_Select_4_AoE2.ogg Select 4 Surgaal sons (Сургаал сонс / ᠰᠤᠷᠭᠠᠯ ᠰᠣᠨᠤᠰ) - Listen to the doctrine
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Monk_Move_1_AoE2.ogg Move 1 Tiim ee (Тийм ээ / ᠲᠡᠶᠢᠮᠦ ᠡ) - Yes / Of course
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Monk_Move_2_AoE2.ogg Move 2 Bolgoyo (Болгоё) - Let me do it
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Monk_Move_3_AoE2.ogg Move 3 Za züitei (За зүйтэй / ᠵᠠ ᠵᠦᠢᠲᠡᠢ) - Yes, correct (literally - "appropriate")
+
+https://ageofempires.fandom.com/wiki/File:Mongols_Monk_Move_4_AoE2.ogg Move 4 Bi bolgoyo (Би болгоё) - Let me do it
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Mongols_King_Select_1_AoE2.ogg Select 1 Тiim üü? (Тийм үү? / ᠲᠡᠶᠢᠮᠦ ᠦᠦ?) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Mongols_King_Select_2_AoE2.ogg Select 2 Amar mend üü? (Амар мэнд үү? / ᠠᠮᠤᠷ ᠮᠡᠨᠳᠦ ᠦᠦ?) - Everything's fine?
+
+https://ageofempires.fandom.com/wiki/File:Mongols_King_Select_3_AoE2.ogg Select 3 Belen baina (Бэлэн байна / ᠪᠡᠯᠡᠨ ᠪᠠᠶᠢᠨ᠎ᠠ) - I am ready
+
+https://ageofempires.fandom.com/wiki/File:Mongols_King_Select_4_AoE2.ogg Select 4 Aildvar sons (Айлдвар сонс / ᠠᠶᠢᠯᠠᠳᠪᠤᠷᠢ ᠰᠣᠨᠤᠰ) - Listen to [my] words (like the soldier and the monk, it is the king who is addressing the player, not the contrary!)
+
+https://ageofempires.fandom.com/wiki/File:Mongols_King_Move_1_AoE2.ogg Move 1 Za (За / ᠵᠠ) - Okay (sounds condescending)
+
+https://ageofempires.fandom.com/wiki/File:Mongols_King_Move_2_AoE2.ogg Move 2 Tiim ee (Тийм ээ / ᠲᠡᠶᠢᠮᠦ ᠡ) - Yes / Of course
+
+https://ageofempires.fandom.com/wiki/File:Mongols_King_Move_3_AoE2.ogg Move 3 Züi (Зүй / ᠵᠦᠢ) - Decency
+
+https://ageofempires.fandom.com/wiki/File:Mongols_King_Move_4_AoE2.ogg Move 4 Bi bolgoyo (Би болгоё) - Let me do it
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Mongol AI characters:
+
+Batu Khan (ᠪᠠᠲᠣ ᠬᠠᠭᠠᠨ): A Mongol ruler and founder of the Golden Horde, division of the Mongol Empire. Batu was a son of Jochi and grandson of Genghis Khan.
+
+Chagatai Khan (ᠴᠠᠭᠠᠲᠠᠶ ᠬᠠᠭᠠᠨ): was the second son of Genghis Khan. He was Khan of the Chagatai Khanate from 1226-1242 C.E. The Chagatai language and Chagatai Turks take their names from him. He inherited most of what are now the five Central Asian states after the death of his father.
+
+Chepe (ᠵᠡᠪᠡ; Jebe or Jebei): One of the prominent Noyans (generals) of Genghis Khan. He belonged to the Besud clan, part of the Taichud tribe, which was under Targudai Khiriltug's leadership at the time of Genghis Khan.
+
+Genghis Khan (ᠴᠢᠩᠭᠢᠰ ᠬᠠᠭᠠᠨ, Чингис Хаан): (c. 1162 – August 18, 1227; born Temüjin): The Great Khan and founder of the Mongol Empire, which became the largest contiguous empire in history after his death. He came to power by uniting many of the nomadic tribes of Northeast Asia. After founding the Empire and being proclaimed "Genghis Khan", he launched the Mongol invasions that conquered most of Eurasia. Campaigns initiated in his lifetime include those against the Qara Khitai, Caucasus, and Khwarazmian, Western Xia and Jin dynasties.
+
+Guyuk Khan (ᠭᠦᠶᠦᠭ ᠬᠠᠭᠠᠨ): The third Great Khan of the Mongol Empire, the eldest son of Ögedei Khan and a grandson of Genghis Khan. He reigned from 1246 to 1248.
+
+Hulegu Khan (ᠬᠦᠯᠡᠭᠦ ᠬᠠᠭᠠᠨ): was a Mongol ruler who conquered much of Western Asia. Son of Tolui and the Keraite princess Sorghaghtani Beki, he was a grandson of Genghis Khan and brother of Ariq Böke, Möngke Khan, and Kublai Khan. He was the founder of the Ilkhanate of Persia.
+
+Jochi (ᠵᠥᠴᠢ): was a Mongolian army commander who was the eldest son of Genghis Khan, and presumably one of the four sons by his principal wife Börte, though issues concerning his paternity followed him throughout his life. An accomplished military leader, he participated in his father's conquest of Central Asia, along with his brothers and uncles.
+
+Kabul (ᠺᠠᠪᠦᠯ): The first known Khan of the Khamag Mongol confederation and great-grandfather to Genghis Khan.
+
+Khabul Khan (ᠺᠠᠪᠦᠯ ᠬᠠᠭᠠᠨ, Хабул хан): See Kabul.
+
+Khubilai Khan (ᠬᠤᠪᠢᠯᠠᠢ ᠬᠠᠭᠠᠨ): Better known as Kublai Khan, the fifth Khagan of the Mongol Empire, reigning from 1260 to 1294 (although due to the division of the empire this was a nominal position). He also founded the Yuan dynasty in China as a conquest dynasty in 1271, and ruled as the first Yuan emperor until his death in 1294.
+
+Kitboga (ᠺᠢᠲᠪᠦᠺᠠ): A Nestorian Christian of the Turkic Naiman tribe, a group that was subservient to the Mongol Empire. He was a lieutenant and confidant of the Mongol Ilkhan Hulagu, assisting him in his conquests in the Middle East. He was killed by the Mamluks at the Battle of Ain Jalut, which terminated the Mongols' invasion in the Middle East.
+
+Kitbuqa Noyan (ᠺᠢᠲᠪᠦᠺᠠ ᠨᠣᠶᠠᠨ): See Kitboga.
+
+Kushluk (ᠬᠦᠴᠦᠯᠦᠭ): A member of the Naiman tribe of western Mongolia who became the last ruler of Qara Khitai empire. The Naimans were defeated by Genghis Khan and he fled westward to the Qara Khitai, where he became an advisor. He later rebelled, usurped the throne, and took control of Qara Khitai. He was killed in 1218 by the Mongols and the domain of the Qara Khitai absorbed into the rising Mongol Empire.
+
+Mongke Khan (ᠮᠥᠩᠬᠡ ᠬᠠᠭᠠᠨ, Мөнх хаан): The fourth Khagan of the Mongol Empire, ruling from 1251 to 1259. He was the first Khagan from the Toluid line, and made significant reforms to improve the administration of the Empire during his reign.
+
+Nogai Khan (ᠨᠥᠭᠠᠢ ᠬᠠᠭᠠᠨ, Ногай Хаан; died 1299/1300): was a general and de facto ruler of the Golden Horde and a great-great-grandson of Genghis Khan. At his height, Nogai was one of the most powerful men in Europe, and widely thought of as the Horde's true head
+
+Ogedei Khan (ᠦᠭᠡᠳᠡᠢ ᠬᠠᠭᠠᠨ, Өгэдэй Хан): The third son of Genghis Khan and second Great Khan of the Mongol Empire, succeeding his father. He continued the expansion of the empire that his father had begun, and was a world figure when the Mongol Empire reached its farthest extent west and south during the Mongol invasions of Europe and East Asia.
+
+Subotai (ᠰᠥᠪᠡᠭᠡᠳᠡᠢ, Сүбээдэй): An Uriankhai general, and the primary military strategist of Genghis Khan and Ögedei Khan. He directed more than twenty campaigns in which he conquered thirty-two nations and won sixty-five pitched battles, during which he conquered or overran more territory than any other commander in history. He gained victory by means of imaginative and sophisticated strategies and routinely coordinated movements of armies that were hundreds of kilometers away from each other.
+
+Subotai Ba'atur (ᠰᠥᠪᠡᠭᠡᠳᠡᠢ ᠪᠠᠭᠠᠲᠣᠷ, Сүбээдэй Баатар): See Subotai.
+
+Tamerlane (ᠲᠡᠮᠦᠷ): The Turco-Mongol founder of the Timurid Empire in Persia and Central Asia. In the Definitive Edition, he is changed to a Tatar AI player and is the protagonist of the Tatar campaign. He is still mentioned in both the Mongol and Tatar history sections.
+
+Tokhtamysh Khan (Тохтамыш Хан): A prominent khan of the Blue Horde, briefly unified the White Horde and Blue Horde subdivisions of the Golden Horde into a single state. He descended from Genghis Khan's grandson, Tuqa-Timur.
+
+Toktamish Khan (Тохтамыш): See Tokhtamysh Khan.
+
+Uzbeg (ᠥᠽᠪᠧᠭ, Өзбег): The longest-reigning khan of the Golden Horde, which reached its zenith under his reign. In the Definitive Edition, he is a Tatar AI player instead, spelled Oz Beg Khan. He is also mentioned in the Tatars' history section.
+
+History[]
+
+“ The Mongols were nomads from the steppes of Central Asia. They were fierce warriors who fought each other over pasturelands and raided developed civilizations to the east and south. At the beginning of the thirteenth century, the Mongol clans united and began a campaign of foreign conquest. Following in the hoofprints of the Huns , their predecessors by a thousand years, they carved out one of the largest empires the world has yet seen. The Mongols inhabited the plains south of Lake Baikal in modern Mongolia. At its maximum, their empire stretched from Korea , across Asia, and into European Russia to the Baltic Sea coast. They held most of Asia Minor, modern Iraq, modern Iran, Afghanistan, Pakistan, Tibet, parts of India, parts of Burma , all of China , and parts of Vietnam . The Mongol clans were united by Temuchin, called Genghis Khan ("mighty ruler"), in the early thirteenth century. His ambition was to rule all lands between the oceans (Pacific and Atlantic) and he nearly did so. Beginning with only an estimated 25,000 warriors, he added strength by subjugating other nomads and attacked northern China in 1211. He took Beijing in 1215 after a campaign that may have cost 30 million Chinese lives. The Mongols then turned west, capturing the great trading city Bukhara on the Silk Road in 1220. The city was burned to the ground and the inhabitants murdered. Following Genghis Khan's death in 1227, his son Ogedei completed the conquest of northern China and advanced into Europe. He destroyed Kiev in 1240 and advanced into Hungary . When Ogedei died on campaign in 1241, the entire army fell back to settle the question of succession. Europe was spared as Mongol rulers concentrated their efforts against the Middle East and southern China. Hulagu, a grandson of Genghis, exterminated the Muslim "Assassins" and then took the Muslim capital of Baghdad in 1258. Most of the city's 100,000 inhabitants were murdered. In 1260 a Muslim army of Egyptian Mamelukes (warrior slaves of high status) defeated the Mongols in present-day Israel, ending the Mongol threat to Islam and its holy cities. Kublai Khan, another grandson of Genghis, completed the conquest of China in 1279, establishing the Yuan dynasty. Attempted invasions of Japan were thrown back with heavy loss in 1274 and 1281. In 1294 Kublai Khan died in China, and Mongol power began to decline in Asia and elsewhere. In 1368 the Yuan dynasty in China was overthrown in favor of the Ming. In the 1370's a Turkish-Mongol warrior claiming descent from Genghis Khan fought his way to leadership of the Mongol states of Central Asia and set out to restore the Mongol Empire. His name was Timur Leng (Timur, "the Lame", or Tamerlane to Europeans and the Prince of Destruction to Asians). With another army of 100,000 or so horsemen, he swept into Russia and Persia , fighting mainly other Muslims. In 1398 he sacked Delhi, murdering 100,000 inhabitants. He rushed west defeating an Egyptian Mameluke army in Syria. In 1402 he defeated a large Ottoman Turk army near modern Ankara. On the verge of destroying the Ottoman Empire, he turned again suddenly. He died in 1405 while marching for China. He preferred capturing wealth and engaged in wholesale slaughter, without pausing to install stable governments in his wake. Because of this, the huge realm inherited by his sons fell apart quickly after his death. ” — [1]
+
+Trivia[]
+
+The Mongols' civilization icon is based on the soyombo symbol which can also be found in the current Mongolian national flag.
+
+The user interface image in the Definitive Edition displays a tug banner.
+
+The Mongols are the only East Asian civilization that can research Heresy.
+
+The Mongols are believed to acquire gunpowder during their conquests of China and used it in several forms such as Fire Lances and "naphtha-shooters" through their invasions of Khwarezmia, Eastern Europe (where they even were credited to introduce it) and Japan. However, and much like the Chinese, the Mongols only get access to the Cannon Galleon and Petards, due to balance reasons, as they have very good cavalry archers and siege weapons boosted by Drill.
+The Mongols are also famous for their heavy cavalry. In the game, they lack both the Paladin and Plate Barding Armor. This is also done for balance reason, or is already represented by their additional hit points for their Scout Cavalry and Steppe Lancer lines.
+
+Tamerlane is instead a Tatar AI player name in the Definitive Edition, as well as the subject of the Tatar campaign. In the same way, Uzbeg was moved to the Tatars AI player names (where is now named accordingly Öz Beg Khan). The change was made possibly for historical accuracy, as both were less direct descendants of Genghis Khan, whose direct sons and descendants are named in the Mongol AI player names.
+Tamerlane, however, still remains directly mentioned in both Mongol and Tatar game history sections.
+
+The following heroes available in the Scenario Editor are themed on the Mongols: Genghis Khan, Kushluk, Subotai, Tokhtamysh Khan, and Urus Khan. Tamerlane could also be considered among these names before the Definitive Edition separated the Timurids from the Mongols and into the Tatars.
+
+The Mongols are the only civilization without the Central Asian building set that have access to the Steppe Lancer line, and one of only two East Asian civilizations that have access to the Camel Rider line (the other being the Chinese).
+
+They are also the only civilization that lacks all Imperial economy technologies.
+
+The Mongols are the only civilization in the game whose Wonder lacks a real-life monumental counterpart. Instead, the Mongol Wonder is loosely based on an artistic depiction of Genghis Khan's ascension to the throne in his tent by an Ilkhanate historian, Rashid al-Din Hamadani.
+
+The Mongols are a very effective civilization for competitive players at high level, mostly due to their hunting bonus (which was considered too effective on maps with a great amount of huntables, thus being reduced a bit) allowing them to reach Feudal Age very quickly and make Scout rushes earlier. Their unique unit, the Mangudai, is recognized by most players as among the strongest and most effective in the game, to the point that in Post-Imperial Age games, it is one of the hardest to counter properly, especially if paired with their sturdier Hussars.
+
+The Mongols and French (represented by the Franks in Age of Empires II) are the only two civilizations that have the same icon across all appearances in the series.
+
+The Mongols appear in the most expansions of the game, appearing at least once in the campaign scenarios of each expansion except in The African Kingdoms where they are absent.
+
+Gallery[]
+
+The 
+
+Wonder of the Mongols, the Great Tent of Genghis Khan
+
+Mongols official preview in the 
+
+Definitive Edition
+
+The East Asian 
+
+architecture set the Mongols share with the
+
+Chinese,
+
+Japanese,
+
+Koreans, and
+
+Vietnamese
+
+The set before the 
+
+Mongols 
+
+user interface image
+
+The Mongol user interface before the 
+
+Mongol troops
+
+Nomadic cavalry
+
+Mongols Overview AoE2
+
+Notes[]
+
+↑ Does not apply to the Scout Cavalry, only to its upgrades. The bonus is applied before Bloodlines, so a Mongol Light Cavalry has 
+  
+    
+      
+        60
+        ×
+        1.3
+        =
+        78
+      
+    
+    {\displaystyle 60 \times 1.3 = 78}
+  
+ HP without Bloodlines and 
+  
+    
+      
+        60
+        ×
+        1.3
+        +
+        20
+        =
+        98
+      
+    
+    {\displaystyle 60 \times 1.3 + 20 = 98}
+  
+ HP with Bloodlines.
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/mongols
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+Asian civilizations
+
+Nomadic civilizations
+
+The Age of Kings
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

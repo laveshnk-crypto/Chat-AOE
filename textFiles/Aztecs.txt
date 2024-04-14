@@ -1,0 +1,510 @@
+This page is all about the Aztecs
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Definitive Edition
+3.5 Dawn of the Dukes
+3.6 Dynasties of India
+3.7 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 Montezuma
+4.2 Battles of the Forgotten
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+The Conquerors,
+
+American civilizations
+
+
+			English
+
+Español
+
+Aztecs (Age of Empires II)
+
+39
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+This article is about the civilization in Age of Empires II: The Conquerors . For other appearances of the faction in the series , see Aztecs .
+
+Civilization Technology tree Strategy
+
+Aztecs
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: The Conquerors
+
+Architecture
+
+Native American
+
+Continent
+
+Central/North America (Mesoamerica)
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Infantry
+
+Monks
+
+Unique units
+
+Jaguar Warrior
+
+Unique technologies
+
+Atlatl
+
+Garland Wars
+
+“ Wage Garland Wars against your neighbors, rule a vast empire from a floating city, and defend it from the Spanish conquistadors with droves of experienced infantry. Harness the power of the gods through austere priests with a thirst for human sacrifice! Backed by a thriving economy, unstoppable hordes of Jaguar Warriors and Eagle Warriors will tear your enemies to shreds! ” —Description [1]
+
+The Aztecs are a Native American civilization introduced in Age of Empires II: The Conquerors based on the empire of the same name in modern day Mexico. They focus on infantry and Monks.
+
+The Aztecs also appear as a playable civilization in Age of Empires III: The WarChiefs.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Definitive Edition
+3.5 Dawn of the Dukes
+3.6 Dynasties of India
+3.7 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 Montezuma
+4.2 Battles of the Forgotten
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+Characteristics[]
+
+Unique unit[]
+
+Jaguar Warrior: Anti-infantry infantry
+
+Unique technologies[]
+
+Atlatl: Skirmishers +1 attack and range.
+
+Garland Wars: Infantry +4 attack.
+
+Civilization bonuses[]
+
+Start the game with an Eagle Scout.
+
+Villagers carry +3 extra resources.
+
+All military units are created 11% faster.[note 1]
+
+Monks gain 5 HP for every researched Monastery technology.
+
+Start with +50 gold.
+
+Team bonus[]
+
+Relics generate +33% gold.
+
+Overview[]
+
+The greatest strength of the Aztecs is their ability to produce military units faster than their opponents. This is partially thanks to their faster production rate for all military buildings, but also thanks to their economy. The Aztec economy is one of the strongest in the game, and was especially so on release. Their Villagers carry +3 resources, which gives them an all-around solid boost to their collection rate, especially when farming. The 33% faster Relic gold production is a great bonus for the late game. The extra 50 gold at the start makes them one of the strongest civilizations for Militia rushes. Both their economy and military production boost makes them an aggressive civilization that has strong rushing capacity.
+
+Aztecs possess some of the strongest infantry options in the game. In addition to their access to Eagle Warriors, Garland Wars gives all Aztec infantry +4 attack, which gives them an edge in melee fights. The unique unit Jaguar Warrior is a very potent infantry counter, thanks to its bonus attack. Atlatl gives their Skirmishers an extra +1 attack and +1 range, albeit lacking the last armor upgrade. The Aztecs are strong in the siege weapon department with Siege Rams, Siege Onagers, and Siege Engineers. Their Monks are the best in the game with access to all religious technologies and a stacking +5 hit points with every one researched, eventually gaining a monstrous 100 hit points when fully upgraded, though some of the technologies are very pricey (notable Faith and Heresy).
+
+Being a Native American civilization, they lack any access to the Stable (as well as every Stable unit apart from the Xolotl Warrior), Cavalry Archers (and its alternatives), and gunpowder units. The lack of the Halberdiers means that they are reliant on their Monks against enemy heavy cavalry. While their foot archers benefit from the Aztecs' economy, the lack of Thumb Ring and Ring Archer Armor hurts it overall. Their navy is weak, lacking the Galleon and Cannon Galleon. Their defensive structures are below average, lacking all building hit point technologies and Keeps.
+
+Overall, the Aztecs are great both on open and closed maps, thanks to a combination of strong military production and powerful options.
+
+Changelog[]
+
+The Conquerors[]
+
+With patch 1.0b, they gain a new civilization bonus: Loom is free.
+
+The Forgotten[]
+
+Free Loom removed, start with +50 gold from the start instead.
+
+Now start with an Eagle Scout instead of an Eagle Warrior.
+
+Jaguar Warriors have more base pierce armor (0 → 1).
+
+Elite Jaguar Warriors anti-infantry bonus increased (+10 → +11).
+
+The African Kingdoms[]
+
+In patch 4.8, the Demolition Raft and Demolition Ship were added to the technology tree.
+
+Definitive Edition[]
+
+With update 37650, military unit creation speed bonus decreased (18% → 11%).
+
+With update 42848:
+Villagers carry extra resource carry capacity decreased (+5 → +3).
+Jaguar Warriors train faster (20 → 12 seconds).
+
+Dawn of the Dukes[]
+
+With update 56005, Standard Jaguar Warriors have more hit points (50 → 65).
+
+Dynasties of India[]
+
+With update 81058:
+(Elite) Jaguar Warriors have more base pierce armor (1 → 2).
+Their 50 extra starting gold is received only after completing the first Town Center.
+
+The Mountain Royals[]
+
+With update 99311, Devotion was introduced, which also increases Monk hit points (95 → 100).
+
+Campaign appearances[]
+
+The Aztecs have a campaign devoted to their civilization: Montezuma. They also make appearances as AI players in:
+
+Montezuma[]
+
+This campaign is played as the Aztecs.
+
+Reign of Blood
+Tlatiluco - Enemy
+
+The Triple Alliance
+Tlaxcala - Enemy
+Tlacopan - Ally → Enemy
+
+La Noche Triste
+Conquered Aztecs - Enemy
+Tlaxcala - Enemy
+
+Quetzalcoatl, The Boiling Lake and Broken Spears
+Tlaxcala - Enemy
+
+Battles of the Forgotten[]
+
+Dos Pilas
+Uaxactun - Ally or Enemy
+Raiders - Enemy
+
+In-game dialogue language[]
+
+Historically, the Aztecs spoke Classical Nahuatl, an Uto-Aztecan language related to Comanche among others. In-game, however, Aztec units seem to speak an unrelated Mayan language, though not the one spoken by the Mayans (Kʼicheʼ).
+
+For example, female lumberjacks say ajsi, which means "wood worker" in some Mayan languages like Yucatec (si means "wood", aj- is a prefix denoting profession). Fisherwomen say ajkix, formed by the same prefix aj- and kix, the word for "fish" in another Mayan language, Mam. Finally, builders say ajtsaq, which means "bricklayer" in several Mayan languages including Kaqchikel.
+
+The language used could be an unidentified Mayan language, or possibly a mix of Yucatec, Kaqchikel, Kʼicheʼ, Mam and others.
+
+Note: Spelling speculative
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Male_Select_1_AoE2.ogg Select 1 Oc? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Female_Select_2_AoE2.ogg Female Select 2
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Male_Select_2_AoE2.ogg Male Select 2 Che?
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Male_Select_3_AoE2.ogg Select 3 Bant' ney
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Female_Select_4_AoE2.ogg Select 4 Comantsi
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Male_Task_1_AoE2.ogg Task 1 Cuh - I'm going(?)
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Male_Task_2_AoE2.ogg Task 2 Oc - Yes
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Male_Task_3_AoE2.ogg Task 3 Ic com
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Male_Task_4_AoE2.ogg Task 4 Bantéwon
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Male_Build_AoE2.ogg Build Ajtsaq - Bricklayer
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Female_Chop_AoE2.ogg Female Chop Ajsi - Wood worker
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Male_Chop_AoE2.ogg Male Chop Aksay - Lumberjack
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Female_Farm_AoE2.ogg Female Farm Tsag genani - Farmer
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Male_Farm_AoE2.ogg Male Farm Tsag onan - Farmer
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Male_Fish_AoE2.ogg Fish Ajkix - Fisherman
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Female_Forage_AoE2.ogg Female Forage Achium - Gatherer
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Male_Forage_AoE2.ogg Male Forage Asku - Gatherer
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Female_Hunt_AoE2.ogg Female Hunt Achium - Hunter
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Male_Hunt_AoE2.ogg Male Hunt Asku - Hunter
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Female_Mine_AoE2.ogg Female Mine Tsag genani - Miner
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Male_Mine_AoE2.ogg Male Mine Tsag onan - Miner
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Male_Repair_AoE2.ogg Repair Achuin tscha - Repairer
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Female_Attack_AoE2.ogg Female Attack (not used)
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Villager_Male_Attack_AoE2.ogg Male Attack Zhunqey! - Attack! (not used)
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Soldier_Select_1_AoE2.ogg Select 1 Oc? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Soldier_Select_2_AoE2.ogg Select 2 Bant' ney
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Soldier_Select_3_AoE2.ogg Select 3 Comantsi
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Soldier_Move_1_AoE2.ogg Move 1 Oc - Yes
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Soldier_Move_2_AoE2.ogg Move 2 Bantéwon
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Soldier_Move_3_AoE2.ogg Move 3 Cuh - I'm going(?)
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Soldier_Attack_1_AoE2.ogg Attack 1 Zhunqey! - Attack!
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Soldier_Attack_2_AoE2.ogg Attack 2 Zebiok! - Attack!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Monk_Select_1_AoE2.ogg Select 1 Ochelokei
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Monk_Select_2_AoE2.ogg Select 2 Necchio
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Monk_Select_3_AoE2.ogg Select 3 Bintchang
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Monk_Select_4_AoE2.ogg Select 4 Comantsa
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Monk_Move_1_AoE2.ogg Move 1 Cuh - I'm going(?)
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Monk_Move_2_AoE2.ogg Move 2 Oc - Yes
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Monk_Move_3_AoE2.ogg Move 3 Ic com
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_Monk_Move_4_AoE2.ogg Move 4 Bantéwon
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_King_Select_1_AoE2.ogg Select 1 Oc? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_King_Select_2_AoE2.ogg Select 2 Necchio
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_King_Select_3_AoE2.ogg Select 3 Bintchang
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_King_Select_4_AoE2.ogg Select 4 Comantsa
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_King_Move_1_AoE2.ogg Move 1
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_King_Move_2_AoE2.ogg Move 2
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_King_Move_3_AoE2.ogg Move 3 Ic com
+
+https://ageofempires.fandom.com/wiki/File:Aztecs_King_Move_4_AoE2.ogg Move 4 Oc - Yes
+
+AI player names[]
+
+When playing a random map game against the AI, the player may encounter any of the following Aztec AI characters:
+
+Acamapichtli ("Handful of Reeds", 1356-1395): First tlatoani of the city-state of Tenochtitlan, ruling from 1376 as a vassal of the Tepanecs. He expanded Tenochtitlan's island, enacted the first Aztec laws, and built the first temple on the site of the Great Pyramid. He favored diplomacy and there were only two or three wars during his reign: first in support of the Tepanecs, and after he won the right to wage war on his own, mostly against Xochimilco for the purpose of collecting chinampas to add to Tenochtitlan's.
+
+Ahuitzotl ("Water Thorny", r. 1486-1502): Eighth ruler of Tenochtitlan. Greatly expanded Aztec territory by defeating the Huastecs, Mixtecs, Zapotecs, and other Pacific coastal peoples up to Guatemala. Further developed Tenochtitlan and its Great Pyramid.
+
+Axayacatl ("Face of Water", 1449-1481): Sixth ruled of Tenochtilan, reigned from 1469. Defeated the Tlatelolcans and Matlatzincans before being bested by the Tarascans, which marred his image as this was the first major defeat of the Aztecs. Preceded his brothers Ahuitzotl and Tizoc on the throne despite being the youngest.
+
+Chimalpopoca ("Smoking Shield", 1397-1427): Third ruler of Tenochtitlan, reigned from 1417. Supposedly died in Tepanec custody for supporting a Tepanec emperor overthrown in a coup d'état, but it's been suggested he was actually killed in an Aztec coup d'état by Itzcoatl and history rewritten to blame the Tepanecs.
+
+Cuauhtemoc ("Falling Eagle", 1497-1525): Eleventh and last independent Aztec ruler, reigned from 1520. Taken prisoner after the Siege of Tenochtitlan, was later tortured and hanged by Cortés after being accused of plotting a rebellion against the Spanish. Serves as narrator of the Montezuma campaign where he rises from Eagle Warrior to Emperor, and also appears as the AI personality of the Aztecs in Age of Empires III: The WarChiefs.
+
+Cuitlahuac ("Carer", c. 1476-1520): Tenth ruler of Tenochtitlan, reigned for 80 days in 1520 before he died in a smallpox epidemic. Led the Aztec rebellion against his brother Montezuma II and the Spanish occupation of Tenochtitlan.
+
+Huitzilihuitl ("Hummingbird Feather", c. 1379-1417): Second ruler of Tenochtitlan, reigned from 1396. Continued the diplomatic approach of his father Acamapichtli and created the Royal Council to advice him due to his young age. Only fought one war around the time of his death, supporting the Tepanecs against Texcoco.
+
+Itzcoatl ("Obsidian Serpent", 1380-1440): Fourth ruler of Tenochtitlan, reigned from 1428. Illegitimate son of Acamapichtli and uncle of Chimalpopoca, whom he possibly overthrew. Threw off the domination of the Tepanecs and forged the Triple Alliance with Texcoco and Tlacopan, which became the basis of the Aztec Empire. Also burned the historical codices and replaced them with a state-sanctioned history and mythos that venerated Huitzilopochtli, the god of war.
+
+Maxixca (a.k.a. Maxixcatl or Maxixcatzin, "Lord Maxixca", ?-1520): Lord of Ocotelulco, one of four components of Tlaxcala, and instrumental agent in establishing the Tlaxcala-Spanish alliance. Died of smallpox.
+
+Montezuma (a.k.a. Moctezuma, "Angry Ruler"): Two Aztec emperors were named Montezuma - the fifth, Montezuma I (1398-1469, r. from 1440); and the ninth, Montezuma II (1466-1520, r. from 1502). Montezuma I truly created the Aztec Empire by conquering the Tepanecs and Tlatelolcans and expanding to the Caribbean coast, while Montezuma II expanded into the south and pushed centralization and aristocratic rule as a way to consolidate the conquests of his predecessors. Montezuma II welcomed the Spanish into Tenochtitlan before he was killed in the lead up to the Noche Triste.
+
+Tizoc ("He who makes sacrifices/penance", r. 1481-1486): Seventh ruler of Tenochtitlan, brother of Axayacatl and Ahuitzotl. Conquered the Maya-speaking Huastecs before dying of illness or poison.
+
+History[]
+
+“ Political control of the populous and agriculturally rich central valley of Mexico fell into confusion after 1100. Gradually assuming ever-greater power were the Aztecs, probably a northern tribe that had migrated to the valley and occupied a minor town on the shore of the great central lake. They were a society that valued the skills of warriors above all others, and this emphasis gave them an advantage against rival tribes in the region. By the end of the 15th century, the Aztecs controlled all of central Mexico as a military empire that collected tribute from rivals. The Aztec culture drew upon the experience of those that came before it and invented little that was new. They had an advanced agriculture that supported a very large population. They built immense buildings of grand design and flourished in many arts. They were adept metal workers, but had no iron. Lacking any suitable draft animal, they made no motive use of the wheel. One of the distinctive features of the Aztec culture was its penchant for sacrifice. Aztec myths dictated that human blood be fed to the Sun to give it the strength to rise each day. Human sacrifices were conducted on a grand scale; several thousand in a single day were not uncommon. Victims were often decapitated or flayed, and hearts were cut from living victims. Sacrifices were conducted at the top of tall pyramids to be close to the sun and blood flowed down the steps. Although the Aztec economy was based primarily on corn (or maize), the people believed that crops depended on the regular provision of sacrificial blood. The incessant demand for sacrificial victims meant that the Aztecs tolerated loose control over satellite cities because frequent revolts offered opportunities for capturing new victims. During times of peace, " garland wars " were arranged strictly as contests of courage and warrior skill, and for the purpose of capturing victims. They fought with wooden clubs to maim and stun, rather than kill. When fighting to kill, the clubs were studded with obsidian blades. Despite their great agriculture and arts, the Aztecs appear in retrospect to have been a waning society. They passed on no significant technology or ideas of religion or political theory. Their civilization was brought to an abrupt end by the arrival of the Spanish in the early 16th century. Already devastated by European disease passed by early traders, they fell to a small Spanish army armed with steel weapons, firearms, and riding a few horses. The cruelty of the Aztecs contributed to their downfall by making it easy for the Spanish to enlist allies among the non-Aztecs in Mexico. ” — [1]
+
+Trivia[]
+
+The Aztec civilization's icon is modeled on an Aztec shield design depicted several times in the Codex Mendoza (1541), which was the Jaguar Warrior's shield design before the Definitive Edition.
+
+The user interface image in the Definitive Edition displays the Aztec sun stone.
+
+Jaguar Warriors wear a different shield in the Definitive Edition, having a design similar to the Eagle Warrior's but with the background in the player's color instead of the foreground. These two designs also appear in the Codex Mendoza.
+The Jaguar Warrior's original shield design is worn by the Xolotl Warrior and the hero Itzcoatl.
+
+The presence of siege weaponry is anachronistic, but was intentionally left in due to the designers' limited time and other resources.[2]
+
+For years, the Aztecs were one of the strongest civilizations on both Arabia and Arena as well as many other land maps because of their significant early bonuses which allowed them to be very flexible in the early game with a large military lead, which also lead them to be highly picked in most tournaments in the competitive scene or banned in the draft stage. This possibly explains the nerfs of their faster creation of military units, free Loom changed to +50 gold (thus removing their extra Villager lead), and the extra resources carried by Villagers. However, their unique unit, the Jaguar Warrior, was among the least used unique units, which also explains the big training time reduction introduced in update 42848, and the hit points for non-elite Jaguar Warriors and pierce armor increased in later updates.
+
+Despite the Aztecs being very powerful in land maps in 1 vs 1, they do not perform very well in team games, due to focus on infantry, Monks and siege, neither of which are popular in team games.
+
+The following heroes available in the Scenario Editor are themed on the Aztecs: Cuauhtemoc and Itzcoatl.
+
+With a Briton (providing 10% faster working Archery Ranges), a Celtic (providing 20% faster working Siege Workshops) and a Gothic (providing 20% faster working Barracks) or a Berber ally (providing 25% faster working Castles researching the Kasbah technology), the Aztecs might be the civilization that can deploy their military units the fastest.
+
+The Aztecs are the only Native American civilization that lack access to Halberdiers, Thumb Ring, and Ring Archer Armor, as well the only one that has access to every technology at the Monastery.
+
+Since update 81058, the Aztecs are now the civilization closest to having access to all Barracks units and technologies (despite lacking the Halberdier, with Garland Wars, Aztec Pikemen can beat most Halberdiers from other civilizations, though being much worse against cavalry than Halberdiers).
+
+According to Sandy Petersen, the team at Ensemble Studio did indeed hire a Nahuatl expert to assist with the Aztec unit dialogue. It is unknown why the dialogue is wrong despite said expert being present; Petersen made an offhand comment suggesting that the expert may have ripped them off.
+
+Gallery[]
+
+The Wonder of the Aztecs, the 
+
+Great Pyramid of Tenochtitlan
+
+Aztecs preview in the 
+
+Definitive Edition
+
+The Native American 
+
+architecture set the Aztecs share with the
+
+Incas and
+
+Mayans
+
+The set before the 
+
+Aztecs user interface image
+
+The Aztec 
+
+user interface in the
+
+Tenochtitlan, the capital of the Aztec Empire, as seen in 
+
+Broken Spears
+
+Aztec warriors in Folio 67 of the Condex Mendoza, the Aztec crest icon can be seen on the shield of the third warrior
+
+Aztecs Overview AoE2
+
+Competitive Civ Overview -1- The Aztecs
+
+Notes[]
+
+↑ This is internally handled by the units, instead of the buildings. This means that this bonus applies to any buildings converted by the Aztecs, but not any buildings converted from the Aztecs (the opposite of standard behavior).
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/aztecs
+
+↑ https://i.imgur.com/yhwNSSm.png
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+The Conquerors
+
+American civilizations
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

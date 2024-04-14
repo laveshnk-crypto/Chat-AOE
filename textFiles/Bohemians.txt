@@ -1,0 +1,486 @@
+This page is all about the Bohemians
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Dawn of the Dukes
+3.2 Dynasties of India
+3.3 Return of Rome
+
+4 Campaign appearances
+
+4.1 Barbarossa
+4.2 Genghis Khan
+4.3 Jadwiga
+4.4 Jan Zizka
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+Dawn of the Dukes,
+
+European civilizations
+
+
+			English
+
+Español
+
+Bohemians
+
+35
+
+Edit
+
+Edit source
+
+View history
+
+Talk (1)
+
+Civilization Technology tree Strategy
+
+Bohemians
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: Definitive Edition - Dawn of the Dukes
+
+Architecture
+
+Eastern European
+
+Continent
+
+Europe
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_jingle_AoE2_DE.ogg
+
+Features/Characteristics
+
+Focus
+
+Gunpowder units
+
+Monks
+
+Unique units
+
+Hussite Wagon
+
+Unique upgrades
+
+Houfnice
+
+Unique technologies
+
+Wagenburg Tactics
+
+Hussite Reforms
+
+“ Traverse Central Europe's tall mountains and verdant forests as you arm hardy warriors with advanced weapons and lead them to victory against insurmountable odds. The Bohemian unique units are the Hussite Wagon, a deadly forerunner of the modern tank, and the Houfnice, a powerful upgrade to the Bombard Cannon. ” —Description [1]
+
+The Bohemians are an Eastern European (as per architecture set) civilization introduced in Age of Empires II: Definitive Edition - Dawn of the Dukes centered in the Kingdom of Bohemia in central Europe. They focus on gunpowder units and Monks. Their unique units are the Hussite Wagon and the Houfnice, both of which are gunpowder siege units.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Dawn of the Dukes
+3.2 Dynasties of India
+3.3 Return of Rome
+
+4 Campaign appearances
+
+4.1 Barbarossa
+4.2 Genghis Khan
+4.3 Jadwiga
+4.4 Jan Zizka
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+Characteristics[]
+
+Unique unit[]
+
+Hussite Wagon: Tanky siege unit that can protect rear units.
+
+Houfnice: Upgrade of the Bombard Cannon, provides additional HP, attack, and blast radius.
+
+Unique technologies[]
+
+Wagenburg Tactics: Gunpowder units move 15% faster.
+
+Hussite Reforms: Monks and Monastery upgrades have their gold cost replaced by food.
+
+Civilization bonuses[]
+
+Blacksmiths and Universities cost -100 wood.
+
+Chemistry and Hand Cannoneer available in Castle Age.
+
+Spearman-line deals +25% bonus damage.[note 1]
+
+Fervor and Sanctity affect Villagers.
+
+Mining Camp technologies are free.
+
+Team bonus[]
+
+Markets work 80% faster.
+
+Overview[]
+
+The Bohemians are a civilization focused on gunpowder units and Monks. As such, they have solid gunpowder advantages such as Chemistry and Hand Cannoneers available in the Castle Age. Their unique units are both gunpowder units as well, which also benefit from Wagenburg Tactics, which increases all gunpowder units' speed. For their Monks, all Monastery technologies are available, and Hussite Reforms will turn all the gold cost of all Monastery technologies and Monks into food, making them a potential trash unit. Their infantry is also fairly solid as they get all technologies available (except Gambesons) with more bonus attack for their Spearman line. Their archers are decent, with only Thumb Ring missing, which is compensated by the previously mentioned early Hand Cannoneers. The early Chemistry also gives them an edge in the Castle Age for their Crossbowmen and Skrimishers. Their Siege Weapons are potent, with Siege Engineers, Bombard Cannons (and its upgrade), Heavy Scorpions, as well as Hussite Wagons. Their defense is respectable, lacking only Hoardings and Heated Shot. Finally, the economy is solid, as cheaper Blacksmiths and Universities will save them wood, and they receive free Mining Camp technologies, with only Crop Rotation missing from their economic upgrades.
+
+Their cavalry are some of the worst out there, lacking Bloodlines, Plate Barding Armor, and the final unit upgrades. They are the only non-American civilization to completely lack any form of mounted archer unit (i.e. Cavalry Archer or Elephant Archer). Their navy is just as bad as the cavalry line, as both Imperial Dock technologies, Heavy Demolition Ships, and Fast Fire Ships are missing. Lastly, the Bohemian economy can be too slow for open maps.
+
+Overall, the Bohemians are very good at what they focus at: closed maps. They have a very wide and strong variety of long-ranged late-game units and the ability to protect them well with their infantry.
+
+Changelog[]
+
+Dawn of the Dukes[]
+
+Initially, (Elite) Hussite Wagons move at a speed of 0.85. With update 56005, (Elite) Hussite Wagons move at a speed of 0.8.
+
+Monasteries have a 100 wood discount bonus.
+
+Houfnices have 55 attack damage and attack bonus, and 0.85 blast radius. The Houfnice upgrade costs 950 food, 750 gold.
+
+Hussite Reforms costs 800 food, 450 gold.
+
+Dynasties of India[]
+
+With update 61321, Monasteries are no longer affected by the wood discount bonus.
+
+With update 61321, Houfnices have 50 attack damage and attack bonus, and 0.80 blast radius.
+
+With update 78174, the Houfnice upgrade costs 1100 food, 800 gold, and blast radius is 0.7.
+
+With update 81058, Hussite Reforms costs 500 food, 450 gold.
+
+Return of Rome[]
+
+With update 87863, Hussite Wagon frame delay decreased from 30 to 20.
+
+Campaign appearances[]
+
+The Bohemians have a campaign devoted to their civilization: Jan Zizka. They also appear in:
+
+Barbarossa[]
+
+Holy Roman Emperor
+Bohemia - Enemy
+
+Genghis Khan[]
+
+The Promise
+Bohemians - Enemy
+
+Jadwiga[]
+
+The Fruits of Her Labor
+Mercenaries - Ally
+
+Jan Zizka[]
+
+This campaign is played as the Bohemians
+
+The One-Eyed Wanderer
+Heinrich of Rozmberk - Enemy
+Rozmberk Forces - Enemy
+Bohemian Peasants - Neutral
+
+The Iron Lords
+The Iron Lords - Enemy
+Sedlec - Enemy
+Pisek - Enemy
+Prachatice - Enemy
+Tabor → Hussites - Ally
+
+The Golden City
+Royalists - Enemy
+Prague - Ally
+Hussites - Ally
+
+The Emperor's Fury
+Kutna Hora - Ally
+Hussites - Ally
+
+Warrior of God
+Royalists - Enemy
+Prague - Enemy
+Neutral Praguers - Ally
+Tabor - Ally
+
+In-game dialogue language[]
+
+Bohemian units in-game speak modern Czech (Czech: Český jazyk) with occasional Old Czech phrases. It's a Western Slavic language that belongs to Czech-Slovak language family. Until the early 20th century, the language was known as Bohemian.
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Male_Select_1_AoE2.ogg Select 1 Ano? – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Male_Select_2_AoE2.ogg Select 2 Zdař bůh – God bless (archaic greeting)
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Female_Select_3_AoE2.ogg Female Select 3 Jsem připravena - I'm ready (feminine)
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Male_Select_3_AoE2.ogg Male Select 3 Jsem připraven - I'm ready (masculine)
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Male_Select_4_AoE2.ogg Select 4 Co žádáš? - What are you asking for?
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Male_Task_1_AoE2.ogg Task 1 Ano – Yes
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Male_Task_2_AoE2.ogg Task 2 Pravdu díš - You're right (archaic, lit.: You're telling the truth)
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Male_Task_3_AoE2.ogg Task 3 Vykonám to - I'll do it
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Male_Task_4_AoE2.ogg Task 4 Budiž - So be it
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Male_Build_AoE2.ogg Build Stavím - I'm building
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Male_Chop_AoE2.ogg Chop Ščepu dřevo - I'm cutting wood (archaic)
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Male_Farm_AoE2.ogg Farm Ořu zemi - I plow the land
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Male_Fish_AoE2.ogg Fish Chytám ryby - I'm catching fish
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Male_Forage_AoE2.ogg Forage Sběrám - I'm collecting (archaic)
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Male_Hunt_AoE2.ogg Hunt Lovím zvěř - I'm hunting game
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Male_Mine_AoE2.ogg Mine Robím v dolu - I'm working in a mine (archaic)
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bohemians_Villager_Male_Repair_AoE2.ogg Repair Opravuju - I'm repairing (ungrammatical)
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Soldier_Select_1_AoE2.ogg Select 1 Ano? – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Soldier_Select_2_AoE2.ogg Select 2 K vašim službám - At your service
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Soldier_Select_3_AoE2.ogg Select 3 Co přikazuješ? - What do you command?
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Soldier_Move_1_AoE2.ogg Move 1 Rozumím - I understand
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Soldier_Move_2_AoE2.ogg Move 2 Jak žádáš - As you request
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Soldier_Move_3_AoE2.ogg Move 3 Ano, pane - Yes, sir
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Soldier_Attack_1_AoE2.ogg Attack 1 Do útoku! - To attack!
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Soldier_Attack_2_AoE2.ogg Attack 2 Bojujme! - Let's fight!
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Soldier_Attack_3_AoE2.ogg Attack 3 Do zbraně! - To arms!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Monk_Select_1_AoE2.ogg Select 1 Ano? – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Monk_Select_2_AoE2.ogg Select 2 Co po mně žádáš? - What are you asking from me?
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Monk_Select_3_AoE2.ogg Select 3 K vašim službám - At your service
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Monk_Select_4_AoE2.ogg Select 4 Ve jménu Hospodina - In Lord's name
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Monk_Move_1_AoE2.ogg Move 1 Vykonám to - I'll do it
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Monk_Move_2_AoE2.ogg Move 2 Ano – Yes
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Monk_Move_3_AoE2.ogg Move 3 Zajisté - Certainly
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_Monk_Move_4_AoE2.ogg Move 4 Již kráčím - I'm already walking
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_King_Select_1_AoE2.ogg Select 1 Ber, co ti nabízím! - Take what I'm offering you
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_King_Select_2_AoE2.ogg Select 2 Čeho si žádáš? - What do you want?
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_King_Select_3_AoE2.ogg Select 3 Proč mě rušíš? - Why are you interrupting me?
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_King_Select_4_AoE2.ogg Select 4 Hlásím se do služby - I report for duty
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_King_Move_1_AoE2.ogg Move 1 Učiním co žádáš - I'll do what you request
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_King_Move_2_AoE2.ogg Move 2 Z mé milosti - By my grace
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_King_Move_3_AoE2.ogg Move 3 Jak jsi žádal - As you requested
+
+https://ageofempires.fandom.com/wiki/File:Bohemians_King_Move_4_AoE2.ogg Move 4 Učiním to - I'll do it
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Bohemian AI characters:
+
+Boleslaus the Cruel: Boleslaus I (Czech: Boleslav I. Ukrutný) (915 – 972), a member of the Přemyslid dynasty, was ruler (kníže, "duke") of the Duchy of Bohemia from 935 to his death. He is notorious for the murder of his elder brother Wenceslaus, through which he became duke. Despite his complicity in this fratricide, Boleslaus is generally respected by Czech historians as an energetic ruler who significantly strengthened the Bohemian state and expanded its territory. His accomplishments include significant economic development due to an expansion in trade, the introduction of silver mining and the minting of the first local coinage, the Prague denarius.
+
+Bretislaus I: Bretislav I (Czech: Břetislav I.; 1002/1005 – 10 January 1055), known as the "Bohemian Achilles", of the Přemyslid dynasty, was Duke of Bohemia from 1034 until his death.
+
+Emperor Karel IV: (14 May 1316 (Jul. calendar) / 22 May 1316 (Greg. calendar) – 29 November 1378), also known as Charles of Luxembourg, born Wenceslaus (Czech: Václav), was the first King of Bohemia to become Holy Roman Emperor. He was a member of the House of Luxembourg from his father's side and the Czech House of Přemyslid from his mother's side; he emphasized the latter due to his lifelong affinity for the Czech side of his inheritance, and also because his direct ancestors in the Přemyslid line included two saints. He had a long and successful reign.
+
+Emperor Sigismund: Sigismund of Bohemia (15 February 1368 – 9 December 1437), also known as Sigismund of Luxembourg, was prince-elector of Brandenburg from 1378 until 1388 and from 1411 until 1415, king of Hungary and Croatia from 1387, king of Germany from 1411, king of Bohemia from 1419, king of Italy from 1431, and Holy Roman Emperor from 1433 until 1437, and the last male member of the House of Luxembourg.
+
+Jan Hus: Jan Hus (/hʊs/; Czech: [ˈjan ˈɦus] ; c. 1372 – 6 July 1415), sometimes anglicized as John Hus or John Huss, and referred to in historical texts as Iohannes Hus or Johannes Huss, was a Czech theologian and philosopher who became a Church reformer and the inspiration of Hussitism, a key predecessor to Protestantism and a seminal figure in the Bohemian Reformation. After John Wycliffe, the theorist of ecclesiastical reform, Hus is considered the second Church reformer, as he lived before Luther, Calvin and Zwingli. His teachings had a strong influence on the states of Western Europe, most immediately in the approval of a reformed Bohemian religious denomination and, over a century later, on Martin Luther. Hus was a master, dean, and rector at the Charles University in Prague.
+
+Jan Zizka: Jan Žižka z Trocnova a Kalicha (English: John Zizka of Trocnov and the Chalice) (c. 1360 – 11 October 1424) was a Czech general – a contemporary and follower of Jan Hus and a Radical Hussite who led the Taborites. Žižka was a successful military leader and is now a Czech national hero. He was nicknamed "One-eyed Žižka", having lost one and then both eyes in battle. Jan Žižka led Hussite forces against three crusades and never a lost single battle despite being completely blind in his last stages of life.
+
+John the Blind: John the Blind or John of Luxembourg (Luxembourgish: Jang; German: Johann; Czech: Jan; 10 August 1296 – 26 August 1346), was the count of Luxembourg from 1313 and king of Bohemia from 1310 and titular king of Poland. He is well known for having died while fighting in the Battle of Crécy at age 50, after having been blind for a decade. In Luxembourg he is considered a national hero. Comparatively, in the Czech Republic, Jan Lucemburský is often recognized for his role as the father of Charles IV, Holy Roman Emperor, one of the more significant Czech kings and simultaneously one of the leading Holy Roman Emperors.
+
+Ladislaus Postumus: (Czech: Ladislav Pohrobek, English : Ladislaus the Posthumous, 22 February 1440 – 23 November 1457) was Duke of Austria and King of Hungary, Croatia and Bohemia. He was the posthumous son of Albert of Habsburg with Elizabeth of Luxembourg. Albert had bequeathed all his realms to his future son on his deathbed, but only the estates of Austria accepted his last will. Fearing an Ottoman invasion, the majority of the Hungarian lords and prelates offered the crown to Vladislaus III of Poland. The Hussite noblemen and towns of Bohemia did not acknowledge the hereditary right of Albert's descendants to the throne, but also did not elect a new king.
+
+Ottokar I: Ottokar I (Czech: Přemysl I. Otakar; c. 1155 – 1230) was Duke of Bohemia periodically beginning in 1192, then acquired the title King of Bohemia, first in 1198 from Philip of Swabia, later in 1203 from Otto IV of Brunswick and in 1212 from Frederick II. He was a member of the Přemyslid dynasty.
+
+Premysl Ottokar II: Ottokar II (Czech: Přemysl Otakar II.; c. 1233, in Městec Králové, in Bohemia – 26 August 1278, in Dürnkrut, in Lower Austria), the Iron and Golden King, was a member of the Přemyslid dynasty who reigned as King of Bohemia from 1253 until his death in 1278. He also held the titles of Margrave of Moravia from 1247, Duke of Austria from 1251, and Duke of Styria from 1260, as well as Duke of Carinthia and landgrave of Carniola from 1269. With Ottokar's rule, the Přemyslids reached the peak of their power in the Holy Roman Empire. His expectations of the imperial crown, however, were never fulfilled.
+
+Svatopluk I: A ruler of Great Moravia, which attained its maximum territorial expansion during his reign (870–871, 871–894).
+
+Vratislaus II: Vratislaus (or Wratislaus) II (Czech: Vratislav II.) (c. 1032 – 14 January 1092), the son of Bretislaus I and Judith of Schweinfurt, was the first King of Bohemia as of 15 June 1085, his royal title granted as a lifetime honorific from Holy Roman Emperor Henry IV that did not establish a hereditary monarchy. Before his elevation to the royal dignity, Vratislaus had ruled Bohemia as duke since 1061. On his father's death in 1055, Vratislaus became duke of Olomouc, whereas his older brother became Duke of Bohemia as Spytihněv II. He fell out with his brother and was exiled to Hungary. Vratislaus regained the ducal throne of Olomouc with Hungarian assistance and eventually reconciled with his brother, then succeeded him as duke of Bohemia when he died in 1061.
+
+Wenceslaus the Good: Wenceslaus I (Czech: Václav [ˈvaːtslaf] ; c. 911 – September 28, 935), Wenceslas I or Václav the Good was the duke (kníže) of Bohemia from 921 until his assassination in 935. His younger brother, Boleslaus the Cruel, was complicit in the murder. His martyrdom and the popularity of several biographies gave rise to a reputation for heroic virtue that resulted in his elevation to sainthood. He was posthumously declared to be a king and came to be seen as the patron saint of the Czech state. He is the subject of the well-known "Good King Wenceslas", a carol for Saint Stephen's Day.
+
+Wenceslaus the One-Eyed: Wenceslaus I (Czech: Václav I.; c. 1205 – 23 September 1253), called One-Eyed, was King of Bohemia from 1230 to 1253. Wenceslaus was a son of Ottokar I of Bohemia and his second wife Constance of Hungary.
+
+History[]
+
+“ Bohemia's rich history is one of both rapid change and tenacious resilience. Early-imperial Roman authors coined the region's name after the local Boii, an ancient Celtic enemy of Rome. By the time that the Roman Empire began to fall into decay, Germanic-speaking confederations such as the Lombards and the Alemanni inhabited the region. As the Migration Period (4th-6th centuries AD) brought vast changes to Europe and its inhabitants, the Germanic groups moved on, leaving Bohemia open for a new wave of migrants. These new arrivals were speakers of the West Slavic language-branch, the ancestors of the region's modern inhabitants. Although these groups occasionally coalesced into small pseudo-states, such as that of Samo in the early 7th century, these were the exception rather than the rule. The most prevalent factors in this delayed process of state-building were probably issues posed by geographical features, continued migrations, and the threat posed by the Avar Khaganate, a confederation of predatory nomadic horsemen dwelling to the east in Pannonia. As larger settlements developed and trade increased, Bohemia's inhabitants interacted more frequently with their Frankish neighbors to the west. The resulting eastward spread of Christianity initially caused friction due to the pagan beliefs of many of the Slavic inhabitants of Bohemia, but as the new creed spread, a tenuous connection between the regions formed. This development soon bore fruit as, in the late 8th century, an alliance of Franks and Slavs thrust east and inflicted a catastrophic defeat on the Avars, driving them from the region. The resulting power vacuum was soon filled by the rising empire of Great Moravia. Striving for legitimacy, its early rulers opened relations with the Byzantine Empire, inviting Orthodox missionaries into their lands. This brief trend was reversed under Svatopluk I (c. 840-894), who ascended to power by allying himself with the Franks and deposing his uncle Rastislav. A shrewd politician and able commander, Svatopluk used his reign to expand his empire from Moravia and Bohemia into Poland and Pannonia, eventually dying as he lived–in war. Weakened by the squabbling of his successors and vulnerable to rebellion and invasion, Great Moravia did not long survive Svatopluk's death. Around the turn of the 10th century, the Magyars irrupted into Pannonia and Moravia, bringing the fragile state to its knees. Desperate to protect themselves, the Premyslids, dukes of a new Christian dynasty ruling the region around Prague, placed themselves under the protection of their German neighbors to the west. This was the first in a series of policy decisions that would see Bohemia incorporated into the Holy Roman Empire. Empowered by their western ally, the Premyslids undertook a series of campaigns to conquer Bohemia and build a new state. This ambition was set in rapid motion when Duke Boleslav I (c. 908-972) acquired Moravia after helping Otto the Great crush the Magyars at the Lechfeld in 955. For three centuries, the Premyslids ruled Bohemia, amassing vast amounts of wealth from bustling trade routes, bountiful mineral deposits that supported a strong currency, and successful warfare. Before long, the duchy grew to such strength that these magnates were gradually elevated to the status of kings. One especially ambitious king, Ottokar II (1233-1278), known as "the Iron and Golden King" for his military might and wealth, aspired to become Holy Roman Emperor. Seeing opportunity in the instability created by the recent Mongol invasions of Central and Eastern Europe, he launched campaigns in all directions, expanding his domain to the shores of the Adriatic Sea and even crusading against the pagan Baltic Prussians. Fearing his growing power, Ottokar's peers elected Rudolf of Habsburg Holy Roman Emperor instead and challenged the Bohemian behemoth. In a vicious showdown at the Marchfeld in 1278, Ottokar was defeated and slain. After the fall of the Premyslid dynasty in 1306, rulership of Bohemia passed to the illustrious House of Luxembourg. Although able kings who propelled Bohemia into a brief golden age, their tenure on the throne is best known for being plagued by religious warfare. In 1415, the Holy Roman Emperor Sigismund ordered the execution of Jan Hus, a university scholar preaching religious reforms, sparking the Hussite Wars, a precursor to the Protestant Reformation. Against all odds, the Hussites prevailed against the Imperial forces and won religious freedom due to the tactical brilliance of ingenious leaders such as Jan Zizka and Prokop the Great, who used gunpowder weaponry, geography, and fortified wagons equipped with artillery to deadly effect. The Hussite movement began another Bohemian thrust towards autonomy, but the region gradually fell under the sphere of influence of its Polish, Hungarian, and Austrian neighbors. Following the death of Louis II in battle against the Ottoman Turks at Mohacs in 1526, Bohemia passed into the dominion of the Habsburgs, who would rule it for nearly four more centuries. ” — [1]
+
+Trivia[]
+
+The Bohemian civilization icon is a combination of the royal coat of arms of Bohemia, whose background is all red, and the flag of Tábor, which is red and black, but has the chalice symbol of the Hussites in addition to the white lion. Tábor was founded by, and became the capital of the radical Hussites, who were henceforth known as Taborites.
+The all-red Bohemian coat of arms is depicted above the main entrance of the Bohemian Castle.
+
+The user interface image displays the Prague astronomical clock, a medieval astronomical clock attached to the Old Town Hall in Prague.
+
+The Bohemians are the only non-American civilization that do not have access to any form of mounted archers, as well as the only Eastern European civilization to not have access to Bloodlines or upgrade to their Light Cavalry.
+This is probably done so for geographic reasons, as the mountainous region of Bohemia is ill-suited to practice mounted archery. Also, at the time of the Hussite Revolution, Bohemia had transferred its military power from heavy cavalry to new-order gunpowder infantry.
+
+The Bohemians are one of four civilizations that have access to a generic unit earlier than other civilizations (the others being Burgundians, Cumans, and Armenians). In the case of the Bohemians, they have access to the Hand Cannoneer an age earlier.
+
+Despite Bohemians being located in Central Europe and having absorbed a lot of Germanic culture from the Holy Roman Empire, their building set is Eastern European.
+This probably is due to the Imperial Age Eastern European architecture, resembling the Czech gothic buildings a lot, and thus matching their Castle and the Wonder. Also the developers likely wanted to differentiate the Bohemians from the Teutons in their campaign.
+
+Both the Bohemian unique units are Siege units, the only such civilization with more than one unique unit. Both of them are also Gunpowder units.
+
+Jan Zizka is the only hero available in the Scenario Editor who is themed on the Bohemians.
+
+Before they had their own civilization, the Bohemians were initially represented by Teutons in Holy Roman Emperor and The Promise, then by Slavs in the Definitive Edition version of the former.
+
+In an interview with Cysion, the Bohemians were designed specifically to excel in closed maps such as Arena and Black Forest. True to his statements, the Bohemian holds one of the highest win-rates in closed maps, due to various civilization bonuses that allow to Bohemians to execute a "fast Imperial Age strategy" (i.e. free Mining Camp upgrades, Blacksmith, Monastery, & University cost less wood, and access to several strong late-game units). Conversely, the Bohemians hold one of the lowest win-rates in open maps such as Arabia, possibly due to the lack of strong early game economic and military bonuses across from free Mining Camp upgrades (which only helps their Feudal Age archer rushes) and early game rushes punish their fast Imperial Age strategy. Because of such power on closed maps, as of Dynasties of India, Bohemians no longer get Monasteries with a discount. In addition, the attack and blast radius of the Houfnice has been reduced.
+
+Gallery[]
+
+The Bohemian 
+
+Wonder, the
+
+Powder Tower
+
+Official Preview
+
+The Eastern European architecture set the Bohemians share with the 
+
+Magyars,
+
+Slavs,
+
+Bulgarians,
+
+Lithuanians, and
+
+Poles
+
+Unique Bohemian Castle: 
+
+Karlštejn Castle
+
+Bohemians user interface image
+
+Bohemians Overview (AoE2)
+
+Notes[]
+
+↑ Essentially, Bohemian spear units deal +25% attack vs mounted units. For more details, see Armor class (Age of Empires II).
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/bohemians
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+Dawn of the Dukes
+
+European civilizations
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

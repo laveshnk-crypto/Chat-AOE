@@ -1,0 +1,713 @@
+This page is all about the Slavs
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The African Kingdoms
+3.2 Rise of the Rajas
+3.3 Definitive Edition
+3.4 Lords of the West
+3.5 Dynasties of India
+3.6 Return of Rome
+3.7 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 Genghis Khan
+4.2 Barbarossa
+4.3 Alaric
+4.4 Vlad Dracula
+4.5 Battles of the Forgotten
+4.6 Tamerlane
+4.7 Ivaylo
+4.8 Kotyan Khan
+4.9 Algirdas and Kestutis
+4.10 Jadwiga
+4.11 The Art of War
+4.12 Mongol Raiders
+4.13 Barbarossa Brawl
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+8.1 Behind the scenes
+
+9 Gallery
+
+10 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+The Forgotten,
+
+European civilizations
+
+
+			English
+
+Español
+
+Slavs
+
+66
+
+Edit
+
+Edit source
+
+View history
+
+Talk (1)
+
+This article is about the civilization in Age of Empires II HD: The Forgotten . For the civilization in Age of Empires III , see Russians . For the civilization in Age of Empires IV , see Rus .
+
+Civilization Technology tree Strategy
+
+DE
+
+HD
+
+Slavs
+
+Civilization information
+
+Introduced in
+
+Age of Empires II HD: The Forgotten
+
+Architecture
+
+Eastern European
+
+Continent
+
+Europe
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Slavs_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Slavs_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Slavs_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Infantry
+
+Siege weapons
+
+Unique units
+
+Boyar
+
+Unique technologies
+
+Detinets
+
+Druzhina
+
+Slavs
+
+Civilization information
+
+Introduced in
+
+Age of Empires II HD: The Forgotten
+
+Architecture
+
+Eastern European
+
+Continent
+
+Europe
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Slavs_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Infantry
+
+Siege weapons
+
+Unique units
+
+Boyar
+
+Unique technologies
+
+Orthodoxy
+
+Druzhina
+
+“ While new kingdoms formed from the ruins of the Roman Empire in Western Europe, Slavic tribes settled the rich lands of Central and Eastern Europe and established formidable states of their own. Illuminate your populations with the teachings of Orthodoxy, recreate the rich farming and trade economies of Poland and Kievan Rus, assemble retinues of Boyars and Druzhina to defend the Russian principalities from the Mongols, or lead a charge of Winged Hussars to save Europe from Ottoman conquest! ” —Description [1]
+
+The Slavs are an Eastern European civilization introduced in Age of Empires II HD: The Forgotten representing the East Slavs. They are based on various Rus principalities and city-states in western Russia, modern day Ukraine, and Belarus. They focus on infantry and siege weapons, with a solid economy on their farms and great cavalry, but lack key upgrades for their defenses, navy, and archers.
+
+The Slavs in-game correspond to the Russian civilization from Age of Empires III and the Rus civilization in Age of Empires IV. Other Slavic states in Age of Empires II are:
+
+Bulgarians, representing South Slavs
+
+Bohemians and  Poles, both representing West Slavs
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The African Kingdoms
+3.2 Rise of the Rajas
+3.3 Definitive Edition
+3.4 Lords of the West
+3.5 Dynasties of India
+3.6 Return of Rome
+3.7 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 Genghis Khan
+4.2 Barbarossa
+4.3 Alaric
+4.4 Vlad Dracula
+4.5 Battles of the Forgotten
+4.6 Tamerlane
+4.7 Ivaylo
+4.8 Kotyan Khan
+4.9 Algirdas and Kestutis
+4.10 Jadwiga
+4.11 The Art of War
+4.12 Mongol Raiders
+4.13 Barbarossa Brawl
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+8.1 Behind the scenes
+
+9 Gallery
+
+10 References
+
+Characteristics[]
+
+Unique unit[]
+
+Boyar: Heavily armored cavalry, resistant to melee attack.
+
+Unique technologies[]
+
+Detinets: Replaces 40% of Castles' and Towers' stone cost with wood.
+
+Druzhina: Infantry units damage adjacent units in +0.5 tiles radius with 5 damage.
+
+Civilization bonuses[]
+
+Farmers work 15% faster.
+
+Supplies and Gambesons are free.
+
+Siege Workshop units are 15% cheaper.
+
+Monks move 20% faster.
+
+Team bonus[]
+
+Barracks, Archery Ranges, Stables, and Siege Workshops provide +5 population.
+
+Overview[]
+
+As an infantry civilization, the Slavs have access to the full infantry technology tree and get Supplies and Gambesons for free, giving them a strong advantage early on. Later, they gain access to Druzhina, making their infantry units highly useful in mass battles. Their cavalry is also good despite missing out on the Paladin upgrade, thanks to their unique unit which fills in the same role as the Paladin, while also having access to Hussars and a full technology tree. Both of these unit types are boosted by their 15% faster farmers, who give them a very strong food economy during the mid-game. Their team's military production buildings also grant +5 population space each, freeing up resources otherwise needed for housing. Backing up their infantry are their Siege Workshop units that get a 15% discount. The Slavic Monks are excellent offensively with every upgrade available (except Fervor) and a 20% faster movement speed. Lastly, Detinets allows them to create Castles and Guard Towers with a lower stone cost.
+
+However, the Slavs have several substantial weaknesses. The archers are among the worst of all civilizations, lacking Thumb Ring, Bracer, and Arbalester. Their navy is also weak without Bracer or Shipwright. Their economic bonus also has poor synergy with water maps, where their farming bonus is mitigated by Fishing Ships. Their economy is also weak in the early game, as Farms are not created in large enough quantities to help them until mid-to-late Feudal Age. Their defensive structures lack a variety of upgrades, notably Bracer, Keep, and Bombard Towers.
+
+Changelog[]
+
+The African Kingdoms[]
+
+With patch 4.8:
+Arrowslits was removed from the technology tree.
+(Elite) Boyars movement speed increased by 0.05 (1.35 → 1.4).
+
+Rise of the Rajas[]
+
+The Farm bonus now speeds up the production speed of Farms as well as farmers. Previously, they would end up with the same gather rates as generic civilizations after researching Wheelbarrow and Hand Cart, as Farms have a built-in limit to their efficiency.
+
+With patch 5.8, the farm bonus's internal values were tweaked to more closely match the stated 15% faster rate (previously they were moderately higher).
+
+Definitive Edition[]
+
+Faith added to the technology tree.
+
+Free Tracking bonus changed to free Supplies (as Tracking became free for all civilizations upon reaching the Feudal Age).
+
+Farmers work rate bonus reduced (15% → 10% faster).
+
+(Elite) Boyar training time reduced (23 (20) → 15 (15) seconds).
+
+With update 36906, (Elite) Boyar base pierce armor increased (1 (1) → 2 (3)), and movement speed reduced (1.4 → 1.3).
+
+Lords of the West[]
+
+With update 44725, Treadmill Crane is removed from the technology tree.
+
+With update 50292, Elite Boyars' base melee armor increased by 2 (6 → 8).
+
+Dynasties of India[]
+
+With update 61321, Orthodoxy is removed from the game and replaced by Detinets.
+
+With update 81058:
+(Elite) Boyars food cost increased by 10 (50 food → 60 food) and gold cost decreased by 10 (80 gold → 70 gold).
+Druzhina's food cost lowered by 300 (1,200 food → 900 food).
+Gambesons is introduced, and is made free for the Slavs.
+
+Return of Rome[]
+
+With update 87863:
+New civilization bonus: Monks move 20% faster.
+Fervor removed from the technology tree, though their new bonus's effect is greater.
+
+The Mountain Royals[]
+
+With update 95810, their farmers now work at pre-Definitive Edition rates again (10 → 15%).
+
+Campaign appearances[]
+
+The Slavs are playable in the Mstislav scenario of Victors and Vanquished, and in two scenarios of the Vlad Dracula campaign. They also appear as allies or enemies in:
+
+Genghis Khan[]
+
+The Horde Rides West
+Russians - Enemy
+
+The Promise
+Polish - Enemy
+
+Barbarossa[]
+
+Holy Roman Emperor
+Bohemia - Enemy
+
+Henry the Lion
+Poland - Enemy
+
+Alaric[]
+
+All Roads Lead to a Besieged City
+Wenceslaus I - Enemy
+
+Vlad Dracula[]
+
+The Breath of the Dragon and The Moon Rises are played as the Slavs.
+
+The Dragon Spreads His Wings
+HD Edition version
+Voivod Danislav - Ally
+Definitive Edition version
+Vladislav II - Enemy
+Danesti Forces - Enemy
+Wallachian Voivods - Ally
+Local Inhabitants - Ally
+
+The Return of the Dragon
+Vladislav II - Enemy
+Danesti Forces - Enemy
+Moldavia - Ally
+
+The Breath of the Dragon
+Obluciza - Enemy
+Wallachians - Ally
+Novoselo - Enemy → Ally
+Rahova - Enemy → Ally
+
+The Moon Rises
+HD Edition version
+Wallachian Army - Ally
+Countryside - Neutral
+Definitive Edition version
+Radu Bey - Enemy
+Wallachian Countryside - Ally or Enemy
+
+The Night Falls
+Basarab Laiota - Enemy
+Wallachia - Ally
+
+Battles of the Forgotten[]
+
+Honfoglalás
+Great Moravia (Moravians in the HD Edition) - Enemy
+
+Tamerlane[]
+
+Harbinger of Destruction
+Ryazan - Enemy
+Azov - Enemy
+
+Ivaylo[]
+
+A Most Unlikely Man
+Bolyars - Ally → Enemy
+
+An Unlikely Alliance
+Ivan Asen - Enemy
+
+Where the One-Eyed Man is King
+Radu Negru - Ally
+
+Kotyan Khan[]
+
+Raising the Banners and The Battle at the Kalka River
+Kiev - Ally
+Galicia-Volhynia - Ally
+
+Algirdas and Kestutis[]
+
+No Man's Land
+Bryansk - Enemy → Ally
+Kursk - Enemy → Ally
+
+The Tatar Yoke
+Kiev - Neutral
+Smolensk - Ally
+
+A Worthy Opponent
+Muscovites - Enemy
+Vladimir - Neutral → Ally
+Ryazan - Neutral → Ally
+The Kremlin Fortress - Ally
+Mikhail of Tver - Ally
+
+Jadwiga[]
+
+Star of the Poles
+Halych - Enemy
+Lviv - Ally
+Terebovl - Ally
+Rohatyn - Ally
+
+Duel of the Dukes
+Muscovy - Enemy
+
+Vytautas' Crusade
+Ruthenian Villages - Ally
+
+The Art of War[]
+
+Land Battle
+Igor the old - Enemy
+Igor the old - Enemy
+
+Mongol Raiders[]
+
+Slavs - Enemy
+
+Barbarossa Brawl[]
+
+Bohemia - Enemy
+
+In-game dialogue language[]
+
+In-game, Slavic units speak Russian. Before Rise of the Rajas was released, Slavic units reused the Russians' dialogue used in Age of Empires III. With the expansion's release, they received new dialogue in Russian with a couple of archaic words, most notably аз (az) - an archaic form of pronoun "I".[2] Historically, East Slavs spoke a dialect continuum termed Old East Slavic.
+
+Villager.
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Male_Select_1_AoE2.ogg Select 1 Da? (Да?) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Male_Select_2_AoE2.ogg Select 2 Zdrav bud'  (Здрав будь) - Greetings (literally - "Be well")
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Female_Select_3_AoE2.ogg Female Select 3 Az gotova (Аз готовa) - I'm ready (feminine)
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Male_Select_3_AoE2.ogg Male Select 3 Az gotov (Аз готов) - I'm ready (masculine)
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Male_Select_4_AoE2.ogg Select 4 Prikazaniya? (Приказания?) - Orders?
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Male_Task_1_AoE2.ogg Task 1 Da (Да) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Male_Task_2_AoE2.ogg Task 2 Pravilno (Правильно) - Correct
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Male_Task_3_AoE2.ogg Task 3 Az sdelayu (Аз сделаю) - I'll do (it)
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Male_Task_5_AoE2.ogg Task 4 Totchas sdelayu (Тотчас сделаю) - I'll do (it) immediately
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Male_Task_4_AoE2.ogg Male Task 5 Sdelayu (Сделаю) - I will do it
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Female_Build_AoE2.ogg Female Build Zizhditel'nitsa (Зиждительница) - Builder (feminine) (the verb зиждить / zížditʹ is an archaic / Old Church Slavonic word for "to build"[3][4])
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Male_Build_AoE2.ogg Male Build Zizhditel (Зиждитель) - Builder (masculine)
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Male_Chop_AoE2.ogg Chop Lesorub (Лесоруб) - Woodcutter
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Female_Farm_AoE2.ogg Female Farm Sobiratel'nitsa (Собирательница) - Gatherer (feminine)
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Male_Farm_AoE2.ogg Male Farm Sobiratel (Собиратель) - Gatherer (masculine)
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Female_Fish_AoE2.ogg Female Fish Rybachka (Рыбачка) - Fisherwoman
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Male_Fish_AoE2.ogg Male Fish Rybak (Рыбак) - Fisherman
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Female_Forage_AoE2.ogg Female Forage Sobiratel'nitsa (Собирательница) - Gatherer (feminine)
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Male_Forage_AoE2.ogg Male Forage Sobiratel (Собиратель) - Gatherer (masculine)
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Female_Hunt_AoE2.ogg Female Hunt Okhotnitsa (Охотница) - Huntress
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Male_Hunt_AoE2.ogg Male Hunt Okhotnik (Охотник) - Hunter
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Male_Mine_AoE2.ogg Mine Rudokop (Рудокоп) - Ore miner
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Female_Repair_AoE2.ogg Female Repair Remontnitsa (Ремонтница) - Repairer (feminine)
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Villager_Male_Repair_AoE2.ogg Male Repair Remontnik (Ремонтник) - Repairer (masculine)
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Soldier_Select_1_AoE2.ogg Select 1 Da? (Да?) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Soldier_Select_2_AoE2.ogg Select 2 K vashim uslugam (К вашим услугам) - At your service
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Soldier_Select_3_AoE2.ogg Select 3 Prikazaniya? (Приказания?) - Orders?
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Soldier_Move_1_AoE2.ogg Move 1 Ponyatno (Понятно) - Understood
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Soldier_Move_2_AoE2.ogg Move 2 Az sdelayu (Аз сделаю) - I'll do (it)
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Soldier_Move_3_AoE2.ogg Move 3 Da, gospodin (Да, господин) - Yes, my lord
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Soldier_Attack_1_AoE2.ogg Attack 1 Ataka! (Атака!) - Attack!
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Soldier_Attack_2_AoE2.ogg Attack 2 V boy! (В бой!) - To battle!
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Soldier_Attack_3_AoE2.ogg Attack 3 K oruzhiyu! (К оружию!) - To arms!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Monk_Select_1_AoE2.ogg Select 1 Da? (Да?) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Monk_Select_2_AoE2.ogg Select 2 Prikazaniya? (Приказания?) - Orders?
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Monk_Select_3_AoE2.ogg Select 3 K vashim uslugam (К вашим услугам) - At your service
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Monk_Select_4_AoE2.ogg Select 4 Vo imya Gospodnya! (Во имя Господня!) - In the name of the Lord!
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Monk_Move_1_AoE2.ogg Move 1 Az sobirayus' (Аз собираюсь) - I'm going to
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Monk_Move_2_AoE2.ogg Move 2 Da (Да) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Monk_Move_3_AoE2.ogg Move 3 Ponyatno (Понятно) - Understood
+
+https://ageofempires.fandom.com/wiki/File:Slavs_Monk_Move_4_AoE2.ogg Move 4 Totchas sdelayu (Тотчас сделаю) - I'll do (it) immediately
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Slavs_King_Select_1_AoE2.ogg Select 1 Vot, pozhaluysta (Вот, пожалуйста) - Here you are
+
+https://ageofempires.fandom.com/wiki/File:Slavs_King_Select_2_AoE2.ogg Select 2 Chto ty khochesh'? (Что ты хочешь?) - What do you want?
+
+https://ageofempires.fandom.com/wiki/File:Slavs_King_Select_3_AoE2.ogg Select 3 Pochemu ty pobespokoil mya? (Почему ты побеспокоил мя?) - Why did you bother me?
+
+https://ageofempires.fandom.com/wiki/File:Slavs_King_Select_4_AoE2.ogg Select 4 Opoveshcheniye (Оповещение) - Notification
+
+https://ageofempires.fandom.com/wiki/File:Slavs_King_Move_1_AoE2.ogg Move 1 Az sdelayu chto vam ugodno (Аз сделаю что вам угодно) - I'll do as you please
+
+https://ageofempires.fandom.com/wiki/File:Slavs_King_Move_2_AoE2.ogg Move 2 Po moyey milosti (По моей милости) - By my grace
+
+https://ageofempires.fandom.com/wiki/File:Slavs_King_Move_3_AoE2.ogg Move 3 Kak vy prikazali (Как вы приказали) - As you ordered
+
+https://ageofempires.fandom.com/wiki/File:Slavs_King_Move_4_AoE2.ogg Move 4 Az sdelayu (Аз сделаю) - I'll do (it)
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Slavic AI characters:
+
+Alexander Nevsky (Александр Невский): Served as Prince of Novgorod (1236–52), Grand Prince of Kiev (1236–52) and Grand Prince of Vladimir (1252–63) during some of the most difficult times in Kievan Rus' history: he defeated Swedish invaders in the north, the Livonian Order (landmasters of the Teutonic Order) in the west and made a peace with Mongolian conquerors in the east. He was later declared a saint by the Eastern Orthodox Church.
+
+Igor the Old: (died 945) was a Varangian ruler of Kievan Rus' from 912 to 945.
+
+Saint Olga: (c. 890–925 – 969) was a regent of Kievan Rus' for her son Sviatoslav from 945 until 960. Following her baptism, Olga took the name Elenа. She is known for her subjugation of the Drevlians, a tribe that had killed her husband Igor of Kiev. Even though it would be her grandson Vladimir that would convert the entire nation to Christianity, because of her efforts to spread Christianity through Rus', Olga is venerated as a saint in the Eastern Orthodox Church with the epithet "Equal to the Apostles" and her feast day is 11 July.
+
+Oleg the Seer (Ѡлегъ, Modern Russian: Олег Вещий): A Varangian prince (or konung) who ruled all or part of the Rus' people during the early 10th century.
+
+Dmitry Donskoy: (12 October 1350 – 19 May 1389), son of Ivan II the Fair of Moscow (1326–1359), reigned as the Prince of Moscow from 1359 and Grand Prince of Vladimir from 1363 to his death. He was the first prince of Moscow to openly challenge Mongol authority in Russia. His nickname, Donskoy (i.e., "of the Don"), alludes to his great victory against the Tatars in the Battle of Kulikovo (1380), which took place on the Don River. He is venerated as a Saint in the Orthodox Church with his feast day on 19 May (O.S.).
+
+Rurik I (Рюрик I): Prince of Novgorod and Ladoga. He is the founder of Rurik Dynasty which ruled the Kievan Rus' and its successor states. He remained his power until his death in 879 in Novgorod, Kievan Rus.
+
+Sviatoslav the Brave (Свѧтославъ Игорєвичь): Also spelled Svyatoslav was a Grand prince of Kiev famous for his persistent campaigns in the east and south, which precipitated the collapse of two great powers of Eastern Europe, Khazaria and the First Bulgarian Empire.
+
+Vladimir the Great (Володимѣръ Свѧтославичь): A prince of Novgorod, grand prince of Kiev, and ruler of Kievan Rus' from 980 to 1015. He initiated a process of christening of Russia and got many glorifying names, including Vladimir the Christianizer (Креститель) and Vladimir the Scarlet Sun (Красно Солнышко)
+
+Vlad Dracula: Vlad III, commonly known as Vlad the Impaler (Romanian: Vlad Țepeș [ˈvlad ˈtsepeʃ]) or Vlad Dracula (/ˈdrækjələ/; Romanian: Vlad Drăculea [ˈdrəkule̯a]; 1428/31 – 1476/77), was Voivode of Wallachia three times between 1448 and his death. He is often considered one of the most important rulers in Wallachian history and a national hero of the Romanians.
+
+Ivan III the Great: Ivan III Vasilyevich (Russian: Иван III Васильевич; 22 January 1440, Moscow – 27 October 1505, Moscow), also known as Ivan the Great, was a Grand Prince of Moscow and Grand Prince of all Rus'. Ivan served as the co-ruler and regent for his blind father Vasily II from the mid-1450s before he officially ascended the throne in 1462. He tripled the territory of his state, ended the dominance of the Mongols/Tatars over Russia, renovated the Moscow Kremlin, introduced a new legal codex and laid the foundations of the Russian state. His 1480 victory over the Great Horde is cited as the restoration of Russian independence 240 years after the Siege of Kiev to Mongols' invasion. Ivan was the first Russian ruler to style himself "tsar", albeit not as an official title. Through marriage to Sofia Paleologue, he made the double-headed eagle Russia's coat of arms and adopted the idea of Moscow as Third Rome. His 43-year reign was one of the longest in Russian history, second only to that of his grandson Ivan IV.
+
+Yaroslav the Wise (Яросла́в Му́дрый): Thrice grand prince of Veliky Novgorod and Kiev, uniting the two principalities for a time under his rule. During his reign, there was created the first Russian set of laws, "Russian Justice" ("Русская Правда").
+
+Yuri II (Юрий II): The fourth Grand Prince of Vladimir (1212–1216, 1218–1238) who presided over Vladimir-Suzdal at the time of the Mongol invasion of Russia.
+
+History[]
+
+“ Mass fifth century migrations caused by the Hunnic invasions left northeastern Europe an area open for settlement and, starting circa 500 AD, the Slavs became the region's dominant civilization. Although archaeological evidence indicates that the Slavs had already settled Europe in prior centuries, possibly in the areas of present-day Ukraine and Belarus, the historical record first makes mention of them through Byzantine writings describing the large numbers of Slavs massing near their borders. Upon settling down, the Slavs established several competing states throughout Eastern Europe, falling into either the Byzantine or Holy Roman spheres of influence. The first great Slavic state, the Bulgarian Empire , formed in 681 AD. This nation was founded by the Bulgars, a Turkic people that settled in the Eastern Balkans (north of the Byzantine Empire). However, the Bulgarian Empire expanded into most of the Balkans, which was by then mainly Slavic, and by the tenth century the state was effectively Slavicized. The Bulgarian Empire played an important role in the consolidation of Slavic civilization, with its language becoming a lingua franca for the spread for Christianity and literacy in Eastern Europe. Another important medieval Slavic state, Great Moravia , formed in Central Europe after the union of the Principalities of Nitra and Moravia in 833. Although Great Moravia never achieved a dominant position, it played a crucial role in the balance of power between the Franks , Bulgarians, and Byzantines. When King Rastislav of Great Moravia asked the Byzantines for help in translating Christian texts into Slavic, the Byzantine missionaries entrusted with the task, Cyril and Methodius, successfully developed the first Slavic alphabet and wrote down the oldest text in Slavic literature (a translation of the Christian Gospel) in 863. Perhaps the last great medieval Slavic state was formed around Kiev, in present-day Ukraine, in 882 AD. This Kievan Rus' kingdom, although mostly populated by Slavs, was led by Scandinavians (called Rus') who took power in the area by defeating the ruling Turkic Khazars. The liberation of this and several other Slavic cities allowed them to focus more on internal development rather than on serving foreign lands. The region benefited economically from its geography, as it was located in the middle of the Europe-Asia trade route and close to the Byzantines and Persians. Under the reign of Yaroslav the Wise, the Kievan state not only became the largest of its time, but also achieved a high literacy rate, provided property rights to women, and punishments under law generally did not involve death sentences. However, the death of Yaroslav led to the gradual disintegration of the state, which finally fell to the Mongols by 1240 AD. During the Middle Ages, Slavic governments followed a feudal system, but in contradiction to other parts of Europe the power of the kings was constrained by that of high-ranking aristocrats called boyars . Boyars not only were powerful landowners with several serfs under their command, but they also were generally leaders of the military and government agencies. The alliance and competition among these aristocrats shaped the economic development of the Slavic states, improving the vitality of their domains but weakening the central governments. By the Late Middle Ages, the rise of absolute monarchs led to the downfall of the boyars. ”
+
+Trivia[]
+
+Note: This section is about the in-game Slavs, which are mostly based on pre-divisional Eastern Slavic identity of the Kievan Rus'.
+
+The in-game Slavs represented the pre-divisional Eastern Slavic identity of the Kievan Rus'. As this TedEd video on the history of Russia explains, they were a people "populated by Slavs, ruled by Vikings, taught by Greeks, and split by Mongols, would develop differences in society, culture, and language that remain to the present day".
+
+The Slavic civilization icon is based on the trident symbol from Yaroslav the Wise's era used by the Rurikids. This symbol is now used as the coat of arms of Ukraine.
+
+Before the Definitive Edition, the user interface image displayed double-headed eagle used by Grand Duchy of Moscow. Since the Definitive Edition, the user interface is a Boyar helmet, also called Gnezdovo / Rus / teardrop helmet.
+
+The Slavic team bonus is one of the worst worded bonuses in the game.
+Despite being military buildings, walls, gates, and Outposts do not benefit from it.
+However, a case could be made for other military buildings which have combat capabilities, like towers (including Donjons and Bombard Towers), but do not benefit from the bonus either.
+Despite the fact that Castles and Kreposts are military buildings, they are also not affected by the Slavic military building population bonus. This is most likely due to the fact that they already provide population.
+
+The following heroes available in the Scenario Editor are themed on the Slavs: Alexander Nevski, Dmitry of Moscow, Mikhail of Tver, and Yury. Also Vlad Dracula, who was historically Wallachian (now part of Romanian identity), is portrayed as Slavs due to lacking the suitable civilization.
+
+Historically, eastern Slavic states and Rus principalities adopted mounted archery as means of fighting toe-to-toe against the Golden Horde and Mongols. Several Russian principalities, such as the Kievan Rus, even incorporated Cuman (whom they called Polovtsy) and Tatar cavalry archers as mercenaries to supplement their armies. Despite this, the Slav cavalry archers are borderline unusable, missing several key technologies.
+Their counterparts in future games, the Russians and Rus, depict them with prominent cavalry archers (the former having Home City Cards that boost the combat effectiveness of Cavalry Archers, while the latter have an exclusive unique mounted archer).
+
+In the beta, the Slavs had access to Bracer, but lacked Plate Mail Armor. They could not train Heavy Cavalry Archers or build Fortified Walls. Elite Boyars had 16 attack.
+
+In the beta, the Eastern European building style was unique to the Slavs (as the Magyars were Centeral European) and looked different to later versions.
+
+Before the removal of Treadmill Crane, the Slavs had the most powerful start for any civilization in Deathmatches.
+
+The Slavs are extremely similar to the Teutons. They have strong melee units such as powerful infantry and cavalry, and their unique units are both heavily armored units with slow speed compared to other units of their type, and they have very weak archers and navy. Both have good economy for farming and great siege weapons and Monks. The obvious difference is that the Slavs are much weaker in defense, while the Teutons are less mobile.
+
+The Slavs are one of the two civilizations whose Wonders were considered to be anachronistic to the game's timeframe (the other being Indians' Taj Mahal in the Forgotten Empires mod), as the Slavs' Wonder is the Kizhi Pogost. They are currently the only civilization with an anachronistic Wonder.
+
+Before the Definitive Edition, the Slavs, with their 15% faster working farmers, had the strongest farming economy of any civilization and thus regarded as one of the most problematic civilizations in 1 vs. 1 matches. Their boom was really quick, which made their Knight play extremely strong. This was due to food being more relevant in the Feudal and Castle Age, the Slavs had a massive advantage at producing such food-intensive units. This was despite having a much weaker bonus (free Tracking) and an impractical unique technology (Orthodoxy), as well as Boyars having weaker armor and longer training time. After reducing the farming bonus to 10%, and the introduction of stronger farming bonuses (Khmer farmers not needing dropsites, and the Poles' Folwark), the Slavs dramatically fell in usage on multiplayer matches, even though they received other buffs, such as free Supplies, the Boyar's armor and training time improvements, and the replacement of Orthodoxy with Detinets. With The Mountain Royals, they regained the 15% faster working farmers bonus.
+Alongside the Persians and Burmese, the Slavs are the only civilization that recovered the original value of a civilization bonus that was either lowered or removed at a later time.
+
+The Slavic Villagers were voiced by parents of Vitalis Eirich, the composer of the game's civilization themes.[5]
+
+Note: This section is about all real-life Slavs.
+
+Their unique unit, Boyar, which was an aristocratic social class, was historically not found among the West Slavs (Poles and Bohemians).
+
+Some Slavic states like Kingdom of Bohemia, Grand Duchy of Moscow and Kingdom of Poland used gunpowder weapons quite often, starting at the late 14th century and early 15th century (with notorious examples at the Great Stand on the Ugra River where Ivan III deployed a good amount of cannons to defend against the last Tatar remnant of the Golden Horde, and the Hussite Wars where arquebuses were highly used). The Bohemians are already a gunpowder civilization and the only civilization whose two unique units which are both gunpowder units, and the Poles have more versatile gunpowder units than the (East) Slavs, since the former can access the Bombard Cannon and Bombard Tower.
+
+Before The Forgotten was released, all of the Slav factions in the Genghis Khan and Barbarossa campaigns (Polish, Bohemians, and Ruthenians) are mostly represented by Goths and Teutons. However, as the Polish and Bohemians have become their own civilizations with Dawn of the Dukes, most of those Slavic factions have been replaced by the new civilizations in the previous campaigns.
+
+In the game, all Slavic State civilizations have weak navies and have slightly good Monks and siege weapons, possibly because most of the Slavic States are either landlocked or have bad estuaries.
+
+Behind the scenes[]
+
+During the development of The Conquerors, the Slavs (along with the Huns, Swiss, Magyars, and Habsburgs) had been considered to appear as the new civilization representing Eastern Europe. However, the Ensemble Studios team eventually picked the Huns because they were impressed by Attila story and the medieval Russians did very little of invading other countries when compared to the Huns.[6]
+
+When the Forgotten Empires team was working on the Forgotten Empires mod (which eventually became The Forgotten), they initially planned to add the Scythians as one of the new civilizations. But eventually the plan was dropped because the Scythians were considered "too out of place" and they were replaced by Slavs.[7]
+
+Gallery[]
+
+The Wonder of the Slavs, the 
+
+Kizhi Church
+
+The Eastern European 
+
+architecture set the Slavs share with the
+
+Magyars,
+
+Bulgarians,
+
+Lithuanians,
+
+Bohemians, and
+
+Poles
+
+The set before the 
+
+Slavs 
+
+user interface image
+
+The Slavic user interface before the 
+
+Official preview in the 
+
+Slavs Overview (updated for DE)
+
+References[]
+
+↑ https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/slavs
+
+↑ https://en.wiktionary.org/wiki/аз#Pronoun_2
+
+↑ https://en.wiktionary.org/wiki/зиждить#Verb
+
+↑ https://en.wiktionary.org/wiki/зиждитель#Russian
+
+↑ Comment by Cysion on Reddit
+
+↑ http://aok.heavengames.com/gameinfo/conquerors-expansion
+
+↑ https://www.forgottenempires.net/aof/the-story-so-far
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+The Forgotten
+
+European civilizations
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

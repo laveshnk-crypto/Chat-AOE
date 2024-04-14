@@ -1,0 +1,587 @@
+This page is all about the Chinese
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 Definitive Edition
+3.4 Return of Rome
+3.5 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 Genghis Khan
+4.2 Battles of the Conquerors
+4.3 Alaric
+4.4 Battles of the Forgotten
+4.5 Gajah Mada
+4.6 Bayinnaung
+4.7 Le Loi
+4.8 Victors and Vanquished
+4.9 The Art of War
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Videos
+
+11 Notes
+
+12 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+Asian civilizations,
+
+The Age of Kings
+
+
+			English
+
+Español
+
+Chinese (Age of Empires II)
+
+61
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+This article is about the civilization in Age of Empires II: The Age of Kings . For other appearances of the faction in the series , see Chinese .
+
+Civilization Technology tree Strategy
+
+Chinese
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: The Age of Kings
+
+Architecture
+
+East Asian
+
+Continent
+
+Asia
+
+In-game theme
+
+http://ageofempires.fandom.com/wiki/File:Chinese_theme_AoE2_DE.ogg
+
+Jingle
+
+http://ageofempires.fandom.com/wiki/File:Chinese_jingle_AoE2_DE.ogg
+
+Old jingle
+
+http://ageofempires.fandom.com/wiki/File:Chinese_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Archers
+
+Unique units
+
+Chu Ko Nu
+
+Unique technologies
+
+Great Wall
+
+Rocketry
+
+“ Receive the Mandate of Heaven, nourish a large population with the bounty of the fertile river valleys of China, and command your people to build an empire stretching to the four corners of the earth! Guide your scholars and craftsmen towards outstanding technological discoveries and apply them to your vast armies. Will your fearsome Chu Ko Nu, armed with rapid-firing mechanical crossbows, be enough to lead your armies to victory against the wily enemies beyond your borders? ” —Description [1]
+
+The Chinese are an East Asian civilization in Age of Empires II. They are descendants of the Shang civilization, which inhabited the same area. The Chinese civilization is based on the Tang, Yuan, Song, and Ming dynasties of medieval China. In the game, they focus on archers.
+
+The Chinese appear as the Shang in Age of Empires, and as a civilization also appear in subsequent games (Age of Empires III: The Asian Dynasties, Age of Mythology: Tale of the Dragon, and Age of Empires IV), making the Chinese the only playable civilization that appear in every Age of Empires game. In all future installments of the Chinese civilization, they share the same characteristic of the Chinese of Age of Empires II being a "jack of all trades" civilization with very complex gameplay mechanics.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 Definitive Edition
+3.4 Return of Rome
+3.5 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 Genghis Khan
+4.2 Battles of the Conquerors
+4.3 Alaric
+4.4 Battles of the Forgotten
+4.5 Gajah Mada
+4.6 Bayinnaung
+4.7 Le Loi
+4.8 Victors and Vanquished
+4.9 The Art of War
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Videos
+
+11 Notes
+
+12 References
+
+Characteristics[]
+
+Unique unit[]
+
+Chu Ko Nu: Foot archer that fires multiple arrows.
+
+Unique technologies[]
+
+Great Wall: Increases the hit points of walls and towers by +30%.
+
+Rocketry: Increases the pierce attack of Chu Ko Nu by +2, and the attack of Scorpions by +4.
+
+Civilization bonuses[]
+
+Start game with +3 Villagers, but with -200 food, -50 wood.
+
+Town Centers support 15 population (instead of 5) and have +7 Line of Sight.
+
+Technologies are 5%/10%/15% cheaper in the Feudal/Castle/Imperial Age.
+
+Demolition Ships have +50% hit points.
+
+Team bonus[]
+
+Farms start with +10% food.[note 1]
+
+Overview[]
+
+The Chinese are a very versatile civilization with an overall incredible technology tree. Their foot archers get every upgrade available, and their Cavalry Archers only lack Parthian Tactics. Their unique unit, the Chu Ko Nu, has a massive damage output thanks to its extra arrows and is relatively effective against the standard archer counters. Another powerful ranged option is the Chinese Scorpion, as Rocketry grants them +4 attack. While not the strongest, their infantry and cavalry are decent, with a strong array of technologies and upgrades available.
+
+The Chinese's flexibility is mainly brought on by their technology discount, saving a lot of resources throughout the game, and keeping them ahead of the technology curve. Furthermore, they start with an additional 3 Villagers from the start of the game, giving them a large head-start that persists for a while. Their Farms also have +10% food, which is also shared with their teammates. Their navy is solid missing only Fast Fire Ship and Elite Cannon Galleon and their Demolition Ships appreciate an extra 50% hit points. Their Monks are average, lacking Redemption but still having every other upgrade. Their defenses are particularly good, with the only hole being Hoardings, as well as Great Wall and a remarkably diverse mix of counter units.
+
+While the Chinese are very well-rounded, they do have several notable weaknesses. The most notable is that they start with -200 food, -50 wood. This means that they are forced to manually drop off and require more practice and micromanagement to start than the average civilization. Even when the player knows what they are doing, they must still watch out for poor resource locations or laming by opponents. Their siege tree is mediocre, as they lack Siege Engineers, Siege Onager, and Bombard Cannon, hence the only usable Siege Workshop unit they have outside the Scorpion is the Siege Ram. The lack of Bombard Cannon in particular, along with the lack of Redemption, means they are forced to use their cavalry options against enemy siege.
+
+Overall, the Chinese is a well-rounded civilization with a multitude of strong options throughout the mid and late game. While they have a higher learning curve than most civilizations due to their difficult start, the practice is well worth it. Their strong economy and wide array of options lead to them being a powerhouse that can counter most civilizations while being hard to counter themselves.
+
+Changelog[]
+
+The Conquerors[]
+
+Now Start the game with –50 wood (from standard starting wood).
+
+With patch 1.0b, they start the game with less food (–150 food → –200 food).
+
+Town Centers provide +5 population space.
+
+The Forgotten[]
+
+New civilization bonus: Town Centers gain +5 Line of Sight.
+
+Non-Elite Chu Ko Nu train faster (19 → 16 seconds).
+
+Definitive Edition[]
+
+With update 34699:
+The Chinese receive Block Printing.
+Their three extra Villagers are tied to their initial Town Center, so in Nomad type maps, they will show up when the Town Center is constructed. Previously, they generated at the start like the standard three Villagers.
+
+With update 36202, Redemption is removed from their tech tree.
+
+With update 37650, Supplies was removed from their technology tree.
+
+With update 51737, team bonus is changed to Farms have +10% food (from a flat +45 food).
+
+Return of Rome[]
+
+With update 87863, technology bonus decreased by 5% (10% (Feudal Age)/15% (Castle Age)/20% (Imperial Age) → 5%/10%/15% cheaper).
+
+The Mountain Royals[]
+
+With update 99311, Town Centers provide +10 population space and +7 Line of Sight.
+
+Campaign appearances[]
+
+The Chinese are the playable civilization in the Lake Poyang (named Langshan Jiang before the Definitive Edition) scenario from the Historical Battles campaign (Battles of the Forgotten before the Definitive Edition). They also appear as AI players in:
+
+Genghis Khan[]
+
+Into China
+Engineers - Enemy
+Jin - Enemy
+Hsi Hsia - Enemy
+Tanguts - Enemy
+Song - Enemy
+
+Battles of the Conquerors[]
+
+Noryang Point
+Chinese - Ally
+
+Alaric[]
+
+Emperor of the West (in the original campaign)
+Zhu Di - Enemy
+
+Battles of the Forgotten[]
+
+This scenario is played as the Chinese.
+
+Lake Poyang*
+Admiral Chen - Enemy
+Pirates - Enemy → Ally
+Nanchang - Ally
+Chinese Peasants - Ally
+Han Army - Enemy
+Nanchang Temple - Ally
+Han Navy - Enemy
+
+Gajah Mada[]
+
+Serving the New King
+Kutai - Enemy
+
+Bayinnaung[]
+
+The Burmese Tigers and The Mandalay Cobra
+Shan - Enemy
+
+Le Loi[]
+
+The Dai Viet Uprising
+Ming - Enemy
+Ming Patrols - Enemy
+
+The Mountain Siege
+Ming Army - Enemy
+Ming Army - Enemy
+
+The Battle at Hanoi
+Ming - Enemy
+Ming Deserters - Ally
+
+Reaching South
+Wang Tong - Enemy
+Ming Army - Enemy
+Ming Fortress - Enemy
+Ming Occupying Forces - Enemy
+
+A Three-Pronged Attack
+Ming Army - Enemy
+Wang Tong - Enemy
+Dong Do - Enemy
+
+The Final Fortress
+Ming - Enemy
+Ming Vanguard - Enemy
+
+Victors and Vanquished[]
+
+Temujin
+Xi Xia - Ally → Potential enemy
+Great Jin - Ally → Potential enemy
+
+The Art of War[]
+
+Rushing the Enemy
+Zhu Di - Enemy
+
+In-game dialogue language[]
+
+In-game, Chinese units anachronistically speak modern Mandarin (Chinese: 普通話, Hanyu Pinyin: Pǔtōnghuà), instead of Old Mandarin as spoken in the timespan between the 12th and 14th centuries, more appropriate for Age of Empires II's pre-Qing Chinese civilization.
+
+Villager
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Female_Select_1_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Male_Select_1_AoE2.ogg Select 1 Shénme? (什么?/什麼?) - What?
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Female_Select_2_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Male_Select_2_AoE2.ogg Select 2 Wéi? (喂?) - Hello?
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Female_Select_3_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Male_Select_3_AoE2.ogg Select 3 Zhǔnbèi jiùxù (准备就绪/準備就緒) - Ready
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Female_Select_4_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Male_Select_4_AoE2.ogg Select 4 Hézhǒng mìnglìng? (何种命令?/何種命令?) - What order?
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Female_Task_1_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Male_Task_1_AoE2.ogg Task 1 Hǎo (好) - Okay
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Female_Task_2_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Male_Task_2_AoE2.ogg Task 2 Xíng (行) - Okay
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Female_Task_3_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Male_Task_3_AoE2.ogg Task 3 Zhèngquè (正确/正確) - Correct
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Female_Task_4_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Male_Task_4_AoE2.ogg Task 4 Zūnmìng (遵命) - Affirmative
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Female_Build_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Male_Build_AoE2.ogg Build Jiànzhù gōng (建筑工/建築工) - Builder
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Female_Chop_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Male_Chop_AoE2.ogg Chop Fámù gōng (伐木工) - Lumberjack
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Female_Farm_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Male_Farm_AoE2.ogg Farm Nóngfū (农夫/農夫) - Farmer
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Female_Fish_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Male_Fish_AoE2.ogg Fish Yúfū (渔夫/漁夫) - Fisherman
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Female_Forage_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Male_Forage_AoE2.ogg Forage Liángcǎo zhēngshōu rén (粮草征收人/糧草徵收人) - Gatherer
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Female_Hunt_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Male_Hunt_AoE2.ogg Hunt Lièrén (猎人/獵人) - Hunter
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Female_Mine_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Male_Mine_AoE2.ogg Mine Kuànggōng (矿工/礦工) - Miner
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Female_Repair_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Male_Repair_AoE2.ogg Repair Xiūlǐgōng (修理工) - Repairer
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Female_Attack_AoE2.ogg http://ageofempires.fandom.com/wiki/File:Chinese_Villager_Male_Attack_AoE2.ogg Attack Gōngjī! (攻击!/攻擊!) - Attack! (not used)
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Soldier_Select_1_AoE2.ogg Select 1 Shénme? (什么?/什麼?) - What?
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Soldier_Select_2_AoE2.ogg Select 2 Zhǔnbèi jiùxù (准备就绪/準備就緒) - Ready
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Soldier_Select_3_AoE2.ogg Select 3 Hézhǒng mìnglìng? (何种命令?/何種命令?) - What order?
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Soldier_Move_1_AoE2.ogg Move 1 Xíng (行) - Okay
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Soldier_Move_2_AoE2.ogg Move 2 Zūnmìng (遵命) - Affirmative
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Soldier_Move_3_AoE2.ogg Move 3 Hǎo (好) - Okay
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Soldier_Attack_1_AoE2.ogg Attack 1 Gōngjī! (攻击!/攻擊!) - Attack!
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Soldier_Attack_2_AoE2.ogg Attack 2 Zuòzhàn! (作战!/作戰!) - Fight!
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Soldier_Attack_3_AoE2.ogg Attack 3 Shì! (是!) - Yes!
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Soldier_Attack_4_AoE2.ogg Attack 4 Jìngōng! (进攻!/進攻!) - Charge!
+
+Monk
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Monk_Select_1_AoE2.ogg Select 1 Shénme? (什么?/什麼?) - What?
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Monk_Select_2_AoE2.ogg Select 2 Wéi? (喂?) - Hello?
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Monk_Select_3_AoE2.ogg Select 3 Zhǔnbèi jiùxù (准备就绪/準備就緒) - Ready
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Monk_Select_4_AoE2.ogg Select 4 Hézhǒng mìnglìng? (何种命令?/何種命令?) - What order?
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Monk_Move_1_AoE2.ogg Move 1 Hǎo (好) - Okay
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Monk_Move_2_AoE2.ogg Move 2 Xíng (行) - Okay
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Monk_Move_3_AoE2.ogg Move 3 Zhèngquè (正确/正確) - Correct
+
+http://ageofempires.fandom.com/wiki/File:Chinese_Monk_Move_4_AoE2.ogg Move 4 Zūnmìng (遵命) - Affirmative
+
+King
+
+http://ageofempires.fandom.com/wiki/File:Chinese_King_Select_1_AoE2.ogg Select 1 Shénme? (什么?/什麼?) - What?
+
+http://ageofempires.fandom.com/wiki/File:Chinese_King_Select_2_AoE2.ogg Select 2 Wéi? (喂?) - Hello?
+
+http://ageofempires.fandom.com/wiki/File:Chinese_King_Select_3_AoE2.ogg Select 3 Zhǔnbèi jiùxù (准备就绪/準備就緒) - Ready
+
+http://ageofempires.fandom.com/wiki/File:Chinese_King_Select_4_AoE2.ogg Select 4 Hézhǒng mìnglìng? (何种命令?/何種命令?) - What order?
+
+http://ageofempires.fandom.com/wiki/File:Chinese_King_Move_1_AoE2.ogg Move 1 Hǎo (好) - Okay
+
+http://ageofempires.fandom.com/wiki/File:Chinese_King_Move_2_AoE2.ogg Move 2 Xíng (行) - Okay
+
+http://ageofempires.fandom.com/wiki/File:Chinese_King_Move_3_AoE2.ogg Move 3 Zhèngquè (正确/正確) - Correct
+
+http://ageofempires.fandom.com/wiki/File:Chinese_King_Move_4_AoE2.ogg Move 4 Zūnmìng (遵命) - Affirmative
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Chinese AI characters:
+
+Chen Qingzhi (陈庆之/陳慶之): was a prominent general of the Liang dynasty. He is best known for his campaign in 530 to crush Northern Wei.
+
+Li Shi-min (李世民): Personal name of Emperor Taizong, the second emperor of the Tang dynasty; lived 598–649. His reign brought forth the golden age of Chinese history, as China saw its empire expand into central Asia and flourished economically, militarily, and politically.
+
+Li zi-cheng (李自成): Born Li Hongji (李鸿基/李鴻基), leader of the rebels who overthrew the Ming dynasty and the emperor of the short-lived Shun dynasty; lived 1606–1645.
+
+Lin Chong (林冲): A fictional character in the Water Margin novel.
+
+Mu Gui-ying (穆桂英): A legendary heroine from the Northern Song dynasty.
+
+Su Dingfang (蘇定方): was a general of the Chinese Tang Dynasty who succeeded in destroying the Western Turkic Khaganate in 657.
+
+Wen Tian-xiang (文天祥): A scholar-general from the Southern Song dynasty known for resisting Kublai Khan's invasion and refusal to submit before the Yuan dynasty; lived 1236–1283.
+
+Wu Xe-tian (武则天/武則天): Alternative spelling of Wu Zetian, the empress-consort of the Zhou dynasty and the only female sovereign of China; lived 624–705.
+
+Yang Jian (杨坚/楊堅): Personal name of Emperor Wen of Sui, the first emperor of the Sui dynasty; lived 541–604.
+
+Yue Fei (岳飞/岳飛): A general from the Southern Song dynasty known for leading the Song in the wars against the Jin dynasty in the 12th century; lived 1103–1142.
+
+Zhao Kuang-yin (赵匡胤/趙匡胤): Personal name of Emperor Taizu of Song, the founder and the first emperor of the Song dynasty; lived 927–976.
+
+Zheng He (郑和/鄭和): A Ming dynasty admiral notable for his expeditionary voyages to the rest of Asia and Africa; lived 1371–1433/1435.
+
+Zhu Di (朱棣): Personal name of Yongle Emperor, the third emperor of the Ming dynasty; lived 1360–1424.
+
+Zhu Yuan-zhang (朱元璋): Personal name of Hongwu Emperor, the founder and the first emperor of the Ming dynasty; lived 1328–1398. He was the leader of the Ming Army in the Battle of Lake Poyang.
+
+History[]
+
+“ China was reunited in 581 AD after a long period of internal war by the founders of the Sui dynasty . For most of the 1000 years that followed, China was one of the largest and most advanced civilization in the world. Because of its geographic isolation from the West, it was able to develop and maintain a unique culture that spread its influence over much of Asia. An emperor generally held supreme power as the son of heaven. Natural disasters or other calamities were taken as proof that the mandate of heaven had been withdrawn, however, and could justify revolt. Mandarins were conservative civil servants who operated most of the government at the local, province, and imperial level. Mandarins earned their positions by passing detailed civil service examinations based mainly on the works of Confucius. The T'ang dynasty ruled China from 618 to 907. China under the T'ang was large, wealthy, and powerful. There was extensive foreign trade and interest in the arts among the upper class. Printing and gunpowder were invented. The last 100 years of T'ang rule witnessed tumultuous peasant revolts, however, and wars between local military rulers that the imperial court could not end. The years from 907 to 960 were known as the Five Dynasties period. Northern China was held by barbarians, and southern China split into 10 rival states. From one of these, an army general named Zhao Kuang-ying seized power and unified the southern states, founding the Song dynasty . His descendants reunited China within 20 years. The Song dynasty ruled at least part of China until 1279. This was another period of cultural brilliance, and it was considered the great age of Chinese landscape painting. There was a dramatic improvement in economic activity, including a large overseas trade. Population and cities grew, food production grew faster than population, a money economy developed, and industrial output increased. No city in Europe could approach the populations of Chang An, Beijing, and Guang Zhou, all with more than 2 million inhabitants. The wealth of China attracted enemies, however, and the Mongols began attacks in 1206. By 1279 they had completed the conquest of Song China and moved the capital to Beijing. The dramatic economic improvement of the Song dynasty ended with the Mongol conquests and the estimated 30 million deaths that they caused. The Mongol Yuan dynasty reunited China and reestablished it as a great military and world power. Chinese influence was spread into Asia. Hanoi was captured three times and tribute was extracted from Burma . Trade with India , Arabia , and the Persian Gulf was developed. Marco Polo visited China during this period. Natural disasters and higher taxes in the fourteenth century caused rural rebellions. A Buddhist monk rose to be one of the leaders of the Red Turbans, a secret society opposed to the emperor in Beijing. The rebels seized Nanjing in 1356 and drove the Mongols from Beijing 12 years later, establishing the Ming dynasty. The Ming presided over another cultural flowering and established a political unity that outlasted the Ming and continued into the twentieth century. The Ming clamped down a strict conservatism and isolation, however, discouraging change and innovation, banning foreign travel, and closing the Silk Road. Some of the most noteworthy aspects of medieval China are the technologies that were invented there, usually many centuries before a similar technology was invented in, or transmitted to, the West. Important Chinese inventions included the compass, the wheelbarrow, the abacus, the horse harness, the stirrup, the clock, iron-casting, steel, paper, moveable type (printing), paper money, gunpowder, and the stern-post rudder. ” — [1]
+
+Trivia[]
+
+The Chinese civilization icon is based on traditional Chinese knotting.
+
+The user interface is a Chinese dragon, which has been the symbol of the emperor holding the mandate of heaven.
+
+Counting the Shang, the Chinese are the only civilization to appear in all five titles of the Age of Empires series and its spinoffs, including their respective expansion packs.
+
+During the Alpha development of the game, the Chinese were referred to as "Sung" to reflect the Song Dynasty.
+
+For gameplay purpose, developers do not give the in-game Chinese civilization many technologies historically invented by real-life Chinese:
+The Chinese were most famous for their advanced fortification techniques, heavily walled cities (which aided Chinese defenders as late as World War II), and excellent siege engineers. Chinese siege engineers were instrumental to the rapid Mongol conquest of Persia and Russia, yet ironically the Mongols have a better siege line than the Chinese, who do not even receive Siege Engineers. This may be to refer to the newer siege weapon developments in the middle east being adopted by the Mongols, such as Kublai Khan bringing in Arab siege engineers to construct Counterweight Trebuchets to successfully destroy the Southern Song dynasty holdout at the Battle of Xiangyang.
+The Chinese invented the first cannon, yet they do not receive Bombard Cannon and Hand Cannoneer. A possible explanation is that the Chinese civilization was originally supposed to represent the "Sung" (Song) dynasty (c. 960-1279), where gunpowder was invented at that time period, but in a more primitive form with rockets, fire lances, fire arrows, and grenades; as opposed to cannons, which were invented in the later dynasties in China (Yuan and Ming).
+In the Into China scenario, some Bombard Cannons can be found in Engineers' Siege Workshops at the northwest of the map. In addition, the Artificial intelligence files indicate that the Jin AI was originally meant to produce Hand Cannoneers and Bombard Cannons. This indicates that the Chinese originally had access to both the Bombard Cannon and Hand Cannoneer in the Alpha.
+The lack of Bombard Cannon and Hand Cannoneer (and prior to update 34699, Block Printing) in their tech tree is often used as a meme within the community when discussing historical accuracy and gameplay balance for civilizations depicted in the game.
+The Chinese historically had a tradition of mounted archery since the Warring States period, often adopting mounted archery techniques from nomadic tribes such as Xiongnu and Xianbei (the latter being one of the ancestors to the Mongols). Various medieval Chinese dynasties continued to adopt mounted archery as means of fighting toe-on-toe against various nomadic tribes (i.e. Tibetans, eastern Turkic tribes, Mongols) or the sedentary Jurchens; and some Imperial examinations require expertise in mounted archery to hold certain military positions in the government. Despite this, the Chinese do not have access to Parthian Tactics (although upgrading their cavalry archers is cheaper thanks to their civilization bonus).
+Their average Heavy Cavalry Archers is comparable to their predecessor civilization, the Shang, where they lack an important upgrade for their mounted archers but have all other upgrades for them (in the case of the Shang, the miss out in Alchemy for their Heavy Horse Archer). Subsequent appearances of the Chinese in future games (i.e. Age of Empires III and Age of Mythology: Tale of the Dragon) usually have the Chinese have access to some form of mounted archer (Keshik and Mounted Archer respectively) to highlight China's tradition of mounted archery, with the exception of their depiction in Age of Empires IV.
+
+While the Chinese civilization is supposed to represent various Chinese dynasties within the medieval time period, the Chinese in-game also covers various non-Han ethnic groups within China, some of which formed their own "conquest dynasties" (i.e. Mongol ruled Yuan dynasty, the Tanguts Xi Xia, the Khitans Liao dynasty, the Jurchens Jin Dynasty) which were also considered "Chinese" dynasties. This is reflected in the Into China scenario where the Chinese civilization was used as the umbrella civilization to represent the Tangut and Jin factions; and the first two scenarios of the Bayinnaung where the Chinese civilization was used to represent the Shan people.
+It is often suggested by fans since The Forgotten to include certain civilizations within the Sinosphere such as the Jurchens and Tibetans as future civilizations to differentiate from the Chinese civilization (especially the latter since it was hinted by the developers in the past), although it possibly conflicts with Chinese censorship laws.
+
+The following heroes available in the Scenario Editor are themed on the Chinese: Su Dingfang and Wang Tong.
+
+The Chinese having access to Camel Riders is most likely due to the import of Bactrian camels when the Chinese expanded their empire into Central Asia during the Tang Dynasty. However, it is unknown if the Chinese utilized camels in warfare, although they were ridden by Silk Road merchants and used for transportation. This is a similar characteristic that the Mongols have.
+
+The Chinese Wonder is also available in the Scenario Editor as a distinct building, the Temple of Heaven, which is larger than the Wonder due to including the stepped base that the main temple is built upon. It appears as a constructable building in the historical battle Lake Poyang.
+
+Gallery[]
+
+The Wonder of the Chinese, the Hall of Prayer for Good Harvests in the 
+
+Temple of Heaven complex
+
+Chinese official preview in the 
+
+Definitive Edition
+
+The East Asian 
+
+architecture set the Chinese share with the
+
+Japanese,
+
+Koreans,
+
+Mongols, and
+
+Vietnamese
+
+The set before the 
+
+Chinese user interface image
+
+The Chinese 
+
+user interface before the
+
+The extent of the Ming dynasty as shown in campaign artwork
+
+A Jurchen Jin city shown as Chinese in 
+
+Into China
+
+A Chinese town in the campaign artwork
+
+Videos[]
+
+Chinese Overview AoE2
+
+The Curious Case of the Chinese Win Rate ft. TaToH
+
+Notes[]
+
+↑ The bonus is applied after farm upgrades, so a Farm with Horse Collar researched starts with 
+  
+    
+      
+        (
+        175
+        +
+        75
+        )
+        ×
+        1.1
+        =
+        275
+      
+    
+    {\displaystyle (175+75)\times1.1=275}
+  
+ food.
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/chinese
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+Asian civilizations
+
+The Age of Kings
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

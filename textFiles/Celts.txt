@@ -1,0 +1,565 @@
+This page is all about the Celts
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 Definitive Edition
+3.4 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 William Wallace
+4.2 Attila the Hun
+4.3 Battles of the Conquerors
+4.4 Alaric
+4.5 Vlad Dracula
+4.6 Battles of the Forgotten
+4.7 Tariq ibn Ziyad
+4.8 Edward Longshanks
+4.9 Victors and Vanquished
+4.10 The Art of War
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+European civilizations,
+
+The Age of Kings
+
+
+			English
+
+Español
+
+Celts
+
+30
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+Civilization Technology tree Strategy
+
+Celts
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: The Age of Kings
+
+Architecture
+
+Western European
+
+Continent
+
+Europe (northwest)
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Celts_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Celts_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Celts_jingle_AoE2.ogg
+
+Pronunciation
+
+https://ageofempires.fandom.com/wiki/File:Pronounce_celts.ogg
+
+Features/Characteristics
+
+Focus
+
+Infantry
+
+Siege weapons
+
+Unique units
+
+Woad Raider
+
+Unique technologies
+
+Stronghold
+
+Furor Celtica
+
+“ In the rolling landscapes of Britain and Ireland, minor chiefdoms grew into formidable kingdoms ruling their surroundings from powerful strongholds. Dominate the highlands with swift infantry, terrorize opponents with swarms of Woad Raiders, and unleash the Furor Celtica upon your enemies with durable, fast-firing siege engines. Your legacy will mix history and legend for centuries to come! ” —Description [1]
+
+The Celts are a Western European civilization in Age of Empires II based on medieval Ireland and Scotland. They focus on infantry and siege weapons.
+
+Their descendants are the Scottish and Irish nations. Wales is also considered a Celtic nation, but is not represented by the Celtic civilization. Wales and Ireland came under control of the English nation (another partial descendant of the Britons) during the 1200s and 1500s respectively, with the Scottish parliament voting to merge with the other three in 1706 during a time when a Scottish king inherited the English throne, which created the United Kingdom. The United Kingdom is featured in Age of Empires III as the British civilization. The Celts do not reappear as such, but Morgan Black, the Highlander, and the Irish Brigadier are descended from them.
+
+Bretons are also a Celtic tribe in Europe, but their culture and Duchy was assimilated by France during the late Medieval Age, and is more represented by the Franks.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 Definitive Edition
+3.4 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 William Wallace
+4.2 Attila the Hun
+4.3 Battles of the Conquerors
+4.4 Alaric
+4.5 Vlad Dracula
+4.6 Battles of the Forgotten
+4.7 Tariq ibn Ziyad
+4.8 Edward Longshanks
+4.9 Victors and Vanquished
+4.10 The Art of War
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+Characteristics[]
+
+Unique unit[]
+
+Woad Raider: Quick infantry unit.
+
+Unique technologies[]
+
+Stronghold: Castles and towers fire 33% faster; Castles can heal allied infantry units by 30 hit points per minute in an 18 tile square.
+
+Furor Celtica: Gives Siege Workshop units +40% hit points.
+
+Civilization bonuses[]
+
+Infantry units move 15% faster starting from the Feudal Age.
+
+Lumberjacks work 15% faster.
+
+Siege weapons fire 25% faster.
+
+Non-Celt[note 1] herdable animals can be converted regardless of units next to them.
+
+Team bonus[]
+
+Siege Workshops work 20% faster.
+
+Overview[]
+
+The Celts have very good infantry units with their major advantage being their faster movement speed. This is especially noticeable in their Woad Raiders. Their Siege Workshop is the best of any civilization, as they attack quicker (also affects Trebuchets), are built faster, and have more hit points due to Furor Celtica. The defenses are average with two missing upgrades (Bracer and Architecture), but their Castle Age unique technology Stronghold helps slightly. They have arguably the best economy of any civilization in early to mid-game thanks to their civilization bonus of efficient lumberjacks (+15%), granting them better access to a resource valued at this stage of the game. This also means they have a fairly effective navy until the late game.
+
+As great as their strengths are, they also have major weaknesses. Their archers are very underwhelming, lacking key technologies all over the board. Their cavalry are mediocre at best, as while they have access to Hussars and Paladin, they lack Bloodlines and Plate Barding Armor, which makes their cavalry very poor unless they invest heavily, and even then they are only average at best. Their late-game navy is weak, as they lack Fast Fire Ships and Bracer which puts their Galleons at a disadvantage. Their Monks are among the weakest of all, lacking five of ten technologies, most of which are crucial for using Monks. Their trash units are quite pitiful, with poor Skirmishers and Hussars, and their faster Halberdiers unable to fully compensate.
+
+Overall, the Celts have a very lacking technology tree and predictable game plan, but if they play to their strengths, their army of infantry (usually Halberdiers and Woad Raiders) and siege weapons (usually Siege Rams and Siege Onagers) can easily be enough to defeat any army. While their archers and cavalry are situational at best, their strong economy helps them in playing outside their strengths in the Castle Age.
+
+Changelog[]
+
+The Conquerors[]
+
+Furor Celtica introduced.
+
+Woad Raiders buffed:
+Train time reduced (16 → 10 seconds).
+Movement speed increased (1.03 → 1.2).
+Base pierce armor increased (0 → 1).
+
+The Forgotten[]
+
+Stronghold introduced.
+
+Furor Celtica hit point boost reduced (+50% → +40%).
+
+Definitive Edition[]
+
+With update 42848, infantry units move 15% faster starting from the Feudal Age (previously applied from the Dark Age).
+
+With update 81058:
+Stronghold effect is 33% attack speed to towers and castles. Additionally, it now heals allied infantry near castles by 30 HP per minute.
+(Elite) Woad Raider gain +5 hit points(65 (standard)/80 (Elite) → 70/85) and +1 attack(10 (standard)/13 (Elite) → 11/14).
+
+The Mountain Royals[]
+
+With update 95810, can research Ring Archer Armor.
+
+Campaign appearances[]
+
+The Celts have a tutorial campaign devoted to their civilization: William Wallace. They also make appearances in various campaigns:
+
+William Wallace[]
+
+This campaign is played as the Celts.
+
+Forge an Alliance and Preparing for Battle
+Scottish Allies - Ally
+
+The Battle of Falkirk
+Wallace - Ally
+
+Attila the Hun[]
+
+The Fall of Rome
+Aquileia - Enemy
+
+Battles of the Conquerors[]
+
+Vinlandsaga
+Skraelings (as Skraelings) - Enemy
+
+Alaric[]
+
+In the Definitive Edition:
+
+A Kingdom of Our Own
+Valentia (Valentia in co-op version) - Enemy
+
+Vlad Dracula[]
+
+The Return of the Dragon
+Local Inhabitants - Ally
+
+Battles of the Forgotten[]
+
+York
+Northumbria - Enemy
+Britons, Scots, and Welsh - Enemy
+Northern Irish Kingdoms - Enemy
+Southern Irish Kingdoms - Enemy
+
+Tariq ibn Ziyad[]
+
+Crossing the Pyrenees
+Basques - Enemy
+
+Edward Longshanks[]
+
+Toom Tabard
+Berwick - Ally
+The Berwick Garrison - Enemy
+The Scottish Army - Enemy
+Scone - Enemy
+
+Hammer of the Scots
+Robert the Bruce - Ally → Enemy
+Stirling Castle - Ally
+The Stirling Garrison - Enemy
+Wallace's Army - Enemy
+William Wallace - Enemy
+
+Victors and Vanquished[]
+
+Finehair
+West-men - Enemy
+
+Karlsefni
+Irish Iceland - Enemy
+
+Ragnar
+Gaels and Scots - Enemy
+
+Stephen
+King David of Scotland - Enemy
+King Owain ap Gruffudd - Enemy
+High King Turlough - Enemy
+
+Vortigern
+Picts - Enemy
+Gaels - Enemy
+
+The Art of War[]
+
+Fast Castle Age is played as the Celts.
+
+In-game dialogue language[]
+
+In-game, Celt units speak Middle Irish (Gaeilge), which was spoken in both Ireland and Scotland. [Pronunciation]
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Celts_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Celts_Villager_Male_Select_1_AoE2.ogg Select 1 Crét? [Kreyt] – What/Why?
+
+https://ageofempires.fandom.com/wiki/File:Celts_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Celts_Villager_Male_Select_2_AoE2.ogg Select 2 Cía? [Kia] – What?, from Latin Quia
+
+https://ageofempires.fandom.com/wiki/File:Celts_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Celts_Villager_Male_Select_3_AoE2.ogg Select 3 Airlam/Erlam [Air lav] – Ready, literally 'on hand', r
+
+https://ageofempires.fandom.com/wiki/File:Celts_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Celts_Villager_Male_Select_4_AoE2.ogg Select 4 Forgaill? [For gall] – Command?, literally, 'statement?
+
+https://ageofempires.fandom.com/wiki/File:Celts_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Celts_Villager_Male_Task_1_AoE2.ogg Task 1 Togh [Toe] – Fine/Ok
+
+https://ageofempires.fandom.com/wiki/File:Celts_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Celts_Villager_Male_Task_2_AoE2.ogg Task 2 Tó [Toe] – Yes
+
+https://ageofempires.fandom.com/wiki/File:Celts_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Celts_Villager_Male_Task_3_AoE2.ogg Task 3 Cert [K-yart] – Right
+
+https://ageofempires.fandom.com/wiki/File:Celts_Villager_Female_Task_4_AoE2.ogg Task 4 Bíd fír [Bij feer] – That's right
+
+https://ageofempires.fandom.com/wiki/File:Celts_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Celts_Villager_Male_Build_AoE2.ogg Build Ráthbuige [Raw-bwi-ger] – Builder
+
+https://ageofempires.fandom.com/wiki/File:Celts_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Celts_Villager_Male_Chop_AoE2.ogg Chop Búanaid [Boo-a-nij] – Lumberjack (literally - "hewer of wood")
+
+https://ageofempires.fandom.com/wiki/File:Celts_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Celts_Villager_Male_Farm_AoE2.ogg Farm Treab(th)ach [Trebakh] – (Literally 'Ploughing') Farmer, Householder
+
+https://ageofempires.fandom.com/wiki/File:Celts_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Celts_Villager_Male_Fish_AoE2.ogg Fish Íascaire [Ee-as-ki-rer] – Fisher
+
+https://ageofempires.fandom.com/wiki/File:Celts_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Celts_Villager_Male_Forage_AoE2.ogg Forage Feodaige – Gatherer, literaly 'he gathers'
+
+https://ageofempires.fandom.com/wiki/File:Celts_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Celts_Villager_Male_Hunt_AoE2.ogg Hunt Selgaire [Shell-gi-rer] – Hunter
+
+https://ageofempires.fandom.com/wiki/File:Celts_Villager_Female_Mine_AoE2.ogg Female Mine'' Mine Míanaige [Mee-an-ig-er] – Miner
+
+https://ageofempires.fandom.com/wiki/File:Celts_Villager_Male_Mine_AoE2.ogg Male Mine Bíd fír [Bij feer] – That's right
+
+https://ageofempires.fandom.com/wiki/File:Celts_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Celts_Villager_Male_Repair_AoE2.ogg Repair [Far at-nugag] Fer atnugadh – Repairing man
+
+https://ageofempires.fandom.com/wiki/File:Celts_Villager_Female_Attack_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Celts_Villager_Male_Attack_AoE2.ogg Attack Fóbairt! [Fo-bert] – Assault! (not used)
+
+https://ageofempires.fandom.com/wiki/File:Celts_Soldier_Select_1_AoE2.ogg Select 1 Crét? [Kreyt] – What/Why?
+
+https://ageofempires.fandom.com/wiki/File:Celts_Soldier_Select_2_AoE2.ogg Select 2 Airlam/Erlam [Air lav] – Ready, literally 'on hand', r
+
+https://ageofempires.fandom.com/wiki/File:Celts_Soldier_Select_3_AoE2.ogg Select 3 Forgaill? [For gall] – Command?, literally, 'statement?
+
+https://ageofempires.fandom.com/wiki/File:Celts_Soldier_Move_1_AoE2.ogg Move 1 Togh [Toe] – Fine/Ok
+
+https://ageofempires.fandom.com/wiki/File:Celts_Soldier_Move_2_AoE2.ogg Move 2 Bíd fír [Bij feer] – That's right
+
+https://ageofempires.fandom.com/wiki/File:Celts_Soldier_Move_3_AoE2.ogg Move 3 Tó [Toe] – Yes
+
+https://ageofempires.fandom.com/wiki/File:Celts_Soldier_Attack_1_AoE2.ogg Attack 1 Fóbairt! [Fo-bert] – Assault!
+
+https://ageofempires.fandom.com/wiki/File:Celts_Soldier_Attack_2_AoE2.ogg Attack 2 Don cath! [Don kat] – To battle!
+
+https://ageofempires.fandom.com/wiki/File:Celts_Soldier_Attack_3_AoE2.ogg Attack 3 Tó! [Toe!] – Yes!
+
+https://ageofempires.fandom.com/wiki/File:Celts_Soldier_Attack_4_AoE2.ogg Attack 4 Cogadh [Kogo] - War!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Celts_Monk_Select_1_AoE2.ogg Select 1 Crét? [Kreyt] – What/Why?
+
+https://ageofempires.fandom.com/wiki/File:Celts_Monk_Select_2_AoE2.ogg Select 2 Cía? [Kia] – What?, from Latin Quia
+
+https://ageofempires.fandom.com/wiki/File:Celts_Monk_Select_3_AoE2.ogg Select 3 Airlam/Erlam [Air lav] – Ready, literally 'on hand', r
+
+https://ageofempires.fandom.com/wiki/File:Celts_Monk_Select_4_AoE2.ogg Select 4 Forgaill? [For gall] – Command?, literally, 'statement?
+
+https://ageofempires.fandom.com/wiki/File:Celts_Monk_Move_1_AoE2.ogg Move 1 Togh [Toe] – Fine/Ok
+
+https://ageofempires.fandom.com/wiki/File:Celts_Monk_Move_2_AoE2.ogg Move 2 Tó [Toe] – Yes
+
+https://ageofempires.fandom.com/wiki/File:Celts_Monk_Move_3_AoE2.ogg Move 3 Cert [K-yart] – Right
+
+https://ageofempires.fandom.com/wiki/File:Celts_Monk_Move_4_AoE2.ogg Move 4 Bíd fír [Bij feer] – That's right
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Celts_King_Select_1_AoE2.ogg Select 1 Crét? [Kreyt] – What/Why?
+
+https://ageofempires.fandom.com/wiki/File:Celts_King_Select_2_AoE2.ogg Select 2 Cía? [Kia] – What?, from Latin Quia
+
+https://ageofempires.fandom.com/wiki/File:Celts_King_Select_3_AoE2.ogg Select 3 Airlam/Erlam [Air lav] – Ready, literally 'on hand', r
+
+https://ageofempires.fandom.com/wiki/File:Celts_King_Select_4_AoE2.ogg Select 4 Forgaill? [For gall] – Command?, literally, 'statement?
+
+https://ageofempires.fandom.com/wiki/File:Celts_King_Move_1_AoE2.ogg Move 1 Togh [Toe] – Fine/Ok
+
+https://ageofempires.fandom.com/wiki/File:Celts_King_Move_2_AoE2.ogg Move 2 Tó [Toe] – Yes
+
+https://ageofempires.fandom.com/wiki/File:Celts_King_Move_3_AoE2.ogg Move 3 Cert [K-yart] – Right
+
+https://ageofempires.fandom.com/wiki/File:Celts_King_Move_4_AoE2.ogg Move 4 Bíd fír [Bij feer] – That's right
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Celt AI characters:
+
+Aedan: Áedán mac Gabráin, King of Dál Riata (West-Scotland) from 574-609. Held campaigns in Ireland, Scotland and to the Orkney islands, but finally decisively defeated by Aethelfrith.
+
+Aedan mac Gabrain: See Aedan.
+
+Aethelfrith: King of Bernicia (East-Scotland) from 593-616. Notable for his successes against the Britons and the Gaels (Aedan), laying the foundation for the future kingdom of Northumbria. Killed in battle.
+
+Ainmire: Ainmuire mac Sétnai, High King of Ireland from 566-569. First high king from the Cenél Conaill branch of the Uí Néill, but soon killed by a rival prince.
+
+Ainmire mac Setnai: See Ainmire.
+
+Alan IV Fergant: Alan IV, Duke of Brittany, was a duke of Brittany from 1084 until his resignation in 1112. He was involved in the First Crusade where his wife acted as regent.
+
+Ambrosius: Romano-British war leader from 479 and onwards, victorious in important battles against the Anglo-Saxons in the 5th century. Could, historically, have been the inspiration of, or have influenced, the King Arthur epic.
+
+Athelred the Unready (966-1016): King of the English from 978-1016. Had to defend England against Danish Vikings (Sweyn Forkbeard) but failed and fled to Normandy in 1013. Died in a campaign to retake England (1016).
+
+Brian Boru (941-1014): High King of Ireland (1002-1014). Fought many battles to unify Ireland under him. His Irish won the final battle against the Norse Vikings of Dublin at the Battle of Clontarf, but Brian died after the battle when a fleeing Norseman stumbled upon him in his tent.
+
+Brude: Bridei I, king of the Picts in Scotland from 554-584.
+
+Columba (521-597): Irish abbot and missionary who spread Christianity throughout Ireland and Scotland. His work would be the basis of Celtic Christianity. Today revered as an Irish Saint.
+
+Conall: Conall Cearnach, a hero in Irish mythology and sagas. His epic led him through Ireland, England and mainland Europe, completing various quests along the way.
+
+Cunedda: Celtic leader, originating from northern England, lived around the beginning of the 5th century. Waged war on the Picts and Irish, and later drove them from Wales where he laid the foundation for the kingdom of Gwynedd.
+
+Diarmait: High King of Ireland from 560-565.
+
+Kenneth MacAlpin: was a king of the Picts who, according to national myth, was the first king of Scots.
+
+Macbeth (1005-1057): King of Scotland (1040-1057). Defended Scotland from English attacks, died in battle by a rival. Became a legend in Shakespeare's tragedy Macbeth.
+
+Maelgwn: Maelgwn Gwynedd, king of Gwynedd (northern Wales) in the beginning of the 6th century. Supporter of Christianity, died from the Plague and passed into Welsh legend.
+
+Robert the Bruce (1274-1329): King of Scotland from 1306-1329. Famous warrior who led the Scots in the First Scottish Independence War, resulting in an independent Scotland.
+
+Rhydderch Hael (580–614): He was a ruler of Alt Clut, a Brittonic kingdom in the Hen Ogledd or "Old North" of Britain. He was one of the most famous kings in the Hen Ogledd, and appears frequently in later medieval works in Welsh and Latin.
+
+Vortigern: Supposedly King of the Britons, 5th century warlord who fought against the Picts and the Scots. Appeared in one of the Victors and Vanquished scenarios, but represented by the Britons.
+
+William Wallace (1270-1305): One of the main leaders of the First Scottish Independence War. Famous for his victory in the Battle of Stirling Bridge (1297). Defeated at the Battle of Falkirk (1298), after which Robert the Bruce took over command of the Scots. William was eventually captured by the English and executed.
+
+History[]
+
+“ The Celts (pronounced "kelts") were the ancient inhabitants of Northern Europe and the builders of Stonehenge 5000 years ago. Julius Caesar had battled them during his conquest of Gaul. The Romans eventually took most of Britain and the Iberian Peninsula from them as well. At the end of the ancient Roman Empire, the Celts occupied only parts of northwestern France, Ireland, Wales, and parts of Scotland. During the course of the Middle Ages, they strengthened their hold on Scotland and made several attempts to take more of England. The Irish remained in small bands during the early Middle Ages. By 800 the four provinces of Leinster, Munster, Connaught, and Ulster had risen to power under "high kings." Viking raids began in 795 and then Viking settlements were established in the middle ninth century. The most important of these was at Dublin. Brian Boru became the first high king of all Ireland around 1000. In 1014 the Irish defeated the Danes of Dublin at Clontarf, although Brian Boru was killed. An Irish tribe called the Scotti invaded what is now southern Scotland during the early Middle Ages, settling permanently and giving the land its name. They pushed back and absorbed the native Picts who had harassed the Romans to the south. The Scottish kingdom took its present shape during the eleventh century but attracted English interference. The Scots responded with the "auld (old) alliance" with France, which became the foundation of their diplomacy for centuries to come. Edward I of England (Longshanks, or "hammer of the Scots") annexed Scotland in 1296. William Wallace (Braveheart) led a revolt of Scotland, winning virtual independence at the Battle of Stirling Bridge in 1297. Defeated the next year at Falkirk, Wallace waged a guerrilla war until he was betrayed, captured, and executed in 1305. Robert the Bruce declared himself king of Scotland after murdering his main rival. He drove out the English, winning the battle of Bannockburn in 1314. Edward III of England recognized Scotland's independence in 1328, but war between the Scots and English carried on for several centuries. The crowns of the two countries were united in 1603, long after the Middle Ages were over. No prince in Wales proved strong enough to unite the country. In the late thirteenth century, Edward I took over the government of Gwynedd, one of the strongest Welsh principalities in Wales. He proceeded to build five great castles in Wales, effectively placing the country under English rule. ” — [1]
+
+Trivia[]
+
+The Celts' civilization icon in the Definitive Edition is based on a Celtic triskelion.
+
+The user interface image in the Definitive Edition displays a triquetra.
+
+The Celts were the only civilization with a civilization bonus that increased unit speed until the The African Kingdoms expansion's release.
+
+The Celts are the tutorial civilization, being playable in the William Wallace campaign.
+
+The Celts are one of the four civilizations that have access to Paladins, but not Bloodlines (the other civilizations being Byzantines, Burgundians, and Franks, although the latter have a civilization bonus that increases cavalry HP by +20%).
+The Celts' access to Paladins is considered to be historically inaccurate, as Celtic armies in Ireland and Scotland were often overwhelmed by the English's superior cavalry.
+
+Before The Mountain Royals, the Celts were the only civilization to have only two Imperial Age Blacksmith upgrades. However, they gained Ring Archer Armor with the said expansion's release.
+
+The Celts are the only civilization to lack both Bracer and Fast Fire Ship.
+
+The Celts are the only civilization to lack Bracer but have access to Shipwright.
+
+The following heroes available in the Scenario Editor are themed on the Celts: Aethelfrith, Gawain, King Arthur, Mordred, William Wallace, Tristan, Dafydd ap Gruffydd, and the Llywelyn ap Gruffydd.
+
+Two Celts' AI players are Anglo-Saxon kings. Even though Bernicia and Wessex comprised both Anglo-Saxon settlers and Celtic natives, the natives likely spoke Brittonic languages (like Old Welsh), related to yet distinct from the Goidelic Middle Irish spoken by the in-game Celts. Moreover, the in-game Britons already comprise Anglo-Saxons, Normans, and Brittonic Celts.
+
+The loss of the infantry speed bonus in the Dark Age with update 42848 was motivated by the unconventional play with Dark Age Militia rush and Castle Age aggression at the cost of the economy by the famous Vietnamese competitive player Hoang "Hoang" Nguyen, who uses this strategy particularly with the Celts. This change was in line with no civilization having a military stat buff bonus in the Dark Age.
+
+The fact that the Celts lack cannons in spite of their focus on siege might be read as a reference to the Glyndŵr Rising, where the lack of artillery prevented the Welsh rebels from capturing several key castles held by the English.
+
+Gallery[]
+
+The Wonder of the Celts, the 
+
+Rock of Cashel
+
+Official preview showing Celts besieged by the 
+
+Britons (note that Britons don't get Paladins)
+
+The Western European 
+
+architecture set the Celts share with the
+
+Britons,
+
+Franks, and
+
+Burgundians
+
+The set before the 
+
+Celts 
+
+user interface image
+
+The Celtic user interface before the 
+
+A Celtic town, seen in 
+
+The Battle of Falkirk
+
+Celts Overview (updated for 2024)
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/celts
+
+↑ While commonly quoted as "enemy", the ability to convert herdable animals also works on allied and neutral players too. The ability does not work on other Celt players irrespective of their diplomatic stance. The ability is called "Dominant Line of Sight" behind the scenes.
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+European civilizations
+
+The Age of Kings
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

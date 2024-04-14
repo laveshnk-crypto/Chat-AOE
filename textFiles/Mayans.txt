@@ -1,0 +1,531 @@
+This page is all about the Mayans
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Forgotten
+3.2 The African Kingdoms
+3.3 Rise of the Rajas
+3.4 Definitive Edition
+3.5 Dynasties of India
+
+4 Campaign appearances
+
+4.1 Montezuma
+4.2 Battles of the Forgotten
+4.3 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Video
+
+11 Notes
+
+12 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+The Conquerors,
+
+American civilizations
+
+
+			English
+
+Español
+
+Mayans
+
+32
+
+Edit
+
+Edit source
+
+View history
+
+Talk (4)
+
+This article is about the civilization in Age of Empires II: The Conquerors . For other uses, see Maya .
+
+Civilization Technology tree Strategy
+
+DE
+
+HD
+
+Mayans
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: The Conquerors
+
+Architecture
+
+Native American
+
+Continent
+
+Central America (Mesoamerica)
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Mayans_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Mayans_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Mayans_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Archers
+
+Unique units
+
+Plumed Archer
+
+Unique technologies
+
+Hul'che Javelineers
+
+El Dorado
+
+Mayans
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: The Conquerors
+
+Architecture
+
+Native American
+
+Continent
+
+Central America (Mesoamerica)
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Mayans_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Archers
+
+Unique units
+
+Plumed Archer
+
+Unique technologies
+
+Obsidian Arrows
+
+El Dorado
+
+“ Deep in the rainforests of the Yucatan, an intriguing civilization subsisted within the humid climate for centuries before mysteriously vanishing. Establish city-states and crown them with awe-inspiring pyramids, a testament to your rich mythology and the splendor of your rulers. Conquer the jungles with powerful infantry and swift Plumed Archers, deadly marksmen who can elude all but the most mobile enemy troops. Can you build a legacy worthy of your temperamental gods? ” —Description [1]
+
+The Mayans are a Native American civilization introduced in Age of Empires II: The Conquerors. They focus on archers, or more correctly foot archers.
+
+The Mayans appear as a minor native in Age of Empires III and as a revolution option for the Mexicans in the Definitive Edition.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Forgotten
+3.2 The African Kingdoms
+3.3 Rise of the Rajas
+3.4 Definitive Edition
+3.5 Dynasties of India
+
+4 Campaign appearances
+
+4.1 Montezuma
+4.2 Battles of the Forgotten
+4.3 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Video
+
+11 Notes
+
+12 References
+
+Characteristics[]
+
+Unique unit[]
+
+Plumed Archer: Quick foot archer with high hit points and pierce armor, but low attack.
+
+Unique technologies[]
+
+Hul'che Javelineers: Skirmishers throw an additional projectile, which deals one pierce attack.
+
+El Dorado: Eagle Warriors +40 hit points.
+
+Civilization bonuses[]
+
+Start the game with an Eagle Scout.
+
+Start the game with +1 Villager, but with -50 food.
+
+Resources last 15% longer.[note 1]
+
+Foot archers (except Skirmishers) are 10%/20%/30% cheaper in the Feudal/Castle/Imperial Age.
+
+Team bonus[]
+
+Walls and gates (both Palisade and Stone) are 50% cheaper.
+
+Overview[]
+
+The greatest strength of the Mayans is their economy. They have a great early-game bonus in an additional Villager, a strong long-term bonus in their longer-lasting resources, and team bonus makes it much easier for them to fully wall themselves and protect their economy.
+
+Their other great strength is archers. Their Archer-line units get a 10%/20%/30% discount in the Feudal/Castle/Imperial Age, while their Skirmishers get an additional projectile with Hul'che Javelineers. The Plumed Archer, the Mayan unique unit, is a more durable and faster version of the Archer-line. To support their archers, the Mayans have fully upgraded Halberdiers and Elite Eagle Warriors, the latter greatly appreciating El Dorado's +40 hit points.
+
+However, the Mayans have several notable weaknesses. The Mayans lack any form of mounted and gunpowder units. These, combined with the lack of Redemption, mean that the Mayans have very few answers to enemy Onagers. The lack of Cannon Galleons leaves their navy without the ability to take down enemy fortifications. Lastly, their swordsman line lacks the Champion upgrade and Supplies (and by extension Gambesons).
+
+Changelog[]
+
+The Forgotten[]
+
+Now start with an Eagle Scout instead of an Eagle Warrior.
+
+Obsidian Arrows introduced. It gives the Archer line a +4 attack bonus against standard buildings.
+
+Plumed Archers' cost increased (46 wood, 46 gold → 50 wood, 50 gold).
+
+The Elite Plumed Archer upgrade's food cost increased (500 food → 700 food).
+
+Farming is ~14% / 10.5% / 6.5% slower with no upgrades / Wheelbarrow / Hand Cart, respectively (from ~2.5% / 5.5% 2.5%).
+
+The African Kingdoms[]
+
+Eagle Scouts now become available in the Feudal Age (previously they were available from the Castle Age).
+
+Resource longevity bonus decreased (20% → 15%).
+
+With patch 4.8:
+Arrowslits was removed from the technology tree.
+Archer line gains an additional +6 attack bonus against stone defense from Obsidian Arrows (from none).
+
+Rise of the Rajas[]
+
+With patch 5.8, farming rates restored to The Conquerors state.
+
+Definitive Edition[]
+
+With update 34055, Plumed Archers' cost increased (50 wood, 50 gold → 55 wood, 55 gold).
+
+With update 34699, their extra Villager is tied to their initial Town Center, so in Nomad type maps, it will appear once the Town Center is finished (previously appeared from the start).
+
+With update 37650, Supplies was removed from their technology tree.
+
+With update 42848, Obsidian Arrows anti-stone defense bonus removed (+6 → +0).
+
+With update 44725, Hul'che Javelineers replaces Obsidian Arrows; Hul'che Javelineers improves Skirmishers by making them throw a second projectile.
+
+Dynasties of India[]
+
+With update 61321, Fish and Fish Traps are now properly affected by the Mayan civilization bonus of longer-lasting resources (previously were unaffected).
+
+Campaign appearances[]
+
+The Mayan have the Dos Pilas scenario from the Battles of the Forgotten campaign devoted to their civilization. They also appear as AI players in:
+
+Montezuma[]
+
+Reign of Blood
+Tepanaca - Enemy
+Xochimilco - Enemy
+
+The Triple Alliance
+Texcoco - Ally → Enemy
+
+Quetzalcoatl
+Tabasco - Ally
+
+Battles of the Forgotten[]
+
+This scenario is played as the Mayans.
+
+Dos Pilas
+Dos Pilas - Ally or Enemy
+Tikal - Ally or Enemy
+Calakmul - Enemy or Ally
+Uaxactun - Ally or Enemy
+Naranjo - Ally or Enemy
+Mayan Raiders - Enemy
+Countryside - Ally
+
+Victors and Vanquished[]
+
+Drake
+Natives - Ally
+
+In-game dialogue language[]
+
+In-game, Mayan units speak K'iche', a Mayan language spoken in western Guatemala, and the language of the most prominent Mayan book, the Popol Vuh.
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Male_Select_1_AoE2.ogg Select 1 Axike
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Male_Select_2_AoE2.ogg Select 2 Atutz
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Male_Select_3_AoE2.ogg Select 3 Chare/Chade
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Male_Select_4_AoE2.ogg Select 4 Tabix
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Male_Task_1_AoE2.ogg Task 1 Utz ca
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Male_Task_2_AoE2.ogg Task 2 Axike
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Male_Task_3_AoE2.ogg Task 3 Keri
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Male_Task_4_AoE2.ogg Task 4 Chastimban
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Male_Build_AoE2.ogg Build Axeyak - Builder
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Male_Chop_AoE2.ogg Chop Ecé - Axe (sounds like ashé)
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Male_Farm_AoE2.ogg Farm Kasamax - Farmer and Miner
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Male_Fish_AoE2.ogg Fish Karunel - Fisherman
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Male_Forage_AoE2.ogg Forage Molonel - Harvester
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Male_Hunt_AoE2.ogg Hunt K'iäqanel - Hunter
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Male_Mine_AoE2.ogg Mine Kasamax - Farmer and Miner
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Male_Repair_AoE2.ogg Repair Koxonel - Repairer
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Villager_Male_Attack_AoE2.ogg Male Attack Kayaxé! - Attack! (not used)
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Soldier_Select_1_AoE2.ogg Select 1 Axike
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Soldier_Select_2_AoE2.ogg Select 2 Chare/Chade
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Soldier_Select_3_AoE2.ogg Select 3 Tabix
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Soldier_Move_1_AoE2.ogg Move 1' Cha - say
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Soldier_Move_2_AoE2.ogg Move 2 Chastimban
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Soldier_Move_3_AoE2.ogg Move 3 Utz ca
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Soldier_Attack_1_AoE2.ogg Attack 1 Kayaxé! - Attack!
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Soldier_Attack_2_AoE2.ogg Attack 2' Cha! - Say!
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Soldier_Attack_3_AoE2.ogg Attack 3 Kokaya! - Attack!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Monk_Select_1_AoE2.ogg Select 1 Axike
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Monk_Select_2_AoE2.ogg Select 2 Atutz
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Monk_Select_3_AoE2.ogg Select 3 Chare/chade
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Monk_Select_4_AoE2.ogg Select 4 Tabix
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Monk_Move_1_AoE2.ogg Move 1 Utz ca
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Monk_Move_2_AoE2.ogg Move 2' Cha - say
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Monk_Move_3_AoE2.ogg Move 3 Keri
+
+https://ageofempires.fandom.com/wiki/File:Mayans_Monk_Move_4_AoE2.ogg Move 4 Chastimban
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Mayans_King_Select_1_AoE2.ogg Select 1 Axike
+
+https://ageofempires.fandom.com/wiki/File:Mayans_King_Select_2_AoE2.ogg Select 2 Atutz
+
+https://ageofempires.fandom.com/wiki/File:Mayans_King_Select_3_AoE2.ogg Select 3
+
+https://ageofempires.fandom.com/wiki/File:Mayans_King_Select_4_AoE2.ogg Select 4 Tabix
+
+https://ageofempires.fandom.com/wiki/File:Mayans_King_Move_1_AoE2.ogg Move 1 Utz ca
+
+https://ageofempires.fandom.com/wiki/File:Mayans_King_Move_2_AoE2.ogg Move 2' Cha - say
+
+https://ageofempires.fandom.com/wiki/File:Mayans_King_Move_3_AoE2.ogg Move 3 Keri
+
+https://ageofempires.fandom.com/wiki/File:Mayans_King_Move_4_AoE2.ogg Move 4 Chastimban
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Mayan AI characters:
+
+Bird Jaguar (Yaxun B'alam): Name of several kings of Yaxchilan, most notably Bird Jaguar IV; lived 709–768 and ruled from 752. He struggled to take and hold power, as he was not perceived to be the rightful heir to the throne due to not being born to his father's first wife.
+
+Black Serpent (Kan Ek'): Title used by the kings of Lake Peten Itza between 1194 and 1697, the last Mayan polity conquered by the Spanish. Also the personal name of several unrelated kings in Motul, Calakmul, Chichen Itza and Seibal between 600 and 900 A.D.
+
+Curl Snout (Yax Nuun Ahiin I, a.k.a. Curl Nose (r. 379-404?)): King of Tikal. His name when transcribed is YAX-?-AH:N, translated "First ? Crocodile". Son of the Teotihuacan ruler Spearthrower Owl.
+
+Eighteen Rabbit (Uaxaclajuun Ub'aah K'awiil, r. 695-738): 13th king of Copan in modern Honduras and builder of most of its monuments.
+
+Flint Sky God (B'alaj Chan K'awiil, 625 – c. 692): First king of Dos Pilas. He is also known as Ruler 1, Flint Sky God K, and Malah Chan K'awil. Installed as ruler of Dos Pilas by his father the king of Tikal, when he was four years old, he rebelled against Tikal in 648 and waged wars against it, Calakmul, Coban, and Machaquila.
+
+Great Jaguar Paw (Chak Tok Ich'aak I, r. 360?-378): Also known as Great Paw, Great Jaguar Paw, and Toh Chak Ich'ak, was a king of Tikal likely killed when it was conquered by Teotihuacan.
+
+King Stormy Sky (Sihyaj Chan K'awiil II, a.k.a. Storm Sky and Manikin Cleft Sky, r. 411-456): King of Tikal buried beneath Temple 33.
+
+Lady Great Skull Zero: Wife of Bird Jaguar IV.
+
+Shield Jaguar II: Possibly Itzamnaaj B'alam II (r. 681-742), king of Yaxchilan in Chiapas, Mexico. Best known for the many buildings and stelae he commissioned during his rule.
+
+Smoke Imix God: Possibly Chan Imix K'awiil a.k.a. Smoke Jaguar (r. 628-695), the twelfth and longest-reigning king of Copan.
+
+Smoke Monkey: Possibly K'ak' Joplaj Chan K'awiil (r. 738-749), 14th king of Copan. Little is known of his reign due to the lack of monuments raised after the defeat of Copan by Quiriguá and the execution of the previous king, which possibly reduced Copan to vassalage.
+
+Smoke Shell: Possibly K'ak' Yipyaj Chan K'awiil (d. 763), 15th king of Copan. Built a new version of Temple 26, with the Hieroglyphic Stairway being reinstalled on the new stairway and doubled in length. Five life-size statues of seated rulers were installed seated upon the stairway. He was likely interred in Temple 11, although the tomb has not yet been excavated.
+
+Smoking Frog (Siyaj K'ak' or Siyah K'ak', a.k.a. "Fire is Born"): Warlord in the Petén region who was possibly from Teotihuacan. In 378-379 he overthrew the kings of Tikal, Uaxactun, and Copan, and replaced them with descendants of Spearthrower Owl. He ruled the area until his death in the early fifth century, during which Petén was subjected to great cultural influence from Central Mexico.
+
+Smoking Squirrel (K'ak' Tiliw Chan Chaak, 688 - c. 720): King of Naranjo from 693. His early reign saw several victories of Naranjo over Yaxha, Tikal, Ucanal, and other cities, which were presumably accomplished by his mother and regent Lady Six Sky, a daughter of B'alaj Chan K'awiil from Dos Pilas.
+
+Waterlily Jaguar: A Mayan protector deity of the Underworld (Xibalbá), associated with royalty and libation, depicted as a jaguar looming large above the king, or as a transformer shown amidst flames.
+
+History[]
+
+“ The Mayans occupied the Yucatan peninsula, modern Honduras, and modern Guatemala. They date back perhaps to the second millennium BC, but peaked between 600 and 900 AD. Though they lived on lands of marginal agricultural value, they created monuments and ceremonial centers nearly as impressive as those in Egypt. The extent of the ceremonial building is surprising because their religion was relatively simple. Their architecture was also less developed, though undeniably impressive, compared to contemporary advances made elsewhere in the world. They invented a unique written language that is only being deciphered today. Three Mayan books survive to the present, the remnants of a much larger number destroyed by Europeans who feared they contained heresy . The Mayans were very proficient in mathematics and astronomy. The understanding and predictability of star and planet movements was critical to the calculation of their calendar and the dating of important ceremonies. They lived in small hamlets that have not survived but congregated at their centers for important events. Noble warriors and priests controlled their society. The Mayans went into decline in the tenth century, perhaps due to earthquake or volcanic eruption. Many of their important ceremonial sites were thereafter abandoned. Warriors from central Mexico then invaded their territory and they broke into small town groupings in the rain forest. The last Mayan center was captured by the Spanish in the 17th century, but as many as two million people of Mayan descent reside in the Yucatan today. ” — [1]
+
+Trivia[]
+
+The Mayans' civilization icon is based on the maya glyph Men, meaning "eagle", one of the day names on the Tzolk'in calendar.
+
+The user interface image in the Definitive Edition displays Kukulkan, a Mesoamerican serpent deity as depicted in Yaxchilan.
+Kukulkan, also spelled K'uk'ulkan, ("Plumed Serpent", "Feathered Serpent") is the name of a Mesoamerican serpent deity. Kukulkan was worshipped by the Yucatec Maya people of the Yucatán Peninsula, in what is now Mexico. Kukulkan is closely related to the deity Q'uq'umatz of the K'iche' people and to Quetzalcoatl of Aztec mythology.
+
+Pacal II is the only hero available in the Scenario Editor who is themed on the Mayans.
+
+The civilization bonus of the Mayans starting with more Villagers is completely negated in maps or game modes that only allow a specific number of Villagers to exist at the start of a map, though the Mayans still retain the trade-off of starting off with less resources, presenting a disadvantage.
+
+The Mayans are one of the strongest civilizations for open maps in both 1 vs 1 and team games as the flank, due to their solid economic bonus and their military units, which are durable for long battles (their Plumed Archers and Eagle Warriors with the El Dorado technology). This lead to the Plumed Archers having a price increase both in The Forgotten and the Definitive Edition, but their Archer line then gained the reputation of "Bombard Arbalesters" because once Obsidian Arrows was researched, their archers became extremely powerful at taking down buildings and defensive structures, which also led to the removal of the double damage against defensive structures in update 42848. Obsidian Arrows ended up being replaced by Hul'che Javelineers with update 44725.
+In addition, the Mayans are one of the easiest archer civilizations for beginners. Their good economy and cheaper archers are a great tool. The Plumed Archer is also an easy archer to micromanage thanks to their speed, which also gives them an option to use against archery units.
+
+While the preferred ranged weapons of the real life Mayans were slings and javelins, the archery focus was probably given to distinguish them from the Aztecs, who were the other Mesoamerican civilization introduced in The Conquerors with its design focused on infantry.
+
+Mayans are the civilization with the least access to cavalry units. Due to lacking Redemption, their Monks cannot convert Stables so they can only train Xolotl Warriors (like the Aztecs and Incas) if they start with one in MegaRandom. They still can get Genitours if they have a Berber ally, and Elite Kipchaks if a Cuman ally researches Cuman Mercenaries.
+
+Since update 61321, Mayan Fish Traps are built 15% faster, but this is not noticeable because Mayan Fishing Ships work equally slower. To verify this, a non-Mayan non-Japanese Fishing Ship can be converted to build a Fish Trap, or a Mayan player can place foundation of a Fish Trap to be built by an ally.
+
+Gallery[]
+
+The Wonder of the Mayans, the 
+
+Temple of the Great Jaguar
+
+The Native American 
+
+architecture set the Mayans share with the
+
+Aztecs and the
+
+Incas
+
+The set before the 
+
+Mayans 
+
+user interface image
+
+The Mayan user interface
+
+A Mayan village, as seen in 
+
+Reign of Blood
+
+Video[]
+
+Mayan overview (2024 update)
+
+Notes[]
+
+↑ Due to the way this bonus works (lowered work rates are multiplied by higher resource gains), farming is ~2.5% / 5.5% / 2.5% slower with no upgrades / Wheelbarrow / Hand Cart, respectively (slightly lower difference with Heavy Plow researched) Source: Reddit – 'Some updated & completed Farming Workrate Values for the tail end of 2017'.
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/mayans
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+The Conquerors
+
+American civilizations
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

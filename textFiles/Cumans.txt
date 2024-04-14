@@ -1,0 +1,623 @@
+This page is all about the Cumans
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Definitive Edition
+3.2 Lords of the West
+3.3 Dawn of the Dukes
+3.4 Dynasties of India
+3.5 Return of Rome
+
+4 Campaign appearances
+
+4.1 Barbarossa
+4.2 Genghis Khan
+4.3 Tamerlane
+4.4 Ivaylo
+4.5 Kotyan Khan
+4.6 The Hautevilles
+4.7 Algirdas and Kestutis
+4.8 Babur
+4.9 Tamar
+4.10 Ismail
+4.11 Mongol Raiders
+4.12 Barbarossa Brawl
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+Eurasian civilizations,
+
+and
+
+2 more
+
+The Last Khans
+
+Nomadic civilizations
+
+
+			English
+
+Español
+
+Cumans
+
+35
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+Civilization Technology tree Strategy
+
+Cumans
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: Definitive Edition - The Last Khans
+
+Architecture
+
+Central Asian
+
+Continent
+
+Asia (central)
+
+Europe (east)
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Cumans_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Cumans_jingle_AoE2_DE.ogg
+
+Pronunciation
+
+https://ageofempires.fandom.com/wiki/File:Pronounce_cumans.ogg
+
+Features/Characteristics
+
+Focus
+
+Cavalry
+
+Unique units
+
+Kipchak
+
+Unique technologies
+
+Steppe Husbandry
+
+Cuman Mercenaries
+
+“ The vast Eurasian plains were home to nomadic tribes whose steppe husbandry and fearsome exploits still live on in the records of their terrified neighbors. Lead the Cuman-Kipchak hordes to war and pillage to your heart's content, or offer your riders as coveted mercenaries in the service of foreign kings. When an even greater threat looms to the east, will you migrate west and adopt the lifestyle and warcraft of your sedentary neighbors, or vanish before an unstoppable wave of Mongol conquerors? ” —Description [1]
+
+The Cumans are a Central Asian civilization introduced in Age of Empires II: Definitive Edition based on the confederation with the Kipchaks, Khazars, Pechenegs, and Kazakhs. They focus on cavalry.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Definitive Edition
+3.2 Lords of the West
+3.3 Dawn of the Dukes
+3.4 Dynasties of India
+3.5 Return of Rome
+
+4 Campaign appearances
+
+4.1 Barbarossa
+4.2 Genghis Khan
+4.3 Tamerlane
+4.4 Ivaylo
+4.5 Kotyan Khan
+4.6 The Hautevilles
+4.7 Algirdas and Kestutis
+4.8 Babur
+4.9 Tamar
+4.10 Ismail
+4.11 Mongol Raiders
+4.12 Barbarossa Brawl
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+Characteristics[]
+
+Unique units[]
+
+Kipchak: Cheap multi-shot mounted archer.
+
+Unique technologies[]
+
+Steppe Husbandry: Scout Cavalry line, Steppe Lancers, and Cavalry Archers are trained 100% faster.
+
+Cuman Mercenaries: Team members can create 5 free Elite Kipchaks per each Castle.
+
+Civilization bonuses[]
+
+A second Town Center can be built in the Feudal Age.[note 1]
+
+Archery Ranges and Stables cost -75 wood.
+
+Siege Workshop and Battering Ram available in Feudal Age; Capped Ram upgrade available in Castle Age.
+
+Mounted units move 5%/10%/15% faster in Feudal/Castle/Imperial Age.
+
+Team bonus[]
+
+Palisade Walls have +33% hit points.
+
+Overview[]
+
+In-game, the Cumans are a rush-oriented cavalry civilization that can apply early game pressure in a similar vein to the Huns. One of their unique traits is that they can produce Battering Rams in the Feudal Age and Capped Rams in the Castle Age, giving them a head-start on base pressure. Their Archery Ranges and Stables are also discounted, giving them a head-start on aggression. Despite their strong rushing potential, the Cumans can also opt for a boom strategy thanks to their ability to build a second Town Center in the Feudal Age. Hence, the Cumans have the rare case of a double economy bonus, which acts mutually exclusive since players can either rush or boom in the Feudal Age. This is aided by a +33% hit point boost to their Palisade Walls, allowing them to protect themselves better against early aggression, which helps with their lack of Stone Walls.
+
+The Cumans have access to the Steppe Lancer, while also having having fully upgraded Hussars and Paladins. Their Steppe Husbandry unique technology further aids in the production speed of light cavalry units by 100%. Furthermore, their mounted units move 5%/10%/15% faster in the Feudal/Castle/Imperial Age. Curiously enough, they are the only Camel Rider civilization that lacks access to the Heavy Camel Rider. The Kipchak is an inexpensive mounted archer that has a good damage output, especially against units with very low pierce armor. Their infantry is decent - all of the upgrades for infantry except Supplies and Gambesons are available.
+
+gunpowder units. As great as their economy is, it can be vulnerable to early game pressure if the player goes for a straight boom on open maps. Their foot archers are rather weak in the late-game, due to the lack of
+
+Bracer and
+
+Arbalester, on top of missing
+
+Hand Cannoneer. Their ships are among the worst in the game, since they do not have access to
+
+Cannon Galleons,
+
+Heavy Demolition Ships, Bracer,
+
+Dry Dock, or
+
+Shipwright. While their defenses in early game are good, without key defensive technologies like Stone Walls,
+
+Guard Towers, and
+
+Architecture, the Cumans fall off hard starting in the Castle Age. Their Monks are weak, lacking
+
+Redemption,
+
+Block Printing,
+
+Illumination, and
+
+Theocracy. Their siege is rather ineffective in late game, having
+
+Siege Onager and
+
+Siege Ram, but not
+
+Siege Engineers,
+
+Bombard Cannons, and
+
+Heavy Scorpions.
+
+Overall, the Cumans are relatively flexible in both open and closed maps, but due to the unorthodox nature of the civilization, the Cumans are designed for moderately experienced players who can adopt their Feudal Age build orders with the second Town Center. They have a lot of offensive, economic, and defensive options early on, but their technology tree can let them down later on.
+
+Changelog[]
+
+Definitive Edition[]
+
+With update 34055:
+Husbandry was removed from their technology tree and their cavalry speed bonus was staggered (+10% (all) → 5% (Feudal)/10% Castle/15% Imperial Age).
+(Elite) Kipchaks' hit points decreased (45 (non-Elite)/50 (Elite) → 40/45) and Rate of Fire increased (1.8 → 2.2).
+Elite Kipchaks' number of secondary arrows decreased (3 → 2).
+The time to construct a Feudal Age Town Center is increased (225 → 270 seconds).
+
+With update 36202:
+Redemption removed from their technology tree.
+Civilization bonus giving early access to Battering Ram/Siege Workshop now also makes Capped Ram available in the Castle Age
+(Elite) Kipchaks fire +1 extra arrow (1 (non-Elite)/2 (Elite) → 2/3 secondary arrows)
+Steppe Husbandry also applies to Steppe Lancers
+Steppe Husbandry's effect was reduced (400% → 100% faster production).
+
+With update 37650, Supplies was removed from their technology tree.
+
+With update 42848, (Elite) Kipchaks fire delay increased (0.0 → 0.5 seconds).
+
+Lords of the West[]
+
+With update 47820, Palisade Walls' extra hit points decreased (+50% → +33%).
+
+Dawn of the Dukes[]
+
+As a new civilization bonus, Stables and Archery Ranges cost -100 wood.
+
+With update 56005, the discount on Stables and Archery ranges is reduced (-100 wood → -75 wood).
+
+Dynasties of India[]
+
+Cuman Mercenaries now revamped: it enables 5 free Elite Kipchaks per allied Castle. The Mercenary Kipchaks no longer require the Imperial Age to become available for allies, and Mercenary Kipchak train time is now 12 seconds.
+
+Return of Rome[]
+
+With update 87863, Cuman AI players now use their correct leader names.
+
+Campaign appearances[]
+
+The Cumans have a campaign devoted to their civilization: Kotyan Khan.
+
+They also appear in:
+
+Barbarossa[]
+
+Holy Roman Emperor
+Cumans - Ally
+
+Genghis Khan[]
+
+The Horde Rides West
+Kipchaks - Enemy
+
+Tamerlane[]
+
+Harbinger of Destruction
+Astrakhan - Enemy
+
+Ivaylo[]
+
+Tsar of the Bulgars
+Cumans - Enemy → Ally
+
+Kotyan Khan[]
+
+This campaign is played as the Cumans.
+
+Raising the Banners and The Battle at the Kalka River
+Cuman Tribes - Ally
+
+Saving the Huts
+Girgen Khan - Ally
+Cuman Tribes - Ally
+
+Blood for Blood and A New Home
+Cumans - Ally
+
+The Hautevilles[]
+
+Bohemond and the Emperor
+Pechenegs - Ally
+
+Algirdas and Kestutis[]
+
+The Tatar Yoke
+The Kipchak Horde - Enemy
+
+Babur[]
+
+Pearl of the East
+Uzbek Army - Neutral → Enemy
+
+The Last Timurids
+Southern Uzbeks - Enemy
+
+Tamar[]
+
+Takeover
+Cumans - Enemy → Potential Ally
+
+The Protectorate
+Yury - Enemy
+
+Ismail[]
+
+The Fallen Amir
+Uzbek Army - Enemy
+Samarkand - Enemy
+
+Khata'i
+Uzbeks - Enemy
+
+Mongol Raiders[]
+
+Cumans - Enemy
+
+Barbarossa Brawl[]
+
+Cumans - Ally
+
+In-game dialogue language[]
+
+Cuman units speak the Cuman language, most probably exactly the one which is attested in the Codex Cumanicus, a linguistic manual of the Middle Ages, designed to help Catholic missionaries communicate with the Cumans. Being a Turkic language, it is related to the languages spoken by the Turks and Tatars. Note that the lines contain three Arabic loanwords - "an" (moment), "madїm" (mine) and most notably "sälâm" (hello). While this is most probably ahistorical for the Cuman language at the time and place of Kotyan Khan, the Codex Cumanicus was written almost a century later in Crimea. Its language is influenced by many other languages and contain several loanwords from Arabic as well as Persian, and even a few Greek, Slavic, Mongol, Hebrew, Syriac and other ones. It is, however, clear that for Cuman lines the translator tried to use pure Turkic words, which is in stark contrast with Chagatai spoken by Tatars, where a lot of loanwords from Arabic and Persian are used, even if they have Turkic synonyms, most probably to make spoken lines of these two civilizations as different as possible.
+
+Voice actors are either speakers of different modern Turkic languages or non-Turkic speakers at all, and because of that, different voice actors pronounce the same words differently, mispronounce them, or even say them indistinctly. The latter case is marked with (?).
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Male_Select_1_AoE2.ogg Select 1 Evet? – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Male_Select_2_AoE2.ogg Select 2 Sälâm – Hello
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Male_Select_3_AoE2.ogg Select 3 Anukmen – I'm ready
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Male_Select_4_AoE2.ogg Select 4 Buyruǧuŋuz? – Your order?
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Male_Task_1_AoE2.ogg Task 1 Evet – Yes
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Male_Task_2_AoE2.ogg Task 2 Aŋladum – I understood
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Male_Task_3_AoE2.ogg Task 3 Barurmen – I shall go
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Male_Task_4_AoE2.ogg Task 4 Bir ančä itärmen – I shall do it at once (literally - "during one moment")
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Male_Build_AoE2.ogg Build Qururmen – I shall build
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Male_Chop_AoE2.ogg Chop Aǧаč kesärmen – I shall cut a tree
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Male_Farm_AoE2.ogg Farm Čöplärmen – I shall gather
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Male_Fish_AoE2.ogg Fish Baluqlarmen – I shall fish
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Male_Forage_AoE2.ogg Forage Čöplärmen – I shall gather
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Male_Hunt_AoE2.ogg Hunt Avlarmen – I shall hunt
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Male_Mine_AoE2.ogg Mine Madїm ačarmen – I shall open a mine
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Cumans_Villager_Male_Repair_AoE2.ogg Repair Tüzätirmen – I shall repair
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Soldier_Select_1_AoE2.ogg Select 1 Evet? – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Soldier_Select_2_AoE2.ogg Select 2 Qulluq itärmen – I shall serve (literally - "I shall do service")
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Soldier_Select_3_AoE2.ogg Select 3 Buyruǧuŋuz? – Your order?
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Soldier_Move_1_AoE2.ogg Move 1 Aŋladum – I understood
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Soldier_Move_2_AoE2.ogg Move 2 Barurmen – I shall go
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Soldier_Move_3_AoE2.ogg Move 3 Maǧat, beyim(?) – Clearly, my bey ("Bey" is a honorific title in Turkic languages which meaning varied greatly from place to place and throughout time - from "tribal chief" in first Turkic inscriptions to "mister" in modern Turkish. In the Codex Cumanicus its Latin equivalent is "princep"[sic])
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Soldier_Attack_1_AoE2.ogg Attack 1 Sančїška! – To war!
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Soldier_Attack_2_AoE2.ogg Attack 2 Suvašurbiz – We shall fight
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Soldier_Attack_3_AoE2.ogg Attack 3 Saǧïtlanїn! – To arms! (literally - "Arm yourselves!")
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Monk_Select_1_AoE2.ogg Select 1 Evet? – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Monk_Select_2_AoE2.ogg Select 2 Buyruǧuŋuz? – Your order?
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Monk_Select_3_AoE2.ogg Select 3 Qulluq itärmen – I shall serve
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Monk_Select_4_AoE2.ogg Select 4 Teŋri atana – In the name of Tengri (Tengri is one of the names for the primary chief deity in the traditional beliefs of Turkic and Mongolic people, but this word is also used in the Christian prayers and texts of the Codex Cumanicus with the meaning of "God")
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Monk_Move_1_AoE2.ogg Move 1 Barurmen – I shall go
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Monk_Move_2_AoE2.ogg Move 2 Evet – Yes
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Monk_Move_3_AoE2.ogg Move 3 Kerti – Truth
+
+https://ageofempires.fandom.com/wiki/File:Cumans_Monk_Move_4_AoE2.ogg Move 4 Bir ančä itärmen – I shall do it at once
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Cumans_King_Select_1_AoE2.ogg Select 1 Ešitürmen – I shall hear
+
+https://ageofempires.fandom.com/wiki/File:Cumans_King_Select_2_AoE2.ogg Select 2 Ne izdärsiz? – What do you want?
+
+https://ageofempires.fandom.com/wiki/File:Cumans_King_Select_3_AoE2.ogg Select 3 Ne üčün bašїmnї aǧrïtïrsïz? – Why do you bother me? (Literally - "Why do you make my head ache?")
+
+https://ageofempires.fandom.com/wiki/File:Cumans_King_Select_4_AoE2.ogg Select 4 Keldim – I came
+
+https://ageofempires.fandom.com/wiki/File:Cumans_King_Move_1_AoE2.ogg Move 1 Qolqaŋїznї itärmen – I shall comply with your request (literally - "I shall do your request")
+
+https://ageofempires.fandom.com/wiki/File:Cumans_King_Move_2_AoE2.ogg Move 2 Küčüm birle(?) – With effort/Hardly (literally - "With my (full) strength")
+
+https://ageofempires.fandom.com/wiki/File:Cumans_King_Move_3_AoE2.ogg Move 3 Nečik kovursaŋїz(?) – As you ??? (most probably mispronounced and should be "Nečik körüvsäŋїz" - "As you desire to see". The word "körüvsä-" is used several times in the Christian texts of the Codex Cumanicus)
+
+https://ageofempires.fandom.com/wiki/File:Cumans_King_Move_4_AoE2.ogg Move 4 Itärmen – I shall do
+
+Sources used:
+
+Codex Cumanicus: Cuman Prays, Hymns and Riddles by Alexander Garkavets
+
+Codex Cumanicus by Peter B. Golden
+
+Codex Cumanicus by Geza Kuun
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Cuman AI characters:
+
+Aepa: A Cuman khan; died around 1120.
+
+Alp Tarkhan: A Khazar general who was active in the early 8th century on the war against the Arabs.
+
+Altunopa: One of the many clans who made up the Cuman-Kipchak confederation. Their name means "Gold Clan".
+
+Boniak the Mangy: A Cuman chieftain in the late 11th and early 12th century who allied with the Byzantines against the nomadic Pechenegs and later made war against the Rus' and Hungary.
+
+Bulan Khagan: A Khazar king who led the Khazars to convert into Judaism sometime between the 8th and 9th century.
+
+Danylo Kobiakovych: A Cuman khan in the 1220s.
+
+Ildeya Khan: A Pecheneg prince; lived around 975.
+
+Konchak Otrakovich: A Cuman khan, who was involved in wars and raids with the Russians and united the western and eastern Cuman-Kipchak tribes.
+
+Kotyan Khan: The main character of the Cumans' campaign. He is a Cuman-Kipchak khan who made alliance with various Eastern Europe rulers to oppose the Mongols
+
+Kurya Khan: A Pecheneg khan; ruled to 988.
+
+Otrok Khan: A Cuman-Kipchak khan; died 1125.
+
+Sokal: A Cuman chieftain who won a major victory against the Kievan Rus' in 1061.
+
+Sutoi: Father of Kotyan.
+
+Yurii Konchakovych: A Cuman khan in the 1220s.
+
+History[]
+
+“ The Cumans are Turkic nomads whose origins can be traced to the east of the Yellow River. After being pushed out of their homeland by the warring Khitan tribes, they migrated westwards during the tenth century. The Cumans eventually reached the Kazakh steppes, where they allied themselves with another Turkic tribe, the Kipchaks . The two groups quickly merged into one and together they came to dominate the vast territory between present-day Bulgaria and Kazakhstan in the twelfth and thirteenth centuries. Rather than an empire with a strong central government, the Cuman-Kipchak confederacy was a loose union of independent tribes that exerted power based on kinship and military strength. The latter mainly consisted of light cavalry archers and heavily armored lancers , but mangonels and ballistas were also regularly employed. The Cumans launched several campaigns into Kievan Russia , the Balkans, and the Khwarazmian Empire . Most famously, chieftain Boniak (r. c. 1091-1107) aided the Byzantine emperor in repelling a Pecheneg invasion at Levounion, raided several monasteries near Kiev, and defeated the Hungarian king Coloman, all within a few years. However, the Cumans also used more diplomatic tactics, such as marriage and military service, to expand their influence in the surrounding states. Chieftain Seyhan, for example, married his daughter Elizabeth to king Stephen V of Hungary. In Bulgaria, the assistance of Cuman cavalry was essential to the success of the revolt against the Byzantines in 1185. Consequently, some Cuman leaders were ennobled when the Second Bulgarian Empire (1186-1396) was established. Although the Cumans assimilated elements from the many civilizations that they encountered, the Cuman-Kipchak culture remained true to its nomadic lifestyle for a long time. Their economy was based on animal husbandry and trade. Only a minority engaged in semi-sedentary activities such as blacksmithing or leatherworking. Society was structured around the family. Together with related families, they lived and moved as a clan. The Cumans worshipped their ancestral spirits through stone or wooden anthropomorphic statues, called Balbals. As practitioners of shamanism, they also believed in animal spirits. The dog and wolf in particular were seen as sacred. Chieftain Boniak, for instance, determined that the conditions were favorable to fight the Hungarian king by howling with the wolves the night before the battle. In the early thirteenth century, Mongolian and Tatar armies conquered the Cuman-Kipchak confederacy. Khan Kotyan tried to muster resistance by allying with the Rus', but suffered a major defeat at the Kalka River in 1223. Many Cumans subsequently fled to the neighbouring states, where they gradually assimilated into the local populations. Others were, however, captured and sold as slaves. The Sultan of Egypt, al-Sahil Ayyubi (r. 1240-1249), bought many Cuman-Kipchaks and enrolled them as Mamluks , highly trained slave warriors. By 1250, the Mamluks had used their military strength to seize power in Egypt, thus establishing the Mamluk Sultanate (1250-1517). For over a century, the sultan of this powerful empire would be of Cuman-Kipchak origins. ”
+
+Trivia[]
+
+The Cumans' civilization icon is based on masks worn by Cuman-Kipchak warriors (however, this popular modern association does not have particularly sound historical basis).
+The mask design was fairly widespread; similarly designed masks were also worn by Sassanian, Seleucid, Classical and Late Roman, 15th century Persian cavalrymen, and Mongols who also introduced them into Tibet.
+Elite Steppe Lancers also wear a similar mask.
+
+User interface image is a picture of a Cuman kurgan stelae.
+
+The Cumans are the only civilization with access to Camel Riders who cannot upgrade them into Heavy Camel Riders.
+
+The Cumans are one of the only civilizations in the franchise that can build an additional Town Center one age earlier. The others are the Atlanteans of Age of Mythology: The Titans and the Portuguese of Age of Empires III.
+
+Even before the Definitive Edition, the Cumans appeared in The Forgotten, as Mangudais renamed "Cuman Mercenary" in Dracula's campaign.
+
+The Cumans, along with the Goths, are the only civilizations who cannot build Stone Walls.
+
+The Cumans, along with the Dravidians and Malians, are the only civilizations that have access to Siege Onagers, but lack Siege Engineers.
+
+Islamic historians mentioned a people named Qun, who were forced out of their East Asian homeland by the Mongolic-speaking Qay, who in turn had been expelled by their Khitan cousins. The Qun were possibly precursors to the Cumans (as Magyars recorded the Cumans' ethnonym as Kun).
+
+The Cumans' Wonder (Sarkel Fortress) was historically built by the Khazars, another Turkic people. As the Wonder appears ruined in-game, just like the Huns' wonder (the ruined Arc of Constantine), this signifies that in-game Cumans merely capture Persianate Central Asian buildings to dwell, just as the Huns dwell in captured Central European buildings. The Cuman tents which are placed in front of the Wonder also exist separately as Yurts.
+Indeed, Cuman-Kipchaks historically reached Khwarazm, a region rich in Turco-Persian cultural tradition.
+
+Cuman AI players include Khazar and Pecheneg rulers, possibly showing that the Cumans represent not only the Cuman-Kipchak confederation/Cumania, but also other Turkic people who historically occupied the Pontic-Caspian steppe.
+
+Due to sharing the same architecture style as the Tatars, the Cumans' Monastery is designed after a mosque. Early in their history, Khazars, Pechenegs, and Cumans-Kipchaks were not Muslims, but pagans worshipping Tengri. Only in a later period would these peoples convert to Abrahamic religions. As a result, Khazar, Pecheneg, and Cuman-Kipchak societies were religiously pluralistic. Later on, Cumans would be completely assimilated into other ethnicities (Magyars, Bulgarians, Slavs, Kipchaks, Tatars, Arabs, etc.); thus, the Cumans' descendants practice Christianity as well as Islam. The Khazars did adopt Judaism.
+This is a quirk they shared with the Byzantines (formerly) and the Ethiopians, who were Christians with mosques for their Monasteries due to sharing their architecture style with Muslim civilizations. That said, the Byzantines' architecture style was changed in the Definitive Edition to the Mediterranean style to better reflect their historical religion.
+
+In early beta versions, Cumans were able to build more than one Town Center in the Feudal Age and there was not increased construction time, which meant that were built much faster. In addition, the cavalry speed bonus applied since the start of the game, their Castle Age unique technology, Steppe Husbandry, only affected the Scout Cavalry line, they lacked Camel Riders entirely, and they had Cannon Galleons, Stone Walls, and Fortified Walls, as well access to Siege Engineers.
+
+Together with the Aztecs, their Imperial Age Siege Workshop unit line starts with the letter "S" (Siege Onager, Siege Ram, Scorpion, Siege Tower).
+
+The Cumans' strong focus on cavalry units and weak defenses can be compared to the Lakota in Age of Empires III: The WarChiefs and also the Huns. The Cumans and the Huns are both cavalry-focused civilizations that encourage early game rushing and aggression while having lackluster defenses. Both civilizations also have economic bonuses that are considered to be double-edged swords and are only utilized to encourage a rush strategy (in the case of the Cumans, their ability to build a second Town Center in the Feudal Age was originally designed to help with their military unit production for their rushes, which was further emphasized with a new civilization bonus of cheaper Stables and Archery Ranges when Dawn of the Dukes was released). Both civilizations lack gunpowder units and have a terrible late-game navy.
+
+The Magyars, the Huns, and the Cumans are reasonably similar Steppe civilizations with focus on light cavalry, heavy cavalry, and ranged cavalry, with all three civilizations having fully upgraded Hussars and Paladins. All three civilizations have a unique unit in one of light cavalry, heavy cavalry, and ranged cavalry respectively.
+
+The following heroes available in the Scenario Editor are themed on the Cumans: Cuman Chief, Girgen Khan, and Kotyan Khan. Further, Shaybani Khan appears as the Cumans in the campaigns, due to the lack of any other civilization to represent the Uzbeks.
+
+Cumans, like most nomadic tribes, were filled with light cavalry. In the game, they have access to Paladins. A possible reason is that when they migrated to various eastern European countries (such as Hungary, Wallachia, Serbia, Bulgaria, Kievan Rus), and the Kingdom of Georgia, they integrated into the culture they settled in, which many of those kingdoms utilized heavy cavalry. In addition, Georgia is mentioned to be a homeland for the Cumans in a hint in Tamar's first scenario.
+In a converse nod, the in-game civilizations which the Cumans integrated most into have at least one bonus for their Mercenary Kipchak.
+
+Like the Burmese on release, the Cumans were also the most powerful civilization in land maps when they were released. Their Steppe Lancer moved faster with their civilization bonus, and they also got Husbandry, making it easier to chase enemies. Their unique unit also fired faster and had better hitpoints, and building a new Town Center was faster. The Feudal Age rams also had trample damage as a bug. This, combined with the much stronger Steppe Lancer at release, made them a very criticized civilization in terms of balance and widely avoided in most match ups. Ironically, the Cumans are now the one of the civilizations with the lowest win–rates. Possibly lacking any defense for the double Town Center, thus would bear a lot from Fast Castle tactic, but still being a top pick for closed maps due to their booming capabilities. In order to have protection for the double Town Center tactic, they were given cheaper Archery Ranges and Stables in an update, which will serve to save wood for the new Town Center while creating military units to defend this expansion. The accompanying buff to the Steppe Lancer in the update have made them more appealing for Cumans.
+The bonus movement speed for lightly armored cavalry is more appropriate for the Mongols. Modern historians remark that the 13th century Mongol army traveled up to 100 miles a day, outperforming any contemporary army, including the Cuman-Kipchak confederations.
+One could however see the bonus movement speed as justifiable in light of the Cuman campaign, which involves them successfully escaping the Mongols.
+
+The Cumans have both the worst defensive structures and worst navy, forcing them to be aggressive, and they should not be picked in water maps.
+
+The Cumans, Burgundians, and Bohemians are the only civilizations which have access to a generic unit earlier than any other civilization (Battering/Capped Ram, Cavalier, and Hand Cannoneer, respectively).
+As of The Mountain Royals, this is no longer the case, as the Armenians have access to generic infantry units one age earlier (starting in the Feudal Age).
+
+Their military unit voice dialogue is used for the Tatar Archer native unit in Age of Empires III: Definitive Edition, possibly because the language the Tatar people used in the Age of Empires III timeframe derived from the Kipchak languages, as opposed to the extinct Chagatai language.
+
+Gallery[]
+
+The Cuman 
+
+Wonder, the
+
+Sarkel Fortress
+
+Official preview
+
+The Central Asian architecture set the Cumans share with the 
+
+Tatars
+
+Cuman unique Feudal Age Siege Workshop
+
+Cumans user interface image
+
+Cuman-Kipchak masked helmet, hauberk, and weapons
+
+Rus' vs. Polovtsians, from a 15th century copy of Radziwiłł Chronicle (produced 13th century)
+
+An artist's depiction of the Sarkel Fortress
+
+Miniature reconstruction of the Sarkel Fortress
+
+Cuman Overview AoE2
+
+References[]
+
+↑ For any additional Town Centers built in the Feudal Age, the construction time is increased by 80% (2:30 → 4:30 minutes construction time); this includes the situation where the player has lost their starting Town Center. The debuff is removed instantly upon reaching the Castle Age, even for a Town Center whose foundation was laid in the Feudal Age.
+
+↑ https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/cumans
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+Eurasian civilizations
+
+The Last Khans
+
+Nomadic civilizations
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

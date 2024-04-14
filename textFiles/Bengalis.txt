@@ -1,0 +1,482 @@
+This page is all about the Bengalis
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Dynasties of India
+3.2 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 Bayinnaung
+4.2 Devapala
+4.3 Rajendra
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+8.1 Behind the Scenes
+
+9 Gallery
+
+10 Video overview
+
+11 Notes
+
+12 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+Dynasties of India,
+
+Asian civilizations
+
+
+			English
+
+Español
+
+Bengalis
+
+12
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+Civilization Technology tree Strategy
+
+Bengalis
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: Definitive Edition - Dynasties of India
+
+Architecture
+
+South Asian/Indian
+
+Continent
+
+Asia (eastern India)
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_new_theme_AoE2_DE.ogg
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_theme_AoE2_DE.ogg
+
+update 81058)
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_new_jingle.mp3
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Jingle.mp3
+
+update 81058)
+
+Features/Characteristics
+
+Focus
+
+Elephants
+
+Ships
+
+Unique units
+
+Ratha
+
+Unique technologies
+
+Paiks
+
+Mahayana
+
+“ Navigate the winding rivers and dense jungles of Bengal as you build a thriving economy to fuel unstoppable armies of elephants. The Bengali unique unit is the Ratha, a sturdy chariot that can switch between melee and ranged attack modes. ” —Description [1]
+
+The Bengalis are a South Asian/Indian civilization introduced in Age of Empires II: Definitive Edition - Dynasties of India, representing the various empires that developed in the Bengal region, comprising the territory of modern-day West Bengal and Bangladesh. This includes the Pala Empire, the Sena Dynasty, the Gauda Kingdom, and the Bengal Sultanate. In the game, they focus on elephant and naval units.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Dynasties of India
+3.2 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 Bayinnaung
+4.2 Devapala
+4.3 Rajendra
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+8.1 Behind the Scenes
+
+9 Gallery
+
+10 Video overview
+
+11 Notes
+
+12 References
+
+Characteristics[]
+
+Unique unit[]
+
+/ Ratha: Mounted archer that can switch between melee and ranged attacks.
+
+Unique technologies[]
+
+Paiks: Rathas and elephant units attack 20% faster.
+
+Mahayana: Villagers and Monks take up -10% population space.
+
+Civilization bonuses[]
+
+Elephant units receive 25% less bonus damage[note 1] and are more resistant to conversion.[note 2]
+
+All Town Centers spawn 2 Villagers when the next Age is reached.
+
+Cavalry units +2 attack vs Skirmishers.
+
+Ships regenerate 15 HP per minute.
+
+Monks +3/+3 armor.
+
+Team bonus[]
+
+Trade units yield 10% food in addition to gold.
+
+Overview[]
+
+The Bengalis are an elephant and naval civilization. Their elephant corps are very formidable, having all non-unique elephant units with all upgrades, except Thumb Ring for the Elephant Archer. In addition, their elephants take -25% bonus damage as well as resist conversion, with the latter compensating for the lack of Heresy. These elephants can be boosted further with Paiks giving them faster attacking speed. Their Monks are great due to having all upgrades, plus having great survivability on account of the bonus +3 armor against both ranged and melee attacks. The other land units, however, are average, as lacking Thumb Ring hinders their Arbalesters, while they also lack the Hand Cannoneer. Other than their excellent Battle Elephants, their Stable units are limited to Light Cavalry. Their infantry is mediocre, lacking Plate Mail Armor, but is perfectly serviceable in the Castle Age. Their siege is good, lacking only Siege Onagers and Bombard Cannons, but having excellent Armored Elephants. Their unique unit, the Ratha, can compensate for lacking Knights and Cavalry Archers, since it can switch its attack mode. Their navy can regenerate, which is a modest boost. They get additional Villagers from Town Centers every Age advanced, which has no benefit in the Dark Age, but starts to shine upon advancing ages and constructing more Town Centers in the Castle Age. Their Imperial Age unique technology Mahayana also increases the population-efficiency of Villagers and Monks. So in the late game, they have good economy, monks, navy, and elephant units.
+
+To conclude, although they seem to have lackluster mobile military choices, the Bengalis in fact have versatile tactics, as they have a decent economy to bring up many choices such as archer, elephant, and even Monk rush, and can outperform other civilizations on maps which favor Booming such as Arena. Also worth noting that unique unit rush is a viable plan, since it can change attack forms while being cheap and fast.
+
+Changelog[]
+
+Dynasties of India[]
+
+With update 66692, Monks receive +3/+3 armor. Additionally, bonus damage resistance calculation changed.
+
+With update 81058, melee cavalry gain +2 bonus damage vs Skirmishers.
+
+With update 81058, Mahayana also affects Monks.
+
+With update 81058, receive Supplies. Gambesons introduced.
+
+The Mountain Royals[]
+
+Originally, elephant units' conversion resistance worked by increasing the minimum conversion interval by +1, maximum conversion interval by +2, and conversion resistance level by +2. With update 99311, it increases the minimum conversion interval by +3 and maximum conversion interval by +1.
+
+With update 99311, Ratha's cavalry archer armor increased from 0 to 1, and their melee version gets 20% Area of Effect in 0.5 tiles radius.
+
+Campaign appearances[]
+
+The Bengalis have a campaign devoted to their civilization: Devapala. They also appear in:
+
+Bayinnaung[]
+
+The Burmese Tigers
+Prome - Enemy
+
+The Royal Peacock
+Thado Dhamma Yaza - Enemy, possible Ally for a short time
+
+The Old Tiger
+West Rakhine - Enemy
+
+Devapala[]
+
+This campaign is played as the Bengalis.
+
+Dissatisfaction
+Utkala - Enemy
+Kamarupa - Enemy
+
+Enlightenment
+Jayapala - Ally
+
+Rajendra[]
+
+Rising Star
+Bengali Pirates - Enemy
+
+Sacred Waters
+Utkala - Enemy → Ally
+Kalinga - Enemy → Ally
+Mahipala - Enemy
+Bandits - Enemy
+Local Villages - Neutral
+
+In-game dialogue language[]
+
+Units in-game speaks Shadhu Bengali, a historical literary register of the Bengali language most prominently used in the 19th to 20th centuries during the Bengali Renaissance. Sadhu language was used only in writing, unlike its standard counterpart, which follows up with the colloquial form of the language.
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Male_Select_1_AoE2.ogg Select 1 Hā'i (হয়) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Male_Select_2_AoE2.ogg Select 2 He'i (হেই) - Hail
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Male_Select_3_AoE2.ogg Select 3 Toiyār (তৈয়ার) - Ready
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Male_Select_4_AoE2.ogg Select 4 Ādesh? (আদেশ?) - Command?
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Female_Move_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Male_Move_1_AoE2.ogg Move 1 Hā'i (হয়) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Female_Move_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Male_Move_2_AoE2.ogg Move 2 Satya rē (সত্য রে) - Truth it is
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Female_Move_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Male_Move_3_AoE2.ogg Move 3 Satya (সত্য) - Truth
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Female_Move_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Male_Move_4_AoE2.ogg Move 4 Āmi jā'i (আমি যাই) - I am going
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Male_Build_AoE2.ogg Build Nirmānkārī (নির্মানকারী) - Builder
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Male_Chop_AoE2.ogg Chop Kāṭhuriẏā (কাঠুরিয়া) - Lumberjack
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Male_Farm_AoE2.ogg Farm Jōgāriẏā (জোগারিয়া) - Gatherer
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Male_Fish_AoE2.ogg Male Fish Jāluẏā (জালুয়া) - Fisherman
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Female_Fish_AoE2.ogg Female Fish Jāulani (জাউলানি) - Fisherwoman
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Male_Forage_AoE2.ogg Forage Jōgāriẏā (জোগারিয়া) - Gatherer
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Male_Hunt_AoE2.ogg Hunt Byadh (ব্যাধ) - Hunter
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Male_Mine_AoE2.ogg Mine Khononkāri (খননকারী) - Digger
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bengalis_Villager_Male_Repair_AoE2.ogg Repair Mistrī (মিস্ত্রী) - Repairer
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Soldier_Select_1_AoE2.ogg Select 1 Hā'i (হয়) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Soldier_Select_2_AoE2.ogg Select 2 Tomar shebāy (তোমার সেবায়) - At your service
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Soldier_Select_3_AoE2.ogg Select 3 Kono āgga? (কোনও আজ্ঞা?) - Any command?
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Soldier_Move_1_AoE2.ogg Move 1 Āmi bujhō (আমি বুঝো) - I understand
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Soldier_Move_2_AoE2.ogg Move 2 Āmi yā'ie (আমি যাইয়ে) - I am going
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Soldier_Move_3_AoE2.ogg Move 3 Hā'i mohashoy (হয় মহাশয়) - Yes sir
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Soldier_Attack_1_AoE2.ogg Attack 1 Hana dehō! (হানা দেহ!) - Attack!
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Soldier_Attack_2_AoE2.ogg Attack 2 Hou āguwan! (হও আগুয়ান!) - Be advancing!
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Soldier_Attack_3_AoE2.ogg Attack 3 Ostrō dhāroṇ korō! (অস্ত্র ধারণ করো!) - Take up arms!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Monk_Select_1_AoE2.ogg Select 1 Hā'i (হয়) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Monk_Select_2_AoE2.ogg Select 2 Adesh? (আদেশ?) - Command?
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Monk_Select_3_AoE2.ogg Select 3 Tomar shebay (তোমার সেবায়) - At your service
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Monk_Select_4_AoE2.ogg Select 4 Horir namete (হরির নামেতে) - In the name of Hari (Vishnu)
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Monk_Move_1_AoE2.ogg Move 1 Āmi yā'i (আমি যাই) - I go
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Monk_Move_2_AoE2.ogg Move 2 Hā'i (হয়) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Monk_Move_3_AoE2.ogg Move 3 Satya rē (সত্য রে) - Truth it is
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_Monk_Move_4_AoE2.ogg Move 4 Satya (সত্য) - Truth
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_King_Select_1_AoE2.ogg Select 1 Ei nao (এই নাও) - Here (I am)
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_King_Select_2_AoE2.ogg Select 2 Tumi ki bā chā'ō? (তুমি কী বা চাও?) - What is it that you want?
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_King_Select_3_AoE2.ogg Select 3 Amake keno biron koro? (আমাকে কেন বীরণ করো?) - Why do you bother me?
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_King_Select_4_AoE2.ogg Select 4 Uposhonno (উপসন্য) - Prayers
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_King_Move_1_AoE2.ogg Move 1 Ami koribo jaha tumi chao (আমি করিবো যাহা তুমি চাও) - I will do what you wish
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_King_Move_2_AoE2.ogg Move 2 Āmār duwā'eẏ (আমার দুয়ায়) - With my prayers
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_King_Move_3_AoE2.ogg Move 3 Jotha agga (যথা আজ্ঞা) - As commanded
+
+https://ageofempires.fandom.com/wiki/File:Bengalis_King_Move_4_AoE2.ogg Move 4 Ami koribo (আমি করিবো) - I will do it
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Bengali AI characters:
+
+Alauddin Husain Shah (আলাউদ্দিন হোসেন শাহ; ruled 1494–1519): was an independent late medieval Sultan of Bengal, who founded the Hussain Shahi dynasty. He became the ruler of Bengal after assassinating the Abyssinian Sultan, Shams-ud-Din Muzaffar Shah, whom he had served under as wazir. After his death in 1519, his son Nusrat Shah succeeded him. The reigns of Husain Shah and Nusrat Shah are generally regarded as the "golden age" of the Bengal sultanate.
+
+Devapala (9th century): was the most powerful ruler of the Pala Empire of Bengal region. He was the third king in the line, and had succeeded his father Dharmapala. His mother was Rannadevi, a Rashtrakuta princess. Devapala expanded the frontiers of the empire by conquering the present-day Assam and Odisha. The Badal Pillar inscription also claims that Devpala exterminated the Utkalas (present-day Odisha), conquered the Pragjyotisha (Assam), shattered the pride of the Hunas, humbled the lords of Gurjara and the Dravidas. These claims are exaggerated, but cannot be dismissed entirely.
+
+Dharmapala (ruled 8th century): was the second ruler of the Pala Empire of Bengal and Bihar regions. He was the son and successor of Gopala, the founder of the Pala Dynasty. He greatly expanded the boundaries of the empire, and made the Palas a dominant power in northern and eastern India. Dharmapala directly ruled over the present-day Bengal and Bihar, and installed a nominee at Kannauj. Dharmapala was defeated twice by the Gurjara-Pratiharas, but each time the Rashtrakutas subsequently defeated the Pratiharas, leaving Palas as the dominant power in North India. Dharmapala was succeeded by his son Devapala who further expanded the empire.
+
+Ghiyasuddin Azam Shah (Bengali: গিয়াসউদ্দীন আজম শাহ, Persian: غیاث الدین اعظم شاه): was the third Sultan of Bengal and the Ilyas Shahi dynasty. He was one of the most prominent medieval Bengali Sultans. He established diplomatic relations with the Ming Empire of China, pursued cultural contacts with leading thinkers in Persia and conquered Assam.
+
+Gopala (ruled 750s–770s CE): was the founder of the Pala dynasty of Bihar and Bengal regions of the Indian Subcontinent. The last morpheme of his name Pala means "protector" and was used as an ending for the names of all the Pala monarchs. He was the grandfather of Devapala.
+
+Harjjaravarman (ruled 815 – 832): was a ruler of Mlechchha dynasty of Kamarupa from their capital at Harruppesvar in present-day Tezpur, Assam. The Mlechchha dynasty in Kamarupa was followed by the Pala kings.
+
+Ilyas Shah (reigned 1342–1352): Haji Ilyas, better known as Shamsuddin Ilyas Shah (Bengali: শামসুদ্দীন ইলিয়াস শাহ, Persian: شمس الدین الیاس شاه), was the founder of the Sultanate of Bengal and its inaugural Ilyas Shahi dynasty which ruled the region for 150 years. Ilyas Shah was a Sunni Muslim born in Sistan (in Iran/Afghanistan), and rose through the ranks of the Delhi Sultanate and was appointed Governor of one of three provinces of Bengal. In the middle of the 14th-century, the governors of the three city-states declared independence and began warring against one another. Ilyas Shah defeated the other two rulers and unified Bengal into an independent Sultanate, establishing his capital in Pandua.
+
+Lakshmana Sena (reigned 1178–1206): also called Lakshman Sen, was the ruler of the Sena dynasty. His rule lasted for 28 years. His reign ended with the invasion of Muhammad bin Bakhtiyar Khilji.
+
+Mahipala (or Mahipala I; ruled 988–1038): was a notable king of the Pala dynasty. He was the son and successor of Vigrahapala II. Mahipala's reign marked a resurgence in fortunes for the Pala empire, whose boundaries were expanded as far as Varanasi. However, his rule was temporarily hampered by the northern expedition of the Chola Emperor, Rajendra I.
+
+Nasiruddin Mahmud Shah (ناصر الدين محمود; ruled 1227–1229): was the eldest son of Sultan Shamsuddin Iltutmish. He was, in all probabilities, the full brother of Sultan Razia. He was the governor of Oudh and later served as the governor of Bengal until his death.
+
+Rajyapala: was the eighth emperor of the Pala dynasty. He succeeded his father Narayanapala. He reigned for 32 years.
+
+Ramapala (reigned 1082–1124 AD): was the successor to the Pala king Shurapala II, and fifteenth ruler of the Pala line. Rampala is recognised as the last great ruler of the dynasty, managing to restore much of the past glory of the Pala lineage. He crushed the Varendra Rebellion and extended his empire farther to Kamarupa, Odisha, and Northern India.
+
+Samanta Sena (ruled 1070–1095): was the founder of the Sena dynasty. The Sena dynasty was a Hindu dynasty during the early medieval period, that ruled from Bengal through the 11th and 12th centuries. The empire at its peak covered much of the north-eastern region of the Indian subcontinent. The rulers of the Sena Dynasty traced their origin to the south Indian region of Karnataka.
+
+Shashanka: was the first independent king of a unified polity in the Bengal region, called the Gauda Kingdom and is a major figure in Bengali history. He reigned in the 7th century. He is credited with creating the Bengali calendar. He is the contemporary of Harsha and of Bhaskaravarman of Kamarupa.
+
+History[]
+
+“ During the 6th century AD, the Gupta Empire was struggling to remain unified in the face of internal volatility and external invasions. Seizing the opportunity, Shashanka, a chieftain in modern-day Bengal, broke away and founded his own kingdom in Gauda. While he laid the foundations for future Bengali states and even implemented a new calendar, Shashanka would not be long outlived by his kingdom, which was consumed by his rivals soon after his death. Roughly a century later, Bengal remained in turmoil, with no central ruling power. However, around the mid-8th century, the Bengali people – according to legend – elected Gopala the king of the region. This consensual vesting of power was crucial, as it allowed Gopala to form a new centralized state, the Pala Empire (8th-12th centuries). Under Gopala's successors Dharmapala and Devapala , the Pala Empire became a major player on the Indian subcontinent, contending with the rival Rashtrakutas and Pratiharas for supremacy in the Kannauj Triangle. Devapala raised Pala power to new heights, but nearly squandered his statebuilding achievements when a disastrous pyrrhic expedition to the far south withered his army and destabilized his state. Recognizing his mistake, he made a spectacular recovery during the later years of his reign and passed on a formidable realm to his successors. Under Pala rule, Bengal and the surrounding regions reached unprecedented levels of economic, political, and military strength. The trade routes along the Ganges and the Bay of Bengal exploded with activity, and Bengali agricultural and material wealth was matched by none; indeed, the economy of Bengal alone outstripped all of Europe at the time. Pala emperors commanded vast armies of elephants, infantry, and notably rathas – battle chariots that had fallen out of use in much of the Indian subcontinent. Mahayana Buddhism also flourished in the Pala lands, and the emperors patronized several monasteries , universities , and other public works projects to educate and supply their subjects. As the Pala Empire declined during the 12th century, the vast array of realms that it controlled began to assert their independence. During this time, the neighboring Sena dynasty took the opportunity to wrest control of several of these away from the Palas and, gradually, assume control over Bengal and most of the former Pala possessions. Sena hegemony ended nearly as quickly as it rose, however: by the early 13th century, the rising Delhi Sultanate had thrust east towards Bengal and quickly seized much of the region. This marked a considerable religious watershed moment as well, as Islam – which would eventually become a majority religion in Bengal – was first introduced in significant volume to Bengali lands during this time. During the 14th century, Ilyas Shah emerged victorious among a group of squabbling generals and warlords, establishing the Bengal Sultanate. It was this period that saw Bengal match and surpass the prosperity of the Pala Empire, becoming famed across continents for its wealth and cultural vibrance. One particularly famous product was jamdani, also known as muslin after its iteration in the Middle East, a cloth prized as a luxury item. The Bengali Sultanate retained this exalted status until the 16th century, when it was absorbed into the rising Mughal Empire. ” —In-game section
+
+Trivia[]
+
+The Bengalis are the only civilization that has access to Parthian Tactics, but lack the Cavalry Archer. This technology benefits Rathas and Elephant Archers. They are also the first civilization in expansions of the Definitive Edition that have access to this technology.
+
+The Bengali civilization icon is a form of the Bengali Swastika.
+
+Their user interface is an elephant, which is one of the symbols of Buddhism. In the game's timeline, the Bengalis were the last Indian state whose official religion was Buddhism.
+
+The Bengalis are similar to the Khmer, as they are civilizations that have powerful Elephant units with attack advantage and bonuses which aid Monks, while other units are average. Infantry for both are mediocre due to lacking Plate Mail Armor, and both their Archery Ranges lack Thumb Ring, but get access to other essential units (the Khmer have Heavy Cavalry Archers and Hand Cannonners, and Bengalis have access to Elephant Archers). Both civilizations lack Bombard Cannons and Siege Onagers. Both unique units have average attack and hit points, but low speed (the Ratha is slower than most mounted units). The major difference between them is that the Khmer have weaker navy, while the Bengalis have less versatility in land maps, due to lacking Knights.
+
+The Bengalis are the second civilization (after the Malay) to have any units that take up a population space other than 1. After researching Mahayana, their Imperial Age unique technology, their Villagers and Monks occupy 0.9 population space.
+
+Similar to the Bohemians, the Bengalis have a noticeably higher win rate in closed maps, while they have a significantly lower win rate in open maps. This may be because of the following factors: no economy bonus in Dark Age, lack of mobility (at least before getting a Castle), not enough time to get elephants going, and in general closed maps being more suitable for their army composition (Monks and elephants) to shine.
+Even in closed maps, their win rates are considered to be average when compared to other civilizations. This may be because of the differences in high-level matches when compared to lower-level matches. While the Bengali post-Imperial Age army is very difficult to deal with for most lower-level players, more experienced players can exploit several of their noticeable weaknesses in closed maps (i.e. their siege is considered average in closed maps, and their economic bonuses do not apply until the later stages of the game compared to other civilizations' economic bonuses in closed maps). Because of their poor performance on most maps while also being under-average in closed maps, in update 66692 the Elephant Archer was improved with cheaper food cost and lesser bonus damage from Skirmishers. Bengali Elephant Archers are now the hardest to counter properly with Skirmishers because of their resistance to bonus damage. Monks get +3/+3 armor as a civilization bonus, making them better on closed maps for a Monk rush.
+
+The former Bengali musical theme is performed with a shehnai, a flute generally used during Hindu and Muslim weddings in India. This choice was questioned by part of the community, judging the use of such an instrument out of place. This was fixed in update 81058 with a more conventional use of a flute.
+
+Before release, the Bengali elephant units took 33% less bonus damage instead of 25%.
+
+As of update 66692, the Bengalis are the only Dynasties of India civilization which do not have access to the Bombard Cannon. This is because the Bengalis are primarily based on the Pala Empire, though the Bengal Sultanate during the 15th-16th century used artillery. This also makes the Bengalis the only South Asian civilization to not have the Bombard Cannon, Hand Cannoneer, and Bombard Tower.
+
+Update 66692 gave their Monks +3/+3 armor, which is the same effect as the Slavs' removed unique technology Orthodoxy.
+
+Update 81058 gave them a new civilization bonus where melee cavalry deal bonus damage against Skirmishers, as Rathas' cavalry archer armor classification made them very easy to counter despite being heavy cavalry.
+
+The Bengalis are the only civilization that has access to Champion and Gambesons, but not Plate Mail Armor.
+
+Behind the Scenes[]
+
+“ The Bengali people are situated mainly in the beautiful green, mountainous landscape of Bengal, as well as in areas of northeastern Southeast Asia. This group speaks various dialects of Bangla, whose development is likely attributed to the region's unique and diverse origins. The Bengalis historically practiced three main religious systems: Hinduism, Buddhism, and Islam. The latter's establishment gradually led to the decline of Buddhism, which remains a minority religion there. The 9th century Pala Emperor Devapala, who was considered the region's most powerful ruler due to his successful efforts to expand his empire, inspired the Devapala campaign. ” — [2]
+
+Gallery[]
+
+The Bengali Wonder, the 
+
+Somapura Mahavihara
+
+Official Preview
+
+The Indian architecture set that was introduced in 
+
+Dravidians,
+
+Gurjaras, and
+
+Hindustanis
+
+The inspiration for the Castle
+
+Unique Castle for the Bengalis from 
+
+Lalbagh Fort
+
+Bengali user interface image
+
+A Bengali Army as seen in the scenario Sacred Waters
+
+Video overview[]
+
+Bengalis overview AoE2
+
+Notes[]
+
+↑ "Bonus damage" is incoming damage of all armor classes except for melee or pierce damage. For more details, see Armor class (Age of Empires II).
+
+↑ Minimum conversion interval increased by +3, and maximum conversion interval increased by +1. For more details, see conversion.
+
+References[]
+
+↑ https://www.ageofempires.com/news/dynasties_of_india_is_here/
+
+↑ https://www.ageofempires.com/news/behind-the-scenes-development-of-the-dynasties-of-india/
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+Dynasties of India
+
+Asian civilizations
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

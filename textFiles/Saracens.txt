@@ -1,0 +1,751 @@
+This page is all about the Saracens
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Rise of the Rajas
+3.5 Definitive Edition
+3.6 Lords of the West
+3.7 Dynasties of India
+3.8 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 Saladin
+4.2 Barbarossa
+4.3 El Cid
+4.4 Battles of the Conquerors
+4.5 Bari
+4.6 Tariq ibn Ziyad
+4.7 Sundjata
+4.8 Francisco de Almeida
+4.9 Yodit
+4.10 Tamerlane
+4.11 Edward Longshanks
+4.12 The Hautevilles
+4.13 Tamar
+4.14 Ismail
+4.15 Victors and Vanquished
+4.16 The Art of War
+4.17 Mongol Raiders
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+Asian civilizations,
+
+The Age of Kings
+
+
+			English
+
+Español
+
+Saracens
+
+61
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+This article is about the civilization in Age of Empires II: The Age of Kings . For the civilization in Age of Empires IV , see Abbasid Dynasty .
+
+Civilization Technology tree Strategy
+
+DE
+
+HD
+
+Saracens
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: The Age of Kings
+
+Architecture
+
+Middle Eastern
+
+Continent
+
+Asia
+
+Africa
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Saracens_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Saracens_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Saracens_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Camels
+
+Navy
+
+Unique units
+
+Mameluke
+
+Unique technologies
+
+Bimaristan
+
+Counterweights
+
+Saracens
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: The Age of Kings
+
+Architecture
+
+Middle Eastern
+
+Continent
+
+Asia
+
+Africa
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Saracens_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Camels
+
+Navy
+
+Unique units
+
+Mameluke
+
+Unique technologies
+
+Madrasah
+
+Zealotry
+
+“ In the 7th century, the nomadic desert tribes of Arabia rallied around a charismatic prophet and established one of the most far-reaching and vibrant religious cultures that the world has ever seen. Lead swift cavalry and tough camelry to conquer from Iberia to India, construct strong navies to prowl the seas, and foster rich scholarship and religious contemplation. Your well-trained Mamelukes, fearsome and fearless warriors, are the only warriors strong enough to halt the advance of the dreaded Mongol hordes! ” —Description [1]
+
+The Saracens are a Middle Eastern civilization in Age of Empires II. They focus on camels and ships.
+
+The Saracens as a civilization are also represented as the Abbasid Dynasty in Age of Empires IV. Because the Arab people were conquered by the Ottomans, the Saracens do not appear as a playable civilization in Age of Empires III (although several mercenary and outlaw units such as the Mameluke and Desert Archer use Arabic voice lines, with the latter using the same voice lines as Saracen military units from Age of Empires II).
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Rise of the Rajas
+3.5 Definitive Edition
+3.6 Lords of the West
+3.7 Dynasties of India
+3.8 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 Saladin
+4.2 Barbarossa
+4.3 El Cid
+4.4 Battles of the Conquerors
+4.5 Bari
+4.6 Tariq ibn Ziyad
+4.7 Sundjata
+4.8 Francisco de Almeida
+4.9 Yodit
+4.10 Tamerlane
+4.11 Edward Longshanks
+4.12 The Hautevilles
+4.13 Tamar
+4.14 Ismail
+4.15 Victors and Vanquished
+4.16 The Art of War
+4.17 Mongol Raiders
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+Characteristics[]
+
+Unique unit[]
+
+Mameluke: Camel cavalry with ranged melee attack, and an attack bonus against mounted units.
+
+Unique technologies[]
+
+Bimaristan: Monks automatically heal multiple nearby units.
+
+Counterweights: Trebuchets and Mangonel-line +15% attack.*
+
+Civilization bonuses[]
+
+The commodity trading fee is 5%.
+
+Markets cost 75 wood.
+
+Transport Ships have double hit points and +5 carry capacity.
+
+Galleys attack 25% faster.
+
+Camel units +25% hit points.
+
+Team bonus[]
+
+Foot archers have +3[note 1] attack against standard buildings.
+
+Overview[]
+
+The Saracens are classified as a camel and naval civilization. Apart from lacking the Cavalier upgrade, their mounted units are excellent, because they get all other upgrades, +25% hit points on their Camel Riders, and the very threatening Mameluke. On the sea, they get excellent Galleons that fire faster, and extra garrison capacity and hit points for their Transport Ships. Their archers get every single upgrade, and deal additional damage against buildings, making it harder to defend against a Saracen Archer rush. Their siege weapons are strong as they have everything except for the Heavy Scorpion, and Counterweights offsets this, as it gives their Trebuchets and Siege Onagers increased damage. Their Monks are good, as they have access to all Monastery technologies. Their Market bonus is very powerful, as it lets them exchange any resource for another for much lower cost.
+
+Despite their well-rounded nature, the Saracens do have several notable weaknesses. The strengths of the Saracen Camel Rider does not completely cover the lack of Cavaliers or Halberdiers. The lack of Shipwright means that their late-game navy can fall behind if they are unable to match the opponent's production. Lastly, as strong as their Markets are, the lack of a clear and consistent bonus means it requires a lot of strategizing to be used to its fullest.
+
+Overall, the Saracens are a very flexible civilization with a tricky but powerful economy bonus. They are also one of the best late-game civilizations due to their powerful Mamelukes and Siege Onagers.
+
+Changelog[]
+
+The Conquerors[]
+
+Mamelukes movement speed decreased (1.41 → 1.4).
+
+Mamelukes receive +11 bonus armor against anti-cavalry attacks.
+
+Mamelukes get the new ship/camel armor class.
+
+Mamelukes no longer have the infantry armor class, and gain the archer armor class.
+
+Zealotry, Thumb Ring, Bloodlines, Parthian Tactics, Heresy, Theocracy, and Herbal Medicine introduced.
+
+Elite Mamelukes receive +25 Cavalry armor during post-imperial starts, due to Camelry.
+
+The Forgotten[]
+
+New bonus: Markets cost -75 wood (100 wood).
+
+Non-Elite Mamelukes attack increased (7 → 8).
+
+Madrasah introduced.
+
+Camelry removed, classified as a bug.
+
+The African Kingdoms[]
+
+The ship armor class is removed from Mamelukes, and they receive a new camel armor class. Now only anti-camel, but not anti-ship attacks affect Mamelukes.
+
+With patch 4.8, Elite Mamelukes' attack delay increased (0 → 0.5 seconds).
+
+Rise of the Rajas[]
+
+With patch 5.8, the cavalry armor is replaced with a new Mameluke armor class. This effectively reduces their damage taken from Halberdiers by 5 (47 → 42), while leaving them the same against every other unit.
+
+Definitive Edition[]
+
+Civilization bonus granting Cavalry Archers +4 attack against standard buildings changed to all Archers (except Skirmishers) deal +3 bonus damage vs. standard buildings.
+
+Market cost reduction increased (-75 wood → -100 wood) (new total: 75 wood).
+
+(Elite) Mameluke firing delay reduced (0.6 (Non-Elite)/0.5 (Elite) → 0.4/0.2).
+
+Halberdiers deal less bonus damage to Mamelukes (42 → 37).
+
+With update 34055, the archer anti-building bonus was staggered (+3 (All) → +1 (Feudal Age)/+2 (Castle Age)/+3 (Imperial Age)).
+
+With update 37650, Zealotry costs less gold (800 gold → 700 gold).
+
+Lords of the West[]
+
+With update 44725:
+Archer anti-building bonus replaced with a new bonus granting camel units +10 hit points.
+Zealotry effect decreased (+30 → +20 hit points) but cost decreased (750 food, 700 gold → 500 food, 450 gold).
+Team bonus's anti-building damage increased (+2 → +3).
+
+Dynasties of India[]
+
+With update 61321:
+Zealotry is available earlier (Imperial Age → Castle Age).
+Counterweights becomes available in the Imperial Age and Madrasah is removed from the game.
+(Elite) Mamelukes no longer have the archer armor class.
+
+With update 66692, Saracens Market's minimum buy price is now (re)set to 21 to avoid an exploit that could generate infinite gold.
+
+With update 81058:
+Zealotry cost reduced (500 food, 450 gold → 400 food, 400 gold).
+Gambesons introduced.
+
+The Mountain Royals[]
+
+With update 95810,
+Camel units +10 hit points civilization bonus changed to Camel units +25% hit points.
+(Elite) Mameluke hit points increased (65 (80) → 80 (90)).
+Zealotry unique technology replaced with Bimaristan: Monks automatically heal multiple nearby units.
+
+Campaign appearances[]
+
+The Saracens have a campaign devoted to their civilization: Saladin. They are also the playable civilization in some scenarios from the El Cid campaign.
+
+They are the second playable civilization in the Co-op version of the Tariq ibn Ziyad campaign. They are also playable in all but the sixth scenario of the co-op version of the Saladin campaign.
+
+They also appear as allies or enemies in:
+
+Toggle campaign appearance list
+
+Saladin[]
+
+This campaign is played as the Saracens.
+
+An Arabian Knight
+Egyptians - Ally → Enemy → Ally
+
+Lord of Arabia
+Aqaba - Ally
+Medina - Ally
+
+Jihad!
+Hebron - Ally
+
+Barbarossa[]
+
+Barbarossa's March
+Saracen Navy - Enemy
+
+The Emperor Sleeping
+Saladin - Ally → Enemy
+Jerusalem - Enemy
+
+El Cid[]
+
+The Exile of the Cid and Black Guards are played as the Saracens.
+
+The Enemy of my Enemy
+Toledo - Ally
+The Imam - Ally
+Motamid - Ally
+Moorish Rebels - Enemy
+
+The Exile of the Cid
+Motamid - Ally
+
+Black Guards
+Black Guard Army - Enemy
+Black Guard Navy - Enemy
+Yusuf - Enemy
+
+King of Valencia
+Denia - Ally
+Lérida - Ally
+
+Battles of the Conquerors[]
+
+Tours
+Moors - Enemy
+
+Manzikert
+Saracens - Enemy
+
+Bari[]
+
+Arrival at Bari (HD Edition)
+Emirate of Bari - Enemy
+
+Tariq ibn Ziyad[]
+
+The Battle of Guadalete
+Ceuta (Ceuta in co-op version) - Ally
+
+Consolidation and Subjugation
+Cordoba - Ally
+
+Crossing the Pyrenees
+Umayyad Army* - Ally
+
+Sundjata[]
+
+Djeriba Gold
+Arab Traders - Ally
+
+Francisco de Almeida[]
+
+Lion of Africa
+Emir - Ally → Enemy
+
+Ruins of Empires
+Zanzibar - Ally or Enemy
+
+A Son's Blood
+Mamluks - Ally → Enemy
+
+Yodit[]
+
+Path of Exile
+Fort by the River - Enemy
+
+The Right Partner
+Ikshids - Ally or Enemy
+Pirates - Enemy
+
+A Fallen Crown
+Alodian Rebels - Ally or Enemy
+
+Tamerlane[]
+
+Scourge of the Levant
+Aleppo - Enemy
+Damascus - Enemy
+Baghdad - Enemy
+Mamluks - Enemy
+
+Edward Longshanks[]
+
+A Man of God
+Aleppo - Enemy
+Mamluks - Enemy
+Nazareth - Enemy
+
+The Hautevilles[]
+
+Guiscard Arrives and Wonder of the World
+Saracen Pirates - Enemy → Ally
+
+Roger in Sicily
+Emir Ibn al-Ward - Enemy
+Emir Ibn Mankut - Enemy
+Emir Ibn al-Hawwas - Ally → Enemy
+
+Bohemond in the East
+Ahmed ibn-Marwan - Enemy
+
+Tamar[]
+
+Tamar the Builder
+Saracens - Enemy
+
+Ismail[]
+
+Alexander Safavi
+Baghdad - Enemy
+
+Victors and Vanquished[]
+
+Ironside
+Qurtubah - Enemy
+
+Komnenos
+Fatimids - Enemy
+
+Seljuk
+Buyids - Enemy
+
+The Art of War[]
+
+Destroying a Castle
+Saladin - Enemy
+
+Mongol Raiders[]
+
+Saracens - Enemy
+
+In-game dialogue language[]
+
+In-game, Saracen units speak Arabic. The Arabic language is not unisex, so there are two titles for each assignment assigned to a Villager, a title for the male and a different title for the female.
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Male_Select_1_AoE2.ogg Select 1 Na'am? (نعم؟) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Male_Select_2_AoE2.ogg Male Select 2 Ahlaan Allo (!أهلا!الو) - Hello
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Female_Select_2_AoE2.ogg Female Select 3 Mosta'edaton (مستعدةٌ) - Ready (feminine)
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Male_Select_3_AoE2.ogg Male Select 3 Mosta'edon (مستعدٌ) - Ready (masculine)
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Male_Select_4_AoE2.ogg Select 4 Amron? (امرٌ؟) - Orders?
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Male_Task_1_AoE2.ogg Task 1 Hassanan (حسناً) - Okay
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Male_Task_2_AoE2.ogg Task 2 Na'am (نعم) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Male_Task_3_AoE2.ogg Task 3 Saheeh (صحيح) - True
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Male_Task_4_AoE2.ogg Task 4 Sa af'al (سأفعل) - I will do it
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Female_Build_AoE2.ogg Female Build Banna'aton (بناءةٌ) - Builder (feminine)
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Male_Build_AoE2.ogg Male Build Banna'on (بناءٌ) - Builder (masculine)
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Female_Chop_AoE2.ogg Female Chop Hattabaton (حطابةٌ) - Woodcutter (feminine)
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Male_Chop_AoE2.ogg Male Chop Hattabon (حَطَّابٌ) - Woodcutter (masculine)
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Female_Farm_AoE2.ogg Female Farm Mozaare'aton (مزارعةٌ) - Farmer (feminine)
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Male_Farm_AoE2.ogg Male Farm Muzare'on (مُزارعٌ) - Farmer (masculine)
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Female_Fish_AoE2.ogg Female Fish Sayyadato samak (صيادة سمك) - Fisherwoman
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Male_Fish_AoE2.ogg Male Fish Sayyad samak (صيادُ سمك) - Fisherman
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Female_Forage_AoE2.ogg Female Forage Bahithaton aan el taam (باحثةٌ عن الطعام) - Searcher for food (feminine)
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Male_Forage_AoE2.ogg Male Forage Bahithon aan el taam (باحثٌ عن الطَََعامِ) - Searcher for food (masculine)
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Female_Hunt_AoE2.ogg Female Hunt Sayyadaton (صيادةٌ) - Huntress
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Male_Hunt_AoE2.ogg Male Hunt Sayyadon (صياد) - Hunter
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Female_Mine_AoE2.ogg Female Mine Amelato manjam (عًامِلةُ منجم) - Miner (feminine)
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Male_Mine_AoE2.ogg Male Mine Amelo manjam (عامِلُ مَنجم) - Miner (masculine)
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Female_Repair_AoE2.ogg Female Repair Morammemmaton (مرمََمةٌ) - Repairer (feminine)
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Male_Repair_AoE2.ogg Male Repair Morammemon (مرمََمٌ) - Repairer (masculine)
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Female_Attack_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Saracens_Villager_Male_Attack_AoE2.ogg Attack Hojoom! (!هجوم) - Attack! (not used)
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Soldier_Select_1_AoE2.ogg Select 1 Na'am? (نعم؟) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Soldier_Select_2_AoE2.ogg Select 2 Mosta'ed (مستعد) - I'm ready
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Soldier_Select_3_AoE2.ogg Select 3 Amrok (أمرك) - Your order?
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Soldier_Move_1_AoE2.ogg Move 1 Na'am (نعم) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Soldier_Move_2_AoE2.ogg Move 2 Sa af'al (سأفعل) - I will do it
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Soldier_Move_3_AoE2.ogg Move 3 Hassanan (حسناً) - Okay
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Soldier_Attack_1_AoE2.ogg Attack 1 Hojoom! (!هجوم) - Attack!
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Soldier_Attack_2_AoE2.ogg Attack 2 Al quetal! (!القتال) - We'll fight!
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Soldier_Attack_3_AoE2.ogg Attack 3 Na'am! (!نعم) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Soldier_Attack_4_AoE2.ogg Attack 4 Al hojoom! (!الهجوم) - We attack!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Monk_Select_1_AoE2.ogg Select 1 Na'am? (نعم؟) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Monk_Select_2_AoE2.ogg Select 2 Ahlaan (أهلا) - Hello
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Monk_Move_1_AoE2.ogg Move 1 Hassanan (حسناً) - Okay
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Monk_Move_2_AoE2.ogg Move 2 Na'am (نعم) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Monk_Move_3_AoE2.ogg Move 3 Saheeh (صحيح) - True
+
+https://ageofempires.fandom.com/wiki/File:Saracens_Monk_Move_4_AoE2.ogg Move 4 Sa af'al (سأفعل) - I will do it
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Saracens_King_Select_1_AoE2.ogg Select 1 Na'am? (نعم؟) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Saracens_King_Select_2_AoE2.ogg Select 2 Ahlaan (أهلا) - Hello
+
+https://ageofempires.fandom.com/wiki/File:Saracens_King_Select_3_AoE2.ogg Select 3 Mosta'edon (مستعدٌ) - Ready
+
+https://ageofempires.fandom.com/wiki/File:Saracens_King_Select_4_AoE2.ogg Select 4 Amron? (امرٌ؟) - Orders?
+
+https://ageofempires.fandom.com/wiki/File:Saracens_King_Move_1_AoE2.ogg Move 1 Hassanan (حسناً) - Okay
+
+https://ageofempires.fandom.com/wiki/File:Saracens_King_Move_2_AoE2.ogg Move 2 Na'am (نعم) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Saracens_King_Move_3_AoE2.ogg Move 3 Saheeh (صحيح) - True
+
+https://ageofempires.fandom.com/wiki/File:Saracens_King_Move_4_AoE2.ogg Move 4 Sa af'al (سأفعل) - I will do it
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Saracen AI characters:
+
+Al-Mu'tasim (المعتصم): The eighth Abbasid caliph, ruling from 833 to his death in 842.
+
+Atabeg Zangi(أتابك زنكي): A Oghuz Turkish atabeg who ruled Mosul, Aleppo, Hama, and Edessa. He was the namesake of the Zengid dynasty.
+
+Baibars (بيبرس), reigned 1260-1277: The fourth Sultan of Egypt in the Mamluk Bahri dynasty which is of Cuman origin. He was one of the commanders of the Egyptian forces that inflicted a defeat on the Seventh Crusade of King Louis IX of France. He also led the vanguard of the Egyptian army at the Battle of Ain Jalut in 1260, which marked the first substantial defeat of the Mongol army and is considered a turning point in history. In 1263, he launched a siege of Arce, but the siege was failure and he made a peace agreement with the crusaders.
+
+Caliph Abu Bekr (خَلِيْفَة أَبُو بَكْر): A senior companion (Sahabi) and—through his daughter Aisha—the father-in-law of the Islamic prophet Muhammad. He ruled over the Rashidun Caliphate from 632 to 634 CE when he became the first Muslim Caliph following Muhammad's death.
+
+Caliph al-Muizz (خَلِيْفَة المعز): was the fourth Fatimid Caliph and 14th Ismaili imam, reigning from 953 to 975.
+
+Caliph Muawiyah I (خَلِيْفَة معاوية): was the founder and first caliph of the Umayyad Caliphate.
+
+Caliph Yazid (خَلِيْفَة يزيد): name of three Umayyad caliphs.
+
+General Khalid (خالد بن الوليد): see Khalid ibn al-Walid.
+
+General Shirkuh (شيركوه): A Kurdish military commander, and uncle of Saladin. His military and diplomatic efforts in Egypt were a key factor in establishing the Ayyubid family in that country.
+
+Kala'un (قلاوون): The seventh Bahri Mamluk sultan; he ruled Egypt from 1279 to 1290.
+
+Kerboga (كربغا): Atabeg of Mosul during the First Crusade and was renowned as a soldier. In 1095 he served under the Abbasid Caliph Al-Mustazhir in his attempted reconquest of Aleppo.
+
+Imad ad-Din Zengi (عماد الدین زنكي): An atabeg who founded the Zangid dynasty and ruled the cities of Aleppo, Hama and Mosul.
+
+Khalid ibn al-Walid (المغيرة المخزومي): An Arab Muslim general born in Mecca. He was one of the two generals involved in the Islamic successful expansion under the Prophet Muhammad. He was also involved in numerous battles like the Siege of Aleppo and the Siege of Damascus.
+
+Nur-ed-din (نور الدين): A member of the Oghuz Turkish Zengid dynasty which ruled the Syrian province of the Seljuk Empire. He reigned from 1146 to 1174.
+
+Saladin (الناصر صلاح الدين يوسف بن أيوب, An-Nasir Salah ad-Din Yusuf ibn Ayyub), reigned 1174-1193: The first sultan of Egypt and Syria and the founder of the Ayyubid dynasty. A Sunni Muslim of Kurdish ethnicity, Saladin led the Muslim military campaign against the Crusader states in the Levant. At the height of his power, his sultanate included Egypt, Syria, Upper Mesopotamia, the Hejaz, Yemen, and other parts of North Africa.
+
+History[]
+
+“ The name Saracen applied originally to nomadic desert peoples from the area stretching from modern Syria to Saudi Arabia. In broader usage the name applied to all Arabs of the Middle Ages. These desert nomads erupted suddenly in the seventh century and established a far-reaching empire within a century and a half. Their conquest was fueled by faith and high morale. Following the teachings of the prophet Mohammed, their intent was to change the religious and political landscape of the entire planet. By 613 the prophet Mohammed was preaching a new religion he called Islam. Largely ignored in his home city of Mecca, he withdrew to Medina, built up a strong following there, and returned to attack and capture Mecca. Following his death in 632, his teachings were collected to form the Koran, the Islamic holy book. In 634 his followers began their jihad, or holy war. Within five years they had overrun Egypt, Palestine, and Syria. Their tolerance of Jews and Christians eased their conquest because these people had been suffering some persecution under the Byzantines . In the next 60 years, both North Africa to the west and Persia to the east fell to Islam. In the early eighth century, Saracens from Tangiers invaded the Iberian Peninsula and conquered the Visigoth kingdom established there after the fall of Rome . In Asia they took Asia Minor from the Byzantines and attempted to capture Constantinople with a combined attack from land and sea. The great walls of the city frustrated the land attack and the Saracen fleet was defeated at sea. In the west, Charles Martel of the Franks stopped a Saracen invasion of modern France in 732 at Poitiers . Frustrated in the west, the forces of Islam turned east. By 750 they had conquered to the Indus River and north over India into Central Asia to the borders of China. In 656 the Muslim world fell into civil war between two factions, the Sunnites and the Shiites. They differed on several points, including who should be caliph and interpretation of the Koran. The result of the 60-year war was that the Islamic state broke into pieces, some governed by Sunnites (the Iberian Peninsula) and others by Shiites (Egypt and modern Iraq). The new Islamic states acted independently, thereafter. Muslim Spain developed into one of the great states of Europe during the early Middle Ages. Muslims, Jews, and Christians lived together in relative harmony, and a rich culture rose out of these multiple influences. There was a flowering of the arts, architecture, and learning. By 1000, however, Muslim Spain had divided into warring factions. This civil war facilitated the slow reconquest of the peninsula (the Reconquista) by the emerging states of Castile and Aragon, completed finally in 1492. Asia Minor and the Middle East were conquered by Muslim Turks in the early eleventh century. In response to a call for aid from the Byzantines, a series of Crusades was launched from Europe to regain Palestine from the Turks. The independent Muslim states in the area lost Palestine and the Eastern Mediterranean coast to the First Crusade . In the last part of the twelfth century, the great Saracen leader Saladin succeeded in uniting Egypt, Syria, and smaller states, and he retook Jerusalem. The Muslim states remained independent long after the Middle Ages and eventually developed into the modern Arab nations of the Middle East and North Africa. They went into economic decline, however, when the European nations opened trade routes of their own to Asia in the fifteenth and sixteenth centuries. ” — [1]
+
+Trivia[]
+
+The Saracens' civilization icon is based on the Rub el Hizb, an Islamic symbol, and the black represents the Abbasid Caliphate.
+
+The user interface artwork is a calligraphic rendition of the Arabic word "Bismillah" (meaning In the name of the Lord).
+
+The following heroes available in the Scenario Editor are themed on the Saracens: Archer of the Eyes (alongside Ethiopians who represent Nubians), Imam (as per campaign appearance), Saladin, and Musa ibn Nusayr.
+
+The Saracens are one of the two civilizations to get all seven technologies introduced in The Conquerors, the other being the Magyars who were added in The Forgotten.
+
+The Saracens are one of six civilizations with access to all Monastery technologies.
+
+They, alongside the Japanese, are also the only civilization that have access to all Archery Range units and technologies (with the exception of Elephant Archers, which are regional units).
+
+The Saracens, along with the Dravidians and Japanese, are one of the three civilizations that have access to fully upgradable Champions and Arbalesters.
+
+The Saracens are the only civilization capable of training the Knight-line that cannot upgrade them to Cavalier.
+
+With The Mountain Royals, the Saracens and Persians become the first civilizations to have both of their original unique technologies changed.
+
+Gallery[]
+
+The Wonder of the Saracens, the 
+
+Great Mosque of Samarra
+
+The Middle Eastern architecture set the Saracens share with the 
+
+Berbers,
+
+Persians, and
+
+Turks
+
+The Middle Eastern architecture set before the 
+
+Saracens 
+
+user interface image
+
+Arabic Calligraphy of "Bismillah"
+
+The Saracen user interface before the 
+
+A Saracen town and the player's starting town in 
+
+The Lion and the Demon
+
+Saracen overview (AoE2)
+
+Notes[]
+
+↑ The Saracen team bonus displays +2 in the technology tree, even though it gives +3 attack against the standard building armor class. This is by design, since the description is meant to tell players about the effect in practice, not the value in the data files. Archers typically do a minimum damage of 1 against buildings. The +3 attack bonus against buildings results in an additional 2 damage being dealt to buildings; hence the +2 in the technology tree.However, in some cases the extra damage is indeed +3, such as against buildings with low pierce armor (Outposts, palisades, and Gates). For example, a Feudal Age Saracen Archer (4 pierce damage) attacking an Outpost (0 pierce armor) deals 7 damage instead of 4.The Saracen team bonus affects Skirmishers and Slingers because they are in the same unit class as the Archer-line. It does not affect Hand Cannoneers, because they have their own unit class.
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/saracens
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+Asian civilizations
+
+The Age of Kings
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

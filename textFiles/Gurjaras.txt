@@ -1,0 +1,679 @@
+This page is all about the Gurjaras
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Dynasties of India
+
+4 Campaign appearances
+
+4.1 Francisco de Almeida
+4.2 Prithviraj
+4.3 Devapala
+4.4 Rajendra
+4.5 Babur
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+8.1 Behind the Scenes
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+Dynasties of India,
+
+Asian civilizations
+
+Gurjaras
+
+18
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+Civilization Technology tree Strategy
+
+Gurjaras
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: Definitive Edition - Dynasties of India
+
+Architecture
+
+Indian
+
+Continent
+
+Asia (central, western India)
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Jingle.mp3
+
+Pronunciation
+
+Features/Characteristics
+
+Focus
+
+Cavalry
+
+Camels
+
+Unique units
+
+Chakram Thrower
+
+Shrivamsha Rider
+
+Camel Scout
+
+Unique technologies
+
+Kshatriyas
+
+Frontier Guards
+
+“ Ride swift mounts across the fertile fields and open plains of western India and unleash diverse armies of sturdy warriors upon your enemies. The Gurjara unique units are the Shrivamsha Rider, a speedy cavalry unit that can dodge enemy attacks, and the Chakram Thrower, an infantry unit that unleashes volleys of deadly metal discs. ” —Description [1]
+
+The Gurjaras are an Indian civilization introduced in Age of Empires II: Definitive Edition - Dynasties of India representing the peoples of the medieval region of Gurjaradesa, i.e. the Gurjara-Pratihara dynasty who controlled northern and western India, their descendants, as well as the Rajputs. In the game, they focus on light cavalry and camels. The Gurjaras are one of the most mechanically complex civilizations.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Dynasties of India
+
+4 Campaign appearances
+
+4.1 Francisco de Almeida
+4.2 Prithviraj
+4.3 Devapala
+4.4 Rajendra
+4.5 Babur
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+8.1 Behind the Scenes
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+Characteristics[]
+
+Unique units[]
+
+Chakram Thrower: Light infantry with a ranged melee attack and pass-through damage.
+
+Shrivamsha Rider: Light cavalry which can dodge projectile attacks.
+
+Camel Scout: Early camel unit.
+
+Unique technologies[]
+
+Kshatriyas: Military units cost -25% food.
+
+Frontier Guards: Camel Riders and Elephant Archers +4 melee armor.
+
+Civilization bonuses[]
+
+Start the game with a Camel Scout.
+
+Starts with 2 Forage Bushes under the Town Center.
+
+Can garrison Docks with allied Fishing Ships.[note 1]
+
+Can garrison Mills with herdable animals to produce food.[note 2]
+
+Mounted units deal +20%/+30%/+40% bonus damage in the Feudal/Castle/Imperial Age.
+
+Team bonus[]
+
+Camel and elephant units are created 25% faster.
+
+Overview[]
+
+The Gurjaras focus on mounted units, as both of their unique technologies, the team bonus, and one civilization bonus are geared to encourage training mounted units. They lack Blast Furnace, but their mounted units do more bonus damage due to their civilization bonus. They can train the Shrivamsha Rider at the stable which is a fast cavalry with the ability to dodge ranged attacks, which not only helps against archer and gunpowder units, but also siege units. The Castle Age unique technology is one of the best economic-military effects in the game, since it reduces the food cost of all military units by 25%, which in isolation means +33.3% food. The Imperial Age unique technology gives more durability to their Elephant Archers and Camel Riders, which are also created faster due to their team bonus. Their siege weapons are slightly above average, as their Siege Elephants are the fastest at tearing down buildings, and they also have access to Bombard Cannons. Though, lacking Siege Engineers limits the viability of Onagers and Heavy Scorpions. Their foot units are very lacking, as they have one of the weakest Barracks, with no Champions, Squires, and not even Pikemen. Their archers are average at best, lacking Ring Archer Armor and Arbalesters, making their archer units vulnerable against enemy ranged units. Therefore, they only have Hand Cannoneers and Chakram Throwers as viable foot soldiers in the late game. Their navy and Monks are reliable in the early game, but missing some essential technologies in the late game makes them mediocre. Their defenses are unremarkable as they lack Arrowslits and Bombard Towers. Their economy is overall good with proper management, especially in the early games, because of getting more Berry Bushes they can collect, and the ability to garrison herdables to generate food automatically. Their Fishing Ships will be relatively safer in case of an attack due to being able to garrison in their own Docks. However, their bonuses only focus on food, and have poor lack late-game economy due to lacking Two-man Saw and Guilds.
+
+Changelog[]
+
+Dynasties of India[]
+
+Originally, mounted units have +50% bonus damage. With update 66692, they have +40% bonus damage. With update 73855, mounted units deal +20%/+30%/+40% bonus damage in the Feudal/Castle/Imperial Age respectively. With update 78174, rounding errors on the attacks were resolved.
+
+Upon release, (Elite) Shrivamsha Riders could dodge 5 (7) projectiles in 15 seconds. With update 66692, they can dodge 5 (7) projectiles in 20 seconds. As a bug fix, (Elite) Shrivamsha Riders can now dodge the nearby blast damage of projectiles.
+
+Upon release, the Elite Shrivamsha Rider upgrade cost 800 food, 600 gold. With update 66692, it costs 850 food, 500 gold.
+
+With update 66692, the food generation from garrisoned herdables utilize a logarithmic formula instead of a linear formula.
+
+Originally, Chakram Throwers had 50% pass-through damage like other units. With update 73855, it was changed to 100%.
+
+Originally, (Elite) Chakram Throwers had 5 (6) attack. With update 73855, it was reduced to 3 (4).
+
+With update 73855, Elite Chakram Throwers have +1 attack vs Infantry. With update 78174, they receive the intended +1 vs Condottieri.
+
+With update 73855, Shrivamsha Riders cannot block splash damage of nearby units anymore.
+
+Originally, Kshatriyas cost 200 food, 400 gold. With update 81058, Kshatriyas costs 500 food, 450 gold.
+
+Upon release, (Elite) Shrivamsha Riders cost 70 food, 20 gold. With update 81058, they cost 70 food, 30 gold.
+
+Upon release, (Elite) Shrivamsha Riders have 1.75 reload time. With update 81058, they have 2 (1.9) reload time.
+
+Campaign appearances[]
+
+The Gurjaras have a campaign devoted to their civilization: Prithviraj, played as the Indians before the update accompanying Dynasties of India. This campaign can be played by all owners of the Definitive Edition, irrespective of whether they own Dynasties of India. They also appear in:
+
+Francisco de Almeida[]
+
+A Son's Blood
+Gujarati Traders - Ally
+Diu - Ally → Enemy
+Enemy Leaders - Ally → Enemy
+
+Prithviraj[]
+
+This campaign is played as the Gurjaras.
+
+Born of Fire
+Nagarjuna - Enemy
+Bhadanakas - Enemy
+Chandelas - Enemy
+Paramaras - Enemy
+Chauhan - Ally
+
+The Digvijaya
+Jayachandra - Enemy
+Chaulukya - Enemy → Ally
+Lohara - Enemy → Ally
+Dacoits - Neutral
+
+Hand of a Princess
+Jayachandra - Enemy
+Yadavas - Enemy
+Chaulukyas - Ally
+Kannauj - Ally
+Sanyogita - Ally
+Lal Kot - Ally
+
+The Legend of Prithviraj
+Yadava - Enemy
+Indian Dynasties - Ally → Neutral
+Rajas - Neutral
+
+Devapala[]
+
+Dissatisfaction and Enlightenment
+Pratiharas - Enemy
+
+Desire
+Pratiharas - Enemy
+Kannauj - Ally
+
+Renunciation
+Pratiharas - Neutral → Ally
+
+Rajendra[]
+
+The Successor
+The Chalukyan Army - Enemy
+Manyakheta - Enemy
+Chalukyan Garrisons - Enemy
+
+Rising Star
+The Chalukyan Empire - Enemy
+
+Babur[]
+
+Into India
+Ludhiana - Enemy
+Jalandhar - Enemy
+
+The Battle of Panipat
+Delhi Auxiliary Forces - Enemy
+
+The Rajputs
+Kingdom of Mewar - Enemy
+Kingdom of Amber - Enemy
+Allied Villages - Ally
+Devastated Villages - Ally
+
+In-game dialogue language[]
+
+Gurjara units speak the Gujarati.
+
+Villager
+
+There are a few mix-ups between female Villager actions and their spoken lines.
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Male_Select_1_AoE2.ogg Select 1 Hā? (હા?) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Male_Select_2_AoE2.ogg Select 2 Namastē (નમસ્તે) - Hello
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Female_Select_3_AoE2.ogg Female Select 3 Taiyāra (તૈયાર) - Ready
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Male_Select_3_AoE2.ogg Male Select 3 Huṁ taiyāra chuṁ (હું તૈયાર છું) - I am ready
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Male_Select_4_AoE2.ogg Select 4 Ājñā? (આજ્ઞા?) - Order?
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Male_Task_1_AoE2.ogg Task 1 Hā (હા) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Female_Task_2_AoE2.ogg Female Task 2 Huṁ samajī gayō (હું સમજી ગયો) - I understood
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Male_Task_2_AoE2.ogg Male Task 2 Huṁ jā'uṁ chuṁ (હું જાઉં છું) - I am going
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Female_Task_3_AoE2.ogg Female Task 3 Huṁ karuṁ chuṁ (હું કરું છું) - I am doing
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Male_Task_3_AoE2.ogg Male Task 3 Huṁ karīśa (હું કરીશ) - I will do
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Female_Task_4_AoE2.ogg Female Task 4 Ṭhīka (ઠીક) - Right
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Male_Task_4_AoE2.ogg Male Task 4 Barābara (બરાબર) - All right
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Female_Build_AoE2.ogg Female Build Huṁ samārakāma karanāra chuṁ (હું સમારકામ કરનાર છું) - I am a repairer
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Male_Build_AoE2.ogg Male Build Śilpīkāra (શિલ્પીકાર) - Builder
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Female_Chop_AoE2.ogg Female Chop Huṁ śilpakāra chuṁ (હું શિલ્પકાર છું) - I am a builder
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Male_Chop_AoE2.ogg Male Chop Lakaḍahārā (લકડહારા) - Lumberjack
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Female_Farm_AoE2.ogg Female Farm Huṁ lākaḍuṁ kāpuṁ chuṁ (હું લાકડું કાપું છું) - I am cutting wood
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Male_Farm_AoE2.ogg Male Farm Saṅgrahakartā (સંગ્રહકર્તા) - Collector
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Female_Fish_AoE2.ogg Female Fish Huṁ māchalī pakaḍuṁ chuṁ (હું માછલી પકડું છું) - I am catching fish
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Male_Fish_AoE2.ogg Male Fish Māchīmāra (માછીમાર) - Fisherman
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Female_Forage_AoE2.ogg Female Forage Huṁ saṅgraha karuṁ chuṁ (હું સંગ્રહ કરું છું) - I am collecting
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Male_Forage_AoE2.ogg Male Forage Saṅgrahakartā (સંગ્રહકર્તા) - Collector
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Female_Hunt_AoE2.ogg Female Hunt Huṁ śikāra karuṁ chuṁ (હું શિકાર કરું છું) - I am hunting
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Male_Hunt_AoE2.ogg Male Hunt Śikārī (શિકારી) - Hunter
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Female_Mine_AoE2.ogg Female Mine Huṁ karīśa (હું કરીશ) - I will do
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Male_Mine_AoE2.ogg Male Mine Khāṇika (ખાણિક) - Miner
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Female_Repair_AoE2.ogg Female Repair Huṁ banī chuṁ (હું બની છું) - I would come
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Villager_Male_Repair_AoE2.ogg Male Repair Samārakāma karanāra (સમારકામ કરનાર) - Repairman
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Soldier_Select_1_AoE2.ogg Select 1 Hā? (હા?) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Soldier_Select_2_AoE2.ogg Select 2 Tamārī sēvāmā hājara (તમારી સેવામા હાજર) - At your service
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Soldier_Select_3_AoE2.ogg Select 3 Ājñā? (આજ્ઞા?) - Order?
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Soldier_Move_1_AoE2.ogg Move 1 Huṁ samajuṁ chuṁ (હું સમજું છું) - I understood
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Soldier_Move_2_AoE2.ogg Move 2 Huṁ jā'uṁ chuṁ (હું જાઉં છું) - I am going
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Soldier_Move_3_AoE2.ogg Move 3 Hā śrīmāna (હા શ્રીમાન) - Yes sir
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Soldier_Attack_1_AoE2.ogg Attack 1 Ākramaṇa! (આક્રમણ!) - Attack!
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Soldier_Attack_2_AoE2.ogg Attack 2 Caḍhā'ī karō! (ચઢાઈ કરો!) - Attack!
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Soldier_Attack_3_AoE2.ogg Attack 3 Śastrō lō! (શસ્ત્રો લો!) - Take up arms!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Monk_Select_1_AoE2.ogg Select 1 Hā? (હા?) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Monk_Select_2_AoE2.ogg Select 2 Ājñā? (આજ્ઞા?) - Order?
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Monk_Select_3_AoE2.ogg Select 3 Tamārī sēvāmā hājara (તમારી સેવામા હાજર) - At your service
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Monk_Select_4_AoE2.ogg Select 4 Prabhunā nāmē (પ્રભુના નામે) - In the name of God
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Monk_Move_1_AoE2.ogg Move 1 Prabhunā nāmē (પ્રભુના નામે) - In the name of God
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Monk_Move_2_AoE2.ogg Move 2 Hā (હા) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Monk_Move_3_AoE2.ogg Move 3 Tvarita (ત્વરિત) - Immediately
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_Monk_Move_4_AoE2.ogg Move 4 Barābara (બરાબર) - All right
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_King_Select_1_AoE2.ogg Select 1 Arē yau (અરે યૌ) - Hail
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_King_Select_2_AoE2.ogg Select 2 Tanē śuṁ jō'ī'ē chē? (તને શું જોઈએ છે?) - What do you want?
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_King_Select_3_AoE2.ogg Select 3 Śuṁ kāma khalēla pāḷō chō? (શું કામ ખલેલ પાળો છો?) - Do you disrupt the work?
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_King_Select_4_AoE2.ogg Select 4 Nivēdan (નિવેદન) - Speak
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_King_Move_1_AoE2.ogg Move 1 Tamē jē kē īcchō tē huṁ karīśa (તમે જે કે ઈચ્છો તે હું કરીશ) - I will do whatever you want
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_King_Move_2_AoE2.ogg Move 2 Mārī kr̥pāthī (મારી કૃપાથી) - By my grace
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_King_Move_3_AoE2.ogg Move 3 Tamārī vinantī anusāra (તમારી વિનંતી અનુસાર) - As you requested
+
+https://ageofempires.fandom.com/wiki/File:Gurjaras_King_Move_4_AoE2.ogg Move 4 Huṁ karīśa (હું કરીશ) - I will do
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Gurjara AI characters:
+
+Govind Tai: was a vassal prince of Prithviraj.
+
+Jayachandra (जयचन्द): was a king from the Gahadavala dynasty. He is also known as Jayachchandra (IAST: Jayaccandra) in inscriptions, and Jaichand in vernacular legends.
+
+Madanavarman: was a king of the Chandela dynasty. He succeeded his father Prithvi-Varman as the ruler of the Jejakabhukti region. He revived the Chandela glory by subduing the neighbouring kingdoms, and commissioned several tanks and temples.
+
+Maharana Pratap: Pratap Singh I, popularly known as Maharana Pratap, was a king of Mewar from the Sisodia dynasty. Pratap became a folk hero for his military resistance against the expansionism of the Mughal Empire under Akbar through guerrilla warfare which proved inspirational for later rebels against Mughals.
+
+Mahenderpal (885-910): (or Mahendrapala I) was the son of Mihira Bhoja and the seventh ruler of the Gurjara-Pratihara dynasty. Not only did he preserve the empire built by his father Mihira Bhoja, but he also annexed some parts of Bengal to his empire by defeating the Pala dynasty.
+
+Mihira Bhoja (836–885): (or Bhoja I) was a king belonging to the Gurjara-Pratihara Dynasty. He succeeded his father Ramabhadra. One of the outstanding political figures of India in ninth century, he ranks with Dhruva Dharavarsha (of the Rashtrakutas) and Dharmapala (of the Palas) as a great general and empire builder.
+
+Nagabhata (730-760): was a King who founded the Imperial Gurjara-Pratihara dynasty of northern India. He ruled the Avanti (or Malava) region from his capital at Ujjain. He repulsed an Arab invasion from Sindh, probably led by Junayd ibn Abd al-Rahman al-Murri or Al Hakam ibn Awana.
+
+Nagarjuna: was the cousin of Prithviraj, and rebelled against him.
+
+Prithviraj Chauhan (પૃથ્વીરાજ ચૌહાણ): was a king from the Chahamana (Chauhan) dynasty. He ruled Sapadalaksha, the traditional Chahamana territory, in present-day north-western India. He controlled much of the present-day Rajasthan, Haryana, and Delhi; and some parts of Punjab, Madhya Pradesh, and Uttar Pradesh. His capital was located at Ajayameru (modern Ajmer), although the medieval folk legends describe him as the king of India's political centre Delhi to portray him as a representative of the pre-Islamic Indian power.
+
+Raja Shiladitya: also called Silhadi Tomar, was a Rajput chieftain of northeast Malwa in the early decades of 16th century under overlordship of Rana Sanga. He became a vassal of Sanga of Mewar who helped him and Medini Rai in various battles and in conquering Malwa from the Sultans.
+
+Rana Sanga: Sangram Singh I, popularly known as Rana Sanga, was a ruler from the Sisodia dynasty. He ruled Mewar, the traditional territory of Guhilas in present-day north-western India. However, through his capable rule his kingdom turned into one of the greatest power of Northern India in early sixteenth century.
+
+Siddhraj Jaisingh: Jayasiṃha, who assumed the title Siddharāja, was a king who ruled western parts of India. He was a member of the Chaulukya dynasty. Jayasimha's capital was located at Anahilapataka in present-day Gujarat.
+
+Sindhuraja (IAST: Sindhurāja, reigned in 990s): was a king from the Paramara dynasty, who ruled the Malwa region in the late 10th century. He was the younger brother of Munja, and the father of Bhoja (not Mihira Bhoja).
+
+Vatsaraja (780–800): was an Emperor of the Pratihara dynasty in Northern India. He was the grand-nephew of Nagabhata. He was the first ruler of Rajasthan to win victories over the distant regions of Kannauj and Bengal. His extensive conquests mark the rise of the Imperial Pratiharas.
+
+History[]
+
+“ After the collapse of the Gupta Empire in the 6th century AD, its former possessions fragmented into a patchwork of successor states ruled by various chieftains and dynasties. During the 8th century, a king named Nagabhata took command of the region, inaugurating the Pratihara dynasty – also known as Gurjara-Pratihara for the region that the Pratihara kings ruled. The Pratiharas participated prominently in the Kannauj Triangle rivalry, fighting the Rashtrakutas and Bengali Palas for control of Kannauj and the lands surrounding it. One especially noteworthy monarch, Mihira Bhoja , expanded the Pratihara realm throughout all of Gujarat and beyond. Various sources describe his prowess as a ruler and the vastness of his armies, making specific reference to a cavalry force riding Shrivamsha horses , a breed noted for their elite levels of speed, endurance, and agility. The Pratihara kings also had to contend with increasingly large Muslim invasions across the Hindu Kush. While initially successful in fending them off, the Pratihara realm suffered from a process of attrition brought on by these various conflicts and weakened considerably over time. The dynasty's death knell rang in the early 11th century when Mahmud Ghaznavi's armies sacked Kannauj, displacing the Pratihara ruling family. The Pratiharas were not the only noteworthy players in northwestern India at this time. Also figuring into the power struggle over this fruitful region were the Chandelas (9th-13th centuries), Paramaras (9th-14th centuries), Solankis (10th-13th centuries), and Soomros of Sindh (11th-14th centuries). These and several other states contributed to a vast amount of cultural, linguistic, and religious variety in this part of the world. Their differences at times bred rivalry, but more often this remarkable diversity was an emblem of cultural transfer and convergence, with conflicts being primarily politically motivated. During the 12th century, much of north and northwestern India came under the hegemony of Prithviraj Chauhan of Ajmer, a powerful ruler in Rajputana. Prithviraj, whose story survives principally in the epic Prithviraj Raso, put down a relative's revolt, subdued several neighboring states, and married Sanyogita , the daughter of his rival Jayachandra. This union had disastrous consequences, as a jealous advisor conspired with Jayachandra to overthrow Prithviraj by inviting the zealous armies of Muhammad Ghori to invade. Although Prithviraj initially held off the waves of Ghorid invaders, he was slain and his kingdom then succumbed to conquest. Muhammad Ghori's successor, Qutb al-Din Aibak, went on to found the Delhi Sultanate in 1206. The Delhi Sultanate overextended itself, leading several regions to splinter off during the 14th and 15th centuries. Three prominent powers during this time were the Gujarat and Malwa Sultanates, and the Sisodias of Mewar, all of which retained power until the rise of the Mughal Empire. While Gujarat and Malwa fell to the Mughals during the 16th century, Mewar survived somewhat longer thanks to the efforts of its valiant ruler, Maharana Pratap, who fought the Mughals to a stalemate. His successors took up the fight, but after further military impasses negotiated an agreement, retaining autonomy while recognizing Mughal supremacy. ” —In-game section
+
+Trivia[]
+
+The Gurjara civilization icon is an Indian dhal (shield) with the Hindu Dharma Wheel painted on the middle. Prior to release, the icon had an Om written in Devanagari script instead of the Dharma Wheel. Both symbols were part of the Indian civilization icon before Dynasties of India.
+
+The Gurjara user interface image is based on a 9th to early 10th century statue of the gods Shiva and Parvati from the Gurjara-Pratihara dynasty of Kannauj.
+
+The Gurjara Wonder's model is based on the modern reconstructed Somnath temple. The original temple's model, which was destroyed by Mahmud Ghazni in the 11th century, is not fully known.
+
+The Gurjaras are the only civilization to receive a campaign previously used by a different civilization.
+
+The Gurjaras are the second civilization to not have any upgrades for their Spearman line (the first being the Turks). They are also the only civilization to have access to Hussars and Bloodlines, but lack Blast Furnace.
+
+The Gurjaras seem to be designed for experienced players who are familiar with several gameplay features in both Star Wars Galactic Battlegrounds and Starcraft. Star Wars Galactic Battlegrounds was designed by Ensemble Studios and uses the same game engine as Age of Empires II.
+The ability to garrison herdable animals in Mills for a trickle of infinite food is similar to the Animal Nursery building seen in Star Wars Galactic Battlegrounds.
+The ability of the Shrivamsha Rider to "dodge" projectiles is similar to the "shield" mechanic of units in Star Wars Galactic Battlegrounds and Protoss units in Starcraft.
+
+The Gurjaras are the only civilization that have access to Elephant Archers, but not Battle Elephants. The Gurjaras are also the second civilization to have access to both an elephant unit and Heresy, after the Malay.
+The Gurjaras are the only civilization to have access to elephant units but not Faith.
+
+The Gurjaras are the only civilization with access to three unique units, the second with a unique unit available in the Feudal Age (after Sicilians), and the only to have a unique unit as the starting scout unit.
+
+The Gurjaras are the only civilization with no fully upgraded units of any kind. This is compensated by their unique technologies and bonuses, and also by the fact that their unique units need fewer technologies to reach their maximum potential (as unique unit balance is separate from common units one: for example, when Lithuanians lost Blast Furnace, their Leiciai got extra attack, so it was a buff for the unit and a nerf for the Lithuanians' generic infantry and cavalry).
+
+The Gurjaras' team bonus is the most confined in the number of civilizations: only 18 other civilizations have access to camel units, elephant units, or both.
+
+The following heroes available in the Scenario Editor are themed on the Gurjaras: Chand Bardai, Prithvi, Prithviraj, Sanyogita, and Mihira Bhoja.
+
+Behind the Scenes[]
+
+“ This civilization is inspired by powerful medieval states that ruled the north and west of the Indian subcontinent – especially in the modern-day regions of Gujarat and parts of Rajasthan. These states' primary languages were earlier forms of Gujarati. There is evidence pointing at early settlements in the Gujarat region, some dating as far back as the Stone Age. During the medieval period, the formidable Gurjara-Pratihara Dynasty (8th -11th centuries CE) dominated much of Northern and Western India. In game, the Gurjara civilization benefits from several new economic bonuses that were inspired by the Gujarat region's powerful agricultural and economic landscape. ” — [2]
+
+Gallery[]
+
+The Gurjara 
+
+Wonder, the
+
+Somnath Temple
+
+Official Preview
+
+The unique Castle of the Gurjaras, the 
+
+Gwalior Fort
+
+The Indian architecture set that was introduced in 
+
+Dravidians,
+
+Bengalis, and
+
+Hindustanis
+
+Gurjara user interface image
+
+Shiva and Parvati, Gurjara-Pratihara Dynasty of Kannauj (9th to early 10th c.), at the Nelson-Atkins Museum of Art
+
+Rajput cavalry as portrayed in the Babur campaign
+
+Cumulative food generation rates for various numbers of Sheep stored in Mills, before and after update 66692
+
+Gurjaras overview (AoE2)
+
+Civilization overview
+
+The inspiration for the Gurjaras' Castle
+
+Notes[]
+
+↑ The bonus works by allowing Docks to garrison ships. Docks naturally have 10 garrison space to allow newly created units to remain garrisoned by default. Among ships, only Fishing Ships have the permission (see Tasks in Genie Editor) to garrison. Combining all these and the standard rules for garrison, Gurjara Docks can garrison max 10 Fishing Ships of their allies.
+
+↑ The formula used for this is:
+Food generated per minute 
+  
+    
+      
+        =
+        15
+        ×
+        ln
+        ⁡
+        
+          (
+          
+            
+              F
+              200
+            
+            +
+            1
+          
+          )
+        
+      
+    
+    {\displaystyle  = 15 \times \ln \left(\frac{F}{200} + 1 \right)}
+  
+, where
+
+  
+    
+      
+        F
+        =
+      
+    
+    {\displaystyle F = }
+  
+ Total Food of livestock stored across all Mills
+
+  
+    
+      
+        ln
+        =
+      
+    
+    {\displaystyle  \ln = }
+  
+ Natural Logarithm function
+
+For eg, before update 66692, each stored Sheep (which contains 100 food each) yielded 3.5 food per minute. After the update, the returns are diminishing in nature:
+
+Number of sheep (100f)
+
+Total food / minute
+
+Marginal food / minute
+
+
+1
+
+6.1
+
+6.1
+
+
+2
+
+10.4
+
+4.3
+
+
+3
+
+13.7
+
+3.3
+
+
+4
+
+16.5
+
+2.7
+
+
+5
+
+18.8
+
+2.3
+
+
+6
+
+20.8
+
+2.0
+
+
+7
+
+22.6
+
+1.8
+
+
+8
+
+24.1
+
+1.6
+
+
+9
+
+25.6
+
+1.4
+
+
+10
+
+26.9
+
+1.3
+
+The diminishing returns can be seen as 3 Sheep alone produce 13.74 food per minute, which is more than what the next 7 Sheep produce which is another 13.13 food per minute.
+
+References[]
+
+↑ https://www.ageofempires.com/news/dynasties_of_india_is_here/
+
+↑ https://www.ageofempires.com/news/behind-the-scenes-development-of-the-dynasties-of-india/
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+Dynasties of India
+
+Asian civilizations
+
+Add category
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

@@ -1,0 +1,586 @@
+This page is all about the Sicilians
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique building
+1.3 Unique technologies
+1.4 Civilization bonuses
+1.5 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Lords of the West
+3.2 Dawn of the Dukes
+3.3 Dynasties of India
+
+4 Campaign appearances
+
+4.1 Saladin
+4.2 Bari
+4.3 Edward Longshanks
+4.4 The Hautevilles
+4.5 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+European civilizations,
+
+Lords of the West
+
+
+			English
+
+Español
+
+Sicilians
+
+53
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+Civilization Technology tree Strategy
+
+Sicilians
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: Definitive Edition - Lords of the West
+
+Architecture
+
+Mediterranean
+
+Continent
+
+Europe
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_theme_new_AoE2_DE.ogg
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_theme_AoE2_DE.ogg
+
+update 47820)
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_jingle_AoE2_DE.ogg
+
+Features/Characteristics
+
+Focus
+
+Infantry
+
+Cavalry
+
+Unique units
+
+Serjeant
+
+Unique technologies
+
+First Crusade
+
+Hauberk
+
+Unique buildings
+
+Donjon (replaces towers)
+
+“ Experience the diverse cultures and martial spirit of the Mediterranean's crossroads as you build one of the most coveted kingdoms in medieval Europe. The Sicilian unique unit is the Serjeant, a hardy infantry unit that can construct the formidable Donjon. ” —Description [1]
+
+The Sicilians are a Mediterranean civilization introduced in Age of Empires II: Definitive Edition - Lords of the West. They represent the Italo-Normans or Siculo-Normans, descendants of the Normans (who themselves are descended from the Vikings) who established their own state on the island of Sicily in southern Italy. The influence of Graeco-Romans, Western Latins, and Arabs would shape their culture for years to come, despite maintaining Norman traditions. The Sicilians flourished as the Kingdom of Sicily (under the capital Palermo). They focus on infantry and cavalry.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique building
+1.3 Unique technologies
+1.4 Civilization bonuses
+1.5 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Lords of the West
+3.2 Dawn of the Dukes
+3.3 Dynasties of India
+
+4 Campaign appearances
+
+4.1 Saladin
+4.2 Bari
+4.3 Edward Longshanks
+4.4 The Hautevilles
+4.5 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+Characteristics[]
+
+Unique unit[]
+
+Serjeant: Heavily-armored infantry unit that can also build Donjons. It is available starting in the Feudal Age, and is upgraded for free upon reaching the Castle Age.
+
+Unique building[]
+
+Donjon: Watch Tower line replacement which gets stronger when aging up and can train Serjeants and the Spearman line.
+
+Unique technologies[]
+
+First Crusade: Each Town Center (up to 5) spawns a one-time group of 5 Serjeants; also increases resistance against conversion (effect identical to Faith).
+
+Hauberk: Knight-line +1/+2 armor.
+
+Civilization bonuses[]
+
+Start with +100 stone.[note 1]
+
+Castles built 50% faster, Town Centers built 100% faster.[note 2]
+
+Land military units (except siege weapons) receive 33% less bonus damage.[note 3]
+
+Farm upgrades provide additional +125% food.[note 4]
+
+Team bonus[]
+
+Transport Ships have +5 Line of Sight and cost -50%.
+
+Overview[]
+
+33% bonus damage, which means they can stay alive a little longer when facing counters, making them an ideal civilization for
+
+rush strategies. However, the Sicilians can opt for both
+
+turtle and
+
+boom strategies thanks to their solid economy and unique defensive playstyle. The Sicilians do not have access to the traditional
+
+Watch Tower line, but instead can build their own unique tower, the
+
+Donjon, which can train their unique unit, the
+
+Serjeant, and the
+
+Spearman line, allowing versatility for both rush and turtle strategies. On top of that, they can construct
+
+Castles 50% faster, which can either allow them to set up their mid-game defenses, or go for a
+
+Castle drop strategy. Their infantry can be fully upgraded, and their infantry unique unit, the Serjeant, can build Donjons, which can in turn train further Serjeants. While their Stable lacks Hussars and Paladins, their cavalry are more resistant to counter units, and their two unique technologies,
+
+First Crusade and
+
+Hauberk, give their Knight-line more conversion resistance and armor, respectively (with the former compensating them for lacking
+
+Heresy). Their economy is also solid, as their
+
+Farms are not only more wood-efficient thanks to their upgrades providing additional food, but they can construct their
+
+Town Centers 100% faster, with
+
+Two-Man Saw the only economic upgrade they miss out. Their siege weapons are also strong, with only
+
+Bombard Cannon the only siege weapon missing in the tech tree. Their navy is also excellent, lacking only Elite Cannon Galleons.
+
+Despite the Sicilians' noticeable strengths, they do have several noticeable weaknesses. Their archers are less prominent, lacking Thumb Ring, Ring Archer Armor, Heavy Cavalry Archers, Hand Cannoneers, and Parthian Tactics, making their archers still weaker compared to many civilizations despite having Arbalesters and taking less bonus damage from enemy Skirmishers. Their Monks are a weakness, due to missing almost half of the technologies at the Monastery, making their Monks almost unusable. While they have very solid defenses thanks to the Donjon and can build Castles faster than most civilizations, the lack of Architecture and Fortified Wall means their Castles and walls will not be as strong in the late-game (although the Sicilians still have Hoardings, which the Donjon also benefit from). While the Sicilians are a very strong rushing civilization and very resistant Cavaliers in the early Imperial Age, their late-game is their weakness due to the lack of strong "power" unit such as Paladin, Hand Cannoneer, Heavy Cavalry Archer, and Bombard Cannon, with generic fully upgraded Siege Onager their only reliable late-game unit to support their infantry and cavalry.
+
+Overall, the Sicilians are very unique among most civilizations, due to their unique defenses with the Donjon and their unique unit, the Serjeant that can be trained from both Donjons and Castles and can construct additional Donjons. They are unique among many Mediterranean civilizations, as they lack gunpowder units and important upgrades for their Monks, but put more focus on infantry and cavalry. The Sicilians are relatively flexible in different maps, as they can be a solid pick in open maps like Arabia due to their units taking less bonus damage and their unique Donjon-rush strategies, while being a solid pick for closed maps such as Black Forest and Arena due to their unique defensive playstyle and their very solid economy.
+
+Changelog[]
+
+Lords of the West[]
+
+Castles are built 100% faster.
+
+Sicilian have -50% bonus damage resistance for land military units.
+
+Donjon Serjeants are created in 20 seconds.
+
+Serjeants cost 60 food, 35 gold.
+
+Team bonus: Transport Ships have +5 carry capacity and +10 Ship armor.
+
+Initially, all Town centers were built 100% faster. Hotfix 45185 removed the construction speed bonus for the first Town Center on Nomad-style maps.
+
+Initially, the bonus damage resistance applied to all land military units. With hotfix 45185, the bonus damage resistance does not apply to siege units.[note 5]
+
+First Crusade: Initially, each of the up to 5 Town Centers used to spawn 10 Serjeants. With hotfix 45185, they only spawn 7 Serjeants.
+
+Initially, they cannot research Siege Onager. With update 47820, it was added to the tech tree.
+
+Dawn of the Dukes[]
+
+With update 51737, the Imperial Age unique technology Scutage (each team member receives gold per military units owned) was replaced with Hauberk (Knight-line +1/+2 armor; costs 500 food, 400 gold).
+
+With update 51737, the team bonus was replaced with the first Transport Ship being free and created instantly.
+
+With update 51737, Sicilians start with +100 stone.
+
+With update 54480, the team bonus was changed to Transport Ships gaining +5 Line of Sight and costing -50%.
+
+Dynasties of India[]
+
+With update 61321, Donjon Serjeants train in 16 seconds in the Feudal Age. Starting in the Castle Age, Donjon (Elite) Serjeants train in 12 seconds, matching the train time of (Elite) Serjeants trained in Castles.
+
+With update 61321, Hauberk costs 700 food, 600 gold.
+
+With update 66692, Sicilian have -33% bonus damage resistance for land military units.
+
+With update 66692, they lose access to Treadmill Crane.
+
+With update 81058, Castles are built 50% faster, the Farm upgrade bonus food is 125%, Donjons are affected by Hoardings, can train the Spearman line, and satisfies as a prerequisite for Archery Ranges and Stables, First Crusade costs 400 food, 300 gold and spawns 5 Serjeants per Town Center, Serjeants have 50 hit points in the Feudal Age, 65 in the Castle Age, their Elite upgrade costs 800 food, 675 gold, and they build/repair 25% slower in the Feudal Age. Sicilians receive Gambesons, and the 100 stone stone bonus is received after completion of the first Town Center.
+
+With update 93001, Serjeants cost 50 food, 35 gold.
+
+Campaign appearances[]
+
+The Sicilians have a campaign devoted to their civilization: The Hautevilles. They also appear in:
+
+Saladin[]
+
+Jihad!
+Tyre - Enemy
+
+Bari[]
+
+Loose Ends and The Best Laid Plans
+Norman Mercenaries - Enemy → Ally
+
+The Onrushing Tide
+Norman Army - Enemy
+Norman Navy - Enemy
+Norman Besiegers - Enemy
+
+Edward Longshanks[]
+
+Vain Ambition
+The Baronial Forces - Enemy
+Hereford - Ally → Enemy
+
+A Man of God
+Tripoli - Ally
+
+Of Castles and Kings
+Marcher Lords - Ally
+
+The Hautevilles[]
+
+This campaign is played as the Sicilians.
+
+Guiscard Arrives
+Norman Barons - Ally → Enemy
+Drengots - Enemy
+
+Roger in Sicily
+Sicilian People - Ally
+
+Bohemond and the Emperor
+Sikelgaita - Ally
+
+Wonder of the World
+Ranulf Drengot - Enemy
+
+Victors and Vanquished[]
+
+Komnenos
+Normans - Enemy
+
+Robert
+Normans - Ally → Potential enemy
+
+Stephen
+Earl Renulf of Chester - Enemy
+
+In the Bari and Edward Longshanks campaigns, and most of the The Hautevilles campaign, the Sicilians appear as the "Norman" civilization. In Bari, Edward Longshanks, and the Robert scenario, they use Western European architecture instead of Mediterranean, with the exception of A Man of God, where they use both. The "Norman" civilization is otherwise indistinguishable from Sicilians.
+
+In-game dialogue language[]
+
+Sicilian units in-game speak modern Sicilian (Sicilian: Sicilianu), a Romance language that is spoken on the island of Sicily and its satellite islands. It's closely related to Tuscan (modern Italian derives from both languages).
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Male_Select_4_AoE2.ogg Select 1 Sè, sè – Yes, Yes
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Male_Select_2_AoE2.ogg Select 2 Salutamu - Greetings
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Female_Select_3_AoE2.ogg Female Select 3 Pronta sugno - I am ready
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Male_Select_3_AoE2.ogg Male Select 3 Pronto sugno - I am ready
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Male_Select_1_AoE2.ogg Select 4 Òrdini? – Orders?
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Female_Move_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Male_Move_1_AoE2.ogg Task 1 Sè – Yes
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Female_Move_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Male_Move_3_AoE2.ogg Task 2 Giustu – Right
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Female_Move_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Male_Move_4_AoE2.ogg Task 3 Va bene – All Right
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Female_Move_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Male_Move_2_AoE2.ogg Task 4 Immediatamenti – Immediately
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Male_Build_AoE2.ogg Build Muraturi - Mason
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Male_Chop_AoE2.ogg Chop Tagghialigna - Woodcutter
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Male_Farm_AoE2.ogg Farm Cuntadinu – Farmer
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Male_Fish_AoE2.ogg Fish Piscaturi – Fisherman
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Male_Forage_AoE2.ogg Forage Braccianti - Laborer
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Male_Hunt_AoE2.ogg Hunt Cacciaturi - Hunter
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Male_Mine_AoE2.ogg Mine Minaturi – Miner
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Sicilians_Villager_Male_Repair_AoE2.ogg Repair Manuvali – Worker
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Soldier_Select_1_AoE2.ogg Select 1 Sì? – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Soldier_Select_2_AoE2.ogg Select 2 A vostru serviziu - At Your Service
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Soldier_Select_3_AoE2.ogg Select 3 Cumanni? – Command?
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Soldier_Move_2_AoE2.ogg Move 1 U capivu – I got that
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Soldier_Move_3_AoE2.ogg Move 2 Lu fazzu – I'll do it
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Soldier_Move_1_AoE2.ogg Move 3 Sì signuri – Yes Sir
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Soldier_Attack_3_AoE2.ogg Attack 1 Attaccari! – Attack!
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Soldier_Attack_2_AoE2.ogg Attack 2 Attaccamu! – Let's attack!
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Soldier_Attack_1_AoE2.ogg Attack 3 Cummattemu! - Let's fight!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Monk_Select_4_AoE2.ogg Select 1 Sè? – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Monk_Select_3_AoE2.ogg Select 2 Cumanni? – Command?
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Monk_Select_2_AoE2.ogg Select 3 A serviziu vostru - At Your Service
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Monk_Select_1_AoE2.ogg Select 4 In nomu du' Patri – In the name of the Father
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Monk_Move_4_AoE2.ogg Move 1 Ci staiu iendu – I am going there
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Monk_Move_2_AoE2.ogg Move 2 Sè – Yes
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Monk_Move_1_AoE2.ogg Move 3 Veru – True
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_Monk_Move_3_AoE2.ogg Move 4 Sùbutu – At once
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_King_Select_4_AoE2.ogg Select 1 Te ccà – Take it
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_King_Select_2_AoE2.ogg Select 2 Chi buliti? – What do you want?
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_King_Select_1_AoE2.ogg Select 3 Picchì mi inquietate? – Why are you bothering me?
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_King_Select_3_AoE2.ogg Select 4 Parrati – Speak
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_King_Move_2_AoE2.ogg Move 1 Fazzu chiddu ca m'addumannate – I do what you're asking me
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_King_Move_4_AoE2.ogg Move 2 Pi grazia mia – By my grace
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_King_Move_1_AoE2.ogg Move 3 Chiddu ca m'addumannastivu – What you asked of me
+
+https://ageofempires.fandom.com/wiki/File:Sicilians_King_Move_3_AoE2.ogg Move 4 L'è fari – I have to do it
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Sicilian AI characters:
+
+Bohemond of Taranto (Italian: Boemondo di Taranto, Sicilian: Buimunnu di Tàrantu) (1054-1111): Also known as Bohemond I. was the Prince of Taranto from 1089 to 1111 and the Prince of Antioch from 1098 to 1111. He was a leader of the First Crusade, which was governed by a committee of nobles. The Norman monarchy he founded in Antioch arguably outlasted those of England and of Sicily.
+
+Drogo de Hauteville (Italian: Drogone d'Altavilla, Sicilian: Druguni d'Autavilla) (c. 1010 – 10 August 1051): He was the second Count of Apulia and Calabria (1046–51) in southern Italy. Initially he was only the leader of those Normans in the service of Prince Guaimar IV of Salerno, but after 1047 he was a territorial prince owing fealty directly to the Emperor.
+
+Frederick Roger II (Italian: Federico Ruggero di Hohenstaufen, Sicilian: Fidiricu Ruggeru II di Hohenstaufen) (1194-1250): Was the son of Henry VI, Holy Roman Emperor, and Constance, Queen of Sicily, the daughter of Roger II of Sicily. This made him the grandson of both Frederick Barbarossa and Roger II of Sicily. Ascending the throne of the Kingdom of Sicily at only age 4, he would go on to become Holy Roman Emperor, King of Italy, King of Germany, and (briefly) King of Jerusalem. He was known by contemporaries as "stupor mundi", the "wonder of the world."
+
+Gilbert Buatère (Italian: Gisleberto Buatère)(c. 985 – 1 October 1018): He was one of the first Norman adventurers in the Mezzogiorno. He was the eldest son of a petty, but rich, lord of Carreaux, near Avesnes-en-Bray in the region of Rouen. Carreaux gives his family, the Drengot, the alternate name of de Quarrel.
+
+Rainulf Drengot (Italian: Rainulfo Drengot, Sicilian: Rainulfu Drengot) (also Ranulph, Ranulf, or Rannulf; died June 1045): He was a Norman adventurer and mercenary in southern Italy. In 1030 he became the first count of Aversa. He was a member of the Drengot family.
+
+Richard Drengot (Italian: Riccardo I di Aversa, Sicilian: Riccardu I d'Aversa) (died 1078): He was the count of Aversa (1049–1078), prince of Capua (1058–1078, as Richard I) and duke of Gaeta (1064–1078).
+
+Robert Guiscard (Italian: Roberto il Guiscardo, Sicilian: Rubbertu lu Guiscardu) (/ɡiːˈskɑːr/, Modern French: [ɡiskaʁ]; c. 1015 – 17 July 1085): He was a Norman adventurer remembered for the conquest of southern Italy and Sicily. Robert was born into the Hauteville family in Normandy, went on to become Count of Apulia and Calabria (1057–1059), and then Duke of Apulia and Calabria and Duke of Sicily (1059–1085), and briefly Prince of Benevento (1078–1081) before returning the title to the Pope.
+
+Roger Bosso (Italian: Ruggero I di Sicilia, Sicilian: Ruggeru I di Sicilia) (1031-1101): Also known as Roger I (c. 1031 – 22 June 1101), (Maltese: Il-Konti Ruġġieru), he was a Norman nobleman who became the first Count of Sicily from 1071 to 1101. He was a member of the House of Hauteville, and his descendants in the male line continued to rule Sicily down to 1194.
+
+Roussel de Bailleul (died 1077): Also known as Phrangopoulos (Greek: Φραγγόπουλος, lit. 'son-of-a-Frank'), or in the anglicized form Russell Balliol was a Norman adventurer (or exile) who travelled to Byzantium and there received employ as a soldier and leader of men from the Emperor Romanus IV (ruled 1068–71). He is also known as Ursellus de Ballione in Latin or Roscelin or Roskelin de Baieul, and Anna Comnena called him Ourselios (Οὐρσέλιος), also rendered Urselius.
+
+Sikelgaita (Italian: Sichelgaita di Salerno, Sicilian: Sichelgaita di Salernu) (1040 – 16 April 1090): Also known as Sichelgaita or Sigelgaita, she was a Lombard princess, the daughter of Guaimar IV, Prince of Salerno, and second wife of Robert Guiscard, Duke of Apulia. She commanded troops in her own right.
+
+Tancred of Hauteville (Italian: Tancredi d'Altavilla, Sicilian: Tancredi d'Autavilla) (c. 980 – 1041): He was an 11th-century Norman petty lord about whom little is known. He was a minor noble near Coutances in the Cotentin. Tancred is also known by the achievements of his twelve sons. Various legends arose about Tancred which have no supporting contemporary evidence that has survived the ages.
+
+William II of Apulia (Italian: Guglielmo II di Puglia, Sicilian: Gugghiermu II di Pugghia) (1095 – July 1127): He was the Duke of Apulia and Calabria from 1111 to 1127. He was the son and successor of Roger Borsa. His mother, Adela of Flanders, had previously been queen of Denmark, and he was a half-brother of Charles the Good. Generally considered an insignificant ruler by modern historians, William was respected by his contemporaries, popular with his barons and subjects, and praised for his martial prowess.
+
+William Iron Arm (Italian: Guglielmo Braccio di Ferro, Sicilian: Gugghiermu Vrazzu di Ferru) (before 1010 – 1046): Actually William I of Hauteville, known as William Iron Arm, was a Norman adventurer who was the founder of the fortunes of the Hauteville family. One of twelve sons of Tancred of Hauteville, he journeyed to the Mezzogiorno with his younger brother Drogo in the first half of the eleventh century (c.1035), in response to requests for help made by fellow Normans under Rainulf Drengot, count of Aversa.
+
+History[]
+
+“ As the Western Roman Empire succumbed to internal instability and the pressure of external threats in the 5th century AD, even its core was overrun; Italy and Sicily fell successively to the Vandals and then the Ostrogoths . Shortly thereafter, Emperor Justinian (482-565) of the Byzantine Empire launched a series of campaigns, led primarily by his generals Belisarius and Narses, to reconquer the lost territory. The resulting conflict, known as the Gothic War (535-554), ended in a Byzantine victory, but irreparably devastated most of Italy. Shortly after Justinian's death, the Lombards flooded into Italy, seizing most of the peninsula, although the Byzantines retained Sicily and the southern portion of Italy. These regions would remain in Byzantine hands throughout the next few centuries, but were constantly threatened by invasions and pirate raids from the south as the Islamic caliphates expanded their spheres of influence across North Africa and the Mediterranean. Full-fledged conquest occurred during the 9th century, more permanently in Sicily than in Italy. In Apulia, the Emirate of Bari was retaken by Carolingian and Byzantine forces in 871, although several bays throughout the region still bear the name Covo dei Saracini, "Cove of the Saracens ", a testament to their legacy and that of continued pirate activity. By 965, Sicily was entirely in the hands of Islamic emirs. Economic reforms and stable, peaceful administration under Islamic rule led to a period of prosperity, but Byzantine expansionism during the early 11th century led to renewed conflict with the Lombards in Italy and the Islamic emirs in Sicily. The resulting power vacuum attracted a new invader: the Normans. Originally recruited into the region as mercenaries, these intrepid adventurers and fearsome warriors saw in Italy an opportunity to build themselves a more promising and profitable future than they might find as minor nobles or landless knights in Normandy. Two Norman families in particular, the Drengots and the Hautevilles , emigrated and established themselves in Italy over time. One such man, Robert de Hauteville (1015-1085), known as Guiscard "the Fox" by his contemporaries, arrived in Italy at the head of a small band of followers around 1047. By 1059, he ruled much of Apulia and Calabria as duke, and shortly thereafter he and his brother Roger Bosso began their campaign to conquer Sicily. Whereas Robert was a cunning warrior, Roger was an equally shrewd statesman capable of navigating the intricate political and administrative climates with which he was faced. Soon, Roger was conquering Sicily while Guiscard saw to further campaigns against the Byzantines in Italy and Greece, seizing Bari in 1071 and, along with his wife Sikelgaita and son Bohemond of Taranto, smashing a Byzantine army near Dyrrhachium in 1081 . As droves of European knights and their retinues flooded eastwards in the wake of Pope Urban II's call for Crusade, Bohemond and his nephew Tancred took the cross and joined the crusading force. After successfully orchestrating the capture and subsequent defense of Antioch from the Seljuk Turks , Bohemond established himself as the ruler of the city, while Tancred continued on to Jerusalem. While most Crusaders were notoriously violent and brutal, Tancred earned a reputation as a crafty yet noble warrior who strove to prevent the slaughter of innocent civilians and other non-combatants during the swift Crusader conquest of Jerusalem, Palestine, and parts of Syria. The Italo-Normans, as the conquerors and rulers in Norman Italy and Sicily are now known, were successful on the battlefield because of their fierce disposition, vigorous military tradition, keen affinity for tactics and the use of cunning, and sheer torrid speed. In these, they most closely resembled their Viking and Frankish forebears, but as they settled in Italy and Sicily they embraced local cultural customs and norms of governance. This syncretism, combined with an increasingly tolerant treatment of local populations and religious groups, created a unique and vibrant culture and laid the foundations for a successful state. The Italo-Normans were also impressive builders: they secured their lands with formidable donjons (keeps) while constructing lavish palaces and towering cathedrals. No ruler exemplified this complex of qualities and backgrounds better than Roger II of Sicily (1095-1154), who braved internal rebellions and external invasions to unite all of Norman Italy and Sicily under a single crown and transform his kingdom into an economic powerhouse. Through the appointments of courtiers and functionaries of diverse backgrounds and the patronage of Continental, Greek, and Arabic art and culture, Roger created a truly cosmopolitan state. His successors, however, were less competent, and their mismanagement of the kingdom allowed it to subsequently fall into German , Frankish, Spanish , and Byzantine spheres of influence, under which it swiftly declined and was eventually consumed. ” — [1]
+
+Trivia[]
+
+The Sicilians' civilization icon is a kite shield with the arms of the Norman Hauteville family, which unified southern Italy and Sicily through the 11th and 12th centuries. The same shield is borne by the Sicilian unique unit, the Serjeant.
+
+The user interface image is the mosaic artwork from Sicilian King Roger II's Hall in the Palazzo dei Normanni (12th century) in Palermo.[2]
+
+The Sicilians are the only civilization that do not have the conventional tower-line (no Watch Towers, Guard Towers, Keep) nor Bombard Towers. The tower replacement they have, the Donjon, instead improves its stats while advancing through the Ages. This mechanic is similar to the Korean free tower upgrade bonus.
+
+Both the Sicilians' unique Castle design and special Donjon building have decorative shields bearing the Maltese cross, a symbol associated with Crusade orders and the island of Malta, located near Sicily.
+
+When initially announced, the Sicilian land military units absorbed only 33% of incoming bonus damage (which eventually was restored from 50% in update 66692), the farm upgrades only granted +1 carry capacity to farmers and the Castle Age unique technology, First Crusade, only spawned groups of 7 Serjeants, which eventually was the nerf made in hotfix 45185 being reduced from 10.
+
+In the announcement trailer of the expansion, some Bombard Cannons and Hand Cannoneers are seen fighting in the Sicilian army, which may indicate that they had both before release. They were most likely removed from their tech tree for gameplay balance purposes.
+
+The following heroes available in the Scenario Editor are themed on the Sicilians: Bohemond, Robert Guiscard, and Roger Bosso.
+
+At release, the effect of First Crusade of spawned Serjeant groups of 10 and the incoming bonus damage reduced applied to siege weapons were hugely criticized due to their very big effect being too rewarding for the player. Despite that, the Sicilians are viewed as a very weak civilization, especially in the Imperial Age, due to their very limited tech tree. They gained access to the Siege Onager for that reason, as well a new permanent effect of First Crusade, the Serjeant's stats were improved a bit, and Donjons cost less stone from update 47820. But their win–rate is still below average and their improvement of their winning position is not very significant. The main reason is that they have no edge in the Dark Age, and their bonus needs a very long period to be effective. Thus, they are very vulnerable until mid–Feudal Age. With Dawn of the Dukes, they start with additional stone, which will support their Feudal Age while having viable choices between the Donjon rush and new Town Center (since they can build a Donjon and a Town Center without collecting stone). The replacement of Scutage with Hauberk also gives them a new strength in one-on-one matches with highly durable Cavaliers. However, when Hauberk was debuted, it severely changed the identity of the Sicilians, since this technology was cheaper and their Cavalier can take less bonus damage, turning them from an infantry civilization to a cavalry civilization, as a result of the underused Serjeants. Some players criticized it as an unbalanced technology, as they soon get 8 pierce armor, making common units harder to counter in the early Imperial Age. The adjustment for the price of Hauberk, which is more expensive, and Serjeants are trained faster at Donjons, as well as the latter having more hit points in the Feudal Age in Dynasties of India, is to solve this criticism, as the Sicilians were not originally supposed to heavily focus on cavalry. The Sicilians' bonus damage resistance was eventually brought back to its pre-release value of 33%, making Sicilians unpopular to be used again.
+Due to the large amount complex mechanics that can go into hard games playing against Sicilians with certain civilizations (First Crusade, bonus damage resistance, the 100% faster built Castles and Town Centers, the team bonus which was changed twice - in one of these changes it was a free instant Transport Ship, which was considered unfair on water maps), the Sicilians are now known to be civilization that's the hardest to design and balance properly. This also explains why in update 81058, The Farm upgrades now give 125% more food instead of 100%, the 100% faster building bonus was reduced to 50% for Castles, First Crusade Serjeants were reduced to 5, but being cheaper, Serjeants getting their hit points improved as well as the Elite upgrade being cheaper, Donjons now being able to train Spearmen, being affected by Hoardings, and also being a prerequisite for Stables and Archery Ranges, as well getting Gambesons. Sicilians now play more in the direction of an infantry civilization.
+This also makes Sicilians, alongside Incas, the only civilizations that got their team bonus changed twice.
+
+Despite lacking Heresy, the Sicilians have the strongest resistance against conversion, thanks to their unique technology, First Crusade, which gives them the same effect as Faith. In addition, they have access to Faith. This can be stronger if they ally with the Teutons.
+
+The Maltese, a civilization based on southern Italy introduced in Age of Empires III: Definitive Edition - Knights of the Mediterranean, share many similarities with the Sicilians:
+They emphasize a unique defensive playstyle with Fixed Guns, Depots, and Commanderies, that is different from many European civilizations in Age of Empires III.
+They emphasize durable infantry units, much like the Sicilian infantry units (not only are two of their unique infantry units more durable than their European counterparts, but one of their unique units, the Sentinel, can build Outposts similar to how the Serjeants can build Donjons).
+Two of the their Home City Cards, De Redin Towers and Sicilian Supply, are similar to the functionality of the Donjon and their Farm bonus, respectively, as the former allows them to train their infantry units in Outposts, while the latter boosts the efficiency of their Mills.
+In terms of their theme, both the Sicilians and Maltese are depicted as a multiethnic and multicultural civilization based around southern Italy.
+
+Gallery[]
+
+The Sicilian 
+
+Wonder, the
+
+Duomo di Monreale
+
+Official preview
+
+The Mediterranean architecture set the Sicilians share with the 
+
+Armenians,
+
+Byzantines,
+
+Georgians,
+
+Italians,
+
+Portuguese,
+
+Romans, and
+
+Spanish
+
+Unique Sicilians Castle architecture, the 
+
+Castello Ursino in
+
+Catania
+
+A Donjon, the 
+
+Donjon of Adrano
+
+Sicilians user interface image
+
+The original mural that inspired the user interface image.
+
+Sicilians overview AoE2
+
+Video overview
+
+Notes[]
+
+↑ Requires a Town Center to be built first.
+
+↑ Requires a Town Center to be built first, which means it does not apply to the first Town Center on Nomadic starts.
+
+↑ "Bonus damage" is incoming damage of all armor classes except for melee or pierce damage. It is also applied to Gaia damage, i.e. reduces the bonus damage of Wild Boars versus cavalry. "Land military units" excludes Monks. The bonus does not apply to hill bonus/cliff damage.
+The bonus is applied to units and is thus preserved for other civilizations upon conversion. Conversely, if a Sicilian Monk converts a non-Sicilian unit, the latter will not receive the bonus damage reduction.
+In practical cases, the bonus applies to (foot and mounted) archers, infantry, and cavalry. Note that while Petards are affected, normal Petards do not take any bonus damage to begin with. The bonus also applies to Flaming Camels and all Hand Cannoneers in scenario editor.
+
+↑ For a total of 344 food after Horse Collar, 625 food after Heavy Plow, and 1019 food after Crop Rotation.
+
+↑ Probably because Sicilian Mangonels and Onagers could survive attack grounds from other civilizations' Mangonels/Onagers, leading to the Sicilian player having a significant advantage in Mangonel vs Mangonel fights on a high level of play.
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/sicilians
+
+↑ https://experiencesicily.com/2019/08/13/peacocks-from-roger-iis-hall-in-the-norman-palace/
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+European civilizations
+
+Lords of the West
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

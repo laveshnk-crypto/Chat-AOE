@@ -1,0 +1,520 @@
+This page is all about the Japanese
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Dawn of the Dukes
+3.5 Dynasties of India
+3.6 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 Battles of the Conquerors
+4.2 Battles of the Forgotten
+4.3 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+Asian civilizations,
+
+The Age of Kings
+
+
+			English
+
+Español
+
+Japanese (Age of Empires II)
+
+35
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+This article is about the civilization in Age of Empires II: The Age of Kings . For other appearances of the faction in the series , see Japanese .
+
+Civilization Technology tree Strategy
+
+Japanese
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: The Age of Kings
+
+Architecture
+
+East Asian
+
+Continent
+
+Asia
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Japanese_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Japanese_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Japanese_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Infantry
+
+Unique units
+
+Samurai
+
+Unique technologies
+
+Yasama
+
+Kataparuto
+
+“ On the edge of East Asia, an industrious and vibrant culture built on a strict system of honor and personal virtue blossomed and enthralled contemporary and modern observers alike. Brilliant tacticians led courageous and skilled infantry forces to stunning victories while ascetic monks fostered intellectual growth. The fearsome leaders of your armies are the Samurai, whose sharp blades can cut down even the strongest and proudest among the enemy forces! ” —Description [1]
+
+The Japanese are an East Asian civilization in Age of Empires II. They are an infantry-based civilization, with their infantry possessing the fastest attack speed in the game. They are the descendants of the Yamato civilization, which inhabited the same island. The Japanese civilization is based on Japan in Asuka to Later Sengoku Period which was dominated by the powerful regional families (daimyō) and the military rule of warlords (shōgun) from 1185 to 1868.
+
+The Japanese also appear in Age of Empires III: The Asian Dynasties as a playable civilization, which covers the Japanese from the late Sengoku period to the Meiji Restoration period. The Japanese also return in Age of Empires IV: The Sultans Ascend, which much like this version of the Japanese, covers the medieval era of Japan.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Dawn of the Dukes
+3.5 Dynasties of India
+3.6 The Mountain Royals
+
+4 Campaign appearances
+
+4.1 Battles of the Conquerors
+4.2 Battles of the Forgotten
+4.3 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+Characteristics[]
+
+Unique unit[]
+
+Samurai: Fast-attacking infantry with an attack bonus against unique units.
+
+Unique technologies[]
+
+Yasama: Gives towers extra arrows.
+
+Kataparuto: Makes Trebuchets pack, unpack, and fire faster.
+
+Civilization bonuses[]
+
+Fishing Ships have double hit points, +2 pierce armor, and work 5%/10%/15%/20% faster in the Dark/Feudal/Castle/Imperial Age.
+
+Mills, Lumber Camps and Mining Camps are 50% cheaper.
+
+Infantry attack 33% faster starting in the Feudal Age.
+
+Mounted archers +2 attack vs. archers (except Skirmishers).
+
+Team bonus[]
+
+Galleys have a +50% longer Line of Sight.
+
+Overview[]
+
+The Japanese are an infantry civilization and command what is the most deadly infantry of any civilization, with all upgrades available plus a faster attack rate on their infantry, effectively giving them +33% attack, including bonus damage. The Japanese also have fully upgradable archers, including Cavalry Archers that deal +2 damage to all archers except Skirmishers. Kataparuto makes their Trebuchets much more powerful, as not only do they fire faster, they are significantly more mobile as their pack/unpack time was reduced. Their navy is solid, the absence of Heavy Demolition Ships being compensated by longer-sighted and fully upgradable Galleons. Their Monks are very good as well, with all technologies available. Yasama gives them arguably the best Keeps in the game, increasing the damage output of Japanese towers significantly. They have one of the best fishing economies on maps with fish as their Fishing Ships not only fish faster but are significantly more durable, a bonus that is especially important due to the lack of walling on water. Their land economy is worse, but still decent due to their discounted drop-off buildings.
+
+However, the Japanese have several weaknesses. While their Knights are perfectly viable in the Castle Age, their cavalry options in the late game are poor without the Hussar or Plate Mail Armor. Their Siege Workshop units are unremarkable as well, missing Bombard Cannons, Siege Rams, and Siege Onagers. Both of these combined means that the Japanese can struggle to make an offensive push.
+
+Overall, the Japanese are a civilization with a solid variety of options. This makes the Japanese an appealing civilization for players who can transition to other units after their initial infantry rush in the Dark Age or Feudal Age. Their simplistic and straightforward bonuses for their Fishing Ships and Galleys (combined with their cheaper Mills, Lumber Camps, and Mining Camps) also make them a beginner-friendly civilization to learn how to play in water maps.
+
+Changelog[]
+
+The Conquerors[]
+
+Infantry attack speed standardized to 33% from the Feudal Age (from 11%/18%/33% in the Feudal/Castle/Imperial Age).
+
+Kataparuto introduced.
+
+(Elite) Samurai receive several buffs:
+Train time reduced by 5 seconds (16 → 9 seconds).
+Base pierce armor increased by 1 (0 → 1)
+Rate of Fire reduced by 0.1 (2.0 → 1.9)
+Movement speed increased by 0.1 (0.9 → 1).
+Anti-unique unit attack bonus doubled (+5 (+6) → +10 (+12)).
+
+The Forgotten[]
+
+Bloodlines and Gold Shaft Mining added to the technology tree.
+
+Yasama introduced.
+
+The African Kingdoms[]
+
+Yasama now wood cost reduced by 100 (400 → 300 wood).
+
+With patch 4.8:
+Yasama's extra arrows reduced by 1 (+3 → +2 additional arrows).
+Treadmill Crane was added to the technology tree.
+
+Dawn of the Dukes[]
+
+With update 56005:
+Non-Elite Samurai gain +10 hit points (60 → 70) and +2 attack (8 → 10).
+The Elite Samurai upgrade cost was reduced by 200 food, 225 gold (950 food, 875 gold → 750 food, 650 gold).
+
+Dynasties of India[]
+
+With update 81058:
+Hoardings is added to the technology tree.
+(Elite) Samurai food cost reduced by 10 (60 → 50 food).
+Kataparuto's cost reduced by 200 wood, 100 gold (750 wood, 400 gold → 550 wood, 300 gold).
+
+The Mountain Royals[]
+
+With update 95810, gain a new civilization bonus: Cavalry Archers deal +2 attack vs. Archers. With update 99311, it is adjusted to Cavalry Archers deal +2 attack vs. Archers (except Skirmishers).
+
+Campaign appearances[]
+
+The Japanese have multiple scenarios devoted to their civilization: Kyoto from the Battles of the Conquerors campaign, Kurikara from Battles of the Forgotten, and Shimazu and Nobunaga from Victors and Vanquished. In Kurikara (co-op), both factions are playable as the Japanese. They also appear as the enemy in the Noryang Point scenario from Battles of the Conquerors.
+
+Battles of the Conquerors[]
+
+The Kyoto scenario is played as the Japanese.
+
+Kyoto
+Osaka - Enemy
+Kyoto - Enemy
+Nobunaga - Ally
+Hyogo - Enemy
+
+Noryang Point
+Japanese Navy - Enemy
+Japanese Raiders - Enemy
+
+Battles of the Forgotten[]
+
+The Kurikara scenario is played as the Japanese.
+
+Kurikara
+Hojo Clan* - Ally
+Yoshinaka - Ally
+Locals - Ally
+Taira Warlords - Enemy
+Taira Guards - Enemy
+Taira Army - Enemy
+Kyoto - Enemy
+
+Victors and Vanquished[]
+
+Both Nobunaga and Shimazu are played as the Japanese.
+
+Nobunaga
+Oda - Playable or Enemy
+Takeda - Playable or Enemy
+Uesugi - Playable or Enemy
+Mori - Playable or Enemy
+Otomo - Playable or Enemy
+Chosokabe - Playable or Enemy
+Kyoto - Ally
+
+Shimazu
+Itō - Enemy
+Ryūzōji - Enemy
+Otomo - Enemy
+Minor Clans and Pirates - Enemy
+Shōgun - Ally → Enemy
+
+In-game dialogue language[]
+
+In-game, Japanese villagers and military units speak modern Japanese while Monks and King speak archaized modern Japanese.
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Female_Select_1_AoE2.ogg Female Select 1 Hai? (はい?) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Male_Select_1_AoE2.ogg Male Select 1 Nani? (何?) - What?
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Female_Select_2_AoE2.ogg Female Select 2 Watashi? (私?) - Me?
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Male_Select_2_AoE2.ogg Male Select 2 Ore? 俺? - Me? (men's speech)
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Male_Select_3_AoE2.ogg Select 3 Ii yo (いいよ) - Alright
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Female_Select_4_AoE2.ogg Female Select 4 Nani? (何?) - What?
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Male_Select_4_AoE2.ogg Male Select 4 Nan da (何だ?) - What is it?
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Male_Task_1_AoE2.ogg Task 1 Hai, hai (はい, はい) - Yes, yes
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Male_Task_2_AoE2.ogg Task 2 Hai (はい) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Male_Task_3_AoE2.ogg Task 3 Ikimasu (行きます) - I go
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Male_Task_4_AoE2.ogg Task 4 Wakarimashita (分かりました) - Understood
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Male_Build_AoE2.ogg Build Tatemasu (建てます) - I build
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Male_Chop_AoE2.ogg Chop Ki wo kirimasu (木を切ります) - I cut a tree
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Male_Farm_AoE2.ogg Farm Tagayashimasu (耕します) - I cultivate
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Male_Fish_AoE2.ogg Fish Sakana wo torimasu (魚を捕ります) - I catch fish
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Male_Forage_AoE2.ogg Forage Shūkaku shimasu (収穫します) - I gather
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Male_Hunt_AoE2.ogg Hunt Kari wo shimasu (狩りをします) - I hunt
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Male_Mine_AoE2.ogg Mine Horimasu (掘ります) - I mine
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Male_Repair_AoE2.ogg Repair Naoshimasu (直します) - I repair
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Female_Attack_AoE2.ogg Female Attack Ikuyo! (行くよ!) - Go! (not used)
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Villager_Male_Attack_AoE2.ogg Male Attack Yattsukero! (やっつけろ！) - Let's defeat them! (not used)
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Soldier_Select_1_AoE2.ogg Select 1 Ha! (はっ!) - Yes!
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Soldier_Select_2_AoE2.ogg Select 2 Gyoi ni (御意に) - As you like
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Soldier_Select_3_AoE2.ogg Select 3 Gomeirei wo (御命令を) - Give me orders
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Soldier_Move_1_AoE2.ogg Move 1 Iza! (いざ!) - Prepare yourself!
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Soldier_Move_2_AoE2.ogg Move 2 Ōse no tōri (仰せの通り) - As you say! (literally - "In accordance with your will")
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Soldier_Move_3_AoE2.ogg Move 3 Shōchi (承知) - I understand
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Soldier_Attack_1_AoE2.ogg Attack 1 Ike! (行け!) - Go!
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Soldier_Attack_2_AoE2.ogg Attack 2 Ikusa ja! (戦じゃ!) - War!
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Soldier_Attack_3_AoE2.ogg Attack 3 Iza, Shōbu! (いざ、勝負!) - Now, to the battle!
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Soldier_Attack_4_AoE2.ogg Attack 4 O! (お!) - Yes!
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Soldier_Attack_5_AoE2.ogg Attack 5 Ya! (や!) - (War cry)
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Monk_Select_1_AoE2.ogg Select 1 Nan jana? (何じゃな?) - What is it?
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Monk_Select_2_AoE2.ogg Select 2 Yō kana? (用かな?) - How can I be of use?
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Monk_Select_3_AoE2.ogg Select 3 Nan naritō (何なりと) - As you wish
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Monk_Move_1_AoE2.ogg Move 1 Shōchi (承知) - I understand
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Monk_Move_2_AoE2.ogg Move 2 Hai (はい) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Monk_Move_3_AoE2.ogg Move 3 Mairi mashō (参りましょう) - I'm coming
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Monk_Move_4_AoE2.ogg Move 4 Tadaima (只今) - At once
+
+https://ageofempires.fandom.com/wiki/File:Japanese_Monk_Move_5_AoE2.ogg Move 5 Hmm
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Japanese_King_Select_1_AoE2.ogg Select 1 Nan ja? (何じゃ?) - What is it?
+
+https://ageofempires.fandom.com/wiki/File:Japanese_King_Select_2_AoE2.ogg Select 2 Nani yō ka? (何用か?) - What is this regarding?
+
+https://ageofempires.fandom.com/wiki/File:Japanese_King_Select_3_AoE2.ogg Select 3 Kurushu nai (苦しゅうない) - Don't hesitate
+
+https://ageofempires.fandom.com/wiki/File:Japanese_King_Select_4_AoE2.ogg Select 4 Nozomi wa? (望みは?) - What is your wish?
+
+https://ageofempires.fandom.com/wiki/File:Japanese_King_Move_1_AoE2.ogg Move 1 Umu (うむ) - Yea
+
+https://ageofempires.fandom.com/wiki/File:Japanese_King_Move_2_AoE2.ogg Move 2 Yokarō (良かろう) - Very well
+
+https://ageofempires.fandom.com/wiki/File:Japanese_King_Move_3_AoE2.ogg Move 3 Sō itasō (そう致そう) - I shall do so
+
+https://ageofempires.fandom.com/wiki/File:Japanese_King_Move_4_AoE2.ogg Move 4 Mairō (参ろう) - I shall go/come
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Japanese AI characters:
+
+Ashikaga Takauji (足利尊氏): A founder and first shogun of the Ashikaga shogunate. His rule began in 1338, beginning the Muromachi period of Japan, and ended with his death in 1358.
+
+Date Masamune (伊達政宗): A regional strongman of Japan's Azuchi–Momoyama period through early Edō period. He ruled the southern Mutsu in the Tohoku region.
+
+Fujiwarano Michinaga (藤原道長) (966 – January 3, 1028) A court nobility during the Heian Period. He became the maternal relative of the third generation of Emperors and became the head of the government. Even after handing over the position of regent to his son, he continued to hold real power and established the heyday of regent politics. He was known as "Midō Kanpaku'' (御堂関白) boasting the same power as Kanpaku (関白).
+
+Gamou Ujisato (蒲生氏郷): A Japanese daimyō of the Sengoku and Azuchi-Momoyama periods.
+
+Hojou Soun (北条早雲): A the first head of the Late Hōjō clan, one of the major powers in Japan's Sengoku period. He is well known for starting a rebellion against Horikoshi Kubo, the local ruler of the Kantō region of the Ashikaga clan, in 1495.
+
+Hosokawa Katsumoto (細川勝元): A one of the Kanrei, the Deputies to the Shogun, during Japan's Muromachi period.
+
+Imagawa Yoshimoto (今川 義元) (1519 – June 12, 1560): The most powerful Daimyo of the Tokaido region and also the Head of Imagawa Clan. He was said to be the one who would unify Japan with his strategy and strength. However, Oda Nobunaga soon outsmarted him and at the decisive battle of Okehazama, he was killed, along with his trusted generals when the Oda Army laid siege to the castle.
+
+Kusonoki Masashige (楠木正成): A 14th-century samurai who fought for Emperor Go-Daigo in the Genkō War.
+
+Minamotono Yoritomo (源 頼朝) (May 9, 1147 – February 9, 1199): The founder and the first shōgun of the Kamakura Shogunate of Japan. He ruled from 1192 until 1199. His Buddhist name was Ogosho Atsushi Dai Zenmon (武皇嘯厚大禅門).
+
+Minamotono Yoshitsune (源義経): A nobleman and military commander of the Minamoto clan of Japan in the late Heian and early Kamakura periods.
+
+Mouri Motonari (毛利元就): A prominent daimyō in the western Chūgoku region of Japan during the Sengoku period of the 16th century. Famous for starting and winning the Battle of Itsukushima (1555) against the superpower, which was Oouchi at that time.
+
+Nitta Yoshisada (新田 義貞): A head of the Nitta clan in the early fourteenth century, and supported the Southern Court of Emperor Go-Daigo in the Nanboku-chō period.
+
+Oda Nobunaga (織田信長) (June 23, 1534 – June 21, 1582): A powerful daimyō of Japan in the late 16th century who attempted to unify Japan during the late Sengoku period. Nobunaga is regarded as one of three unifiers of Japan along with his retainers Toyotomi Hideyoshi and Tokugawa Ieyasu. During his later life, Nobunaga was widely known for most brutal suppression of determined opponents, eliminating those who by principle refused to cooperate or yield to his demands. He was both a skilled ruler and keen businessman, economic reformer, strategizing at both the micro- and macroeconomic scales. He was killed when his retainer Akechi Mitsuhide rebelled against him at Honnō-ji.
+
+Saito Dousan (斎藤道三): Also known as Saitō Toshimasa, was a Japanese samurai during the Sengoku period. He is famous for his cunning tactics and starting a rebellion and banishing his own lord, Toki Yoriaki, after which he became the ruler of the Mino Province. He was killed by his son, Saito Yoshitatsu, at the Battle of Nagara River.
+
+Sanada Yukimura (真田幸村): Actual name: Sanada Nobushige, was a Japanese samurai warrior of the Sengoku period. He was especially known as the leading general on the defending side of the Siege of Osaka.
+
+Tairano Kiyomori (平清盛): A military leader of the late Heian period of Japan. He established the first samurai-dominated administrative government in the history of Japan.
+
+Takeda Shingen (武田信玄): A pre-eminent daimyō in feudal Japan with exceptional military prestige in the late stage of the Sengoku period. Based on the Kai Province, he was famous for his 'invincible' Takeda cavalry squad, but accidentally died on his way to Kyoto in 1573. He is nicknamed Tiger of Kai (甲斐の虎) in Japan.
+
+Tokugawa Ieyasu (徳川家康): A founder and first shogun of the Tokugawa shogunate of Japan, which effectively ruled Japan from the Battle of Sekigahara in 1600 until the Meiji Restoration in 1868. He is the AI personality of the Japanese in Age of Empires III: The Asian Dynasties as well one of the characters of the Japanese campaign.
+
+Uesugi Kenshin (上杉謙信): A daimyō born in Nagao Kagetora, he was one of the most powerful daimyōs of the Sengoku period and he ruled the Echigo Province. He was famed for his honorable conduct as he made numerous campaigns to restore order in the Kantō region. He died in the same province of esophageal cancer. He is nicknamed God of Military (軍神) or Dragon of Echigo (越後の龍) in Japan.
+
+History[]
+
+“ Located 100 miles off the mainland of Asia, at its closest point, Japan was a land of mystery at the edge of civilization. Isolated at first by geography and later by choice, the Japanese developed a distinctive culture that drew very little from the outside world. At the beginning of what were the Middle Ages in Europe, the advanced culture of Japan was centered at the north end of the Inland Sea on the main island of Honshu. Across the Hakone Mountains to the east lay the Kanto, an alluvial plain that was the single largest rice-growing area on the islands. To the north and east of the Kanto was the frontier, beyond which lived aboriginal Japanese who had occupied the islands since Neolithic times. Some believe that by the fifth century AD the Yamato court had become largely ceremonial. Independent clans, known as uji, held the real power behind the throne. Clan leaders formed a sort of aristocracy and vied with each other for effective control of land and the throne. In 536 the Soga clan became predominant and produced the first great historical statesman, Prince Shotoku, who instituted reforms that laid the foundation of Japanese culture for generations to come. In 645, power shifted from the Soga clan to the Fujiwara clan . The Fujiwara presided over most of the Heian period (794 to 1185). The new leadership imposed the Taika Reform of 645, which attempted to redistribute the rice-growing land, establish a tax on agricultural production, and divide the country into provinces. Too much of the country remained outside imperial influence and control, however. Real power shifted to great families that rose to prominence in the rice-growing lands. Conflict among these families led to civil war and the rise of the warrior class. Similar to the experience of medieval western Europe, the breakdown of central authority in Japan, the rise of powerful local nobles, and conflict with barbarians at the frontier combined to create a culture dominated by a warrior elite. These warriors became known as Samurai, ("those who serve"), who were roughly equivalent to the European knight. A military government replaced the nobility as the power behind the throne at the end of the twelfth century. The head of the military government was the Shogun. Samurai lived by a code of the warrior, something like the European code of chivalry. The foundation of the warrior code was loyalty to the lord. The warrior expected leadership and protection. In return he obeyed his lord's commands without question and stood ready to die on his lord's behalf. A Samurai placed great emphasis on his ancestry and strove to carry on family traditions. He behaved so as to earn praise. He was to be firm and show no cowardice. Warriors went into battle expecting and looking to die. It was felt that a warrior hoping to live would fight poorly. The Kamakura period (1185 to 1333) was named after a region of Japan dominated by a new ruling clan that took power after civil war. The Mongols attempted to invade Japan twice, in 1274 and 1281, but were repulsed both times. A fortuitous storm caused great loss to the second Mongol invasion fleet. ” — [1]
+
+Trivia[]
+
+The Japanese civilization icon is based on kikumon, the emblem of the Japanese imperial family.
+
+The user interface image in the Definitive Edition represents the icons of the Tokugawa, Toyotomi, and Oda clans, respectively. Each clan emblem represent the "three unifiers" of Japan (Tokugawa Ieyasu, Toyotomi Hideyoshi, and Oda Nobunaga respectively).
+
+One of the Japanese AI player names, Tokugawa Ieyasu, appears as the AI personality and as one of the characters of the Japanese campaign in Age of Empires III: The Asian Dynasties.
+
+The following heroes available in the Scenario Editor are themed on the Japanese: Kitabatake, Minamoto, and Nobunaga. The Ninja is a Scenario Editor unit which is not used in any scenario in the game.
+
+Alongside Saracens, the Japanese are the only civilization with access to all Archery Range units and technologies (with the exception of Elephant Archers, which are regional units).
+
+The Japanese, along with the Saracens and Dravidians, are one of the three civilizations that have access to fully upgradable Champions and Arbalesters.
+
+Before The Forgotten, the Japanese were the only civilization that was able to research Parthian Tactics, but not Bloodlines. After the release of The Forgotten, there are no civilizations in the game that can research Parthian Tactics, but not Bloodlines.
+
+The Japanese are now the only East Asian civilization that have access to Redemption.
+
+Gallery[]
+
+The Wonder of the Japanese, the Daibutsuden (Great Buddha Hall) of the 
+
+Tōdai-ji temple complex
+
+The East Asian 
+
+architecture set the Japanese share with the
+
+Chinese,
+
+Koreans,
+
+Mongols, and
+
+Vietnamese
+
+The set before the 
+
+Japanese 
+
+user interface image
+
+The Japanese user interface before the 
+
+A Japanese town, as seen in 
+
+Kyoto
+
+Japanese Overview AoE2
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/japanese
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+Asian civilizations
+
+The Age of Kings
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

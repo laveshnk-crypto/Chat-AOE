@@ -1,0 +1,537 @@
+This page is all about the Magyars
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Forgotten
+3.2 The African Kingdoms
+3.3 Rise of the Rajas
+3.4 Definitive Edition
+3.5 Return of Rome
+
+4 Campaign appearances
+
+4.1 Genghis Khan
+4.2 Vlad Dracula
+4.3 Ivaylo
+4.4 Kotyan Khan
+4.5 Jan Zizka
+4.6 Victors and Vanquished
+4.7 Mongol Raiders
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+Eurasian civilizations,
+
+The Forgotten
+
+
+			English
+
+Español
+
+Magyars
+
+38
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+This article is about the civilization in Age of Empires II HD: The Forgotten . For the revolutionary nation in Age of Empires III: Definitive Edition , see Hungary .
+
+Civilization Technology tree Strategy
+
+Magyars
+
+Civilization information
+
+Introduced in
+
+Age of Empires II HD: The Forgotten
+
+Architecture
+
+Eastern European
+
+Continent
+
+Eurasia
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Magyars_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Magyars_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Magyars_jingle_AoE2.ogg
+
+Pronunciation
+
+Features/Characteristics
+
+Focus
+
+Cavalry
+
+Unique units
+
+Magyar Huszar
+
+Unique technologies
+
+Corvinian Army
+
+Recurve Bow
+
+“ During the 8th and 9th centuries, an intrepid group of nomads undertook an epic migration west and established a powerful kingdom in the Carpathian Basin. Take command of the fiercest cavalry forces that Europe had ever witnessed in the Middle Ages and decimate your enemies with brutal raids and deft maneuvers as you relive the Honfoglalás. Lead the mighty Corvinian Army of Huszars in defense of the Hungarian plains and use recurve bows to transfix your enemies with a barrage of arrows! ” —Description [1]
+
+The Magyars are an Eastern European civilization introduced in Age of Empires II HD: The Forgotten. They focus on cavalry. They are primarily based on Medieval Hungarian people.
+
+Because the Magyars were conquered by the Ottomans and later fell under the control of the Habsburgs (which later form the Austro-Hungarian Empire), the Magyars are not featured as a playable civilization in Age of Empires III. However, Hungary is available as a revolution option for the Germans, Russians, Maltese, and Ottomans, where the player can gain access to the namesake Magyar Hussar (which is also accessible to the United States via a Home City Card). In addition, the player can also obtain Magyar Hussars from an ability via the House of Habsburg. The Kingdom of Hungary is a campaign-only civilization in Age of Empires IV.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Forgotten
+3.2 The African Kingdoms
+3.3 Rise of the Rajas
+3.4 Definitive Edition
+3.5 Return of Rome
+
+4 Campaign appearances
+
+4.1 Genghis Khan
+4.2 Vlad Dracula
+4.3 Ivaylo
+4.4 Kotyan Khan
+4.5 Jan Zizka
+4.6 Victors and Vanquished
+4.7 Mongol Raiders
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+Characteristics[]
+
+Unique unit[]
+
+Magyar Huszar: Light cavalry with an attack bonus against siege weapons.
+
+Unique technologies[]
+
+Corvinian Army: Magyar Huszar gold cost is replaced by additional food cost.
+
+Recurve Bow: Mounted archers +1 attack and range.
+
+Civilization bonuses[]
+
+Forging, Iron Casting, and Blast Furnace are free.
+
+Scout Cavalry line is 15% cheaper.
+
+Villagers kill wild animals in one strike.[note 1]
+
+Team bonus[]
+
+Mounted archers are trained 25% faster.
+
+Overview[]
+
+The Magyars are a cavalry civilization. As such, they have outstanding mounted units at their disposal. They get the rare Paladin and all cavalry upgrades, as well as a 15% discount for the Scout Cavalry line. The Magyar Huszar is a unit with great damage for its low cost. As well, their Cavalry Archers are trained 25% faster and have better damage output and high range thanks to Recurve Bow. Their foot archers are also good and every upgrade except for Hand Cannoneer. Their navy is fairly decent, with a solid technology tree but no early game bonus.
+
+Their infantry struggle a bit without Plate Mail Armor and Squires. Same goes for their siege weapons, which are average at best. The defensive structures are also rather lacking without Fortified Wall, Bombard Tower, Keep, or Arrowslits. Their Monks are serviceable, but the absence of Faith makes it easier for enemies to convert Magyar units and buildings, which is only compounded by the lack of Atonement and Redemption. Their economy is below average, as it lacks Stone Shaft Mining, Guilds, and any civilization bonus.
+
+Overall, the Magyars have a lot of strong and inexpensive offensive options. Their lack of a strong economy means they can struggle in 1v1 games, but their cheaper Scout Cavalry and team bonus make them valuable in team games.
+
+Changelog[]
+
+The Forgotten[]
+
+Scout Cavalry are 10% cheaper.
+
+Recurve Bow gives +1 range to Cavalry Archers.
+
+Forging, Iron Casting, and Blast Furnace are free, but require a Blacksmith.
+
+Cannot research Siege Engineers.
+
+Mercenaries introduced.
+
+Team bonus: Foot archers (except Skirmishers) +2 Line of Sight.
+
+The African Kingdoms[]
+
+Initially can research Arrowslits. With patch 4.8, it was removed from the technology tree.
+
+Rise of the Rajas[]
+
+With patch 5.5:
+Scout Cavalry are 15% cheaper.
+Recurve Bow gives +1 attack and range to Cavalry Archers.
+Forging, Iron Casting, and Blast Furnace no longer require a Blacksmith.
+Siege Engineers is added to the technology tree.
+
+Definitive Edition[]
+
+Mercenaries renamed Corvinian Army.
+
+Return of Rome[]
+
+With update 87863, the team bonus is mounted archers trained 25% faster.
+
+Campaign appearances[]
+
+The Magyars are a playable civilization in the scenario Honfoglalás from the Battles of the Forgotten, as well as in two scenarios from the Vlad Dracula campaign. They are also playable as the second player in Honfoglalás (co-op). They appear as allies or enemies in:
+
+Genghis Khan[]
+
+Pax Mongolica
+Hungary - Enemy
+
+Vlad Dracula[]
+
+The Return of the Dragon and The Night Falls are played as the Magyars.
+
+The Dragon Spreads His Wings
+In the HD Edition version
+Voivod Jakub - Ally
+Voivod Istvan - Ally
+Vladislav II - Enemy → Ally → Enemy → Ally → Enemy
+Hungary - Neutral → Enemy
+In the Definitive Edition version
+Hungary - Neutral
+
+The Return of the Dragon
+Hungary - Neutral → Ally
+Local Inhabitants - Ally
+
+The Breath of the Dragon
+Orsova - Enemy → Ally
+
+The Moon Rises
+In the HD Edition version
+Wallachia - Ally
+In the Definitive Edition version
+Hungary - Ally
+
+The Night Falls
+Hungary - Ally
+
+Ivaylo[]
+
+Where the One-Eyed Man is King
+Hungarians - Neutral
+
+Kotyan Khan[]
+
+Saving the Huts
+Hungarians - Neutral → Ally
+
+Blood for Blood and A New Home
+Hungarians - Ally → Enemy
+Hungarian Nobles - Ally or Neutral → Enemy
+
+Jan Zizka[]
+
+The Emperor's Fury
+Crusaders - Enemy
+
+Victors and Vanquished[]
+
+Otto
+Magyars - Enemy
+
+Mongol Raiders[]
+
+Magyars - Enemy
+
+In-game dialogue language[]
+
+Magyar units anachronistically speak modern Hungarian, instead of Medieval Hungarian. The language used in-game is from after the language reformation in the early 19th century. It is even without any dialects or rural accents, which would make it sound somewhat older - it is simply the language that one can hear in modern day television. Before 1000 AD, this language was written in the Old Hungarian script.
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Male_Select_1_AoE2.ogg Select 1 Jó napot! - Good day/afternoon
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Male_Select_2_AoE2.ogg Select 2 Igen? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Male_Select_3_AoE2.ogg Select 3 Parancs? - Command?
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Male_Select_4_AoE2.ogg Select 4 Szolgálatára - At your service
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Male_Task_4_AoE2.ogg Task 1 Azonnal - At once
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Male_Task_1_AoE2.ogg Task 2 Megyek - I'm going
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Male_Task_2_AoE2.ogg Task 3 Igenis - Yes, sir
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Male_Task_3_AoE2.ogg Task 4 Értettem - Understood
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Male_Build_AoE2.ogg Build Építkezek - I'm building
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Male_Chop_AoE2.ogg Chop Fát vágok - I'm chopping trees
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Male_Farm_AoE2.ogg Farm Gazdálkodok - I'm farming
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Male_Fish_AoE2.ogg Fish Halászok - I'm fishing
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Male_Forage_AoE2.ogg Forage Gyűjtögetek - I'm gathering
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Male_Hunt_AoE2.ogg Hunt Vadászok - I'm hunting
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Male_Mine_AoE2.ogg Mine Bányászok - I'm mining
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Magyars_Villager_Male_Repair_AoE2.ogg Repair Javítok - I'm repairing
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Soldier_Select_1_AoE2.ogg Select 1 Parancs? - Command?
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Soldier_Select_2_AoE2.ogg Select 2 Igen? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Soldier_Select_3_AoE2.ogg Select 3 Szolgálatára - At your service
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Soldier_Move_1_AoE2.ogg Move 1 Értettem - Understood
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Soldier_Move_2_AoE2.ogg Move 2 Rendben - Okay
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Soldier_Move_3_AoE2.ogg Move 3 Igen, uram - Yes, sir
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Soldier_Attack_1_AoE2.ogg Attack 1 Roham! - Charge!
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Soldier_Attack_2_AoE2.ogg Attack 2 Támadás! - Attack!
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Soldier_Attack_3_AoE2.ogg Attack 3 Előre! - Forward!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Monk_Select_1_AoE2.ogg Select 1 Adjon Isten - "May God give", shortened version of "Adjon Isten egészséget"(May God give (you) good health)
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Monk_Select_2_AoE2.ogg Select 2 Igen? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Monk_Select_3_AoE2.ogg Select 3 Parancs? - Command?
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Monk_Select_4_AoE2.ogg Select 4 Szolgálatára - At your service
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Monk_Move_1_AoE2.ogg Move 1 Megyek - I'm going
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Monk_Move_2_AoE2.ogg Move 2 Igenis - Yes, sir
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Monk_Move_3_AoE2.ogg Move 3 Értettem - Understood
+
+https://ageofempires.fandom.com/wiki/File:Magyars_Monk_Move_4_AoE2.ogg Move 4 Azonnal - At once
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Magyars_King_Select_1_AoE2.ogg Select 1 Mit szeretnél? - What would you like?
+
+https://ageofempires.fandom.com/wiki/File:Magyars_King_Select_2_AoE2.ogg Select 2 Tessék? - Polite form of "What?"
+
+https://ageofempires.fandom.com/wiki/File:Magyars_King_Select_3_AoE2.ogg Select 3 Miért zavarsz? - Why do you disturb me?
+
+https://ageofempires.fandom.com/wiki/File:Magyars_King_Select_4_AoE2.ogg Select 4 Hozzám szólsz? - You address me?
+
+https://ageofempires.fandom.com/wiki/File:Magyars_King_Move_1_AoE2.ogg Move 1 Megteszem, amit kérsz - I'll do what you've asked
+
+https://ageofempires.fandom.com/wiki/File:Magyars_King_Move_2_AoE2.ogg Move 2 Majd meglátom - I'll see
+
+https://ageofempires.fandom.com/wiki/File:Magyars_King_Move_3_AoE2.ogg Move 3 Lehet róla szó - We'll consider it
+
+https://ageofempires.fandom.com/wiki/File:Magyars_King_Move_4_AoE2.ogg Move 4 Ám legyen - So be it
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Magyar AI characters:
+
+Álmos (c. 820–c. 895): was, according to the uniform account of Hungarian chronicles,the first head of the "loose federation" of the Hungarian tribes from around 850. He was a leader in Honfoglalás.
+
+Árpád (c. 895 – c. 907): was the head of the confederation of the Hungarian tribes at the turn of the 9th and 10th centuries. He was the son of Álmos and took successive leadership in Honfoglalás.
+
+Bajnok Bela: Also known as King Bela I or Bela the Champion. King of Hungary from 1060-1063.
+
+Feher Andras: Known as Andrew I of Hungary or Andrew the White. King of Hungary from 1046-1060.
+
+Horka Bulcsú: was a Hungarian chieftain, one of the military leaders of prince Taksony of Hungary, a descendant of Árpád. He held the title of horka. He was one of the most important figures of the Hungarian invasions of Europe.
+
+Istvan I: Known as King or Saint Stephen I, founder of the Hungarian Kingdom and the first King of Hungary. Patronized as saint in Hungary, reigned from 1001-1038.
+
+Kalman I: Also known as King Coloman the Learned. Also nicknamed as the Book-Lover or the Bookish. Reigned from 1095-1116. He conquered Croatia and defeated its last king, Petar Svačić.
+
+Karoly Robert: King Charles I, also known as Charles Robert or in Hungarian Karoly Robert. He was the first king from the Anjou dynasty. Reigned from 1308-1342.
+
+Laszlo I: King Ladislaus I, also known as Saint Ladislaus or Saint Ladislas. The second son of King Bela I. Reigned from 1077-1095.
+
+Matthias Corvinus: Matthias Corvinus, also called Matthias I, was King of Hungary and Croatia from 1458 to 1490. After conducting several military campaigns, he was elected King of Bohemia in 1469 and adopted the title Duke of Austria in 1487.
+
+Nagy Lajos: Also known as Louis I, or Louis the Great or Louis the Hungarian, was King of Hungary and Croatia from 1342 and King of Poland from 1370. He is also the father of Jadwiga.
+
+Voivod Levedi (born c. 810): was the first known voivode of the Hungarians.
+
+History[]
+
+“ The origins of the Magyars can be traced back to at least 2000 BC when they lived as nomadic hunters in the area between the Volga River and the Ural Mountains. By 500 AD, they had started to migrate towards Central Europe. In the 8th century, they inhabited the region near the river Don, but moved on to modern-day Ukraine after a civil war broke out in the 9th century. Another war, the Bulgar-Byzantine war, forced the Magyars to migrate one more time around 896: under their leader Arpad, they conquered the few Slavs living in the Carpathian Basin. Here, they finally settled themselves and founded the Principality of Hungary. The Principality of Hungary was in the beginning little more than a federation of tribes ruled by a descendant of Arpad, called the Grand Prince. In order to keep the tribes unified, the Magyars conducted raids all over Europe during the 9th and 10th centuries. Their forces consisted mostly of light cavalry equipped with an Asian recurve bow which was inherited from their eastern origin. The Magyars favored quick charges preceded by a volley of arrows. After the Magyar defeat in the Battle of Lechfeld (955), they started to abandon the tactic of raiding and adopted a Western European style of warfare: heavy and light cavalry mixed with infantry. The end of their raiding also resulted in a political challenge: the links between tribes were weakening. Here as well, Grand Princes sought a solution in Western European models. Prince Istvan I accomplished his father's plan by consolidating power, reforming the state, and introducing Christianity into Hungary. His coronation by the Pope in 1000 marked the foundation of the Kingdom of Hungary. During the 11th and 12th centuries, Hungary became more like a Western European society. However, in the 13th century, the kingdom suffered: the king lost power to his nobles while a Mongol invasion devastated the country in 1241. In addition, the last king of the Arpads died in 1301, which resulted in seven years of internal warfare. After these seven years, Charles Robert of Anjou was elected as Hungary's first foreign king. It was also the beginning of the golden era for the kingdom: royal power was restored and a policy of conquest made Hungary one of the largest realms in Europe. One of the key factors in this renewal of power were the goldmines of Hungary and the growing importance of monetary trade, on both of which the king had a monopoly. As a result of this and blooming agriculture, focused on cattle and wine, Hungary began to recover from the hardships of the previous century. During the same golden era, the Turkish Ottoman Empire was expanding rapidly. Since the coronation of Istvan I, the Kingdom of Hungary was the most eastern of Christian realms. With this act, the medieval culture of the Magyars had taken shape: the heritage from the Eurasian steppes was pushed into obscurity, while Christian and Western European elements were adopted. Hungary marked the boundary for Romanesque and Gothic architecture, sculpture, and painting. The city of Buda even became a Renaissance center in the 15th century. Hungary was thus a great Christian bastion against the Mongols and later the Russians in the east, and against the Byzantine Empire and later the Ottoman Empire in the south. In 1456, the general John Hunyadi won a decisive battle that stopped the expansion of the Ottomans into Europe for decades. In the 16th century, however, the Hungarian bastion finally fell: the northwest came under Habsburg rule , while the south fell into the hands of the Ottoman Empire . [1] ”
+
+Trivia[]
+
+Before the Definitive Edition's release, the Teutons represented the Magyars in the Genghis Khan campaign. Historically, the Hungarians did consist of troops from the Holy Roman Empire.
+
+The Magyars' civilization icon features Árpád stripes.
+These stripes are also present on the Magyar Huszar's shield; other instances where the civilization icon is also found in a unique unit are the Incas' Slinger, the Lithuanians' Leitis, and the Sicilians' Serjeant.
+
+The user interface image is the Holy Crown of St. Stephen, the hereditary crown of Hungarian monarchs.
+
+Historically, the late medieval Magyar Black Army, organized by King Matthias Corvinus, did include gunpowder units namely arquebusiers who stabilized their guns with pavise shields. They also used heavier cannons.
+In-game, Magyars only have access to Cannon Galleons, but no Hand Cannoneers and Bombard Cannons. This is most likely for balancing purposes, or because they represent the earlier Magyar culture.
+
+The Magyars are the only civilization introduced in the HD Edition expansions that has access to the Paladin. They are also one of the two civilizations with access to both Paladins and Arbalesters (the other being the Byzantines) and the only civilization that can fully upgrade both Paladins and Arbalesters.
+The Magyars are also the only civilization that has fully upgraded Paladins and Heavy Cavalry Archers.
+
+When The Forgotten was first released, the Magyars had a free Hunting Dogs bonus which increased the gathering speed of Hunters and Fishermen. In a later patch, the technology was removed, and thus the Magyars lost their sole resource-gathering bonus.
+
+The following heroes available in the Scenario Editor are themed on the Magyars: Miklos Toldi and King Bela IV.
+
+During the development of The Conquerors, the Magyars (along with the Huns, Swiss, Habsburgs, and Slavs) had been considered to appear as the new civilization representing Eastern Europe. However, the Ensemble Studios team eventually picked the Huns because they were impressed by Attila the Hun's story and the medieval Magyars are less famous than the Huns.[2] Eventually, the Magyars made an appearance at the official titles after the Forgotten Empires team picked the Magyars as one of the new civilizations for their Forgotten Empires mod (which later became The Forgotten).
+
+The Magyars are one of the two civilizations to get all seven technologies introduced in The Conquerors, the other being the Saracens.
+
+During the beta, the Magyars building style was not Eastern European, but Central European. The Magyar Huszar's attack was 1 more than it is now.
+If considering the beta version, the Magyars can be regarded as the first civilization that changed their building set.
+
+They are the only Eastern European civilization that cannot research Redemption. They are also the only The Forgotten civilization without Redemption.
+
+The Magyars and the Bulgarians are the only Eastern European civilizations that have access to Parthian Tactics.
+
+Since the Dawn of the Dukes expansion, the Magyars are the last civilization introduced that has fully upgraded Paladins, though the Lithuanians can have comparable Paladins by collecting Relics.
+
+The Magyars are the least changed civilization in terms of balance, as the only significant changes for them were in patch 5.5 and update 87863.
+
+If the Magyars are allied with a Berber and Vietnamese player, they would have the largest variety of trash units, consisting of Hussars, Halberdiers, Genitours, Imperial Skirmishers, and their own unique unit.
+
+Despite the Magyars' historic nomadic roots and steppe origins, they do not have access to Steppe Lancers, possibly for gameplay balance purposes.
+
+Narrators in the game are unable to pronounce Hungarian words, for example the word "magyar" itself (whose correct pronunciation is "Maaj-yaar"). In the intro of Pax Mongolica in the Genghis Khan campaign, the river's name, Sajó, is pronounced as if it was in Spanish.
+
+Gallery[]
+
+The Wonder of the Magyars, the 
+
+Hunyad Castle
+
+The Eastern European 
+
+architecture set the Magyars share with the
+
+Slavs,
+
+Bulgarians,
+
+Lithuanians,
+
+Poles, and
+
+Bohemians
+
+The set before the 
+
+Magyars 
+
+user interface image
+
+The Magyar user interface before the 
+
+Official preview in the 
+
+Magyar cavalry archer vs. German lancer
+
+Magyars overview (AoE2) - updated for 2023!
+
+Notes[]
+
+↑ Villagers have +30 attack bonus against the Predator Animal armor class, which ensures that they can kill any 25 HP predator in one strike, even when attacking from downhill.
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/magyars
+
+↑ http://aok.heavengames.com/gameinfo/conquerors-expansion
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+Eurasian civilizations
+
+The Forgotten
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

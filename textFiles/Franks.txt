@@ -1,0 +1,749 @@
+This page is all about the Franks
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Definitive Edition
+3.5 Lords of the West
+3.6 Dynasties of India
+3.7 Return of Rome
+
+4 Campaign appearances
+
+4.1 Joan of Arc
+4.2 Saladin
+4.3 Barbarossa
+4.4 Attila the Hun
+4.5 El Cid
+4.6 Battles of the Conquerors
+4.7 Alaric (Definitive Edition version)
+4.8 Bari
+4.9 Sforza
+4.10 Battles of the Forgotten
+4.11 Tariq ibn Ziyad
+4.12 Kotyan Khan
+4.13 The Grand Dukes of the West
+4.14 Jan Zizka
+4.15 Thoros II
+4.16 Victors and Vanquished
+4.17 Barbarossa Brawl
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+European civilizations,
+
+The Age of Kings
+
+
+			English
+
+Español
+
+Franks
+
+55
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+This article is about the civilization in Age of Empires II: The Age of Kings . For similar civilizations, see French .
+
+Civilization Technology tree Strategy
+
+Franks
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: The Age of Kings
+
+Architecture
+
+Western European
+
+Continent
+
+Europe
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Franks_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Franks_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Franks_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Cavalry
+
+Unique units
+
+Throwing Axeman
+
+Unique technologies
+
+Bearded Axe
+
+Chivalry
+
+“ Rule the hardy folk of the Francisca axe and establish a dynasty worthy to follow in the footsteps of the Romans! Seize the English crown, lead chivalrous knights and fierce infantry to victories as far away as the Holy Land, and construct imposing castles to defend your productive farmers from enemy incursions. The Frankish unique unit is the Throwing Axeman, a ruthless warrior whose axes spell death to anything that dares to step within range. ” —Description [1]
+
+The Franks are a Western European civilization in Age of Empires II primarily based on the Carolingian Empire and medieval Kingdom of France. The Franks focus on cavalry.
+
+The Franks were the Germanic ancestors to the French, who also appear in Age of Empires III and Age of Empires IV (much like the Franks, the French are depicted in the successor games as cavalry-focused civilization with strong economic bonuses and beginner-friendly mechanics).
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Definitive Edition
+3.5 Lords of the West
+3.6 Dynasties of India
+3.7 Return of Rome
+
+4 Campaign appearances
+
+4.1 Joan of Arc
+4.2 Saladin
+4.3 Barbarossa
+4.4 Attila the Hun
+4.5 El Cid
+4.6 Battles of the Conquerors
+4.7 Alaric (Definitive Edition version)
+4.8 Bari
+4.9 Sforza
+4.10 Battles of the Forgotten
+4.11 Tariq ibn Ziyad
+4.12 Kotyan Khan
+4.13 The Grand Dukes of the West
+4.14 Jan Zizka
+4.15 Thoros II
+4.16 Victors and Vanquished
+4.17 Barbarossa Brawl
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+Characteristics[]
+
+Unique unit[]
+
+Throwing Axeman: Ranged infantry unit.
+
+Unique technologies[]
+
+Bearded Axe (Throwing Axeman +1 range).
+
+Chivalry (Stables work 40% faster).
+
+Civilization bonuses[]
+
+Farm upgrades are free.
+
+Castles are 15%/25% cheaper in the Castle/Imperial Age.
+
+Mounted units have +20% hit points (starting in the Feudal Age).
+
+Foragers work 15% faster.
+
+Team bonus[]
+
+Knights have +2 Line of Sight.
+
+Overview[]
+
+The Franks are a straightforward cavalry civilization, with a very potent Knight line. The 20% hit points bonus gives them an advantage due to saving them on Bloodlines and receive extra hit points for the Cavalier and Paladin. Chivalry not only helps them produce cavalry, but also speeds up the very slow Paladin upgrade (saves 68 seconds). Their infantry are strong with fully upgradable Champions, Halberdiers and their Elite Throwing Axemen, which is unique for being able to attack from range. The Frankish siege weapons are average, as they lack both the Siege Onager and the Siege Ram, but have Siege Engineers and Bombard Cannon.
+
+The Franks can use Monks with some potential, lacking only Atonement and Redemption, though the latter is a very important technology. Due to the fact that Castles are 15%/25% cheaper in the Castle/Imperial Age, the Franks make Castles the key component of their defensive system, rather than their barely usable towers. More importantly, it helps them secure map control more, which pairs well with their strong units. The Franks get Farm upgrades for free and their Foragers work +15% faster, giving a significant boost in the early and mid-game, which particularly helps out their cavalry.
+
+With all of their strengths, the Franks have several weak points. As strong as their Knight-line is, their Light Cavalry are lacking. The 20% hit points means that they have less hit points than a generic Light Cavalry, and they also lack the Hussar. Lacking several key upgrades, their ranged units are generally weak, although their Hand Cannoneers are still usable. Their navy has a hard time keeping up, lacking Elite Cannon Galleon and Shipwright, and the lack of Bracer is a big negative for Frankish Galleons. Lastly, with their poor Elite Skirmishers and below-average Light Cavalry, this gives them a very gold-intensive late game that stalls out when reliable sources of gold have been depleted.
+
+Overall, the Franks are a strong civilization that is easy to learn. Their cavalry are strong through the entire game, and they have plenty of options to back them up against any opponent. The Franks are an appealing civilization for newer and veteran players alike who want to go for a Knight rush.
+
+Changelog[]
+
+The Conquerors[]
+
+Bearded Axe introduced.
+
+With patch 1.0b, the Halberdier is added to the technology tree.
+
+The Forgotten[]
+
+Foragers now work 25% faster (from 0%).
+
+Squires added to the technology tree.
+
+Chivalry introduced.
+
+Non-Elite Throwing Axemen frame delay reduced (12 → 10).
+
+The upgrade to Elite Throwing Axeman costs less gold (850 gold → 750 gold).
+
+The African Kingdoms[]
+
+All cavalry get +20% HP instead of just Knights.
+
+Throwing Axemen move faster (0.9 → 1).
+
+With patch 4.8, Throwing Axemen have +10 Hit points (50 (non-Elite)/60 (Elite) → 60/70).
+
+Definitive Edition[]
+
+Cavalry +20% HP bonus only available from the Feudal Age onwards (previously started in the Dark Age).
+
+Lords of the West[]
+
+Forager work rate bonus reduced (25% → 15%).
+
+Treadmill Crane removed from the technology tree.
+
+With update 47820:
+Bearded Axe and Chivalry switched ages (Castle Age (Bearded Axe)/Imperial Age (Chivalry) → Imperial Age/Castle Age).
+Bearded Axe cost decreased (400 food, 400 gold → 300 food, 300 gold).
+Chivalry cost increased (400 wood, 400 gold → 600 wood, 500 gold).
+
+Dynasties of India[]
+
+With update 81058, receive Gambesons.
+
+Return of Rome[]
+
+With update 93001, Castle discount civilization bonus changed from 25% to 15%/25% in the Castle/Imperial Age.
+
+Campaign appearances[]
+
+The Franks are a playable civilization in all the scenarios from the Joan of Arc campaign, two scenarios from Battles of the Conquerors: Tours and Hastings, and two scenarios from Victors and Vanquished: Charlemagne and Robert. Both playable factions in the co-op version of Tours and Hastings are also Franks.
+
+They also appear as allies or enemies in other campaigns:
+Burgundians, who feature as enemies in all scenarios of Joan of Arc except The Rising, the Holy Roman Emperor scenario of Barbarossa, and A Barbarian Betrothal from Attila the Hun, were represented by Franks before Lords of the West, where they appear as their own civilization (Burgundians).
+
+Similarly, Normans, who play the enemy roles in Bari, were represented by Franks before. But with the release of Lords of the West, they now appear as their own civilization (Sicilians).
+
+Toggle campaign appearance list
+
+Joan of Arc[]
+
+This campaign is played as the Franks.
+
+An Unlikely Messiah
+Chinon - Ally
+Army of France - Ally
+Highwaymen - Enemy
+
+The Maid of Orleans
+Chinon - Ally
+Blois - Ally
+Orléans - Ally
+
+The Rising
+Chalon - Enemy → Ally
+
+The Siege of Paris
+King's Men - Ally
+Compiègne - Ally
+
+Saladin[]
+
+An Arabian Knight
+West Franks - Enemy
+East Franks - Enemy
+
+Lord of Arabia
+Reynald's Bandits - Enemy
+Reynald's Pirates - Enemy
+Reynald's Raiders - Enemy
+
+The Horns of Hattin
+Jerusalem - Enemy
+
+Jihad!
+Tripoli Guards (Tripoli Guards in co-op version) - Enemy
+
+The Lion and the Demon
+Franks - Enemy
+Jerusalem - Enemy
+
+Barbarossa[]
+
+Pope and Antipope
+River Guard - Enemy
+
+The Lombard League
+Verona - Enemy
+
+Attila the Hun[]
+
+The Great Ride
+Sofia - Enemy
+
+A Barbarian Betrothal
+Metz - Enemy
+Orléans - Enemy
+
+The Catalaunian Fields
+Franks - Enemy
+
+The Fall of Rome
+Verona (Verona in co-op version) - Enemy
+
+El Cid[]
+
+The Exile of the Cid, King of Valencia
+Berenguer - Enemy
+
+Battles of the Conquerors[]
+
+Tours
+Frankish Villages - Ally
+
+Agincourt
+Amiens - Enemy
+French Knights - Enemy
+Frevent - Enemy
+Harfleur - Enemy
+Voyennes - Enemy
+
+Alaric (Definitive Edition version)[]
+
+The Battle of the Frigidus
+General Arbogast - Enemy
+
+A Kingdom of Our Own
+Tolosa (Tolosa in co-op version) - Enemy
+
+Bari[]
+
+In the HD Edition:
+
+Arrival at Bari
+Emperor Louis II - Ally
+
+The Rebellion of Melus
+Normans - Ally
+
+The Great Siege
+Normans - Enemy
+Normans - Enemy
+Normans - Enemy
+
+In the Definitive Edition:
+
+Arrival at Bari
+Emperor Louis II - Ally
+
+The Rebellion of Melus, The Best Laid Plans
+Capua - Ally → potential Enemy → Ally
+
+Sforza[]
+
+In the HD Edition:
+
+An End and a Beginning
+Raiders - Enemy
+
+A New Duke of Milan
+Abbiategrasso - Enemy
+
+In the Definitive Edition:
+
+Viva Sforza!
+Savoyards - Enemy
+
+Battles of the Forgotten[]
+
+Cyprus (before the Definitive Edition)
+Philip Augustus - Ally
+
+Tariq ibn Ziyad[]
+
+Razzia
+Aquitanian Villages - Enemy
+Bordeaux - Enemy
+Frankish Army - Enemy
+
+Kotyan Khan[]
+
+A New Home
+Latin Empire - Enemy
+
+The Grand Dukes of the West[]
+
+A Kingdom Divided
+Liège - Enemy
+Villages - Neutral
+Rebel Supply Camps - Enemy
+
+The Wolf and the Lion
+French Peasants - Ally
+Écorcheurs - Enemy
+Bernard d'Armagnac - Enemy
+Jean de Bourbon - Enemy
+Jean d'Alencon - Enemy
+Charles d'Orléans - Enemy
+
+The Cleansing of Paris
+Paris - Ally
+Armagnacs - Enemy
+Bernard d'Armagnac - Enemy
+Craftsmen - Ally
+Scholars - Ally
+
+Unholy Marriage
+Cambrésis - Ally
+
+The Hook and Cod Wars
+The Hooks - Enemy
+The Cods - Ally
+Dutch Villages - Ally
+
+The Maid Falls
+Choisy - Enemy
+Compiègne - Enemy
+Soissons - Neutral → Ally
+The French Army - Enemy
+Joan of Arc - Enemy
+
+Jan Zizka[]
+
+Courage and Coin
+Crusader Knights - Enemy
+
+Thoros II[]
+
+Caught in the Crossfire
+Reynald de Chatillon - Enemy → Ally
+Simon de Raban - Ally
+
+Bloody Crestwaves
+Reynald de Chatillon - Ally
+
+Of Turncoats and Traitors
+Reynald de Chatillon - Ally → Enemy
+
+Victors and Vanquished[]
+
+Charlemagne and Robert are played as the Franks.
+
+Charlemagne
+Carloman - Ally → Potential enemy
+Minor Factions - Enemy
+
+Gaiseric,  Ragnar
+Franks - Enemy
+
+Ironside
+Francia - Enemy
+
+Otto
+Franconia - Ally → Potential enemy
+West Francia - Ally → Potential enemy
+
+Robert
+Aquitaine - Ally → Potential enemy
+King of the Franks - Ally → Potential enemy
+
+Stephen
+Normandy - Enemy
+
+Vortigern
+Franks - Enemy
+
+Barbarossa Brawl[]
+
+Burgundy - Enemy
+
+In-game dialogue language[]
+
+In-game, Frankish units speak Middle French with an anachronic Modern French pronunciation, maybe to make a clearly French-flavored voice line.
+
+For instance, "r" is pronounced in the well known guttural way, which was not used until the end of 1700s, several centuries after the end of the Middle Ages. Other examples are the pronunciation of most vowels, and the rendering of final "r".
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Franks_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Franks_Villager_Male_Select_2_AoE2.ogg Select 1 Oé? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Franks_Villager_Female_Select_2_AoE2.ogg Female Select 2 Que - What?
+
+https://ageofempires.fandom.com/wiki/File:Franks_Villager_Male_Select_1_AoE2.ogg Male Select 2 Que y'a? - What's up?
+
+https://ageofempires.fandom.com/wiki/File:Franks_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Franks_Villager_Male_Select_3_AoE2.ogg Select 3 Prêt - Ready
+
+https://ageofempires.fandom.com/wiki/File:Franks_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Franks_Villager_Male_Select_4_AoE2.ogg Select 4 Que fais? - What shall I do?
+
+https://ageofempires.fandom.com/wiki/File:Franks_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Franks_Villager_Male_Task_1_AoE2.ogg Task 1 Certes - Surely
+
+https://ageofempires.fandom.com/wiki/File:Franks_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Franks_Villager_Male_Task_2_AoE2.ogg Task 2 Oïl - Yes
+
+https://ageofempires.fandom.com/wiki/File:Franks_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Franks_Villager_Male_Task_3_AoE2.ogg Task 3 Verax - Truly (from Latin)
+
+https://ageofempires.fandom.com/wiki/File:Franks_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Franks_Villager_Male_Task_4_AoE2.ogg Task 4 L'y vais - I go there
+
+https://ageofempires.fandom.com/wiki/File:Franks_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Franks_Villager_Male_Build_AoE2.ogg Build Bâtisseur - Builder
+
+https://ageofempires.fandom.com/wiki/File:Franks_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Franks_Villager_Male_Chop_AoE2.ogg Chop Bûcheron - Woodcutter
+
+https://ageofempires.fandom.com/wiki/File:Franks_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Franks_Villager_Male_Farm_AoE2.ogg Farm Villain - Peasant
+
+https://ageofempires.fandom.com/wiki/File:Franks_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Franks_Villager_Male_Fish_AoE2.ogg Fish Pecheur - Fisher
+
+https://ageofempires.fandom.com/wiki/File:Franks_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Franks_Villager_Male_Forage_AoE2.ogg Forage Maraud - Scavenge
+
+https://ageofempires.fandom.com/wiki/File:Franks_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Franks_Villager_Male_Hunt_AoE2.ogg Hunt Chasseur - Hunter
+
+https://ageofempires.fandom.com/wiki/File:Franks_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Franks_Villager_Male_Mine_AoE2.ogg Mine Mineur - Miner
+
+https://ageofempires.fandom.com/wiki/File:Franks_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Franks_Villager_Male_Repair_AoE2.ogg Repair Artisan - Craftsman
+
+https://ageofempires.fandom.com/wiki/File:Franks_Villager_Female_Attack_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Franks_Villager_Male_Attack_AoE2.ogg Attack Certes - Surely (not used)
+
+https://ageofempires.fandom.com/wiki/File:Franks_Soldier_Select_1_AoE2.ogg Select 1 Que y'a? - What's up?
+
+https://ageofempires.fandom.com/wiki/File:Franks_Soldier_Select_2_AoE2.ogg Select 2 Prêt - Ready
+
+https://ageofempires.fandom.com/wiki/File:Franks_Soldier_Select_3_AoE2.ogg Select 3 Que fais? - What shall I do?
+
+https://ageofempires.fandom.com/wiki/File:Franks_Soldier_Move_1_AoE2.ogg Move 1 Oïl - Yes
+
+https://ageofempires.fandom.com/wiki/File:Franks_Soldier_Move_2_AoE2.ogg Move 2 L'y vais - I go there
+
+https://ageofempires.fandom.com/wiki/File:Franks_Soldier_Move_3_AoE2.ogg Move 3 Certes - Surely
+
+https://ageofempires.fandom.com/wiki/File:Franks_Soldier_Attack_1_AoE2.ogg Attack 1 Assault!
+
+https://ageofempires.fandom.com/wiki/File:Franks_Soldier_Attack_2_AoE2.ogg Attack 2 À la bataille! - To battle!
+
+https://ageofempires.fandom.com/wiki/File:Franks_Soldier_Attack_3_AoE2.ogg Attack 3 Ta (In middle French: Thy/Yours)
+
+https://ageofempires.fandom.com/wiki/File:Franks_Soldier_Attack_4_AoE2.ogg Attack 4 Montjoie!
+
+https://ageofempires.fandom.com/wiki/File:Franks_Soldier_Attack_5_AoE2.ogg Attack 5 Bourgogne!
+
+https://ageofempires.fandom.com/wiki/File:Franks_Soldier_Attack_6_AoE2.ogg Attack 6 Montmirail!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Franks_Monk_Select_1_AoE2.ogg Select 1 Que y'a? - What's up?
+
+https://ageofempires.fandom.com/wiki/File:Franks_Monk_Select_2_AoE2.ogg Select 2 Oé - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Franks_Monk_Select_3_AoE2.ogg Select 3 Prêt - Ready
+
+https://ageofempires.fandom.com/wiki/File:Franks_Monk_Select_4_AoE2.ogg Select 4 Que valié? - What do you want?
+
+https://ageofempires.fandom.com/wiki/File:Franks_Monk_Move_1_AoE2.ogg Move 1 Certes - Surely
+
+https://ageofempires.fandom.com/wiki/File:Franks_Monk_Move_2_AoE2.ogg Move 2 Oé - Yes
+
+https://ageofempires.fandom.com/wiki/File:Franks_Monk_Move_3_AoE2.ogg Move 3 Verax - Truly (from Latin)
+
+https://ageofempires.fandom.com/wiki/File:Franks_Monk_Move_4_AoE2.ogg Move 4 L'y vais - I go there
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Franks_King_Select_1_AoE2.ogg Select 1 Que lier? - What is your order?
+
+https://ageofempires.fandom.com/wiki/File:Franks_King_Select_2_AoE2.ogg Select 2 Oé - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Franks_King_Select_3_AoE2.ogg Select 3 Prêt - Ready
+
+https://ageofempires.fandom.com/wiki/File:Franks_King_Select_4_AoE2.ogg Select 4 Que valié? - What do you want?
+
+https://ageofempires.fandom.com/wiki/File:Franks_King_Move_1_AoE2.ogg Move 1 Certes - Surely
+
+https://ageofempires.fandom.com/wiki/File:Franks_King_Move_2_AoE2.ogg Move 2 Oé - Yes
+
+https://ageofempires.fandom.com/wiki/File:Franks_King_Move_3_AoE2.ogg Move 3 Verax - Truly (from Latin)
+
+https://ageofempires.fandom.com/wiki/File:Franks_King_Move_4_AoE2.ogg Move 4 L'y vais - I go there
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Frankish AI characters:
+
+Charlemagne (2 April 742 – 28 January 814): Numbered Charles I, was King of the Franks from 768, King of the Lombards from 774 and Emperor of the Romans from 800. He united much of Europe during the early Middle Ages. He was the first recognised emperor in western Europe since the fall of the Western Roman Empire three centuries earlier. The expanded Frankish state that Charlemagne founded is called the Carolingian Empire.
+
+Charles VI: Called the Beloved (French: le Bien-Aimé) and the Mad (French: le Fol or le Fou), was King of France from 1380 to his death.
+
+Charles Martel (c. 686 – 22 October 741): A Frankish statesman and military leader who as Duke and Prince of the Franks and Mayor of the Palace, was de facto ruler of Francia from 718 until his death. The son of the Frankish statesman Pepin of Herstal and a noblewoman named Alpaida, Charles successfully asserted his claims to power as successor to his father as the power behind the throne in Frankish politics. Continuing and building on his father's work, he restored centralized government in Francia and began the series of military campaigns that re-established the Franks as the undisputed masters of all Gaul.
+
+Charles the Bold: Baptized Charles Martin, was Duke of Burgundy from 1467 to 1477. He was the last Duke of Burgundy from the House of Valois and is sometimes also known as Charles the Rash (moved to the Burgundians in Lords of the West).
+
+Constable Richemont: Known as the Justicier and as Arthur de Richemont, was Lord of Parthenay and titular Count (Earl) of Richmond in England and for eleven months at the very end of his life, Duke of Brittany and Count of Montfort after inheriting those titles upon the death of his nephew.
+
+Clovis I: was the first king of the Franks to unite all of the Frankish tribes under one ruler, changing the form of leadership from a group of royal chieftains to rule by a single king and ensuring that the kingship was passed down to his heirs.
+
+Jean Dunois of Orleans: An illegitimate son of Louis I, Duke of Orléans, by Mariette d'Enghien. His nickname, the "Bastard of Orléans" (bâtard d'Orléans), was a term of respect, since it acknowledged him as a first cousin to the king and acting head of a cadet branch of the royal family during his half-brother's captivity.
+
+Joan of Arc: The French legendary heroine of and the one of the leaders in the Hundred Years' War, know as "The Maid of Orléans". She inspired a multitude of literary and historical works in many countries.
+
+King Philip I: Called the Amorous, was King of the Franks from 1060 to his death.
+
+Louis IX: Commonly known as Saint Louis, was King of France and a canonized saint.
+
+Louis XI: Called "Louis the Prudent" (French: le Prudent), was a monarch of the House of Valois who ruled as King of France from 1461 to 1483.
+
+Pepin the Short: King of the Franks from 751 until his death. He was the first of the Carolingians to become king.
+
+Philip II Augustus: King of France from 1180 to 1223, a member of the House of Capet.
+
+Philip the Good: Duke of Burgundy as Philip III from 1419 until his death (moved to the Burgundians in Lords of the West).
+
+Raymond, Prince of Antioch: Raymond of Poitiers (c. 1115 – 29 June 1149) was Prince of Antioch from 1136 to 1149.
+
+Roland: Frankish military leader under Charlemagne who became one of the principal figures in the literary cycle known as the Matter of France. The historical Roland was military governor of the Breton March, responsible for defending Francia's frontier against the Bretons. His only historical attestation is in Einhard's Vita Karoli Magni, which notes he was part of the Frankish rearguard killed by rebellious Basques in Iberia at the Battle of Roncevaux Pass.
+
+History[]
+
+“ The Franks were one of the Germanic barbarian tribes known to the Romans . In the early part of the fifth century, they began expanding south from their homeland along the Rhine River into Roman-controlled Gaul (modern France). Unlike other Germanic tribes, however, they did not move out of their homelands but, rather, added to them. Clovis, a Frankish chieftain, defeated the last Roman armies in Gaul and united the Franks by 509, becoming the ruler of much of western Europe. During the next 1000 years, this Frankish kingdom gradually became the modern nation of France. The kingdom of Clovis was divided after his death among his four sons, according to custom. This led to several centuries of civil warfare and struggle between successive claimants to the throne. By the end of the seventh century, the Merovingian kings (descendants of Clovis) were rulers in name only. In the early eighth century, Charles Martel became mayor of the palace, the ruler behind the throne. He converted the Franks into a cavalry force and fought so well that his enemies gave him the name of Charles the Hammer. In 732 the Frankish cavalry defeated Muslim invaders moving north from Spain at the Battle of Poitiers, stopping forever the advance of Islam from the southwest. Charles Martel's son, Pepin, was made king of the Franks by the pope in return for helping to defend Italy from the Lombards. Pepin founded the dynasty of the Carolingians, and the greatest of these rulers was Charles the Great, or Charlemagne , who ruled from 768 to 814. He expanded the Frankish kingdom into an empire and was responsible for a rebirth of culture and learning in the West. Charlemagne's empire was divided among his grandsons and thereafter coalesced into two major parts. The western part became the kingdom of France. Later kings gradually lost political control of France, however. Central authority broke down under the pressure of civil wars, border clashes, and Viking raids. Money and soldiers could be raised only by making concessions to landholders. Fiefs became hereditary and fief holders became feudal lords over their own vassals. By the tenth century, France had been broken into feudal domains that acted as independent states. In 987 the French nobility elected Hugh Capet their king, mainly because his fief centered on Paris was weak and he was thought to pose no threat. He founded the Capetian line of kings, who worked slowly for two centuries regaining the power by making royal roads safe, adding land to their domain, encouraging trade, and granting royal charters for new towns and fiefs in vacant lands. By allying themselves with the church, the Capetians took a strong moral position and benefited from the church's cultural, political, and social influence. Royal administrators were made loyal to the king and more efficient by eliminating the inheritance of government offices. Beginning with Philip II in 1180, three superior rulers established France as one of the most important nations in Europe. They improved the working of the government, encouraged a booming trade, collected fees efficiently, and strengthened their position atop the feudal hierarchy. Although a national assembly called the Estates General was established, it held no real power and was successfully ignored. From 1337 to 1453 France and England fought the long conflict called the Hundred Years War to decide ownership of lands in France that had been inherited by English kings. The eventual French victory confirmed the king as the most powerful political force in France. ” — [1]
+
+Trivia[]
+
+The Franks' civilization icon in the Definitive Edition is based on the Fleur-de-lis which was used in the coat of arms of the Capets and his cadet branches.
+
+The user interface image in the Definitive Edition displays the Fulda Carolingian cross.
+
+The following heroes available in the Scenario Editor are themed on the Franks: Charlemagne, Charles Martel, Constable Richemont, Duke D'Alençon, Frankish Paladin, Guy Josselyne, Jean Bureau, Jean de Lorrain, Joan of Arc, Joan the Maid, La Hire, Lancelot, Lord de Graville, Master of the Templar, Reynald de Chatillon, Roland, Sieur Bertrand, Sieur de Metz, William the Conqueror (specifically the Francized Normans), and Bernard d'Armagnac. The Franks have the highest number of thematic heroes, at 20.
+
+The Franks historically utilized the Arbalest, and the word itself was from Medieval French spelling of arcuballista in Latin. Franks lacking this upgrade was for gameplay balance purposes.
+In Age of Empires IV, the French have access to the Arbalest.
+
+In the game, the Franks represent the Medieval French. However, the Frankish Kingdom not only consisted of France, but also Germany, Low Countries and part of Italy. This can be seen as the Kings of the Frankish Kingdom, many of whom were born in Belgium, and in The Grand Dukes of the West campaign, where a lot of Low Countries regions are represented as Franks.
+
+The Teutons and Franks are the only two civilizations that have access to Paladin, but not Hussar.
+
+As of Age of Empires II: Definitive Edition - Dawn of the Dukes, the Franks are the most prominent civilization in the Campaigns and Historical Battles, with a total of 8 playable appearances and 59 non-playable appearances.
+
+The French (along with the Mongols) are the only civilization that have the same civilization icon in all games where they appear: the Fleur-de-lis.
+
+Gallery[]
+
+The Wonder of the Franks, 
+
+Chartres Cathedral
+
+Official preview showing Franks besieging 
+
+English-controlled Paris (note that the Franks cannot research
+
+Siege Rams)
+
+The Western European 
+
+architecture set the Franks share with the
+
+Britons,
+
+Celts, and
+
+Burgundians
+
+The set before the 
+
+Franks 
+
+user interface image
+
+The Frankish user interface before the 
+
+Blois, a French town featured in 
+
+The Maid of Orleans
+
+A Frankish town, owned by Berenguer, as seen in 
+
+King of Valencia
+
+Franks overview (AoE2)
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/franks
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+European civilizations
+
+The Age of Kings
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

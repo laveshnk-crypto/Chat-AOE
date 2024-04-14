@@ -1,0 +1,600 @@
+This page is all about the Spanish
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Definitive Edition
+3.5 Dynasties of India
+
+4 Campaign appearances
+
+4.1 El Cid
+4.2 Montezuma
+4.3 Sforza
+4.4 El Dorado
+4.5 Battles of the Forgotten
+4.6 Tariq ibn Ziyad
+4.7 Francisco de Almeida
+4.8 Victors and Vanquished
+4.9 The Art of War
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+European civilizations,
+
+The Conquerors
+
+
+			English
+
+Español
+
+Spanish (Age of Empires II)
+
+40
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+This article is about the civilization in Age of Empires II: The Conquerors . For the civilization in Age of Empires III , see Spanish (Age of Empires III) .
+
+Civilization Technology tree Strategy
+
+Spanish
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: The Conquerors
+
+Architecture
+
+Mediterranean
+
+Continent
+
+Europe (southwestern)
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Spanish_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Spanish_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Spanish_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Gunpowder units
+
+Monks
+
+Unique units
+
+Conquistador
+
+Missionary
+
+Unique technologies
+
+Inquisition
+
+Supremacy
+
+“ After the Berbers demolished the Visigoth kingdom of Iberia, the last remnants of resistance took up arms in the mountains of Asturias and strove to slowly turn the tide. Launch the Reconquista, lead deadly galleons of Conquistadors overseas to explore and conquer unknown lands, and experience the horrors of the Spanish Inquisition. From the tyranny of Pedro the Cruel to the heroism and tolerance of El Cid, the path to follow is yours to choose. ” —Description [1]
+
+The Spanish are a Mediterranean European civilization introduced in Age of Empires II: The Conquerors. They are the descendants of the Celtiberians, the Romans, and the Visigoths, and are closely related to the Portuguese, who likewise base their homeland in the Iberian peninsula. The Spanish focus on gunpowder units and Monks.
+
+The Spanish also appear as a playable civilization in Age of Empires III. Similar to their predecessor, the Spanish in Age of Empires III have a well-rounded tech tree with a lackluster economy, although the Spanish in Age of Empires III put more emphasis on rush strategies, while the Spanish in Age of Empires II are a more late-game oriented civilization with a lackluster early game.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Definitive Edition
+3.5 Dynasties of India
+
+4 Campaign appearances
+
+4.1 El Cid
+4.2 Montezuma
+4.3 Sforza
+4.4 El Dorado
+4.5 Battles of the Forgotten
+4.6 Tariq ibn Ziyad
+4.7 Francisco de Almeida
+4.8 Victors and Vanquished
+4.9 The Art of War
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Notes
+
+11 References
+
+Characteristics[]
+
+Unique units[]
+
+Conquistador: Mounted gunpowder unit.
+
+Missionary: Mounted Monk.
+
+Unique technologies[]
+
+Inquisition: Increases conversion speed for Monks and Missionaries. Missionaries +1 range.
+
+Supremacy: Gives Villagers +6 attack, +2/+2 armor, and +40 hit points.
+
+Civilization bonuses[]
+
+Builders work 30% faster (20% for Wonders).
+
+Blacksmith upgrades don't cost gold.
+
+Cannon Galleon projectiles can track moving targets[note 1] and move faster.[note 2]
+
+Gunpowder units fire 18% faster.[note 3]
+
+Receive 20 gold for each technology researched.
+
+Team bonus[]
+
+Trade units generate +25% gold.
+
+Overview[]
+
+The Spanish are classified as a gunpowder and Monk civilization. Their gunpowder units have a faster firing rate on their Hand Cannoneers, Bombard Cannons, and Cannon Galleons. Their Monks have every upgrade available, as well as Inquisition to speed up their conversions, and their Missionary is faster than a Monk. Their infantry and cavalry units are great and do not miss out on a single upgrade. They also have fully upgraded Elite Skirmishers and are the only civilization where every single trash unit is fully upgraded.
+
+In the early Castle Age, the Conquistador is an extremely threatening unit thanks to its high damage output and fast mobility. The Spanish navy is excellent, with a perfect technology tree shared only with the Byzantines. Their Cannon Galleons have faster firing and more accurate cannonballs, although their high cost will limit their usability. Defensively, the Spanish are strong, lacking only Heated Shot, and they have Supremacy, which makes their Villagers much harder to raid. Lastly, they have a civilization bonus that grants them 20 gold with every technology they research, facilitating their technological progress.
+
+However, the Spanish have weaknesses as well. Their archers are very poor because they lack the Crossbowmen upgrade. Despite their faster-firing Bombard Cannons, their siege weapons are overall below average, without Siege Engineers, Heavy Scorpion, or Siege Onager. Their economy is poor, thanks to no real early-game bonus. Combined with their military bonuses only applying in the Imperial Age, and the complete lack of the Crossbowmen, they are one of the weakest civilizations during the early game.
+
+Overall, the Spanish have a reasonably broad tech tree that enables them to pick from a wide variety of viable strategies. The Spanish technology tree and unique units give them a wide variety of strong units in the mid and late game. Much like the Portuguese, the Spanish have several bonuses that allow them to save and accumulate gold. However, their slow start and lack of Crossbowmen cause them to struggle on most maps in a 1v1 game, often relying on their Conquistador.
+
+Changelog[]
+
+The Conquerors[]
+
+Team bonus: Trade units generate +33% gold.
+
+(Elite) Conquistadors do not receive damage from anti-cavalry archer attacks.
+
+Non-Elite Conquistadors have 2 pierce armor.
+
+Missionaries require a Castle and are unaffected by Bloodlines, Fervor, and Husbandry.
+
+The Forgotten[]
+
+Inquisition introduced. It costs 400 food, 400 gold.
+
+Missionaries benefit from Bloodlines and Fervor.
+
+The African Kingdoms[]
+
+Team bonus: With patch 4.8, trade units generate +25% gold.
+
+Inquisition costs 100 food, 300 gold.
+
+Missionaries no longer require a Castle.
+
+Definitive Edition[]
+
+(Elite) Conquistadors receive damage from anti-cavalry archer attacks.
+
+Missionaries heal as quickly as normal Monks and benefit from Husbandry.
+
+Architecture style changed from Western European to Mediterranean.
+
+Dynasties of India[]
+
+With update 81058, as a new civilization bonus, the Spanish receive 20 gold for each technology researched. Gambesons is added to the technology tree, non-Elite Conquistadors have 1 pierce armor, Inquisition also gives Missionaries +1 range, and the construction speed bonus no longer applies to the starting Town Center.
+
+Campaign appearances[]
+
+The Spanish have a campaign devoted to their civilization: El Cid (with some of the scenarios played as Saracens). The player also plays as Spanish in the Lepanto scenario from the Battles of the Conquerors campaign and Tales of La Canela, the first scenario of the El Dorado campaign in The Forgotten. They also appear in:
+
+El Cid[]
+
+This campaign is played as the Spanish.
+
+Brother against Brother
+King Sancho - Ally
+Serfs - Ally or Enemy
+King Sancho's Champion - Enemy
+King Alfonso - Enemy
+King Alfonso's Army - Enemy → Ally
+
+The Enemy of my Enemy
+Spanish Rebels - Enemy
+
+The Exile of the Cid
+King Alfonso's Army - Ally → Enemy → Ally
+Berenguer - Enemy
+
+Black Guards
+King Alfonso's Army - Ally
+
+King of Valencia
+Valencia - Ally
+
+Reconquista
+Dead El Cid - Ally
+
+Montezuma[]
+
+The Triple Alliance, Quetzalcoatl, La Noche Triste and The Boiling Lake
+Cortéz - Neutral, Enemy
+
+Broken Spears
+Cortéz Army - Enemy
+Cortéz Navy - Enemy
+
+Sforza[]
+
+In the HD Edition:
+
+O Fortuna
+Brigata Carmagnola - Neutral → Enemy
+
+The Hand of a Daughter
+Carmagnola's Guards - Enemy
+
+El Dorado[]
+
+Tales of La Canela is played as the Spanish.
+
+Tales of La Canela
+Gonzalo Pizarro - Ally
+Gonzalo Diaz de Pineda - Ally → Neutral → Ally
+
+The Split
+Spanish - Ally
+
+The Cannibals
+Spaniards - Ally
+
+Battles of the Forgotten[]
+
+Bapheus
+Catalan Company - Enemy
+
+Tariq ibn Ziyad[]
+
+Consolidation and Subjugation
+Talavera - Enemy
+
+Divide and Conquer
+Zaragoza - Enemy
+
+Francisco de Almeida[]
+
+The Old World
+City of Toro - Ally
+Juanistas - Ally
+Castilian Villages - Ally
+Isabelistas - Ally → Enemy
+Aragonese Army - Enemy
+
+Victors and Vanquished[]
+
+Drake
+Viceroy's Men - Enemy
+Spanish Settlements - Ally
+
+The Art of War[]
+
+Battle Formations
+King Alfonso - Enemy
+
+In-game dialogue language[]
+
+In-game, Spanish units speak Early Modern Spanish (northern Iberian variant).
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Male_Select_1_AoE2.ogg Select 1 ¿Sí? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Female_Select_2_AoE2.ogg Female Select 2 Servidora - (Your) Servant, also an elaborate form of saying "Me" (feminine)
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Male_Select_2_AoE2.ogg Male Select 2 Servidor - (Your) Servant, also an elaborate form of saying "Me" (masculine)
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Female_Select_3_AoE2.ogg Female Select 3 Presta - Ready (feminine)
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Male_Select_3_AoE2.ogg Male Select 3 Presto - Ready (masculine)
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Male_Select_4_AoE2.ogg Select 4 ¿Mande? - Your command?
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Male_Task_1_AoE2.ogg Task 1 De grado - Gladly
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Male_Task_2_AoE2.ogg Task 2 Voy - I go
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Male_Task_3_AoE2.ogg Task 3 Plazme - It pleases me
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Male_Task_4_AoE2.ogg Task 4 Agora - Now
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Male_Build_AoE2.ogg Build Construir - To build
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Male_Chop_AoE2.ogg Chop Talar - To cut down
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Male_Farm_AoE2.ogg Farm Cultivar - To farm
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Male_Fish_AoE2.ogg Fish Pescar - To fish
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Male_Forage_AoE2.ogg Forage Buscar - To search, to look for
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Male_Hunt_AoE2.ogg Hunt Cazar - To hunt
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Male_Mine_AoE2.ogg Mine Excavar - To dig
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Male_Repair_AoE2.ogg Repair Remendar - To repair
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Female_Attack_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Spanish_Villager_Male_Attack_AoE2.ogg Attack ¡Santiago! - Historical battle cry, literally "Saint James!" (unused)
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Soldier_Select_1_AoE2.ogg Select 1 ¿Sí? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Soldier_Select_2_AoE2.ogg Select 2 Presto - Ready
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Soldier_Select_3_AoE2.ogg Select 3 ¿Mande? - Your command?
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Soldier_Move_1_AoE2.ogg Move 1 Voy - I go
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Soldier_Move_2_AoE2.ogg Move 2 Agora - Now
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Soldier_Move_3_AoE2.ogg Move 3 De grado - Gladly
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Soldier_Attack_1_AoE2.ogg Attack 1 ¡Santiago! - Historical battle cry, literally "Saint James!"
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Soldier_Attack_2_AoE2.ogg Attack 2 ¡A ellos! - To them!, Upon them!
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Soldier_Attack_3_AoE2.ogg Attack 3 ¡Guerra! - War!
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Soldier_Attack_4_AoE2.ogg Attack 4 ¡Eh! - Eh!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Monk_Select_1_AoE2.ogg Select 1 ¿Sí? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Monk_Select_2_AoE2.ogg Select 2 Servidor - (Your) Servant, also an elaborate form of saying "Me"
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Monk_Select_3_AoE2.ogg Select 3 Presto - Ready
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Monk_Select_4_AoE2.ogg Select 4 ¿Mande? - Your command?
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Monk_Move_1_AoE2.ogg Move 1 De grado - Gladly
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Monk_Move_2_AoE2.ogg Move 2 Voy - I go
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Monk_Move_3_AoE2.ogg Move 3 Plazme - It pleases me
+
+https://ageofempires.fandom.com/wiki/File:Spanish_Monk_Move_4_AoE2.ogg Move 4 Agora - Now
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Spanish_King_Select_1_AoE2.ogg Select 1 ¿Sí? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Spanish_King_Select_2_AoE2.ogg Select 2 Servidor - (Your) Servant, also an elaborate form of saying "Me"
+
+https://ageofempires.fandom.com/wiki/File:Spanish_King_Select_3_AoE2.ogg Select 3 Presto - Ready
+
+https://ageofempires.fandom.com/wiki/File:Spanish_King_Select_4_AoE2.ogg Select 4 ¿Mande? - Your command?
+
+https://ageofempires.fandom.com/wiki/File:Spanish_King_Move_1_AoE2.ogg Move 1 De grado - Gladly
+
+https://ageofempires.fandom.com/wiki/File:Spanish_King_Move_2_AoE2.ogg Move 2 Voy - I go
+
+https://ageofempires.fandom.com/wiki/File:Spanish_King_Move_3_AoE2.ogg Move 3 Plazme - It pleases me
+
+https://ageofempires.fandom.com/wiki/File:Spanish_King_Move_4_AoE2.ogg Move 4 Sí - Yes
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Spanish AI characters:
+
+Álvarez de Toledo: Surname of a prominent aristocratic Spanish family, may refer to Fernando, 3rd Duke of Alba (1507–1582), the brilliant military tactician who conquered Portugal in 1580, or García, 1st Duke of Alba (c. 1424–1488).
+
+Cardinal Jimenez (1436–1517): Religious and political figure influential in the Spanish clergy and government; promoted forced conversion of the Moors and crusades into North Africa. Also known for founding what is now the Complutense University of Madrid.
+
+Catherine of Aragon (1485–1536): Spanish royal, daughter of Queen Isabella and King Ferdinand II. Aragonese ambassador to England before becoming Queen of England upon her marriage to Henry VIII. His annulment of the marriage against the will of the Pope famously led to England's schism with the papacy.
+
+Count Berengeur: Misspelled, the title could refer to any of the many Counts of Barcelona or Provence from the Berenguer family from the 11th to 13th centuries.
+
+El Cid Campeador (c. 1043–1099): Famous nobleman and military leader in Spain. Originally served under King Alfonso VI, but exiled after attacking a Moorish protectorate of the Spanish King; in exile, he conquered the Moorish Kingdom of Valencia. Immortalized by legend, poetry, and theater.
+
+Gonzalo de Codóba: Misspelled, most likely General Gonzalo Fernández de Córdoba (1453–1515) known for military success in Italy often using innovative tactics such as trench warfare.
+
+Hernan Cortéz (1485–1547): His full name was Hernán Cortés de Monroy y Pizarro Altamirano, Conquistador famous for defeating Aztec ruler Cuauhtemoc and conquering his empire, leading a campaign between 1519 and 1521 with the aide of indigenous states hostile to the Aztecs.
+
+King Alfonso : Many Christian Kings of the name Alfonso ruled over parts of Spain, including Alfonso I "the Catholic" of Asturias (c. 693–757), Alfonso VI "the brave" of León and Castile (bef. 1040–1109), and Alfonso VIII of Castile (1155–1214).
+
+King Charles VIII: Likely a mistake; the only kings of the name Charles VIII were of Sweden (1408–1470) and of France (1470–1498).
+
+King Ferdinand: Multiple Christian Kings of the name Ferdinand ruled over parts of Spain, including Ferdinand I "the Great" of León (c. 1016–1065), Ferdinand I of Aragon (1379–1416), and Ferdinand II of Aragon and Castile (1452–1516) who jointly presided over the beginning of the global Spanish Empire with his wife Queen Isabella.
+
+King Ramiro of León: Could refer to Ramiro II (c. 900–951), king from 931–951 and famous for his military success, or Ramiro III (961–985), king from 966–984 who came to the throne at the age of five and later tried but failed to install; an absolutist regime in León.
+
+King Sancho: Many Christian Kings of the name Sancho ruled over parts of Spain, including the first King of Navarre, Sancho VI "the Wise" (died 1194), Sancho IV "the Brave" (1257–1295) of León and Castile, and Sancho II "the Strong" (1037–1072) of Castile (and later León) who was the son of Ferdinand I.
+
+Ordono II of León (c. 873–924): King of Galicia from 910–924, King of León from 914–924. Ruled in the northern part of the Iberian Peninsula, most of which was ruled by Muslim kingdoms against which he often went to war.
+
+Pedro the Cruel (1334–1369): King of Castile and León from 1350–1369. Fought a decades of war against the Kingdom Aragon (which eventually defeated Pedro with the support of the Pope and the French King). Labelled "The Cruel" by his contemporaries, others have called him "Pedro the Just."
+
+Pelayo of Asturias (685–737): Also called Pelagius, was an Iberian Visigoth monarch who founded the Kingdom of Asturias in 718. Pelagius is credited with initiating the Reconquista, the Christian reconquest of the Iberian Peninsula from the Moors, and establishing the Asturian monarchy, making him the forefather of all the future Iberian monarchies, including the Kings of Castile, the Kings of León, and the Kings of Portugal.
+
+Queen Isabella  (1451–1504): Queen of Castile from 1474–1504. Ruled jointly with her husband, Ferdinand II or Aragon, forming the basis for Spanish unification. Also famous for financing Christopher Columbus's expedition, leading to the Age of European colonization of the Americas. She is the AI personality of the Spanish in Age of Empires III.
+
+Ramiro I of Aragon (bef. 1007–1063): The first King of Aragon, ruled from 1035–1062. Took part in the Reconquista, subjugating small Moorish kingdoms on his borders. Killed in the Battle of Graus.
+
+History[]
+
+“ The history of Spain in the Middle Ages is written in three principal chapters: the creation of Visigothic Spain, then Muslim Spain, and then Reconquista, the reconquest of Spain by Christians. The Iberian peninsula was an appendage of the Roman Empire that was discarded as the empire disintegrated because it could not be defended in the face of barbarian invasions that brought devastation to the streets of Rome itself. The peninsula was occupied in large part by one of the migrating barbarian groups, the Visigoths, who had come most recently from the southwestern plains of modern Russia, displaced by the Huns . The Visigoths became Christian and occupied the center of the peninsula for several centuries. When one of the Visigoth lords appealed to Muslims in North Africa in the 8th century for aid against the king, the door was opened for Muslim expansion across the Straits of Gibraltar. Within 50 years the Muslims had taken most of the peninsula, leaving only small areas in the mountains and to the north outside their control. Muslim, or Moorish, Spain quickly developed into one of the most advanced European civilizations of the Middle Ages. It prospered in relative peace thanks to good agriculture, trade, coinage, and industry. It benefited from the spread of learning throughout the Muslim world. Cordoba became the largest and most sophisticated city in Europe after Constantinople, featuring a population of over 500,000, wonderful architecture, great works of art, a fabulous library, and important centers of learning. Peace and prosperity were disrupted by internal disruption, however, as important local rulers competed for overall power, and by external attack, both from the Christian north and Muslim North Africa. By the middle of the 13th century, Muslim Spain was reduced to a single kingdom centered on Granada. The Christian kingdoms of the north gradually ate away at Muslim power, though their effort was often dispersed when they fought with each other. Portugal split off and created a separate kingdom. Muslim Granada survived for several centuries thanks to liberal tribute paid to the Christians to its north and to clever diplomacy that played their enemies against each other. In 1469, however, Isabel I of Castile married Fernando II of Aragon, uniting the two competing Christian kingdoms and foreshadowing the end of Muslim Spain. Spain of the Middle Ages was a world of contrasts. It featured the great advantages of a multi-ethnic society, merging Latin, Jewish, Christian, Arab , and Muslim influences into a unique and rich culture. At the same time, however, many of these same cultural forces clashed violently. When two different cultures clash, the result is often grim. The reconquest dragged on for eight centuries, mirroring the Crusades in the holy land and creating an atmosphere that became increasingly pitiless and intolerant. The Christian warriors who eventually expelled the Muslims earned a reputation for being among the best fighters in Europe. Granada fell to the forces of Aragon and Castile at the start of 1492, a momentous year, as under the patronage of Queen Isabel, Christopher Columbus subsequently discovered for Europeans the great continents of the New World and their native populations. ” —Description [1]
+
+Trivia[]
+
+The Spanish's civilization icon is based on the coat of arms of the Crown of Castile which represents the Kingdoms of Leon and Castile.
+
+Before the Definitive Edition user interface image displayed the lion from the Shield of León.
+
+The Morion helmet worn by the Conquistador is used as The Conquerors icon and is also displayed on the user interface image in the Definitive Edition.
+
+Originally, the unique unit of the Spanish was planned to be the Genitour, but it was replaced by the Conquistador before release.
+
+The Spanish Wonder, the Torre del Oro, was actually built by the Berber Almohad Caliphate, colloquially known as the 'Moors' and only fell into Spanish hands after the capture of Seville during the Reconquista.
+
+Together with the Bulgarians, the Spanish are the only civilization to lack access to the Crossbowman upgrade.
+The Crossbowman's absence is made for gameplay consideration; historically, the Castilian and Aragonese armies did deploy crossbowmen.
+Inconsistently, the Age of Empires III equivalent of this unit is available to Spanish.
+
+The following heroes available in the Scenario Editor are themed on the Spanish: El Cid, El Cid Campeador, Gonzalo Pizarro, King Alfonso, King Sancho, and Francisco de Orellana.
+
+One of the Spanish AI player names, Queen Isabella, reappears as the Spanish personality of Age of Empires III .
+
+The Spanish are the only civilization with complete upgrades to their "trash units" (Halberdier, Hussar and Elite Skirmisher), making them a strong civilization when the gold is scarce.
+
+This is the second Romance-speaking civilization added to The Age of Kings, after their cousins the Franks.
+
+In contrast to their neighbor, the Portuguese, the Spanish put more emphasis on a mobile army and Monks. This is reflected with the Spanish having access to Paladin and Hussar upgrades, their unique mounted Monk unit, and their mounted gunpowder unique unit, but have lackluster foot archers (being one of the two civilizations to lack the Crossbowman upgrade).
+
+Before the Definitive Edition, the Spanish were the only Western European civilization with Bloodlines and Thumb Ring. After they became a Mediterranean civilization, none of the Western European civilization have either technology.
+
+Gallery[]
+
+The Wonder of the Spanish, the 
+
+Torre del Oro
+
+The Mediterranean architecture set the Spanish share with the 
+
+Armenians,
+
+Georgians,
+
+Italians,
+
+Portuguese,
+
+Byzantines,
+
+Sicilians, and
+
+Romans in the
+
+The Western European architecture set the Spanish share with the 
+
+Britons,
+
+Celts, and
+
+Franks before the
+
+Spanish preview in the 
+
+Definitive Edition
+
+Spanish 
+
+user interface image
+
+The Spanish user interface before the 
+
+Spanish overview (AoE2)
+
+Notes[]
+
+↑ Ballistics-like effect without the need to research the technology
+
+↑ At 7 tiles per second instead of the regular 3 (unmentioned in the tech tree).
+
+↑ Applies to Hand Cannoneers, Bombard Cannons, and Cannon Galleons. Does not apply to Conquistadors, but they have a base reload time of 2.9, the same as a Spanish Hand Cannoneer.
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/?p=5374
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+European civilizations
+
+The Conquerors
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

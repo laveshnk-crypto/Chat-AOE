@@ -1,0 +1,805 @@
+This page is all about the Byzantines
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The African Kingdoms
+3.3 Definitive Edition
+3.4 Dawn of the Dukes
+3.5 Dynasties of India
+3.6 Return of Rome
+
+4 Campaign appearances
+
+4.1 Saladin
+4.2 Barbarossa
+4.3 Attila the Hun
+4.4 Battles of the Conquerors
+4.5 Alaric
+4.6 Bari
+4.7 Sforza
+4.8 Battles of the Forgotten
+4.9 Tariq ibn Ziyad
+4.10 Tamerlane
+4.11 Ivaylo
+4.12 Kotyan Khan
+4.13 The Hautevilles
+4.14 Tamar
+4.15 Thoros II
+4.16 Victors and Vanquished
+4.17 The Art of War
+4.18 Event Challenges
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Civilization name
+
+9 Trivia
+
+10 Gallery
+
+11 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+European civilizations,
+
+The Age of Kings
+
+
+			English
+
+Español
+
+Byzantines (Age of Empires II)
+
+65
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+This article is about the civilization in Age of Empires II: The Age of Kings . For the civilization in Age of Empires IV: The Sultans Ascend , see Byzantines (Age of Empires IV) . For similar civilizations, see Romans .
+
+Civilization Technology tree Strategy
+
+Byzantines
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: The Age of Kings
+
+Architecture
+
+Mediterranean
+
+Continent
+
+Europe (south)
+
+Asia (Anatolia and the Middle East)
+
+Africa (north)
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Defense
+
+Unique units
+
+Cataphract
+
+Unique technologies
+
+Greek Fire
+
+Logistica
+
+“ While the Western Roman Empire decayed and collapsed, its eastern half in Byzantium remained an imperial titan for centuries to come. Repulse countless invasions with imposing fortifications, command vast and versatile armies amassed from within and outside your borders, and immolate enemy fleets with siphons of Greek Fire. Your heavily-armored Cataphracts inspire fear from the Danube to the Euphrates while your scholars propel you into a new age of technology and learning! ” —Description [1]
+
+The Byzantines are a Mediterranean European civilization in Age of Empires II (Middle Eastern before the Definitive Edition) based on the empire of the namesake around modern day Greece and Turkey. They are classified as a defensive civilization.
+
+Despite Greece falling into the hands of the Ottoman Empire, the Byzantine civilization is represented in Age of Empires III: Definitive Edition - Knights of the Mediterranean by the Royal House of Phanar, based on the Phanariotes (who were direct descendants of Byzantine imperial and aristocratic families, as well as the families of wealthy Greek merchants in the Phanar District of Constantinople). The Phanariot Byzantine Legacy technology also offers an improvement to building hit points, similar to the Age of Empires II Byzantines' own inherent building hit point bonus.
+
+The Byzantines also appear as a playable civilization in Age of Empires IV: The Sultans Ascend.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The African Kingdoms
+3.3 Definitive Edition
+3.4 Dawn of the Dukes
+3.5 Dynasties of India
+3.6 Return of Rome
+
+4 Campaign appearances
+
+4.1 Saladin
+4.2 Barbarossa
+4.3 Attila the Hun
+4.4 Battles of the Conquerors
+4.5 Alaric
+4.6 Bari
+4.7 Sforza
+4.8 Battles of the Forgotten
+4.9 Tariq ibn Ziyad
+4.10 Tamerlane
+4.11 Ivaylo
+4.12 Kotyan Khan
+4.13 The Hautevilles
+4.14 Tamar
+4.15 Thoros II
+4.16 Victors and Vanquished
+4.17 The Art of War
+4.18 Event Challenges
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Civilization name
+
+9 Trivia
+
+10 Gallery
+
+11 References
+
+Characteristics[]
+
+Unique unit[]
+
+Cataphract: Heavy cavalry that excels at combat against infantry and Camel Riders.
+
+Unique technologies[]
+
+Greek Fire: Gives Fire Ships +1 range; Dromons +0.2 blast radius; Bombard Towers +0.5 blast radius [25% effect without friendly fire damage]
+
+Logistica: Gives Cataphracts trample damage in 0.5 tiles radius (pure 5 damage) and +6 attack against infantry.
+
+Civilization bonuses[]
+
+Buildings, Walls/Gates, and Farms have +10%/+20%/+30%/+40% hit points in the Dark/Feudal/Castle/Imperial Age.
+
+Camel Rider, Skirmisher, and Spearman lines are 25% cheaper.
+
+Fire Ships and Dromons fire 25% faster.
+
+Advancing to the Imperial Age is 33% cheaper.
+
+Town Watch and Town Patrol are free.
+
+Team bonus[]
+
+Monks heal 100% faster.
+
+Overview[]
+
+The greatest perk of the Byzantines are their defenses. Not only do they have additional hit points on all of their buildings (though the lack of Masonry and Architecture does mean that the difference is not as significant outside of walls), but they also have discounts on their Camel Rider, Skirmisher, and Spearman lines. This gives them a great ability to hold a position, and their fully upgraded Arbalesters and very strong unique Cataphracts allow them to push as well. They are even stronger on water, thanks to their full tech tree and their faster-firing Fire Ships. Their cheaper Imperial Age should also not be forgotten, as it gives them a strong power spike. They have a wide technology tree with respect to Barracks, Archery Range, Monastery, and economy.
+
+The Byzantines are versatile but have a few weaknesses. First, the lack of a strong early-game bonus can lead to a slow start, and means they often have to rely on their defenses a lot in order to catch up. They also have poor Cavalry Archers due to lacking Parthian Tactics and more importantly Bloodlines. Their Stables are still usable, as despite their lack of Bloodlines and Blast Furnace (which the later also weaken their infantry offensive power), they still have access to Hussars, Paladin, and Heavy Camel Rider, and their camels are cheaper. Lastly, they lack Siege Engineers, Siege Onagers, and Heavy Scorpions, making their siege department fairly poor, which makes these two unit lines unusable, and hindering the utility of other siege units (which are still usable, as they still have access to Siege Rams and Bombard Cannons).
+
+Altogether, due to their wide technology tree and wide array of bonuses, the Byzantines are hard to predict in multiplayer games. Their strong defenses work well at securing map control, and their cheap Skirmishers, Camel Riders, and Spearmen, as well as their powerful Cataphracts give them the ability to counter most civilizations' armies. Their Fire Ships and Dromons make them a great pick on both water and mixed maps, making them a solid civilization overall. The Byzantines are a versatile civilization that relies on a wide variety of units of all categories for both offense and defense strategies, making the civilization appealing for new players.
+
+Changelog[]
+
+The Conquerors[]
+
+Team bonus: Monks heal rate bonus decreased (200% → 50% faster).
+
+Cataphracts train faster (23 → 20 seconds).
+
+Cataphracts have a faster Rate of Fire (2.0 → 1.8 (standard)/1.7 (Elite)).
+
+Cataphracts cavalry armor increased (0 → +12 (standard)/+16 (Elite)) bonus defense against.
+
+With patch 1.0b, the Byzantines receive a new civilization bonus: Town Watch is free and researched instantly.
+
+The African Kingdoms[]
+
+With patch 4.8, Greek Fire's gold cost decreased(450 gold → 300 gold).
+
+Definitive Edition[]
+
+Architecture style changed (Middle Eastern → Mediterranean).
+
+With update 39284, the Elite Cataphract upgrade and Logistica had their food costs decreased:
+Elite Cataphract: 1,600 food → 1,200 food.
+Logistica: 1,000 food → 800 food.
+
+Dawn of the Dukes[]
+
+With update 51737, Town Patrol is free and researched instantly.
+
+Team bonus: with update 56005, Monks heal rate bonus increased(50% → 100% faster).
+
+Dynasties of India[]
+
+With update 66692, Byzantines receive access to Treadmill Crane.
+
+With update 81058, Greek Fire now additionally provides +5 blast damage to Bombard Towers.
+
+Return of Rome[]
+
+Dromon added to the technology tree.
+
+The Fire Ship 25% attack speed bonus is extended to the Dromon.
+
+(Elite) Cannon Galleon removed from the technology tree.
+
+With update 87863, Greek Fire now also adds splash damage to Dromons.
+
+Campaign appearances[]
+
+The Byzantines are a playable civilization in all scenarios from the Bari campaign. They are also playable in two scenarios from Victors and Vanquished: Komnenos and Constantine XI.
+
+They also feature in a notable amount of other campaigns. The following list shows every campaign appearance of the Byzantines:
+
+Toggle campaign appearance list
+
+Saladin[]
+
+The Horns of Hattin and The Siege of Jerusalem
+Jerusalem - Enemy
+
+Jihad!
+Tyre - Enemy
+
+The Lion and the Demon
+Jerusalem - Enemy
+Genoese - Enemy
+
+Barbarossa[]
+
+The Lombard League
+Venice - Enemy
+
+Barbarossa's March
+Constantinople - Ally → Enemy → Ally
+Gallipoli - Ally
+
+The Emperor Sleeping
+Jerusalem - Enemy
+
+Attila the Hun[]
+
+The Scourge of God
+Eastern Roman Empire - Neutral
+
+The Great Ride
+Adrianople - Enemy
+Eastern Roman Empire - Enemy
+Thessalonica - Enemy
+Sofia - Enemy
+Naissus - Enemy
+Dyrrachium - Enemy
+
+The Walls of Constantinople
+Constantinople - Enemy
+Philippopolis - Enemy
+
+A Barbarian Betrothal, The Catalaunian Fields
+Western Roman Empire - Enemy
+
+The Fall of Rome
+Western Roman Empire - Ally
+
+Battles of the Conquerors[]
+
+Manzikert
+Byzantine Army - Enemy
+Cappadocia - Enemy → Ally
+Pisidia - Enemy → Ally
+Galatia - Enemy → Ally
+
+Lepanto
+Greek Village - Neutral → potential Ally
+
+Alaric[]
+
+In the HD Edition:
+
+All Roads Lead to a Besieged City
+Legions of Rome - Enemy
+
+Legionaries on the Horizon!, Emperor of the West and The Sack of Rome
+Belisarius - Enemy
+
+In the Definitive Edition:
+
+The Battle of the Frigidus
+Eastern Roman Empire - Ally
+Western Roman Empire - Enemy
+
+Razing Hellas
+Sparta - Enemy → Ally
+Corinth - Enemy → Ally
+Argos - Enemy → Ally
+Athens (Athens in co-op version) - Enemy → Ally
+Eastern Roman Empire - Enemy
+Roman Defenders - Enemy
+
+The Belly of the Beast
+Aquileia - Enemy
+
+The Giant Falls
+City Garrison - Enemy
+
+A Kingdom of Our Own
+Western Roman Army - Neutral → Enemy
+
+Bari[]
+
+This campaign is played as the Byzantines.
+
+In the HD Edition:
+
+Arrival at Bari
+Byzantine Empire - Ally
+
+The Rebellion of Melus
+Byzantine Empire - Ally
+Melus - Ally → Enemy
+
+The Great Siege
+Bari - Ally
+
+In the Definitive Edition:
+
+The Onrushing Tide
+Bari - Ally
+
+Sforza[]
+
+In the HD Edition:
+
+O Fortuna
+Venetians - Neutral → Enemy → Ally
+
+The Hand of a Daughter
+Venetian Navy - Enemy
+
+A New Duke of Milan
+Venetians - Ally → Enemy
+
+Battles of the Forgotten[]
+
+Cyprus
+In the HD Edition:
+Isaac Komnenos - Enemy
+Cyprus - Enemy
+In the Definitive Edition:
+Nicosia - Enemy
+Nicosia Fleet - Enemy
+Nicosia Scouts - Enemy
+In both versions:
+Limassol - Enemy
+
+Honfoglalás (both Editions)
+Byzantines (Byzantines in co-op version) - Ally
+
+Bapheus
+Byzantine Empire - Enemy
+
+Tariq ibn Ziyad[]
+
+Consolidation and Subjugation
+Toledo - Ally
+
+Tamerlane[]
+
+Scourge of the Levant (before The Mountain Royals)
+Cilician Armenia - Enemy
+
+Ivaylo[]
+
+An Unlikely Alliance
+Romans - Enemy
+
+Echoes of Heroes
+Roman Infiltrators - Enemy
+Romans - Enemy
+
+Kotyan Khan[]
+
+A New Home
+Byzantines - Neutral → Enemy
+
+The Hautevilles[]
+
+Guiscard Arrives
+Argyrus the Byzantine - Ally → potential Enemy
+
+Bohemond and the Emperor
+Alexios Komnenos - Enemy
+Nikephoros Melissenos - Enemy
+Gregorios Pakourianos - Enemy
+Byzantine Garrisons - Enemy
+
+Bohemond in the East
+Antioch - Ally
+
+Wonder of the World
+Emp. John II Komnenos - Ally → potential Enemy
+
+Tamar[]
+
+Yury's Revenge
+Byzantines - Enemy
+
+Tamar the Builder
+Trebizond - Enemy
+Alexios - Ally
+
+Thoros II[]
+
+Outlawed
+Byzantines - Enemy
+Byzantines Garrisons - Enemy
+
+The Emperor's Revenge
+Byzantines - Enemy
+Byzantines Generals - Enemy
+
+Bloody Crestwaves
+Byzantine Navy - Enemy
+Limassol - Enemy
+Nicosia - Enemy
+Cypriot Villages - Enemy
+Friendly Cypriots - Ally
+
+Of Turncoats and Traitors
+Byzantine Army - Enemy
+
+Victors and Vanquished[]
+
+Constantine XI
+Constantinople - Ally
+
+Fetih
+Roman Army - Enemy
+Constantinople - Enemy
+
+Ironside
+Roman Empire - Enemy
+
+Komnenos
+Peasants - Ally
+Enemies of Rome - Enemy
+Romaioi/Pretenders - Ally -> Neutral -> Ally -> Enemy
+
+Seljuk
+Byzantines - Ally → Enemy
+
+Vortigern
+Romano-British - Enemy
+
+The Art of War[]
+
+Early Economy is played as the Byzantines.
+
+Defending Against A Rush
+Belisarius - Enemy
+
+Event Challenges[]
+
+Team 2 in the The Siege scenario can be played as the Byzantines.
+
+The Siege
+Constantinople - Neutral for Team 1 and Ally for Team 2
+Constantinople - Neutral for Team 1 and Ally for Team 2
+
+In-game dialogue language[]
+
+The Byzantine units speak Latin, which they share with the Italians, and the Briton Monks and Kings. Historically, the Byzantine Empire ditched Latin as an administrative language in the 7th century, in favor of Greek, their most commonly spoken language with an already long history of cultural and administrative use at the time: in fact, Greek had been an official language of the Roman Empire alongside Latin.
+
+There are some notable bad choices in the dialogues which make them even more inappropriate than the choice of Latin already is:
+
+units ask 'do I command?' (impero) instead of addressing the player, as other civilizations do. This is very probably a mistake coming from the fact that the citation form of verbs in Latin dictionaries is a first person, whereas in English it can correspond to the infinitive or the imperative: so English bare command as opposed to Latin impero (citation form and meaning 'I am commanding'), as opposed to imperare (infinitive, 'to command') or impera (singular present imperative, 'command!');
+
+conversely, military units address a second person with comita, so 'you (sg.) attend!', instead of a first person like comito;
+
+the form pabulo does not really exist, as the verb is deponent and so one expects pabulor. Besides, the verb means "seeking for food" or "feed oneself" rather than "collecting food" as the Villagers do in the game;
+
+also, units say correctus 'correct' in the masculine (citation form), but it should rather be correctum in the neuter or even correcte (adverb 'correctly');
+
+the line for hunting venatus stands out from the others in the same series because it is not a first person (which would be venor), but it can either be interpreted as the perfect participle, and so something like 'I have hunted' (as the verb is deponent), or better as the verbal noun meaning 'hunt';
+
+Prior to the Definitive Edition, the dialogues had a strong American accent. This has been amended, but the pronunciation is still quite arbitrary and in some cases plain wrong:
+
+it oscillates between a reconstructed pronunciation of Classical Latin such as /ˈkae̯doː/ for caedo, and a later, "ecclesiastical" one such as /reˈfi ͡tʃo/ for reficio. They should be respectively either /' ͡tʃedo/ in the ecclesiastical variant and /rɛˈfɪkɪoː/ in the Classical one;
+
+stress is wrong: it should be on the first syllable in deleo, impero and comita.
+
+This, together with a selection of a very Classical vocabulary instead of one representing a much later stadium of the language closer to the time frame of the Byzantine empire, all makes the Byzantine lines an extremely poor choice to voice this civilisation (and also Italians). Despite this, up to The Mountain Royals, this fact has not been amended, as it has instead been the case e.g. for Indians/Hindustanis (previously using even some English lines, as they were taken from Age of Empires III).
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Male_Select_1_AoE2.ogg Select 1 Ain? - Intended to mean "Yes?", but actually "You say [so]?!" (it is a crasis of ais ne), with an out-of-place sense of surprise
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Male_Select_2_AoE2.ogg Select 2 Salvē - "Hello" (lit. "may you be in good health!")
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Male_Select_3_AoE2.ogg Select 3 Praestō - "[I am] at the ready"
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Male_Select_4_AoE2.ogg Select 4 Imperō? - "Do I command?" (see comments above)
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Male_Task_1_AoE2.ogg Task 1 Sānē - "Reasonably" (adverb from sanus)
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Male_Task_2_AoE2.ogg Task 2 Ain - Intended to mean "Yes?", but actually "You say [so]?!" (it is a crasis of ais ne), with an out-of-place sense of surprise
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Male_Task_3_AoE2.ogg Task 3 Corrēctus - "Right" (but see comments above)
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Male_Task_4_AoE2.ogg Task 4 Agō - "I do"
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Male_Build_AoE2.ogg Build Condō - "I establish"
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Male_Chop_AoE2.ogg Chop Caedō - "I cut"
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Male_Farm_AoE2.ogg Farm Colō - "I cultivate"
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Male_Fish_AoE2.ogg Fish Captō - "I seize" (intensive form of capio)
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Male_Forage_AoE2.ogg Forage Pābulō - "I forage" (see comments above)
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Male_Hunt_AoE2.ogg Hunt Vēnātus - "Hunt (noun)"
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Male_Mine_AoE2.ogg Mine Fodiō - "I dig"
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Male_Repair_AoE2.ogg Repair Reficiō - "I repair"
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Male_Attack_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Byzantines_Villager_Female_Attack_AoE2.ogg Attack Pugnō! - "I fight!" (not used)
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Soldier_Select_1_AoE2.ogg Select 1 Ain? - Intended to mean "Yes?", but actually "You say [so]?!" (it is a crasis of ais ne), with an out-of-place sense of surprise
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Soldier_Select_2_AoE2.ogg Select 2 Praestō - "[I am] at the ready"
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Soldier_Select_3_AoE2.ogg Select 3 Imperō? "Do I command?" (see comments above)
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Soldier_Move_1_AoE2.ogg Move 1 Ain - Intended to mean "Yes?", but actually "You say [so]?!" (it is a crasis of ais ne), with an out-of-place sense of surprise
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Soldier_Move_2_AoE2.ogg Move 2 Agō - "I do"
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Soldier_Move_3_AoE2.ogg Move 3 Sānē - "Reasonably" (adverb from sanus)
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Soldier_Attack_1_AoE2.ogg Attack 1 Pugnō! - "I fight!"
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Soldier_Attack_2_AoE2.ogg Attack 2 Comitā! - "Attend!"
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Soldier_Attack_3_AoE2.ogg Attack 3 Porrō! - "Forward!"
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Soldier_Attack_4_AoE2.ogg Attack 4 Dēleō! - "I annihilate!"
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Monk_Select_1_AoE2.ogg Select 1 Ain? - Intended to mean "Yes?", but actually "You say [so]?!" (it is a crasis of ais ne), with an out-of-place sense of surprise
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Monk_Select_2_AoE2.ogg Select 2 Salvē - "Hello" (lit. "may you be in good health!")
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Monk_Select_3_AoE2.ogg Select 3 Praestō - "[I am] at the ready"
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Monk_Select_4_AoE2.ogg Select 4 Imperō? - "Do I command?" (see comments above)
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Monk_Move_1_AoE2.ogg Move 1 Sānē - "Reasonably" (adverb from sanus)
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Monk_Move_2_AoE2.ogg Move 2 Ain - Intended to mean "Yes?", but actually "You say [so]?!" (it is a crasis of ais ne), with an out-of-place sense of surprise
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Monk_Move_3_AoE2.ogg Move 3 Corrēctus - "Right" (but see comments above)
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_Monk_Move_4_AoE2.ogg Move 4 Agō - "I do"
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_King_Select_1_AoE2.ogg Select 1 Ain? - Intended to mean "Yes?", but actually "You say [so]?!" (it is a crasis of ais ne), with an out-of-place sense of surprise
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_King_Select_2_AoE2.ogg Select 2 Salvē - "Hello" (lit. "may you be in good health!")
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_King_Select_3_AoE2.ogg Select 3 Praestō - "[I am] at the ready"
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_King_Select_4_AoE2.ogg Select 4 Imperō? "Do I command?" (see comments above)
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_King_Move_1_AoE2.ogg Move 1 Sānē - "Reasonably" (adverb from sanus)
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_King_Move_2_AoE2.ogg Move 2 Ain - Intended to mean "Yes?", but actually "You say [so]?!" (it is a crasis of ais ne), with an out-of-place sense of surprise
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_King_Move_3_AoE2.ogg Move 3 Corrēctus - "Right" (but see comments above)
+
+https://ageofempires.fandom.com/wiki/File:Byzantines_King_Move_4_AoE2.ogg Move 4 Agō - "I do"
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Byzantine AI characters:
+
+Anastasios I Dikoros (Ἀναστάσιος I Δίκορος; 431-518): Byzantine emperor from 491-518. Reformer of administration and internal affairs, gained popularity by lowering taxes. Built the Anastasian Wall to protect Constantinople from Huns, Slavs and Bulgars; reinforced the Persian border.
+
+Basil the Macedonian (Βασίλειος ὁ Μακεδών; 811-886): Byzantine emperor from 867-886. Born a peasant, he rose in the Imperial court and assassinated the emperor to become emperor himself. Turned out to be one of the greatest Byzantine emperors.
+
+Basil Boioannes (Βασίλειος Βοϊωάννης; 1017-1027): was the Byzantine catapan of Italy and one of the greatest Byzantine generals of his time. His accomplishments enabled the Empire to reestablish itself as a major force in southern Italy after centuries of decline.
+
+Belisarius (Βελισάριος; 505-565): Flavius Belisarius, legendary general of Justinian I. Conquered territories in Italy, Dalmatia, Africa and southern Hispania from the Vandals and Goths.
+
+Emp. Alexius IV (Αυτοκράτορας Αλέξιος Δ'; 1182-1204): Byzantine emperor from 1203-1204. Managed to escape to the Holy Roman Empire after his father was overthrown in a coup. He redirected the Fourth Crusade to Constantinople to claim his throne, but failed to meet his promises to the crusader nations and was deeply unpopular with the citizenry. Eventually imprisoned and strangled.
+
+Emp. Anastasius (Αυτοκράτορας Ἀναστάσιος): The only Byzantine Emperor named Anastasius was Anastasios I Dikoros above.
+
+Emp. Constantine (Αυτοκράτορας Κωνσταντῖνος): Eleven emperors were named Constantine, including the first Christian Roman Emperor (306-337), founder of Constantinople, and the last, who disappeared when the Ottomans took the city in 1453.
+
+Emp. Justinian (Αυτοκράτορας Ἰουστινιανός; 482-565) : Byzantine emperor from 527-565. Sought to revive the Roman Empire's greatness by conquering former territories in the western Mediterranean, while Byzantine culture and law flourished.
+
+Emp. Leo VI (Αυτοκράτορας Λέων ΣΤ΄; 866-912): "The Wise", Byzantine emperor from 886-912. A prolific writer, wrote about law, politics, theology and poetry, while his fortune in wars was mixed.
+
+Emp. Mauricius (Αυτοκράτορας Μαυρίκιος; 539-602): Byzantine emperor from 582-602. Victorious in the war against Persia gaining much of Armenia and Georgia, and solidified territory in the Balkans and the western Mediterranean. Executed by the usurper Phocas.
+
+Emp. Michael V (Αυτοκράτορας Μιχαήλ Ε΄; 1015-1041): Byzantine emperor for four months. Adoptive son of Empress Zoe, she helped him to become heir to the throne. Determined to rule on his own, he banished Zoe, after which the population revolted and Zoe (with her sister) was reinstalled as empress, while Michael died shortly after.
+
+Emp. Romanus II (Αυτοκράτορας Ρωμανός Β΄; 938-963): Byzantine emperor from 959-963. Recaptured Crete from the Muslims, captured Arab territory in the east and defended the Balkans from the Magyars. Suddenly became ill on a hunting expedition and died.
+
+Emp. Tiberius III (Αυτοκράτορας Τιβέριος Γʹ): Byzantine emperor from 698-705. Former Germanic naval officer, decided to ignore Africa and Carthage and focus his efforts on containing the Arab threat in the east.
+
+Emperor Romanos II (Αυτοκράτορας Ρωμανός Β΄; 938-963): See Emp. Romanus II.
+
+General Manuel Comnenus (Μανουήλ Κομνηνός; 1118-1180): Byzantine emperor from 1143-1180. Sought the return of the glory of the Byzantine Empire: Made alliances with the pope, held campaigns in Hungary and Sicily and also took part in the Second Crusade. He was mentioned in the Thoros II campaign as the Byzantine Emperor.
+
+Heraclius the Elder (Ηράκλειος ο Πρεσβύτερος; 575-610): Byzantine general. Fought battles against the Persians and quelled an Armenian revolt. Appointed Exarch of Africa, he then helped his son to overthrow the usurper Phocas, but died soon after.
+
+Michael the Stammerer (Μιχαήλ ὁ Τραυλός; 770-829): Michael II the Amorian, Byzantine emperor from 820-829. Rose from soldier up to high rank and conspired to assassinate the emperor to become emperor himself. Lost Crete to the Saracens and could not prevent the Muslim conquest of Sicily.
+
+History[]
+
+“ The Byzantines took their name from Byzantium, an ancient city on the Bosphorus, the strategic waterway linking the Black Sea to the Aegean Sea. The Roman Emperor Constantine had renamed this city Constantinople in the fourth century and made it a sister capital of his empire. This eastern partition of the Roman Empire outlived its western counterpart by a thousand years, defending Europe against invasions from the east by Persians , Arabs , and Turks . The Byzantines persevered because Constantinople was well defended by walls and the city could be supplied by sea. At their zenith in the sixth century, the Byzantines covered much of the territories of the original Roman Empire, lacking only the Iberian Peninsula (modern Spain and Portugal), Gaul (modern France), and Britain. The Byzantines also held Syria, Egypt, and Palestine, but by the middle of the seventh century they had lost them to the Arabs. From then on their empire consisted mainly of the Balkans and modern Turkey. The first great Byzantine emperor was Justinian I (482 to 565). His ambition was to restore the old Roman Empire and he nearly succeeded. His instrument was the greatest general of the age, Belisarius , who crisscrossed the empire defeating Persians to the East, Vandals in North Africa, Ostrogoths in Italy, and Bulgars and Slavs in the Balkans. In addition to military campaigns, Justinian laid the foundation for the future by establishing a strong legal and administrative system and by defending the Christian Church. The Byzantine economy was the richest in Europe for many centuries because Constantinople was ideally sited on trade routes between Asia, Europe, the Black Sea, and the Aegean Sea. It was an important destination point for the Silk Road from China. The nomisma, the principal Byzantine gold coin, was the standard for money throughout the Mediterranean for 800 years. Constantinople's strategic position eventually attracted the envy and animosity of the Italian city-states . A key strength of the Byzantine Empire was its generally superior army that drew on the best elements of the Roman , Greek, Gothic, and Middle Eastern experience in war. The core of the army was a shock force of heavy cavalry supported by both light infantry (archers) and heavy infantry (armored swordsmen). The army was organized into units and drilled in tactics and maneuvers. Officers received an education in military history and theory. Although outnumbered usually by masses of untrained warriors, it prevailed thanks to intelligent tactics and good discipline. The army was backed by a network of spies and secret agents that provided information about enemy plans and could be used to bribe or otherwise deflect aggressors. The Byzantine navy kept the sea-lanes open for trade and kept supply lines free so the city could not be starved into submission when besieged. In the eighth century, a land and sea attack by Arabs was defeated largely by a secret weapon, Greek fire . This chemical weapon, its composition now unknown, was a sort of liquid napalm that could be sprayed from a hose. The Arab navy was devastated at sea by Greek fire. In the seventh and eighth centuries, the Arabs overran Egypt, the Middle East, North Africa, and Spain, removing these areas permanently from Byzantine control. A Turkish victory at Manzikert in 1071 led to the devastation of Asia Minor, the empire's most important source of grain, cattle, horses, and soldiers. In 1204 Crusaders led by the Doge of Venice used treachery to sack and occupy Constantinople. In the fourteenth century, the Turks invaded Europe, capturing Adrianople and bypassing Constantinople. They settled the Balkans in large numbers and defeated a large crusader army at Nicopolis in 1396. In May 1453, Turkish sultan Mehmet II captured a weakly defended Constantinople with the aid of heavy cannon. The fall of the city brought the Byzantine Empire to an end. ” — [1]
+
+Civilization name[]
+
+Historically, the Byzantines referred to their empire as the "Roman Empire" or the "Kingdom of the Romans" (Greek: Βασιλεία τῶν Ῥωμαίων, Basilea ton Romaion), "Romania" (Greek: Ῥωμανία meaning "Land of the Romans"), "Graecia" (Greek: Γραικία meaning "Land of the Greeks") and "Rhōmais" (Greek: Ῥωμαΐς). They likewise referred to themselves as "Romans", "Greeks", and/or "Hellenes" (Romaioi, Graikoi and Ellines in Greek respectively) since they were the political continuation of the Roman Empire in the east, as well as the direct heirs and guardians of Hellenic civilization. They were also known as "Greeks" in Western Europe due to the Greek language they spoke. Both the terms "Eastern Roman Empire" and "Byzantines" are modern historiographical terms that refer to the empire and its inhabitants respectively and were developed years after the fall of the empire's capital, Constantinople, in 1453 to the invasions of the Ottoman Turks.
+
+Trivia[]
+
+The Byzantine civilization icon in the Definitive Edition is a kite shield like the one used by the Cataphract. It bears the tetragrammic cross, which was used as emblem by the Palaiologos dynasty from the mid-13th century.
+
+The user interface image in the Definitive Edition displays a Byzantine double-headed eagle.
+
+After changing to the Mediterranean architecture set in the Definitive Edition, the Byzantines are the only civilization with European architecture that can train Camel Riders.
+
+The Byzantines and the Teutons are the only "defensive" civilizations in The Age Of Kings. The "defensive" part of their focus is not changed in later expansions.
+
+Belisarius and Tsar Konstantin are the only heroes available in the Scenario Editor which are themed on the Byzantines.
+
+The Byzantines' -33% Imperial Age discount is ~3 gold more than what it should be (2/3rds of 800 gold is ~533 gold, the actual cost is 536 gold).
+
+The Byzantines are one of the four civilizations that have access to Paladins, but not Bloodlines (the other being Burgundians, Celts, and Franks, although the latter have a civilization bonus that gives their cavalry units +20% HP), and one of the two civilizations that have access to Camel Riders without Bloodlines (the other being the Ethiopians).
+
+Despite being a continuation of the Roman Empire, and using Scorpions and Onagers despite their disuse in former Western Roman territories, they do not gain access to Siege Onagers or Heavy Scorpions.
+
+Despite the Byzantines having lackluster Cavalry Archers, they historically were known to utilize mounted archery to fight off Arab tribes and nomads, and cataphracts were often trained in both melee and ranged combat. The Byzantines even formed their own mounted archery regiment called turcopole during the Crusades.
+
+The Byzantines are a very effective civilization for new players and beginners, mostly due to having a very open tech tree in all stages of the game for various areas and strategies.
+
+Gallery[]
+
+The Wonder of the Byzantines, the 
+
+Hagia Sophia
+
+Official 
+
+The Mediterranean architecture set the Byzantines share with the 
+
+Armenians,
+
+Georgians,
+
+Italians,
+
+Portuguese,
+
+Romans,
+
+Spanish, and
+
+Sicilians in the
+
+The Middle Eastern architecture set the Byzantines share with the 
+
+Berbers,
+
+Persians,
+
+Saracens, and
+
+Turks before
+
+The flaming trail of a Byzantine Bombard Tower's cannonball after researching Greek Fire
+
+Byzantines user interface image, the double-headed eagle
+
+The Byzantine 
+
+user interface prior to the
+
+Jerusalem, represented by the Byzantines in 
+
+The Siege of Jerusalem
+
+Byzantines preview.
+
+Byzantine Overview AoE2
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/byzantines
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+European civilizations
+
+The Age of Kings
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

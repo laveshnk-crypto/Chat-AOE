@@ -1,0 +1,703 @@
+This page is all about the Teutons
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Definitive Edition
+3.5 Dawn of the Dukes
+3.6 Dynasties of India
+
+4 Campaign appearances
+
+4.1 Saladin
+4.2 Genghis Khan
+4.3 Barbarossa
+4.4 Attila the Hun
+4.5 Bari
+4.6 Sforza
+4.7 Battles of the Forgotten
+4.8 Tamerlane
+4.9 Kotyan Khan
+4.10 Edward Longshanks
+4.11 The Grand Dukes of the West
+4.12 The Hautevilles
+4.13 Algirdas and Kestutis
+4.14 Jadwiga
+4.15 Jan Zizka
+4.16 Thoros II
+4.17 Victors and Vanquished
+4.18 The Art of War
+4.19 Event Challenges
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+The Age of Kings,
+
+European civilizations
+
+
+			English
+
+Español
+
+Teutons
+
+58
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+This article is about the civilization in Age of Empires II: The Age of Kings . For the civilization in Age of Empires III , see Germans . For the civilization in Age of Empires IV , see Holy Roman Empire .
+
+Civilization Technology tree Strategy
+
+Teutons
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: The Age of Kings
+
+Architecture
+
+Central European
+
+Continent
+
+Europe
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Teutons_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Teutons_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Teutons_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Infantry
+
+Unique units
+
+Teutonic Knight
+
+Unique technologies
+
+Ironclad
+
+Crenellations
+
+“ Charlemagne's empire has fallen, and the task of rebuilding the Holy Roman Empire lies in your hands. Unite the feuding duchies, contend with Papal authority, and construct powerful crenellated fortifications! Smash enemy armies with potent knights and demolish their cities with armored siege engines, or lead your men on crusade to the Holy Land or into Eastern Europe. The Teuton unique unit is the Teutonic Knight, a zealous warrior who can carve most melee units into ribbons. ” —Description [1]
+
+The Teutons are a Central European civilization in Age of Empires II. They are based on Medieval Germany and the Holy Roman Empire, as well as on medieval Christian military orders, such as the Teutonic Knights. They focus on infantry, with support from cavalry, siege units, and fortifications.
+
+The Teutons also appear in Age of Empires III and Age of Empires IV as Germans and the Holy Roman Empire, respectively. In both installments, they share the same characteristic of the Teutons of being an infantry-focused civilization with a strong economy and defensive capacity.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Definitive Edition
+3.5 Dawn of the Dukes
+3.6 Dynasties of India
+
+4 Campaign appearances
+
+4.1 Saladin
+4.2 Genghis Khan
+4.3 Barbarossa
+4.4 Attila the Hun
+4.5 Bari
+4.6 Sforza
+4.7 Battles of the Forgotten
+4.8 Tamerlane
+4.9 Kotyan Khan
+4.10 Edward Longshanks
+4.11 The Grand Dukes of the West
+4.12 The Hautevilles
+4.13 Algirdas and Kestutis
+4.14 Jadwiga
+4.15 Jan Zizka
+4.16 Thoros II
+4.17 Victors and Vanquished
+4.18 The Art of War
+4.19 Event Challenges
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+Characteristics[]
+
+Unique unit[]
+
+Teutonic Knight: Slow but strong infantry.
+
+Unique technologies[]
+
+Ironclad: Gives siege weapons +4 melee armor.
+
+Crenellations: Gives Castles +3 range and makes garrisoned infantry shoot arrows.
+
+Civilization bonuses[]
+
+Monks have double healing range.
+
+Towers garrison twice as many units.
+
+Murder Holes and Herbal Medicine are free.
+
+Farms are 40% cheaper.
+
+Town Centers can garrison +10 units.
+
+Barracks and Stable units receive +1/+2 melee armor in the Castle/Imperial Age.
+
+Team bonus[]
+
+Units resist conversion (half as effective as Faith).
+
+Overview[]
+
+The Teutons are built around a slow but powerful force. The most indicative part of this is their unique unit, the Teutonic Knight, a unit that has poor movement speed but has extremely high melee armor as well as high attack and high health. Outside of this, their Barracks and Stable units receive an extra +1/+2 melee armor in the Castle and Imperial ages, and they possess all of the infantry upgrades available. Their siege weapons are also great, as they are missing only the Siege Ram and have Ironclad, which helps patch up their main weakness: melee attacks. Teutonic Monks are excellent, with every upgrade and doubled healing range. Defensively, they have additional garrison capacity in their Town Centers and Towers, giving them an increased ability to protect their Villagers from raiding. Crenellations is another big edge to their defensive capabilities, as it allows their Castles to fire back at Bombard Cannons, normally a major threat. Lastly, their economy is very powerful during the mid-game with their 40% cheaper farms, as it greatly reduces the amount of wood production required to sustain a farming economy, freeing resources to be used elsewhere.
+
+However, the Teutons have several notable weaknesses. Their cavalry are limited to the Knight line, as their Scout Cavalry lack the Light Cavalry upgrade. This means they lose out on an important raiding unit and anti-monk unit. additionally, they lack Husbandry, so their Knights can struggle to force fights and use their melee armor. Their archers are very weak, missing improvements all over the board, leaving Hand Cannoneers as their only viable Archery Range unit. The Teutonic navy is very underwhelming without Dry Dock and Bracer, which is an unfortunate combination as both the Fire Ship and Galleon are greatly hindered by their absence. They have no early game economy bonus, which means that they are very vulnerable to early pressure even with their defensive bonuses. Lastly, the combination of poor Skirmishers and poor Scout Cavalry means that they have few good options when running low on gold.
+
+Overall, the Teutons are a slow but formidable civilization with a variety of strong options, as long as gold is not in short supply. They are particularly strong on closed maps like Arena where they can get to their strongest options without having to worry about their early game.
+
+Changelog[]
+
+The Conquerors[]
+
+Town Centers no longer have +5 range, though they still have +5 Line of Sight. (Backported to Patch 2.0a)
+
+Crenellations introduced.
+
+Teutonic Knights train faster (19 → 12 seconds).
+
+The Forgotten[]
+
+Monks now automatically heal from 2x range. Previously they automatically healed from normal ranged (though their range when tasked to heal was correctly doubled).
+
+Town Centers can garrison 25 units instead of having +2 attack and +5 Line of Sight.
+
+Ironclad introduced.
+
+Non-Elite Teutonic Knights have more hit points (70 → 80).
+
+The African Kingdoms[]
+
+Ironclad wood cost reduced (500 wood → 400 wood).
+
+With patch 4.8, Teutonic Knights move faster (0.65 → 0.7).
+
+Definitive Edition[]
+
+Receive Herbal Medicine, which is available to them for free.
+
+With update 35584:
+New civilization bonus: Barracks units receive +1 melee armor in the Castle Age.
+Farms discount increased (33% → 40% cheaper).
+
+With update 36906:
+Barracks units melee armor bonus now affects Stable units and increases to +2 in the Imperial Age (from +1).
+Teutonic Knights move faster (0.7 → 0.8).
+
+Dawn of the Dukes[]
+
+With update 56005:
+Non-Elite Teutonic Knights have more attack (12 → 14) and melee armor (5 → 7).
+Elite Teutonic Knight upgrade cost decreased (1,200 food, 600 gold → 950 food, 500 gold).
+
+Dynasties of India[]
+
+With update 66692, Treadmill Crane removed from the Teutonic technology tree.
+
+With update 81058, Teutonic Knights gold cost decreased (40 gold → 30 gold).
+
+Campaign appearances[]
+
+The Teutons have a campaign and a scenario devoted to their civilization, Barbarossa and Otto respectively.
+
+They also appear as allies or enemies in:
+
+Toggle campaign appearance list
+
+Saladin[]
+
+The Horns of Hattin and The Siege of Jerusalem
+Hospitallers - Enemy
+Knights Templar - Enemy
+
+Jihad!
+Ascalon - Enemy
+
+The Lion and the Demon
+Knights Templar - Enemy
+
+Genghis Khan[]
+
+The Promise
+Bohemians - Enemy
+Germans - Enemy
+
+Pax Mongolica
+Hungary - Enemy
+
+Barbarossa[]
+
+This campaign is played as the Teutons.
+
+Holy Roman Emperor
+Bavaria - Enemy
+Saxony - Enemy
+Lorraine - Enemy
+Bohemia - Enemy
+
+Henry the Lion
+Bavaria - Ally
+Saxony - Ally
+Henry the Lion - Ally → Enemy
+
+Pope and Antipope
+Milan - Enemy
+Cremona - Ally
+
+The Lombard League
+Henry the Lion - Ally → Enemy
+Padua - Enemy
+
+Barbarossa's March
+Hospitallers - Ally
+
+Attila the Hun[]
+
+The Great Ride
+Dyrrhachium - Enemy
+
+The Fall of Rome
+Mediolanum - Enemy
+
+Bari[]
+
+In the Definitive Edition:
+
+The Best Laid Plans
+Holy Roman Empire - Enemy
+Enemy Trade Route - Enemy
+
+Sforza[]
+
+In the HD Edition:
+
+O Fortuna
+Brigata Malatesta - Ally
+
+Battles of the Forgotten[]
+
+Honfoglalás
+East Francia - Enemy
+
+Tamerlane[]
+
+A Titan Amongst Mortals
+Knights Hospitaller - Enemy
+
+Kotyan Khan[]
+
+Blood for Blood
+Austrians - Ally → Enemy
+
+A New Home
+Austrians - Enemy
+
+Edward Longshanks[]
+
+A Man of God
+Crusader Orders - Ally
+
+The Grand Dukes of the West[]
+
+A Kingdom Divided
+The Duke of Bavaria - Ally
+
+Unholy Marriage
+The Duke of Bavaria - Ally
+The County of Namur - Ally or Enemy
+
+The Hautevilles[]
+
+Wonder of the World
+Emp. Lothair III → Henry the Proud - Enemy
+
+Algirdas and Kestutis[]
+
+Family Affairs
+Teutonic Raiders - Enemy
+
+No Man's Land
+The Teutonic Order - Enemy
+The Livonian Order - Enemy
+
+In the Shadow of the Throne
+The Teutonic Order - Neutral → Potential Ally or Enemy
+
+Jadwiga[]
+
+The Matter of the Crown and Duel of the Dukes
+The Teutonic Order - Enemy
+
+The Siege of Vilnius
+The Teutonic Order - Enemy
+Teutonic Raiders - Enemy
+
+The Fruits of Her Labor
+The Teutonic Order - Enemy
+The Lizard Union - Enemy
+Prussia - Enemy
+
+Jan Zizka[]
+
+The One-Eyed Wanderer
+The Union of Nobility - Enemy
+
+Courage and Coin
+The Teutonic Order - Enemy
+Teutonic Commanders - Enemy
+
+The Golden City
+Emperor Sigismund - Enemy
+German Mercenaries - Enemy
+
+The Emperor's Fury
+Emperor Sigismund - Enemy
+
+Warrior of God
+Plzen - Enemy
+
+Thoros II[]
+
+Caught in the Crossfire
+Knights Templar - Enemy → Ally
+
+Bloody Crestwaves
+Alexandretta - Ally
+
+Victors and Vanquished[]
+
+Ragnar
+Northumbria - Enemy
+
+Robert
+Flanders - Ally → Potential Enemy
+
+The Art of War[]
+
+Rushing the Enemy is played as the Teutons.
+
+Event Challenges[]
+
+The Barbarossa Brawl scenario was played as the Teutons.
+
+Mongol Raiders
+Teutons - Enemy
+
+Barbarossa Brawl
+Bavaria - Enemy
+Saxony - Enemy
+Lorraine - Enemy
+
+Mangudai Madness
+Attackers Garrison - Enemy
+Attackers - Enemy
+
+In-game dialogue language[]
+
+In-game, Teutonic units speak Old and Middle High German, which are the ancestor languages of modern Standard German (i.e. Hochdeutsch) and several dialects of it (e.g. Bavarian, Swabian, Transylvanian Saxon, Zipser German, etc.). They were spoken in present-day Germany as well as in Central Europe and parts of Eastern Europe (e.g. Transylvania) roughly between 700 and 1350, so this corresponds well to the time period depicted in the game. The Goths speak the same language in-game, but actually, the Goths had their own Gothic language which was spoken as early as the 4th century and became extinct by the 8th or 9th century. Crimean Gothic continued to be spoken until the late 18th century, but it went extinct as well during the aforementioned time.
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Male_Select_1_AoE2.ogg Select 1 Ja? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Male_Select_2_AoE2.ogg Select 2 He, ja - Why, yes
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Male_Select_3_AoE2.ogg Select 3 Bereyte - Ready
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Male_Select_4_AoE2.ogg Select 4 Heisse? - Order?
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Male_Task_1_AoE2.ogg Task 1 Des ware - Truly
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Female_Task_2_AoE2.ogg Task 2 Ja - Yes
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Male_Task_3_AoE2.ogg Task 3 Reyte - Right
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Male_Task_4_AoE2.ogg Task 4 Das ich soll - That I shall
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Male_Build_AoE2.ogg Build Buuwere - To build
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Male_Chop_AoE2.ogg Chop Holza/Holzer - To cut wood
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Male_Farm_AoE2.ogg Farm Gebuure - To go farming
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Male_Fish_AoE2.ogg Fish Fischere - To fish
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Male_Forage_AoE2.ogg Forage Suocha - To seek, gather
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Male_Hunt_AoE2.ogg Hunt Jägere - To hunt
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Male_Mine_AoE2.ogg Mine Houwa - To quarry, cut
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Male_Repair_AoE2.ogg Repair Flickmann - Tinkerer, repairer (of small objects)
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Female_Attack_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Teutons_Villager_Male_Attack_AoE2.ogg Attack Striitet! - Fight! (not used)
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Soldier_Select_1_AoE2.ogg Select 1 Ja? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Soldier_Select_2_AoE2.ogg Select 2 Bereyte - Ready
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Soldier_Select_3_AoE2.ogg Select 3 Heisse? - Order?
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Soldier_Move_1_AoE2.ogg Move 1 Ja - Yes
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Soldier_Move_2_AoE2.ogg Move 2 Das ich soll - That I shall
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Soldier_Move_3_AoE2.ogg Move 3 Des ware - Truly
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Soldier_Attack_1_AoE2.ogg Attack 1 Striitet! - Fight!
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Soldier_Attack_2_AoE2.ogg Attack 2 Se stöörme! - Storm them!
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Soldier_Attack_3_AoE2.ogg Attack 3 Ja! - Yes!
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Soldier_Attack_4_AoE2.ogg Attack 4 Sassa! - To battle!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Monk_Select_1_AoE2.ogg Select 1 Heisse? - Order?
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Monk_Select_2_AoE2.ogg Select 2 He, ja - Why, yes
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Monk_Select_3_AoE2.ogg Select 3 Bereyte - Ready
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Monk_Select_4_AoE2.ogg Select 4 Ja? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Monk_Move_1_AoE2.ogg Move 1 Des ware - Truly
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Monk_Move_2_AoE2.ogg Move 2 Ja - Yes
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Monk_Move_3_AoE2.ogg Move 3 Reyte - Right
+
+https://ageofempires.fandom.com/wiki/File:Teutons_Monk_Move_4_AoE2.ogg Move 4 Das ich soll - That I shall
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Teutons_King_Select_1_AoE2.ogg Select 1 Ja? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Teutons_King_Select_2_AoE2.ogg Select 2 He, ja - Why, yes
+
+https://ageofempires.fandom.com/wiki/File:Teutons_King_Select_3_AoE2.ogg Select 3 Bereyte - Ready
+
+https://ageofempires.fandom.com/wiki/File:Teutons_King_Select_4_AoE2.ogg Select 4 Heisse? - Order?
+
+https://ageofempires.fandom.com/wiki/File:Teutons_King_Move_1_AoE2.ogg Move 1 Des ware - Truly
+
+https://ageofempires.fandom.com/wiki/File:Teutons_King_Move_2_AoE2.ogg Move 2 Ja - Yes
+
+https://ageofempires.fandom.com/wiki/File:Teutons_King_Move_3_AoE2.ogg Move 3 Reyte - Right
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Teutonic AI characters:
+
+Albert the Bear (c. 1100-1170): The first Margrave of Brandenburg (a domain of the Holy Roman Empire) from 1157-1170. Took part in crusades against the Slavic Wends, as well as the 1162 Storming of Milan. Called "the Bear" for his strength and restlessness.
+
+Conrad the Salian (c. 990-1039): Holy Roman Emperor from 1027-1039; first emperor of the Salian House; grandson of Otto the Great. Notable for repressing rebellious factions of the Empire.
+
+Emp. Leopold I (1640-1705): Holy Roman Emperor from 1658-1705. Famously summoned an imperial army to defeat the Turks at Vienna, however had less military success against the French. A patron of learning and the arts.
+
+Emp. Lothair (795-855): Holy Roman Emperor from 817-855. Son of the previous Holy Roman Emperor Louis the Pious, fought a civil war against his siblings which led to the breakup of Francia.
+
+Frederick Barbarossa (1122-1190): Holy Roman Emperor from 1152-1190. Established German dominance within the Holy Roman Empire; reasserted imperial rule in Italy. Known for his ambition, charisma, and political savvy, as well as his battlefield successes.
+
+Frederick II (1194-1250): Holy Roman Emperor from 1220-1250. Presided over the height of the Holy Roman Empire's territorial expansion; also presided over the Sixth Crusade, which secured Jerusalem under the control of the Kingdom of Jerusalem. Also known as Frederick Roger, he is the boy king that the narrator of the The Hautevilles campaign is speaking to.
+
+Henry III (1016-1056): Holy Roman Emperor from 1046-1056. Last of a succession of emperors who successfully dominated the Papacy. Son of Conrad the Salian.
+
+Henry the Lion (c. 1130-1195): Duke of Saxony from 1142-1180 and of Bavaria from 1156-1180. Used his political and military acumen to gain control of large swathes of the Holy Roman Empire. Son of Lothair II.
+
+King Heinrich (876-936): Heinrich der Vogler (or Henry the Fowler), Duke of Saxony from 912-936 and King of East Francia from 919-936. Defeated Magyars at the Battle of Riade, and successfully subdued various Slavic tribes. Father of Otto the Great.
+
+King Karl: Most likely depicts the Holy Roman Emperor Charles V (1500-1558), who served from 1519-1556; he also served as Charles I, ruler of the Spanish Empire, from 1516-1556. An heir to the Hapsburg, Valois-Burgundy, and Trastámara families, his extensive territory included the Spanish Empire, the Low Countries, and much of Central Europe.
+
+King Rupert (1352-1410): Elected by German Princes to become King of Germany in 1400 after the deposition of King Wenceslas; served until his death. Attempted to travel to Rome to be crowned Holy Roman Emperor but was defeated by an Italian ally of Wenceslas.
+
+King Wenceslas (1361-1419): King of Bohemia from 1361 until his death; elected German King in 1373 but deposed in 1400. After refusing to recognize his dethronement in favor of King Rupert, he paid for military campaigns against Rupert and his allies, leading to years of war and instability.
+
+Lothair II (1075-1137): Holy Roman Emperor from 1133-1137. Won a civil war against the House of Hohenstaufen and its supporters. Grandfather of Henry the Lion.
+
+Maximilian II (1527-1576): Holy Roman Emperor from 1564-1576. Famous for his relatively tolerant religious policy, leading to a brief period of peace in the region. Son of Ferdinand I and nephew of King Karl (Charles V).
+
+Maximilian of Hapsburg (1459-1519): Holy Roman Emperor from 1493-1519. Through marriages, military and political pressure, as well as success on the battlefield, added significant territory to the Hapsburg holdings.
+
+Otto the Great (912-973): Holy Roman Emperor from 962-973. Oversaw the consolidation of the Holy Roman Empire through use of the Church and by the decisive defeat of the Magyars at the Battle of Lechfeld, ending their incursions into the empire. Son of King Heinrich (Henry the Fowler).
+
+Rudolph of Swabia (1025-1080): Duke of Swabia from 1057-1079. Elected German king in opposition to Holy Roman Emperor Henry IV; the conflict between them culminated in the Great Saxon Revolt, in which Rudolph of Swabia was killed.
+
+History[]
+
+“ The origin of Germany traces back to the crowning of Charlemagne as Holy Roman Emperor in 800. Upon his death the empire was split into three parts that gradually coalesced into two: the western Frankish kingdom that became France and the eastern kingdom that became Germany. The title of Holy Roman Emperor remained in Charlemagne's family until the tenth century when they died out. In 919 Henry, Duke of Saxony, was elected king of Germany by his fellow dukes. His son Otto became emperor in 962. The Holy Roman Empire that Otto I controlled extended over the German plain north to the Baltic, eastward into parts of modern Poland , and southward through modern Switzerland, modern Austria, and northern Italy . From the outset, the emperors had a difficult problem keeping control of two disparate regions-Germany and Italy-that were separated by the Alps. The Holy Roman Empire was successful at first because it benefited the principal members, Germany and Italy. The Germans were not far removed from the barbarian condition. They had been conquered by Charlemagne only a century earlier. They benefited greatly from Italian culture, technology, and trade. The Italians welcomed the relative peace and stability the empire ensured. Italy had been invaded time and again for the previous 500 years. The protection of the empire defended the papacy and allowed the city-states of Italy to begin their growth. The imperial armies were manned partially by tenants of church lands who owed service to the emperor. A second important contingent were the ministriales, a corps of serfs who received the best training and equipment as knights but who were not free men. These armies were used to put down revolts or interference by local nobles and peasants or to defend against raids by Vikings from the north and Magyars from the east. Because Germany remained a collection of independent principalities in competition, German warriors became very skilled. The most renowned German soldiers were the Teutonic Knights , a religious order of warriors inspired by the Crusades. The Teutonic Knights spread Christianity into the Baltic region by conquest but were eventually halted by Alexander Nevsky at the battle on frozen Lake Peipus. A confrontation between the emperors and the church over investiture of bishops weakened the emperors in both Germany and Italy. During periods of temporary excommunication of the emperor and outright war against Rome, imperial authority lapsed. The local German princes solidified their holdings or fought off the Vikings with no interference or help from the emperor. In Italy, the rising city-states combined to form the Lombard League and refused to recognize the emperor. Political power in both Germany and Italy shifted from the emperor to the local princes and cities. The ministriales rebelled, taking control of the cities and castles they garrisoned and declaring themselves free. During desperate attempts to regain Italy, more concessions were given to the local princes in Germany. By the middle of the thirteenth century, the Holy Roman Empire existed in name only. The throne remained empty for 20 years. The German princes cared only about their own holdings. The Italian city-states did not want a German ruler and were strong enough to defend themselves. Future emperors in the Middle Ages were elected by the German princes but they ruled in name only, controlling little more than their own family estates. Germany remained a minor power in Europe for centuries to come. [1] ” —In-game history section
+
+The historical Teutons were first mentioned by Republican Roman authors as being from Scandinavia and allies with the Cimbri against Rome. The in-game "Teutons" actually represent many migration period's West Germanic-speaking peoples, East Francia, the Holy Roman Empire, Crusader states, and three famous crusading orders: the Knights Hospitaller, Knights Templar, and the Teutonic Knights.
+
+Trivia[]
+
+The Teutons' civilization icon is based on the Reichsadler of Henry VII and Louis IV in the 12th century.
+
+The user interface image in the Definitive Edition displays a globus cruciger, the Imperial Orb of the Holy Roman Empire called Reichsapfel, part of the Imperial Regalia.
+
+Like the Saracens generally representing the Islamic factions (before the introduction of the Berbers), the Teutons, alongside the Franks, generally represent the Christian factions.
+
+Their unique unit, the Teutonic Knight, was a group of soldiers of the Teutonic Order, who participated in the Northern Crusades against many pagan nations of the Baltic Sea, especially the Lithuanians. They later fought other Christian nations as well, particularly Poland.
+
+Except for Native American civilizations, the Teutons are the only civilization in Age of Empires II that do not have access to Light Cavalry.
+
+Ever since The Age of Kings, the Teutons get all three of the rarest upgrades (the Siege Onager, Paladin, and Bombard Tower).
+
+In the Definitive Edition, the Teutons have the largest number of civilization bonuses, with 6.
+
+The Teutons and the Goths are the first civilizations with the same language lines.
+
+The Byzantines and the Teutons are the only "defensive" civilizations in The Age Of Kings.
+
+The Teutons' playstyle focuses around slow but armored units with high resistance against conversion, which closely resembles the Macedonians from Age of Empires: The Rise of Rome which play similarly.
+
+The Teutons and Franks are the only two civilizations that have access to Paladin, but not Hussar, signifying that they focus on heavy cavalry.
+
+The following heroes available in the Scenario Editor are themed on the Teutons: Emperor in a Barrel, Frederick Barbarossa, Henry the Lion, Emperor Sigismund, and Ulrich von Jungingen.
+
+The Teutons are mostly antagonist for the Dawn of the Dukes campaigns.
+
+Before the buffs introduced in updates 35584 and 36906, the Teutons were one of the most underplayed civilizations, mostly on open maps like Arabia, due to their very limited military options. Their cavalry lacks mobility due to the absence of Husbandry and the Teutonic Knight is also slow. The extra melee armor for both Barracks and Stable units allowed them to gain a strong identity as the slow civilization with focus on melee combat, thus giving more reasons to be picked on open maps, while also setting them as among the strongest for closed maps like Arena and Black Forest.
+
+Gallery[]
+
+The Wonder of the Teutons, the 
+
+Maria Laach Abbey
+
+The Central European architecture set the Teutons share with the 
+
+Goths,
+
+Huns, and
+
+Vikings
+
+The set before the 
+
+Teutons 
+
+user interface image
+
+The Teutonic user interface before the 
+
+The Holy Roman Army under Emperor Frederick I (Barbarossa) marching to the Holy Land
+
+Milan, represented by the Teutons in 
+
+Pope and Antipope
+
+Teutons Overview AoE2 (2019)
+
+Competitive Civ Overview -2- Teutons
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/teutons
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+The Age of Kings
+
+European civilizations
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

@@ -1,0 +1,569 @@
+This page is all about the Vietnamese
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Rise of the Rajas
+3.2 Definitive Edition
+3.3 Dawn of the Dukes
+3.4 Dynasties of India
+3.5 Return of Rome
+
+4 Campaign appearances
+
+4.1 Gajah Mada
+4.2 Suryavarman I
+4.3 Bayinnaung
+4.4 Le Loi
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+Asian civilizations,
+
+Rise of the Rajas
+
+
+			English
+
+Español
+
+Vietnamese
+
+85
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+Civilization Technology tree Strategy
+
+Vietnamese
+
+Civilization information
+
+Introduced in
+
+Age of Empires II HD: Rise of the Rajas
+
+Architecture
+
+East Asian
+
+Continent
+
+Asia
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Archers
+
+Unique units
+
+Rattan Archer
+
+Unique upgrades
+
+Imperial Skirmisher
+
+Unique technologies
+
+Chatras
+
+Paper Money
+
+“ The jungles and hills of Vietnam proved as hospitable a home to the locals as they were a formidable obstacle to invaders. Lead the rebellion against the Chinese Ming Empire and become a Vietnamese hero. Guide your people to independence by waging guerilla warfare with an extremely powerful arsenal of ranged units. The Vietnamese unique unit is the Rattan Archer, a heavily-armored ranged unit that is effectively impervious to arrow fire. ” —Description [1]
+
+The Vietnamese are a Southeast Asian civilization which have the East Asian architecture set* introduced in Age of Empires II HD: Rise of the Rajas. They are based on the Đại Việt empire. They focus on archers.
+
+The Vietnamese appear in Age of Empires (Return of Rome) as the Lac Viet.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Rise of the Rajas
+3.2 Definitive Edition
+3.3 Dawn of the Dukes
+3.4 Dynasties of India
+3.5 Return of Rome
+
+4 Campaign appearances
+
+4.1 Gajah Mada
+4.2 Suryavarman I
+4.3 Bayinnaung
+4.4 Le Loi
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+Characteristics[]
+
+Unique unit[]
+
+Rattan Archer: Foot archer with high pierce armor.
+
+Imperial Skirmisher: Upgrade of the Elite Skirmisher, provides additional hit points and attack.
+
+Unique technologies[]
+
+Chatras: Gives Battle Elephants +100 hit points.
+
+Paper Money: Lumberjacks generate gold when working.
+
+Civilization bonuses[]
+
+Archery Range units have +20% hit points.
+
+Reveal enemy initial Town Centers location at the start of the game.
+
+Conscription is free.
+
+Economic upgrades cost no wood and are researched 100% faster.
+
+Team bonus[]
+
+Imperial Skirmisher upgrade is available at the Archery Range (requires the Imperial Age and Elite Skirmisher).
+
+Overview[]
+
+archer civilization. Their foot archers are excellent soldiers, getting additional hit points as well as every upgrade there is. Additionally, their
+
+unique unit and
+
+team bonus are both foot archers, making the Vietnamese able to pick from a wide variety of different units there, though the units overlap in their strengths. They lack
+
+Parthian Tactics, but their hit point bonus applies to their
+
+Heavy Cavalry Archer and they have access to
+
+Bloodlines and all other important upgrades, making their Cavalry Archers a viable late-game unit option. Their
+
+Battle Elephants get additional hit points from
+
+Chatras and therefore have incredible bulk. Their
+
+navy is fair, but the
+
+Fast Fire Ship and
+
+Shipwright are missing. Their
+
+Monks rank average as well, though the lack of
+
+Redemption is a notable blow. The
+
+defensive structures are overall solid in spite of the lack of
+
+Masonry and
+
+Architecture. Their economy is decent, saving a lot of wood early on, and
+
+Paper Money functioning as a potentially powerful late-game option.
+
+While the Vietnamese are a strong archer civilization, they are not without weaknesses. Their infantry and cavalry both lack Blast Furnace, and the former lack Gambesons, while the latter are especially shallow, with other upgrades such as Paladin and Hussar missing. Their siege units are generally lacking, with fully upgraded Bombard Cannons being their only viable option. Additionally, they are not a civilization that has a lot of presence, due to the fact their main army composition consists of elephants and archers with very limited mobile unit options, except for their tanky Heavy Cavalry Archers.
+
+Overall, the Vietnamese have a lot of decent unit options with a strong late-game army of tanky elephants and archers. They are best suited for closed maps such as Arena and Black Forest and team games, as it allows the Vietnamese to play to many of their strengths easily. However, they can be a decent option in open maps such as Arabia due to their strong archer rush potential with a decent economy to back their archer rushes.
+
+Changelog[]
+
+Rise of the Rajas[]
+
+With patch 5.3, (Elite) Rattan Archers deal no bonus damage to infantry (previously had a +1 bonus).
+
+With patch 5.7, Chatras's (Elite) Battle Elephant hit point bonus increased (+30 → +50).
+
+With patch 5.8:
+(Elite) Rattan Archer's gain +5 hit points (35 (40) → 40 (45))
+Archery Range unit hit point bonus normalized (+10% (Feudal)/+15% (Castle)/+20% (Imperial) → +20% (All)).
+
+Definitive Edition[]
+
+Husbandry added to the technology tree.
+
+Paper Money's cost decreased (800 food, 200 gold → 500 food, 300 wood) and research time increased (40 → 60 seconds).
+
+Architecture style changed (Southeast Asian → East Asian).
+
+With update 35584, they gain a new civilization bonus: economic upgrades no longer cost wood.
+
+Dawn of the Dukes[]
+
+With update 54480, Chatras's (Elite) Battle Elephant hit point bonus increased (+50 → +100).
+
+Dynasties of India[]
+
+Paper Money's cost increased (500 food, 300 wood → 600 wood, 350 gold).
+
+Paper Money's effect is changed from +500 gold to all allies to giving all controlled Lumberjacks the ability to generate gold.
+
+With update 81058, Paper Money's cost decreased (600 wood, 350 gold → 550 food, 200 wood).
+
+Return of Rome[]
+
+With update 87863:
+New civilization bonus: economic technologies are researched 100% faster.
+The Imperial Skirmisher upgrade cost reduced (300 wood, 450 gold → 300 wood, 300 gold).
+
+Campaign appearances[]
+
+The Vietnamese have a campaign devoted to their civilization: Le Loi. They also appear in:
+
+Gajah Mada[]
+
+Serving the New King
+Makassar - Enemy
+
+Suryavarman I[]
+
+Nirvanapada
+Dai Viet - Ally
+Northern Cham (Northern Cham in co-op version) - Enemy
+
+Bayinnaung[]
+
+The Old Tiger
+East Rakhine (Named "Rakhine" and colored yellow before Dynasties of India) - Enemy
+
+Le Loi[]
+
+This campaign is played as the Vietnamese.
+
+The Dai Viet Uprising
+Trinh - Ally
+Nguyen - Ally
+Vietnamese Villages - Ally
+
+The Mountain Siege
+Le Lai - Ally
+Vietnamese Rebels - Ally
+
+The Battle at Hanoi
+Mountain Rebels - Ally
+Locals - Ally
+
+Reaching South
+Locals - Ally
+
+A Three-Pronged Attack
+Nghe An - Enemy
+Vietnamese Rebels - Ally
+
+The Final Fortress
+Vietnamese Alles - Ally
+
+In-game dialogue language[]
+
+Vietnamese units spoke their namesake, an Austroasiatic language (related to the language spoken by the Khmer) spoken in the modern-day Vietnam. It is formerly written with modified Chinese characters and currently written with modified Latin alphabets.
+
+The language spoken, however, is anachronistically modern Vietnamese rather than Middle Vietnamese spoken during the Age of Empires II timeline (e.g. "heaven" is pronounced trời instead of blời, spelled with phonetic elements 巴+例[2] (ba + lệ) in Nôm script).
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Female_Select_1_AoE2.ogg Female Select 1 Dạ bẩm, có dân nữ (唯稟、固民女) — Yes, here I am (female)
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Male_Select_1_AoE2.ogg Male Select 1 Dạ bẩm, có thảo dân (唯稟、固草民) — Yes, here I am (male)
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Male_Select_2_AoE2.ogg Select 2 Bái kiến điện hạ (拜見殿下) — I bow to your highness
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Female_Select_3_AoE2.ogg Female Select 3 Dân nữ xin chờ lệnh (民女吀䟻令) — I'm waiting for order (female)
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Male_Select_3_AoE2.ogg Male Select 3 Thảo dân xin chờ lệnh (草民吀䟻令) — I'm waiting for order (male)
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Male_Select_4_AoE2.ogg Select 4 Điện hạ có gì sai bảo? (殿下固咦差保?) — Does your highness have any order?
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Male_Task_1_AoE2.ogg Task 1 Tuân mệnh (遵命) — I'll obey [your] order
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Female_Task_2_AoE2.ogg Female Task 2 Dân nữ đã rõ (民女㐌𠓑) — I understand (female)
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Male_Task_2_AoE2.ogg Male Task 2 Thảo dân đã rõ (草民㐌𠓑) — I understand (male)
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Female_Task_3_AoE2.ogg Female Task 3 Dân nữ đến ngay (民女𦥃𣦍) — I'll be right there (female)
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Male_Task_3_AoE2.ogg Male Task 3 Thảo dân đến ngay (草民𦥃𣦍) — I'll be right there (male)
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Female_Task_4_AoE2.ogg Female Task 4 Dân nữ xin làm ngay (民女吀爫𣦍) — I'll do it right away (female)
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Male_Task_4_AoE2.ogg Male Task 4 Thảo dân xin làm ngay (草民吀爫𣦍) — I'll do it right away (male)
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Male_Build_AoE2.ogg Build Dân phu (民夫) — Builder (literally - "common worker")
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Male_Chop_AoE2.ogg Chop Tiều phu (樵夫) — Lumberjack
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Female_Farm_AoE2.ogg Female Farm Dân nữ (民女) — Farmer (literally - "commoner woman")
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Male_Farm_AoE2.ogg Male Farm Tiểu nhân (小人) — Farmer (literally - "little person")
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Male_Fish_AoE2.ogg Fish Ngư dân (漁民) — Fisherman
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Female_Forage_AoE2.ogg Female Forage Nô tì (奴婢) — Womanservant
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Male_Forage_AoE2.ogg Male Forage Nô tài (奴才) — Manservant
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Male_Hunt_AoE2.ogg Hunt Thợ săn (𠏲獜) — Hunter
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Male_Mine_AoE2.ogg Mine Lao dịch (勞役) — Drudge-work[er]
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Vietnamese_Villager_Male_Repair_AoE2.ogg Repair Phu dịch (夫役) — Hard-work[er]
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Soldier_Select_1_AoE2.ogg Select 1 Có tiểu nhân (固小人) — I am here
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Soldier_Select_2_AoE2.ogg Select 2 Xin phụng mệnh (吀奉命) — I will obey your order
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Soldier_Select_3_AoE2.ogg Select 3 Điện hạ có gì sai bảo? (殿下固咦差保) — Does your highness have any order?
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Soldier_Move_1_AoE2.ogg Move 1 Tiểu nhân đã rõ (小人㐌𠓑) — I understand
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Soldier_Move_2_AoE2.ogg Move 2 Tiểu nhân làm ngay (小人爫𣦍) — I'll do it right away
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Soldier_Move_3_AoE2.ogg Move 3 Xin tuân lệnh (吀遵令) — I will obey your command
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Soldier_Attack_1_AoE2.ogg Attack 1 Tiến công! (進攻！) — Attack!
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Soldier_Attack_2_AoE2.ogg Attack 2 Xông lên! Giết! (衝𨖲！折！) — Onward! Kill!
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Soldier_Attack_3_AoE2.ogg Attack 3 Các huynh đệ, Giết! (各兄弟、折！) — Brothers, kill!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Monk_Select_1_AoE2.ogg Select 1 Bẩm, có bần tăng (稟、固貧僧) — Here this poor monk is
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Monk_Select_2_AoE2.ogg Select 2 Dạ bẩm, điện hạ có gì chỉ giáo? (唯稟、殿下固咦指教?) — Does your highness have any instruction?
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Monk_Select_3_AoE2.ogg Select 3 Xin tuân lệnh (吀遵令) — I obey
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Monk_Select_4_AoE2.ogg Select 4 Phụng theo ý trời (奉遶意𡗶) — As heaven wills
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Monk_Move_1_AoE2.ogg Move 1 Bần tăng xin đến ngay (貧僧吀𦥃𣦍) — This poor monk will come right away
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Monk_Move_2_AoE2.ogg Move 2 Bẩm vâng, thưa điện hạ (稟邦、疎殿下) — Yes, your highness
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Monk_Move_3_AoE2.ogg Move 3 Bẩm, đúng vậy (稟、中丕) — Correct
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_Monk_Move_4_AoE2.ogg Move 4 Bần tăng xin đi làm ngay (貧僧吀𠫾爫𣦍) — This poor monk will do it right away
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_King_Select_1_AoE2.ogg Select 1 Trẫm ban cho khanh (朕頒朱卿) — I grant you
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_King_Select_2_AoE2.ogg Select 2 Khanh có điều gì thỉnh cầu? (卿固條咦請求?) — Do you have any request?
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_King_Select_3_AoE2.ogg Select 3 Sao khanh lại phiền đến trẫm? (𡫡卿吏煩𦥃朕?) — Why do you disturb me?
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_King_Select_4_AoE2.ogg Select 4 Mau đến hộ giá! (𨖧𦥃護駕!) — Come quickly to protect me!
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_King_Move_1_AoE2.ogg Move 1 Trẫm sẽ ân chuẩn điều mà khanh thỉnh cầu (朕𠱊恩準條嘛卿請求) — I will approve your request
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_King_Move_2_AoE2.ogg Move 2 Bằng ân điển của trẫm (憑恩典𧵑朕) — By my grace
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_King_Move_3_AoE2.ogg Move 3 Như khanh đã dâng tấu (如卿㐌揚奏) — As you've reported
+
+https://ageofempires.fandom.com/wiki/File:Vietnamese_King_Move_4_AoE2.ogg Move 4 Trẫm sẽ ân chuẩn (朕𠱊恩準) — I will approve
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Vietnamese AI characters:
+
+Dinh Bo Linh (丁部領, Đinh Bộ Lĩnh; 924–979): Vietnamese emperor from 968–979, first independent ruler of a unified Vietnam since Ngo Quyen liberated the country from Southern Han Chinese control. Emerged victorious after the chaotic "Anarchy of the 12 Warlords" period and laid the foundation for the newly independent kingdom.
+
+Le Dai Hanh (黎大行, Lê Đại Hành; 941-1005): Became Emperor of Vietnam after the Dinh queen deposed her six-year-old heir of Dinh Bo Linh and entrusted Le Dai Hanh to save the country. He successfully defended Vietnam from the first Song dynasty invasion in 981 and launched punitive expeditions against Champa to pacify the Southern border.
+
+Le Thai To (黎太祖, Lê Thái Tổ; 1384-1433): Real name was Le Loi, Emperor of Vietnam from 1428-1433, first emperor of the Later Le dynasty which would remain in power for over 300 years. He came to power via the Lam Son uprising against Ming Chinese rule. Grandfather of Le Thanh Tong.
+
+Le Thanh Tong (黎聖宗, Lê Thánh Tông; 1442-1497): Later Le Emperor of Vietnam from 1460-1497; he lead Vietnam through prosperous times and military successes against foreign threats (including the southward expansion against Champa in 1471). He also reformed the empire's legal, bureaucracy and economic system. Grandson of Le Loi.
+
+Ly Nam De (李南帝, Lý Nam Đế; 503-548): Vietnamese king from 544-548; first ruler of the Early Ly dynasty. Originally a regional leader within the Chinese Liang Dynasty's administration of northern Vietnam, he resigned and rallied native forces to fight for their country's independence.
+
+Ly Nhan Tong (李仁宗, Lý Nhân Tông; 1066-1128): Vietnamese Emperor from 1072-1128; a ruler of the Later Ly dynasty. He established Confucianism as the state philosophy; created schools of Confucian learning. During his early reign, Lý and Song China engaged in a two-years bloody war that resulted in 500,000 deaths. Great-grandson of Ly Thai To. His reign along with his father's and grandfather's reign were known as the 100 years of prosperity of Ly dynasty (Bách niên thịnh thế, 百年盛世).
+
+Ly Thai To (李太祖, Lý Thái Tổ; 974-1028): Vietnamese Emperor from 1009-1028; the first of the Later Ly dynasty. From an orphan raised by monks he rose to head of imperial guards, elected by the entire country after the previous emperor died and none of his children wanted the throne. He was known for moving the capital from Hoa Lư to Thăng Long (known as Hanoi today). Great-grandfather of Ly Nhan Tong.
+
+Ngo Quyen (吳權, Ngô Quyền; 897-944): Vietnamese King from 938-944 who rose to power after defeating Southern Han Chinese forces at the Battle of Bach Dang River in 938. While he won back independence for the country, his reign was marked by chaos and unrest, however, and his death was followed by the "Anarchy of the 12 Warlords" period.
+
+Phung Hung (馮興, Phùng Hưng; 761-802): Mounted a rebellion against the Chinese Tang Dynasty in 791, becoming the de facto ruler over the region from 791-799. The Tang Dynasty still officially laid claim to the region.
+
+Tran Anh Tong (陳英宗, Trần Anh Tông; 1276-1320): the fourth emperor of the Tran dynasty; ruled from 1293-1314. His reign was notable for relative peace and prosperity, upholding a détente with the Mongol Yuan Dynasty. Son of Tran Nhan Tong and great-grandson of Tran Thai Tong.
+
+Tran Nhan Tong (陳仁宗, Trần Nhân Tông; 1258-1308): the third emperor of the Tran dynasty; ruled from 1278-1293. He presided over the repulsion of invading Yuan Dynasty forces on land and at sea. Grandson of Tran Thai Tong and father of Tran Anh Tong.
+
+Tran Thai Tong (陳太宗, Trần Thái Tông; 1218-1277): Vietnamese Emperor from 1226-1258; the first of the Tran dynasty and defended Dai Viet from the first Mongol invasion in 1258. Grandfather of Tran Nhan Tong.
+
+History[]
+
+“ According to a fifteenth-century legend, the first Vietnamese state was founded in 2879 BC when king Hung Vuong united the tribes of the fertile Red River delta in Northern Vietnam. Thanks to the natural boundaries of mountains in the north and sea to the south, successive states were able to defend their independence for several centuries. In the first century BC, however, the Han dynasty of China invaded the Red River delta in order to secure their trade interests. For over a millennium, the Vietnamese would live under Chinese rule. Even though Chinese rulers persistently tried to force their culture and traditions on the region, their efforts were only partially successful. The Vietnamese people retained a sense of pre-Chinese identity, which resulted in several rebellions against the central government. When the Chinese Tang dynasty collapsed in the early tenth century AD, local leaders used the opportunity to gradually reclaim independence. In 938, general Ngo Quyen repelled the last Chinese invasion and proclaimed himself king of the Vietnamese kingdom, known as Dai Viet. For the next centuries, successive Vietnamese dynasties would not only resist new Chinese invasions, but also expand the empire southward against the Cham. Three powerful dynasties were especially important during the Middle Ages: In 1009 Ly Cong Uan, a former temple orphan and commander of the palace guard, founded the Ly dynasty when he was elected as the new emperor. The Ly dynasty (1009-1225) laid the foundations for a powerful Dai Viet through the development of an organized central administration. Adopting the Chinese model to their own needs, the Ly emperors established the Imperial Academy where all nobles and bureaucrats were educated in Confucianism. Officials were recruited based on their scores in an examination. In addition, the Ly dynasty promoted Buddhism as the state religion and enhanced the irrigation network. The Ly emperors were succeeded by the Tran dynasty (1225-1400). In this period, the Vietnamese culture witnessed a golden age: theatre and literature in the Vietnamese language developed. Many innovations, such as paper money and new medicines, were introduced. Nevertheless, the Tran are most famous for their military skills. In 1257, 1284, and 1287 they successfully repelled the Mongol armies of Kublai Khan through clever use of terrain and guerrilla tactics. In the fourteenth century, spurred by economic and demographic expansion, the Vietnamese campaigned against the Champa kingdom to enlarge their empire, but ultimately failed to conquer the whole kingdom. The Tran upheld a specialized army of infantry and archers, but reduced its cost by rotating troops in training during peacetime. By 1390, the Vietnamese had also adopted the use of gunpowder from China. After the Ho dynasty (1400-1407) had overthrown the Tran emperors, Ming China launched an invasion under the guise of restoring the Tran dynasty. Two decades of harsh rule followed until Le Loi , son of a local village leader, started a rebellion in 1418. After ten years, Le Loi restored the independence of Dai Viet by defeating the Ming rulers. During the Le dynasty (1428-1788), the state converted to Confucianism as the main religion and the law system was remodeled according to Chinese fashion. Under the emperor Le Thanh Tong (1460-1497), Dai Viet witnessed another golden age: he restored agricultural production, revised the tax system, and reorganized administration. In 1471, the emperor succeeded where the Tran did not: he defeated the Champa Kindgom. After Le Thanh Tong, the Le dynasty held the throne through much of the pre-modern period and became the longest ruling dynasty in Vietnamese history. ” — https://www.forgottenempires.net/age-of-empires-2-hd-rise-of-the-rajas/civilizations/vietnamese
+
+Trivia[]
+
+The Vietnamese civilization icon is a rattan shield adorned with the Vietnamese sun symbol. The Vietnamese unique unit, the Rattan Archer, carries a small rattan shield.
+
+The user interface in the HD Edition features two flanking women with swords, likely referencing the Trưng Sisters, and the middle shows a dragon in Lê dynasty style.
+The user interface image in the Definitive Edition shows a Hoan Kiem turtle.
+
+The Vietnamese being a foot archer civilization reflects many linguists' conjectures on the Austroasiatic origin of Chinese word for crossbow (弩).[3]
+
+When debuting in Rise of the Rajas, the Vietnamese used Indianized Southeast Asian architecture, which was changed to Sinicized East Asian in Definitive Edition.[4] Real-life Vietnamese architecture strongly resembles Chinese architecture, due to China's strong cultural influence in Vietnam throughout history.
+According to developers, the use of Southeast Asian architecture in Rise of the Rajas was a reference to the Champa Kingdom in southern Vietnam. However, the Le Loi campaign takes place during the Fourth Chinese domination of Vietnam (1407-1427), when Dai Viet did not include most Champa territories; Lê Lợi's grandson Tư Thành conquered two Champa principalities and reduced the third to vassalage. After the conquest, Vietnamese colonizers built towns with the same architecture as northern Vietnam.
+Since the architecture change, the Vietnamese are the only East Asian civilization with access to Crop Rotation and the second East Asian civilization to have access to Bombard Cannon (the first being Koreans).
+
+Contrary to what is suggested in the History section, the name Đại Việt is not attested during Ngô Quyền's time:
+In the official chronicle Đại Việt sử ký toàn thư, the country was known as Đại Cồ Việt during the Dinh dynasty and the early period of the Ly dynasty; in 1054, Lý Thánh Tông shortened the name to Đại Việt.
+However, archaeologists found the state's name Đại Việt Quốc (大越國) on brick inscriptions found in Hoa Lư (the capital from 968 - 1009), suggesting that the name had been used since the Dinh dynasty or Ly dynasty's early period.
+Việt Nam (越南) itself was introduced by Gia Long in the 19th century; a less anachronistic name for the civilization would be just "Viets" (越).
+In the Vietnamese version, the Vietnamese are "Dai Viet/Đại Việt" (大越).
+
+The following heroes available in the Scenario Editor are themed on the Vietnamese: Bui Bi, Dinh Le, Le Loi, Le Trien, Luu Nhan Chu, and Le Lai.
+
+As part of their identity as an archery civilization in the game, the Vietnamese do not receive Hand Cannoneers, even though they quickly adopted Chinese Fire Lances during Le Loi's uprising and improved them to the point that the Ming themselves imported the Vietnamese design after the war. In later times the Vietnamese used arquebuses and muskets introduced by Europeans.
+
+Originally, the Vietnamese were not going to have the Champion upgrade or Bloodlines to put more emphasis on their Archer units and Battle Elephants, but testing revealed they lacked cost-effective answers to the late-game Goths.
+The Vietnamese still have one of the lowest win-rates against the Goths, lacking Blast Furnace make them less effective when using Champions and Cavaliers to fight against infantry rushes.
+
+Vietnamese were also going to have Fishing Ships that collected food from Fish Traps without needing to drop it at Docks.
+
+Before their buff in update 35584, the Vietnamese were among the weakest civilizations in the early game, due to lacking an economic bonus to help in the production of foot archers, and their other bonuses are only relevant in late game and team games.
+
+The Vietnamese were the last civilization that could fully upgrade their Arbalesters until Dynasties of India. They are still the last civilization released with a focus on foot archers.
+
+Elite Kipchaks gained from Cuman Mercenaries gain +20% hit points too. This does not apply to Kipchaks not obtained from Cuman Mercenaries (via triggers/mods).
+
+The Vietnamese, along with the Koreans and Portuguese, are one of the three civilizations that have a direct bonus to their Cavalry Archers, but lack access to Parthian Tactics (for the Vietnamese, their Cavalry Archers have +20% hit points in addition to access to Bloodlines). The Vietnamese have the best cavalry archers of the three, as they have access to every other important upgrade for them (i.e. Blacksmith armor upgrades, Bracer, Thumb Ring, Husbandry, and Bloodlines).
+Despite lacking Parthian Tactics, the Vietnamese having potent cavalry archers may be considered historically accurate, as the Lý dynasty adopted mounted archery in Vietnam and played a crucial role to many of their wars with their nearby neighbors (i.e. Song–Đại Việt war).
+
+Gallery[]
+
+The Vietnamese Wonder, the 
+
+Bút Tháp Temple
+
+The East Asian 
+
+architecture set the Vietnamese share with the
+
+Mongols,
+
+Koreans,
+
+Chinese, and
+
+Japanese
+
+The Southeast Asian architecture set the Vietnamese shared with the 
+
+Burmese,
+
+Khmer, and
+
+Malay before the
+
+A Vietnamese town, as seen in 
+
+The Mountain Siege
+
+Official preview in the 
+
+Vietnamese 
+
+user interface image
+
+The Vietnamese user interface before the 
+
+Vietnamese Overview AoE2
+
+Outdated
+
+References[]
+
+↑ https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/vietnamese
+
+↑ https://www.vietnamtudien.org/chunom-trichdan/tr1378.png
+
+↑ https://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/455
+
+↑ https://twitter.com/AgeOfEmpires/status/1191082628683882496
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+Asian civilizations
+
+Rise of the Rajas
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

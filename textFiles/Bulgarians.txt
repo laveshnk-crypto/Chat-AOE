@@ -1,0 +1,591 @@
+This page is all about the Bulgarians
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique building
+1.3 Unique technologies
+1.4 Civilization bonuses
+1.5 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Definitive Edition
+3.2 Dawn of the Dukes
+3.3 Dynasties of India
+3.4 Return of Rome
+
+4 Campaign appearances
+
+4.1 Vlad Dracula
+4.2 Battles of the Forgotten
+4.3 Tamerlane
+4.4 Ivaylo
+4.5 Kotyan Khan
+4.6 Algirdas and Kestutis
+4.7 Tamar
+4.8 Victors and Vanquished
+4.9 The Art of War
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Videos
+
+11 Notes
+
+12 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+European civilizations,
+
+The Last Khans
+
+
+			English
+
+Español
+
+Bulgarians
+
+28
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+Civilization Technology tree Strategy
+
+Bulgarians
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: Definitive Edition - The Last Khans
+
+Architecture
+
+Eastern European
+
+Continent
+
+Europe (Balkans)
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_jingle_AoE2_DE.ogg
+
+Features/Characteristics
+
+Focus
+
+Infantry
+
+Cavalry
+
+Unique units
+
+Konnik
+
+Unique technologies
+
+Stirrups
+
+Bagains
+
+Unique buildings
+
+Krepost
+
+“ When nomadic Bulgar horsemen approached the Danube in the 7th century and encountered the local Slavic tribes, the stirrups that they brought changed European cavalry warfare forever. Fortify the nearby mountain passes with formidable Kreposts and punish overconfident invaders with powerful combined armies of cavalry, infantry, and siege engines! Your valiant Konniks, the pride of your army, will continue to fight fearlessly even after their horses are felled beneath them. ” —Description [1]
+
+The Bulgarians are an Eastern European civilization introduced in Age of Empires II: Definitive Edition. They focus on infantry and cavalry.
+
+Historically, the Bulgarians encompass two distinct cultures: the Asian-origin nomadic Bulgars (also known as Proto-Bulgarians) and the sedentary South Slavs of the eastern Balkans who united to oppose the Byzantines (the Eastern Roman Empire) and eventually formed a united state (the First Bulgarian Empire) which merged the South Slavs and Bulgars into a single Bulgarian identity with the adoption of Christianity and Cyrillic script. The Bulgarians experienced periods of peace and strife until they were dominated by the Ottoman Empire in the late 14th century.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique building
+1.3 Unique technologies
+1.4 Civilization bonuses
+1.5 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 Definitive Edition
+3.2 Dawn of the Dukes
+3.3 Dynasties of India
+3.4 Return of Rome
+
+4 Campaign appearances
+
+4.1 Vlad Dracula
+4.2 Battles of the Forgotten
+4.3 Tamerlane
+4.4 Ivaylo
+4.5 Kotyan Khan
+4.6 Algirdas and Kestutis
+4.7 Tamar
+4.8 Victors and Vanquished
+4.9 The Art of War
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Videos
+
+11 Notes
+
+12 References
+
+Characteristics[]
+
+Unique units[]
+
+Konnik: Cavalry that keeps on fighting as a dismounted infantry when killed.
+ Dismounted Konnik: The dismounted infantry unit which appears after the death of the cavalry Konnik.
+
+Unique building[]
+
+Krepost: Miniature version of the Castle, which can create the Konnik.
+
+Unique technologies[]
+
+Stirrups: Cavalry attack 33% faster.
+
+Bagains: Militia line units +5 armor.
+
+Civilization bonuses[]
+
+Militia line units are upgraded for free.[note 1]
+
+Town Centers cost -50% stone (except starting Town Center).
+
+Blacksmith and Siege Workshop technologies cost -50% food.
+
+Team bonus[]
+
+Blacksmiths work 80% faster.
+
+Overview[]
+
+infantry and
+
+cavalry civilization, which is reflected in their
+
+Konniks, but both their branches are great in their own right. Their stable units get all upgrades and technologies for
+
+Hussars and
+
+Cavaliers, but they have
+
+Stirrups to boost the attack speed of all their cavalry by 33%. Despite lacking the
+
+Champion upgrade, their Militia line upgrades are free and benefit from the additional melee armor of
+
+Bagains, making them great at rushing and late game melee fights with
+
+Two-Handed Swordsmen and
+
+Halberdiers. As for their Konniks, their ability to come back after dying makes them strong when engaged in fights. Their Cavalry Archers are also solid, with almost every upgrade available. All their units are helped by their faster working working
+
+Blacksmiths (which also benefits their teammates), which also have a -50%
+
+food cost on each technology. Their
+
+siege weapons are excellent, as they have all upgrades and only lack
+
+Bombard Cannons and save a good amount of food upgrading siege. Their
+
+unique building Krepost gives them a great tool at securing areas of the map, as they maintain the offensive pressure of Castles with almost half of the cost, as well as getting their unique unit out earlier than most civilizations. Defenses are decent, thanks to the Krepost, which is effectively a half cost Castle, which allows them to create more pressure on more areas on the map. For their economy, they have 50%
+
+stone discount for their
+
+Town Centers, which can allows them to more easily create multiple Town Centers.
+
+Unfortunately, the Bulgarians have several weaknesses to worry about. Their Archery Range is weak due to the lack of Crossbowman, Hand Cannoneer, and Ring Archer Armor, which makes their foot archers very poor outside of the somewhat usable Elite Skirmisher. Their navy is weak without Heavy Demolition Ship, Dry Dock, or Shipwright, as well as any early game bonus. While they have the Krepost, they lack key defensive buildings and technologies, including Fortified Wall, Bombard Tower, and Hoardings. Lastly, their economy is very weak, with the only bonus they receive being moderate stone savings on their Town Centers.
+
+Overall, despite the lack of strong foot archers and the lack of economic bonuses, the Bulgarians are a formidable opponent, with plenty of strong offensive options at every stage of the game.
+
+Changelog[]
+
+Definitive Edition[]
+
+Kreposts have 9 main arrow damage, and 11 secondary arrows damage.
+
+Initially, Bagains gives +3 armor. With update 34055, it now gives +5 armor.
+
+Initially, (Dismounted) Konniks have 1.9 (2) reload time. With update 34055, they now have reload time of 2.4.
+
+Initially, (Elite) Konniks have 110 (130) hit points. With update 34055, they now have 100 (120) HP.
+
+Initially, Dismounted Konniks do not take bonus damage from the Samurai. With update 34055, they now take bonus damage from the Samurai.
+
+Initially, Kreposts have a size of 4x4 tiles and can be converted. With update 34055, they now have a size of 3x3 tiles and cannot be converted.
+
+Initially can train Paladins. With update 36906, they lost access to the Paladin, but Stirrups affects the Knight-line as well.
+
+Initially, the Team Bonus gave the Blacksmith a 50% work rate boost. With update 42848, this was changed to a 80% work rate boost.
+
+Update 42848 adds a new unique bonus: Blacksmith and Siege Workshop technologies cost -50% food.
+
+Dawn of the Dukes[]
+
+With update 54480, Kreposts have 10 main arrow damage, and 10 secondary arrows damage.
+
+Dynasties of India[]
+
+Receive Gambesons.
+
+With update 81058, Stone discount does not apply to starting Town Center.
+
+Return of Rome[]
+
+(Elite) Dismounted Konnik base armor increased from 0/0 (0/1) to 2/1 (2/2).
+
+Campaign appearances[]
+
+The Bulgarians have a campaign devoted to their civilization: Ivaylo.
+They are playable as Volga Bulgars in the third scenario (Harbinger of Destruction) of the co-op version of the Tamerlane campaign.
+
+They also appear in:
+
+Vlad Dracula[]
+
+The Breath of the Dragon
+Novoselo - Enemy
+Rahova - Enemy
+
+Battles of the Forgotten[]
+
+Honfoglalás
+Bulgarians - Ally or Enemy
+
+Tamerlane[]
+
+Harbinger of Destruction
+Volga Bulgars* - Neutral → Ally
+
+Ivaylo[]
+
+This campaign is played as the Bulgarians
+
+A Most Unlikely Man
+Tsar Konstantin - Ally → Enemy → Potential Ally → Enemy
+
+An Unlikely Alliance
+Ivan Asen - Enemy
+Tsarina Maria - Ally
+
+Tsar of the Bulgars
+Bulgarians - Ally
+
+Echoes of Heroes
+Ivan Asen - Enemy
+Bogomils - Neutral
+Bulgarians - Ally
+Devnya - Ally
+
+Where the One-Eyed Man is King
+Bulgarians - Neutral
+
+Kotyan Khan[]
+
+A New Home
+Bulgarians - Ally
+
+Algirdas and Kestutis[]
+
+The Tatar Yoke
+Bulgar Horde - Enemy
+
+Tamar[]
+
+Yury's Revenge
+Yury - Enemy
+
+Victors and Vanquished[]
+
+Mstislav
+Yuri of Vladimir - Neutral → Potential Ally
+
+The Art of War[]
+
+Land Battle is played as the Bulgarians.
+
+Land Battle
+Asparukh - Ally
+
+In-game dialogue language[]
+
+In-game, Bulgarian units speak a similar language to the Slavs.[2] Historically, Bulgarians in the Age of Empires II timeline spoke a language similar to Old Church Slavonic, a South Slavic language (related to the language spoken by the Slavs) and the first Slavic literary language. It was initially written in Glagolitic script but was later replaced by Cyrillic script which was already being used to write the local Slavic vernaculars.
+
+The in-game Bulgarian also play the role of Turkic people several times, who spoke an extinct Bulgar language. Some scholars speculate Bulgars were strongly linked to the Huns, considered a Turkic group in some researches. They suggest that during the Hunnish migrations, some tribes eventually settled in the Pontic–Caspian steppe and Volga regions, and later became the Bulgars.
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Male_Select_1_AoE2.ogg Select 1 Da? (ⰴⰰ?/Да?) – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Male_Select_2_AoE2.ogg Select 2 Sŭdrav" bǫd'  (ⱄⱏⰴⱃⰰⰲⱏ ⰱⱘⰴⱐ/Съдравъ бѫдь) – Greetings (literally - "Be well")
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Female_Select_3_AoE2.ogg Female Select 3 Az" gotova (ⰰⰸⱏ ⰳⱁⱅⱁⰲⰰ/Азъ готова) – I'm ready (feminine)
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Male_Select_3_AoE2.ogg Male Select 3 Az" gotov" (ⰰⰸⱏ ⰳⱁⱅⱁⰲⱏ/Азъ готовъ) – I'm ready (masculine)
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Male_Select_4_AoE2.ogg Select 4 Prikazania? (ⱂⱃⰻⰽⰰⰸⰰⱀⰻⰰ/Приказаниa?) – Orders?
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Male_Task_1_AoE2.ogg Task 1 Da (ⰴⰰ/Да) – Yes
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Male_Task_2_AoE2.ogg Task 2 Pravil'no (ⱂⱃⰰⰲⰻⰾⱐⱀⱁ/Правильно) – Right
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Male_Task_3_AoE2.ogg Task 3 Az" dêlajǫ (ⰰⰸⱏ ⰴⱑⰾⰰⱙ/Азъ дѣлаѭ) – I'll do (it)
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Male_Task_4_AoE2.ogg Task 4 Totčas" sŭdêlajǫ (ⱅⱁⱅⱍⰰⱄⱏ ⱄⱏⰴⱑⰾⰰⱙ/Тотчасъ sъдѣлаѭ) – I'm immediately doing (it)
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Female_Build_AoE2.ogg Female Build Zižditel'nica (ⰸⰻⰶⰴⰻⱅⰵⰾⱐⱀⰻⱌⰰ/Зиждительница) – Builder (feminine)
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Male_Build_AoE2.ogg Male Build Zižditel'  (ⰸⰻⰶⰴⰻⱅⰵⰾⱐ/Зиждитель) – Builder (masculine)
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Male_Chop_AoE2.ogg Chop Lêsorub" (ⰾⱑⱄⱁⱃⱆⰱⱏ/Лѣсорубъ) – Woodcutter
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Female_Farm_AoE2.ogg Female Farm Sŭbiratel'nica (ⱄⱏⰱⰻⱃⰰⱅⰵⰾⱐⱀⰻⱌⰰ/Събирательница) – Gatherer (feminine)
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Male_Farm_AoE2.ogg Male Farm Sŭbiratel'  (ⱄⱏⰱⰻⱃⰰⱅⰵⰾⱐ/Събиратель) – Gatherer (masculine)
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Female_Fish_AoE2.ogg Female Fish Rybačka (ⱃⱛⰱⰻⱍⰽⰰ/Рѵбачка) – Fisherwoman
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Male_Fish_AoE2.ogg Male Fish Rybak" (ⱃⱛⰱⰰⰽⱏ/Рѵбакъ) – Fisherman
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Female_Forage_AoE2.ogg Female Forage Sŭbiratel'nica (ⱄⱏⰱⰻⱃⰰⱅⰵⰾⱐⱀⰻⱌⰰ/Събирательница) – Gatherer (feminine)
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Male_Forage_AoE2.ogg Male Forage Sŭbiratel'  (ⱄⱏⰱⰻⱃⰰⱅⰵⰾⱐ/Събиратель) – Gatherer (masculine)
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Female_Hunt_AoE2.ogg Female Hunt Ohot'nica (ⱁⱈⱁⱅⱐⱀⰻⱌⰰ/Охотьница) – Huntress
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Male_Hunt_AoE2.ogg Male Hunt Ohot'nik" (ⱁⱈⱁⱅⱐⱀⰻⰽⱏ/Охотьникъ) – Hunter
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Male_Mine_AoE2.ogg Mine Rudokop" (ⱃⱆⰴⱁⰽⱁⱂⱏ/Рудокопъ) – Ore miner
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Female_Repair_AoE2.ogg Female Repair Remont'nica (ⱃⰵⰿⱁⱀⱅⱐⱀⰻⱌⰰ/Ремонтьница) – Repairer (feminine)
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Villager_Male_Repair_AoE2.ogg Male Repair Remont'nik" (ⱃⰵⰿⱁⱀⱅⱐⱀⰻⰽⱏ/Ремонтьникъ) – Repairer (masculine)
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Soldier_Select_1_AoE2.ogg Select 1 Da? (ⰴⰰ?/Да?) – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Soldier_Select_2_AoE2.ogg Select 2 K" vašim' uslugam" (ⰽⱏ ⰲⰰⱎⰻⰿⱐ ⱆⱄⰾⱆⰳⰰⰿⱏ/Къ вашимь услугамъ) – At your service
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Soldier_Select_3_AoE2.ogg Select 3 Prikazania? (ⱂⱃⰻⰽⰰⰸⰰⱀⰻⰰ?/Приказаниa?) – Orders?
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Soldier_Move_1_AoE2.ogg Move 1 Ponjęt'no (ⱂⱁⱀⱗⱅⱐⱀⱁ/Понѩтьно) – Understood
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Soldier_Move_2_AoE2.ogg Move 2 Az" dêlajǫ (ⰰⰸⱏ ⰴⱑⰾⰰⱙ/Азъ дѣлаѭ) – I do
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Soldier_Move_3_AoE2.ogg Move 3 Da, gospodin" (ⰴⰰ, ⰳⱁⱄⱂⱁⰴⰻⱀⱏ/Да, господинъ) – Yes, sir
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Soldier_Attack_1_AoE2.ogg Attack 1 Ataka! (ⰰⱅⰰⰽⰰ!/Атака!) – Attack!
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Soldier_Attack_2_AoE2.ogg Attack 2 V" boi! (ⰲⱏ ⰱⱁⰻ!/Въ бои!) – To battle!
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Soldier_Attack_3_AoE2.ogg Attack 3 K" orǫžiju (ⰽⱏ ⱁⱃⱙⰶⰻⱓ!/Къ орѫжию!) – To arms!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Monk_Select_1_AoE2.ogg Select 1 Da? (ⰴⰰ?/Да?) – Yes?
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Monk_Select_2_AoE2.ogg Select 2 Prikazania? (ⱂⱃⰻⰽⰰⰸⰰⱀⰻⰰ?/Приказаниа?) – Orders?
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Monk_Select_3_AoE2.ogg Select 3 K" vašim' uslugam" (ⰽⱏ ⰲⰰⱎⰻⰿⱐ ⱆⱄⰾⱆⰳⰰⰿⱏ/къ вашимь услугамъ) – At your service
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Monk_Select_4_AoE2.ogg Select 4 Vo imę Gospod'nie! (ⰲⱁ ⰻⰿⱔ ⰳⱁⱄⱂⱁⰴⱐⱀⰻⰵ!/во имѧ господьние!) – In the name of the Lord!
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Monk_Move_1_AoE2.ogg Move 1 Az" sŭb'rajus'  (ⰰⰸⱏ ⱄⱏⰱⱐⱃⰰⱓⱄⱐ/Азъ събьраюсь) - I'm going to
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Monk_Move_2_AoE2.ogg Move 2 Da (ⰴⰰ/Да) – Yes
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Monk_Move_3_AoE2.ogg Move 3 Ponjęt'no (ⱂⱁⱀⱗⱅⱐⱀⱁ/Понѩтьно) – Understood
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_Monk_Move_4_AoE2.ogg Move 4 Totčas" sŭdêlajǫ (ⱅⱁⱅⱍⰰⱄⱏ ⱄⱏⰴⱑⰾⰰⱙ/Тотчасъ sъдѣлаѭ) – I'll do (it) immediately
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_King_Select_1_AoE2.ogg Select 1 Vot", požaluista (ⰲⱁⱅⱏ, ⱂⱁⰶⰰⰾⱆⰻⱄⱅⰰ/Вотъ, пожалуиста) – Here you are
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_King_Select_2_AoE2.ogg Select 2 Č'to ty hočeš'? (ⱍⱐⱅⱁ ⱅⱛ ⱈⱁⱋⰵⱎⱐ?/Чьто тѵ хочешь?) – What do you want?
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_King_Select_3_AoE2.ogg Select 3 Po čemu ty pobespokoil" mę? (ⱂⱁ ⱍⰵⰿⱆ ⱅⱛ ⱂⱁⰱⰵⱄⱂⱁⰽⱁⰻⰾⱏ ⰿⱔ?/По чему тѵ побеспокоилъ мѧ?) – Why do you bother me?
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_King_Select_4_AoE2.ogg Select 4 Opoveŝenia (Ⱁⱂⱁⰲⰵⱋⰵⱀⰹⰰ/Оповещениа) - Report
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_King_Move_1_AoE2.ogg Move 1 Az" dêlajǫ č'to vam" ugod'no (ⰰⰸⱏ ⰴⱑⰾⰰⱙ ⱍⱐⱅⱁ ⰲⰰⰿⱏ ⱆⰳⱁⰴⱐⱀⱁ/Азъ дѣлаѭ чьто вамъ угодьно) – I'll do as you please
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_King_Move_2_AoE2.ogg Move 2 Po mojei milosti (ⱂⱁ ⰿⱁⰻⰵⰻ ⰿⰻⰾⱁⱄⱅⰻ/По моѥи милости) – By my grace
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_King_Move_3_AoE2.ogg Move 3 Kak" vy prikazali (ⰽⰰⰽⱏ ⰲⱛ ⱂⱃⰻⰽⰰⱛⰰⰾⰻ/Какъ вѵ приказали) – As you ordered
+
+https://ageofempires.fandom.com/wiki/File:Bulgarians_King_Move_4_AoE2.ogg Move 4 Az" dêlajǫ (ⰰⰸⱏ ⰴⱑⰾⰰⱙ/Азъ дѣлаѭ) – I do
+
+Romanization refers to Library of Congress guideline of Bulgarian Language and the Wikipedia page on the early Cyrillic alphabet.
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Bulgarian AI characters:
+
+Almish Yiltawar (Алмъш елтебер, Almış Iltäbär): The first Muslim leader (emir) of Volga Bulgaria who reigned from the 9th century to the early 10th century.
+
+Asparukh (Аспарух, a.k.a. Ispor): 7th century ruler (khan) of the Bulgars who established the First Bulgarian Empire in the Balkans in 681. He was the third son of Kubrat and younger brother of Batbayan and Kotrag, and was the father of Tervel, the 'Savior of Europe'.
+
+Boris I Mikhail (Борис I Михаил, Boris-Mihail): Ruler of the First Bulgarian Empire (852-889) who converted to Christianity in 864 and sheltered the disciples of saints Cyril and Methodius after they were expelled from Great Moravia. With their help, Knyaz Boris I adopted the first version of the Glagolitic (early version of the Cyrillic) script. He was also worshipped as a saint by the Orthodox Church. In 889, he abdicated from the throne in favor of his eldest son Vladimir-Rasate to devote himself to faith as a monk in a monastery. After the new knyaz began to destroy his father's achievements, Boris came out of the monastery to blind him and replace him with Simeon the Great. During the reign of Simeon, the old knyaz was known to lead a division of the Bulgarian army, despite his senior years.
+
+Georgi Terter (Георги Тертер): Bulgarian tsar of Cuman origin who was elected by the bolyars to rule the state after the exiles of opponents Ivaylo and Ivan Asen III. He was the father of Theodore Svetoslav and father-in-law of the Tatar prince Chaka. Features as a custom (renamed) hero unit in several scenarios of the Ivaylo campaign.
+
+Ghabdula Chelbir (Габдула Челбир): Ruler of Volga Bulgaria (1178-1225) known for the win against the Mongol Empire Battle of Samara Bend (one of the rare cases when the Horde of Genghis ever lost a battle). It happened in the very same year as The Battle at the Kalka River - 1223.
+
+Ivan Asen II (Иван Асен II): The greatest Bulgarian ruler (1218-1241) during the Second Bulgarian Empire. Famous for decisively beating the Byzantine Army at Klokotnitsa and capturing the emperor, Theodore Doukas. Tsar Ivan Asen III, who appears as 'Tsar Ivan' in the Ivaylo campaign, is the son of his daughter and Tsar Mitso.
+
+Ivaylo Bardokva (Ивайло Бърдоква): The main character of the Bulgarians' campaign, he led a revolt against Konstantin Tih and eventually defeated him, winning the Bulgarian throne in the process.
+
+Khan Krum (Кан Крум): After the crisis in the second half of the 8th century, the Bulgarian state needed a ruler who could stabilise it again. He was found in Pannonia and during his reign (803-814), Krum gave to the Bulgars the first written laws which were harsh but fair. During his time the capital city of Pliska was burned by the Byzantines but Krum cut their way back via an ambush in the Varbitsa Pass in the Balkan Mountains. As a result the emperor Nikephoros I Genikos lost his life (his skull notably became a drinking cup) and his son Staurakios ended up with severe injuries.
+
+Kotrag (Котраг, Kazarig): The founder of Volga Bulgaria, a Bulgar ruler who left Old Great Bulgaria in what is now southern Russia and Ukraine to head north along the Volga river, in the late 7th century. He is the second son of Kubrat and one of the older brothers of Asparukh.
+
+Kubrat (Кубрат): The founder of Old Great Bulgaria in 632, father of Batbayan, Kotrag, Asparukh, Kuber, and Altzek. Also the grandfather of Tervel. As a child, he was raised in Constantinople and held the title 'patricius' (patrician).
+
+Simeon the Great (Симеон Велики): The 3rd son of Boris I, he was considered to be the future head of the new Bulgarian Orthodox Church. However, his older brother Knyaz (prince) Vladimir Rasate (889-893) tried to reset everything their father did before and eventually he was blinded by Boris I. And so, Simeon was established as the Bulgarian ruler (893-927). In 917, he notably defeated the Byzantines at the Battle of Achelous. This period is called 'The Golden Age' and it is both because of his capabilities as a warrior and his support for literature and culture. Most notably, he ordered the disciples of the saints Cyril and Methodius to create Cyrillic script to replace the Glagolitic one. He was the ruler during the time of the events from the Honfoglalás scenario about the Magyars.
+
+Tervel (Тервел): See Tervel Khan.
+
+Tervel Khan (Тервел Хан): Son of Asparukh, grandson of Kubrat, and the second ruler of the First Bulgarian Empire. He was known as 'The Savior of Europe' because of his help during the Siege of Constantinople in 717-718. The Eastern Roman Emperor appointed him the title 'Kaisar'.
+
+Theodore Svetoslav (Теодор Светослав): Son of Georgi Terter and the second ruler from the Terter dynasty, for about two decades (1299-1321).
+
+Tsar Konstantin Tikh (Цар Константѝн Тих): He is portrayed as an 'antagonist' in the campaign about Ivaylo. He was a wealthy bolyar from Skopje himself, and was elected as tsar by the bolyars after the exile of Tsar Mitso Asen (Ivan Asen II's son-in-law) and his son, future Tsar Ivan Asen III (who was a child at that time and was another pretender for the Bulgarian throne supported by Byzantium after Konstantin's death). Konstantin was paralyzed after a riding accident, and is this portrayed as a hero unit in a cart drawn by three horses.
+
+History[]
+
+“ By the fourth century AD, the Roman Empire was struggling to keep control of its vast territory. In Balkans, different groups seized the opportunity to plunder. While most of these incursions were transient, the raids of two groups were of a more permanent character. From the sixth century on, Slavic tribes began colonizing large areas in present-day Bulgaria. Despite their common culture, Slavs did not develop any state. This task would be accomplished by the Bulgars, semi-nomadic horsemen from Central Asia. Together, these newcomers would form the Bulgarian people and establish two powerful empires in the medieval Balkans. Around 670 AD, Asparukh, the son of a fallen Proto-Bulgarian Khan (king), led his people to the Danube delta in search of new grazing grounds. During the following years, Asparukh united the Slavic settlers under his rule. However, as the successor state to the Roman Empire, the Byzantine Empire still claimed the region. Emperor Constantine IV launched several campaigns to defend his territory but encountered strong resistance. The invaders combined the best of two worlds: the Slavs fielded numerous light infantry, while the Proto-Bulgarians employed fully armored horsemen, each one equipped with a wide arsenal of weapons. Throughout the medieval period, the heavy cavalry would remain the backbone of the Bulgarian army and was one of the most feared forces in all of Europe. After several defeats, Constantine IV was forced to relinquish the Byzantine claim to the lands north of the Balkan Mountains, marking the birth of the First Bulgarian Empire (681-1018). Nevertheless, its future was far from certain, as the Byzantines would continuously try to reconquer the lost territory. Internally, the new state was divided between the Proto-Bulgarian aristocracy and the Slavic population despite the early development of the Old Bulgarian language. Only in the ninth century would Boris I (r. 852-889) form the basis of a unified identity. By adopting Christianity as the state religion, he created a common ground for all ethnic groups. He also founded the Pliska-Preslav literary school, which stimulated the creation of the Cyrillic script, allowing the production of written works in the Old Bulgarian language. Under Boris' son, Simeon the Great (r. 893-927), the First Bulgarian Empire entered a golden age. After successful campaigns against the Byzantines and the Magyars , Simeon had expanded the empire to its greatest extent, controlling almost the entirety of the Balkans. As art and literature boomed, Bulgaria became the cultural center of Slavic Europe and Old Bulgarian replaced Greek as the lingua franca. The wealth to finance these cultural and military campaigns came primarily from trade. Thanks to its central position between the Rus' and the Byzantines, Bulgaria functioned as an important trade hub for precious metals, horses and slaves. Although the intensified trade created some of the highest levels of urbanization in all of Europe, most Bulgarians made a living off agriculture and animal husbandry. After Simeon's death, his empire fell into decline. Weakened by continuous warfare, Bulgaria was conquered by the Byzantine armies in 1018. Despite strong political reforms, the Bulgarians retained their sense of a separate culture. Whenever the Byzantines levied heavy taxes, this identity proved a strong medium to channel social unrest into rebellions. In 1185, an uprising led by the aristocratic brothers Asen and Peter succeeded in driving out the Byzantines. The Second Bulgarian Empire (1186-1396) quickly became a major power in the Balkans under Tsar Ivan Asen II (r. 1218-1241). Art, architecture and literature would thrive until the fourteenth century, making Bulgaria once again the leading cultural center of Slavic Europe. Politically, however, the empire would never match the status of its predecessor. After Ivan II, it was constantly threatened by its neighbors and by internal uprisings, such as the 1277 rebellion of the swineherd Ivaylo . In 1396, a new superpower finally put an end to Bulgarian independence: the Ottomans would dominate the Balkans for the next 500 years. ” — [1]
+
+Trivia[]
+
+The Bulgarians' civilization icon is based on the House of Shishman's coat-of-arms which ruled the Bulgarian Empire in the Middle Ages.
+
+User interface image displays the Pliska rosette.
+
+Along with the Spanish, the Bulgarians are the only civilization that don't have access to the Crossbowman at the Archery Range.
+
+With update 36906, the Bulgarians became the first of two civilizations that have lost access to the Paladin upgrade, the other being the Persians in The Mountain Royals.
+After the update, Bulgarians are the only civilization focused on infantry and cavalry that lack the final upgrades to their Knight and Militia lines, but get unique technologies that improve the combat strength of both.
+
+During the beta, Bulgarians had access to the Hand Cannoneer. which was strange since there aren't records of Bulgarians using firearms during the middle ages, which is the possible reason of why they lost it. However, in the testing game for multiplayer the Bulgarian AI player still uses Hand Cannoneers.
+
+The Bulgarians are the only civilization introduced in The Last Khans that have access to Supplies.
+
+Ivaylo (in both his mounted and dismounted forms) is the only heroes available in the Scenario Editor that is themed on the Bulgarians.
+
+The Bulgarians were one of the least picked civilizations in tournaments by competitive players, being considered unpopular and not effective due to being one-dimensional (with Men-at-Arms rush as their only effective strategy on open maps in the early game and with cavalry and infantry options for the mid and late game), and by the lack of good ranged units, despite having decent Cavalry Archers. They also lacked a significant economic bonus. The bonus introduced in update 42848 allows them to save a good amount of food on Blacksmith upgrades, which are also researched much faster than before, thus being able to effectively scout rush and makes the Konnik significatively faster and cheaper to upgrade. It also opened a totally new strength: siege weapons in the late game.
+On the other hand, the Konnik was by far the strongest and most cost-effective unique unit against almost all other military units, excluding Elephants, Leitis and Teutonic Knights. It was even capable of deeply dropping the resistance of those, mostly due to their much faster firing rate with the Stirrups technology and better hit points. In combination with bigger Kreposts (being as good as Castles covering the same area), it made Bulgarians unbalanced and played exclusively with Konnik spam, being almost impossible to deal with for several civilizations. At release, this was one of the most criticized things of the Definitive Edition.
+
+The Bulgarians are very similar to Slavs, as they not only have very similar language in the game, but share the same advantages and weaknesses as well. Both are prominent in infantry, cavalry and siege weapons, and weak in archery lines and navy. However, the Bulgarians have better Cavalry Archers than the Slavs, while the Slavs have better foot archers than the Bulgarians.
+
+Gallery[]
+
+The Bulgarian 
+
+Wonder, the
+
+Preslav Round Church
+
+Official preview
+
+The Eastern European architecture set the Bulgarians share with the 
+
+Magyars,
+
+Slavs,
+
+Lithuanians,
+
+Bohemians, and
+
+Poles
+
+Krepost - unique building of the Bulgarians
+
+Bulgarians user interface image
+
+Videos[]
+
+Bulgarians Overview AoE2
+
+Bulgarians - AoE2 vs History
+
+Notes[]
+
+↑ Man-at-Arms, Long Swordsman, and Two-Handed Swordsman upgrades are free.
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/bulgarians
+
+↑ https://www.reddit.com/r/aoe2/comments/dykqjz/bulgarians_civ_units_speaking_russian_language
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+European civilizations
+
+The Last Khans
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

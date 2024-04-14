@@ -1,0 +1,580 @@
+This page is all about the Koreans
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Rise of the Rajas
+3.5 Definitive Edition
+3.6 Lords of the West
+3.7 Dynasties of India
+3.8 Return of Rome
+
+4 Campaign appearances
+
+4.1 Battles of the Conquerors
+4.2 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+Asian civilizations,
+
+The Conquerors
+
+
+			English
+
+Español
+
+Koreans
+
+19
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+This article is about the Koreans in Age of Empires II: The Conquerors . For the civilization in Age of Empires , see Choson .
+
+Civilization Technology tree Strategy
+
+DE
+
+HD
+
+Koreans
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: The Conquerors
+
+Architecture
+
+East Asian
+
+Continent
+
+Asia
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Koreans_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Koreans_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Koreans_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Defense
+
+Navy
+
+Unique units
+
+War Wagon
+
+Turtle Ship
+
+Unique technologies
+
+Eupseong
+
+Shinkichon
+
+Koreans
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: The Conquerors
+
+Architecture
+
+East Asian
+
+Continent
+
+Asia
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Koreans_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Defense
+
+Navy
+
+Unique units
+
+War Wagon
+
+Turtle Ship
+
+Unique technologies
+
+Panokseon
+
+Shinkichon
+
+“ On the periphery of Chinese imperium lay a mountainous peninsula known for, among other things, its ingenious technological craftsmanship and pottery. Defend your mountain fortresses against fearsome invaders, obliterate your enemies with deadly siege weaponry, and construct armored Turtle Ships that can send any vessel to the depths of the ocean. The tactical genius of Wang Geon and Yi Sun Shin beckon! ” —Description [1]
+
+The Koreans are an East Asian civilization introduced in Age of Empires II: The Conquerors based on various medieval kingdoms in the Korean peninsula (i.e. United Silla, Goryeo, and Joseon). They focus on towers and navy.
+
+The Koreans are compared to their predecessor civilization, the Choson, from Age of Empires, as they both have bonuses for their towers. The only significant difference is that the Choson civilization bonuses put more emphasis on their infantry units, while the Koreans put more emphasis on their ranged units.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique units
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Conquerors
+3.2 The Forgotten
+3.3 The African Kingdoms
+3.4 Rise of the Rajas
+3.5 Definitive Edition
+3.6 Lords of the West
+3.7 Dynasties of India
+3.8 Return of Rome
+
+4 Campaign appearances
+
+4.1 Battles of the Conquerors
+4.2 Victors and Vanquished
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 References
+
+Characteristics[]
+
+Unique units[]
+
+War Wagon: Heavily armored cavalry archer.
+
+Turtle Ship: Heavily armored ship that fires cannonballs.
+
+Unique technologies[]
+
+Eupseong: Towers (except Bombard Towers) have +2 range.
+
+Shinkichon: Gives the Mangonel line +1 range.
+
+Civilization bonuses[]
+
+Villagers have +3 Line of Sight.
+
+Stone Miners work 20% faster.
+
+Archer armor and tower upgrades are free (Bombard Tower requires Chemistry).
+
+Archer and infantry units cost –50% wood.
+
+Warships cost –20% wood.
+
+Team bonus[]
+
+The Mangonel line minimum range is reduced to 1.
+
+Overview[]
+
+The Koreans focus on ships and towers. As such, their navy is very good with a 20% wood discount and full upgrades on their Galleons and Fast Fire Ships. The Turtle Ship can also be useful, as it has a lot of power and durability, comparable to three Galleons. Their foot archers are great, as they get all possible upgrades with Archer Armor upgrades being free, along with receiving a 50% wood discount. This discount also applies to their Halberdiers, making them especially useful for acting as a buffer. Their unique unit, the War Wagon, is very powerful and bulky unit. They also get Siege Onagers and Bombard Cannons, the former of which receives +1 range with Shinkichon.
+
+The defensive structures are a selling point for the Koreans despite the missing Hoardings. The towers get all upgrades, upgrade themselves for free (though Bombard Tower still requires Chemistry), and the unique technology Eupseong gives the standard tower-line +2 range, bringing the range to a total of 13 - enough to retaliate against Bombard Cannons (bar Turkish ones). The Koreans are notable to be the only civilization to have access to all University upgrades (and they even get tower upgrades for free). In addition, as previously mentioned, their Skirmishers and Halberdiers have a 50% wood discount, making them both better at defending, especially as the former also receives free armor upgrades.
+
+However, as strong as the Koreans' ranged units are, their non-ranged units are not very prominent. The lack of Blast Furnace hinders infantry and cavalry alike, and while the former can still function well as a buffer, the latter is further limited in its capabilities by the lack of Bloodlines and Plate Barding Armor and should generally be ignored. This is especially notable with out Siege Ram. Furthermore, despite their great ranged prowess, the lack of Parthian Tactics and Bloodlines hinders their cavalry archers significantly.
+
+On water, the Koreans lack Demolition Ships completely which is a big hindrance when facing against a navy that is of a greater size (especially those that consist of Fire Ships). Their Monks are below average, and the combination of a lack of Heresy and weak Light Cavalry can make enemy Monks a threat. Lastly, their economy is slow, with their only bonus being a +20% stone gather rate, and the Koreans will usually have to rely of their defenses or discounted ranged units to compensate.
+
+Altogether, the Koreans are a great civilization in closed maps such as Arena and Black Forest and water maps due to their formidable late-game army composition and great offensive bonuses. However, their lack of economic bonuses and a limited technology tree can hurt them when they are forced to play aggressively.
+
+Changelog[]
+
+The Conquerors[]
+
+With patch 1.0b:
+Shinkichon extra range decreased (+2 → +1).
+The War Wagons wood cost increased (80 wood → 120 wood).
+(Elite) War Wagons have -1 range (5 (non-Elite)/6 (Elite) → 4/5).
+Villagers' extra Line of Sight increased (+2 → +3).
+Turtle Ship graphics updated.
+
+The Forgotten[]
+
+New civilization bonus: Fortifications are built 33% faster.
+
+Panokseon introduced.
+
+Turtle Ships cost decreased (200 wood, 200 gold → 180 wood, 180 gold).
+
+War Wagons train time reduced (25 → 21 seconds).
+
+War Wagons wood cost decreased (120 wood → 110 wood).
+
+Team bonus: The Mangonel line has the minimum range reduced by 1, instead of +1 range.
+
+The African Kingdoms[]
+
+Panokseon cost decreased (400 food, 400 wood → 300 food, 300 wood).
+
+Turtle Ships no longer require a Castle.
+
+Cavalry archer armor class added to War Wagons.
+
+With patch 4.8, the faster-built fortification bonus properly affects Fortified Walls.
+
+Rise of the Rajas[]
+
+With patch 5.8, towers are built 5% faster instead of 33% faster (all other fortifications unchanged).
+
+Definitive Edition[]
+
+The "Fortifications built faster" bonus is replaced with a new bonus giving all non-siege military units a 15% wood discount.
+As a result, War Wagon and Turtle Ship wood costs decreased (110 wood (War Wagon)/180 wood (Turtle Ship) → 94 wood/153 wood)
+
+Team Bonus minimum range reduction increased (1 → 2).
+
+With update 39284, military unit cost reduction increased (–15% wood → –20% wood). War Wagon and Turtle Ship cost adjusted to become 92 wood and 152 wood, respectively, after the discount.
+
+With update 42848:
+Panokseon is removed from tech tree and replaced by Eupseong.
+Towers no longer have +1/+2 range in the Castle/Imperial Age.
+Elite Turtle Ship's speed is increased (0.9 → 1.035).
+New civilization bonus: Archer Armor upgrades are free.
+
+Lords of the West[]
+
+With update 44725, Elite Cannon Galleon is added to their technology tree.
+
+Dynasties of India[]
+
+With update 61321, War Wagons' wood cost increased (92 wood → 100 wood) (125 wood without the civilization bonus).
+
+With update 66692, War Wagons Cavalry archer armor decreased (0 → -1).
+
+With update 81058:
+Elite Turtle Ship range increased (6 → 7).
+Gambesons introduced.
+
+Return of Rome[]
+
+With update 87863:
+Military units (except siege) cost -20% wood civilization bonus changed to Archers and Infantry cost -50% wood, Warships cost -20% wood
+War Wagon base wood cost adjusted to 200 wood (unchanged after the wood discount)
+Turtle Ships affected by Siege Engineers
+
+Campaign appearances[]
+
+The Koreans have a scenario from the Battles of the Conquerors campaign devoted to their civilization - Noryang Point. The player controls the hero unit Admiral Yi Sun-Shin (represented by a Turtle Ship) and has to defeat the Japanese. They are also playable in the Defending Against A Rush scenario of the The Art of War challenges.
+
+They also appear as protagonists of Kaesong, a campaign scenario that was set to be included in Battles of the Forgotten, but did not come with the release due to time constraints.
+
+Battles of the Conquerors[]
+
+Noryang Point is played as the Koreans.
+
+Noryang Point
+Admiral Yi - Ally
+
+Victors and Vanquished[]
+
+Shimazu
+Korea - Enemy
+
+In-game dialogue language[]
+
+In-game, Korean units anachronistically speak modern Korean, not medieval Korean, except somewhat archaic forms used by Monk and King units.
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Male_Select_1_AoE2.ogg Select 1 Ye? (예?) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Male_Select_2_AoE2.ogg Select 2 Jun-bi (準備 = 준비) - Ready
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Male_Select_3_AoE2.ogg Select 3 Jeo-yo? (저요?) - Me?
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Male_Select_4_AoE2.ogg Select 4 Dae-gi (待機 = 대기) - Waiting
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Male_Task_1_AoE2.ogg Task 1 I-dong (移動 = 이동) - Moving
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Male_Task_2_AoE2.ogg Task 2 Keuro-jyo (그러죠) - (I) will do as you say
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Female_Task_3_AoE2.ogg Female Task 3 Ne (네) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Male_Task_3_AoE2.ogg Male Task 3 Ye (예) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Female_Task_4_AoE2.ogg Female Task 4 Chul-dong (出動 = 출동) - Departing
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Male_Task_4_AoE2.ogg Male Task 4 Shil-shi (實施 = 실시) - Carrying out (your order)
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Male_Build_AoE2.ogg Build Mok-su (木手 = 목수) - Carpenter
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Male_Chop_AoE2.ogg Chop Na-mu-kkun (나무꾼) - Woodcutter
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Male_Farm_AoE2.ogg Farm Nong-bu (農夫 = 농부) - Farmer
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Male_Fish_AoE2.ogg Fish Eo-bu (漁夫 = 어부) - Fisherman
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Male_Forage_AoE2.ogg Forage Chae-jip-kkun (採集꾼 = 채집꾼) - Gatherer
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Male_Hunt_AoE2.ogg Hunt Sa-nyang-kkun (사냥꾼) - Hunter
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Male_Mine_AoE2.ogg Mine Gwang-bu (鑛夫 = 광부) - Miner
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Male_Repair_AoE2.ogg Repair Su-ri-gong (修理工 = 수리공) - Repairer
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Female_Attack_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Koreans_Villager_Male_Attack_AoE2.ogg Attack Gong-gyeok! (攻擊 = 공격!) - Attack! (not used)
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Soldier_Select_1_AoE2.ogg Select 1 Ye? (예?) - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Soldier_Select_2_AoE2.ogg Select 2 Jun-bi (準備 = 준비) - Ready
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Soldier_Select_3_AoE2.ogg Select 3 Dae-gi (待機 = 대기) - Waiting
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Soldier_Move_1_AoE2.ogg Move 1 Ye (예) - Yes
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Soldier_Move_2_AoE2.ogg Move 2 Chul-dong (出動 = 출동) - Departing
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Soldier_Move_3_AoE2.ogg Move 3 Shil-shi (實施 = 실시) - Carrying out (your order)
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Soldier_Attack_1_AoE2.ogg Attack 1 Gong-gyeok! (攻擊 = 공격!) - Attack!
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Soldier_Attack_2_AoE2.ogg Attack 2 Dol-gyeok! (突擊 = 돌격!) - Charge!
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Soldier_Attack_3_AoE2.ogg Attack 3 Jin-gyeok! (進擊 = 진격!) - Forward!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Monk_Select_1_AoE2.ogg Select 1 Mwon-ga (뭔가?) - What?
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Monk_Select_2_AoE2.ogg Select 2 Eung? (응?) - Hm? (or a very informal 'yes', maybe like "yeah")
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Monk_Select_3_AoE2.ogg Select 3 Pangapne (반갑네) - Glad (to see you)
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Monk_Select_4_AoE2.ogg Select 4 Malhage (말하게) - Tell (me)
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Monk_Move_1_AoE2.ogg Move 1 Aranne (알았네) - Understood
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Monk_Move_2_AoE2.ogg Move 2 Keureotji (그러지) - (I) shall (do as you say)
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Monk_Move_3_AoE2.ogg Move 3 Keureose (그러세) - (I)'ll do (what you said)
+
+https://ageofempires.fandom.com/wiki/File:Koreans_Monk_Move_4_AoE2.ogg Move 4 Kagenne (가겠네) - (I) shall go.
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Koreans_King_Select_1_AoE2.ogg Select 1 Mwon-ga (뭔가?) - What?
+
+https://ageofempires.fandom.com/wiki/File:Koreans_King_Select_2_AoE2.ogg Select 2 Eung? (응?) - Hm? (or a very informal 'yes', maybe like "yeah")
+
+https://ageofempires.fandom.com/wiki/File:Koreans_King_Select_3_AoE2.ogg Select 3 Pangamne (반갑네) - Glad (to see you)
+
+https://ageofempires.fandom.com/wiki/File:Koreans_King_Select_4_AoE2.ogg Select 4 Malhage (말하게) - Tell (me)
+
+https://ageofempires.fandom.com/wiki/File:Koreans_King_Move_1_AoE2.ogg Move 1 Aranne (알았네) - Understood
+
+https://ageofempires.fandom.com/wiki/File:Koreans_King_Move_2_AoE2.ogg Move 2 Keureotji (그러지) - (I) shall (do as you say)
+
+https://ageofempires.fandom.com/wiki/File:Koreans_King_Move_3_AoE2.ogg Move 3 Keureose (그러세) - (I)'ll do (what you said)
+
+https://ageofempires.fandom.com/wiki/File:Koreans_King_Move_4_AoE2.ogg Move 4 Kagenne (가겠네) - (I) shall go.
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Korean AI characters:
+
+Admiral Chang Bo-ko (張保皐 - 장보고; 787-846): A famous admiral from the Later Silla period known as a maritime figure who effectively controlled the Yellow Sea and dominated the trade with Heian Japan, and Tang China for decades.
+
+Ch'oe Mu-son (崔茂宣 - 최무선; 1325-1395): A Korean scientist/inventor and military commander during the late Goryeo Dynasty and early Joseon Dynasty, best known for allowing Korea to produce gunpowder of their own.
+
+Choi Museon (崔茂宣 - 최무선; 1325-1395): See Ch'oe Mu-son.
+
+Dae Joyeong (大祚榮 - 대조영; Da Zuorong; ?-719): Gowang (Gaowang or Duke of Zhen) of Balhae (Bohai), was the first son of general Dae Jung-sang (Da Zhongxiang). He established the state of Balhae (Bohai) which includes the modern-day southeastern parts of Russia and northeastern parts of China. He was the first monarch of the Balhae (Bohai) dynasty.
+
+Gang Gam-chan (姜邯贊 - 강감찬; 948-1031): A military commander during the early days of Goryeo dynasty. He is known and recognized for his victories during the Third Goryeo-Khitan War.
+
+General Eulji Mundeok (乙支文德 - 을지문덕; ?-?): See General Ulji Mun-tok.
+
+General Kang Kam-chan (姜邯贊 - 강감찬; 948-1031): See Gang Gam-chan.
+
+General Kwon Yul (權慄 - 권율; 1537-1599): A Korean general and commander-in-chief who led the Korean forces during the Japanese invasion, best known for his victory at the Battle of Haengju.
+
+General Kyebaek (階伯 - 계백; ?-660): A Korean general from the kingdom of Baekje known for his last stand on the Battle of Hwangsaebol; died 660.
+
+General Taejoyoung (大祚榮 - 대조영; ?-719): See Dae Joyeong.
+
+General Ulji Mun-tok (乙支文德 - 을지문덕; ?-?): A Korean military leader from the kingdom of Goguryeo best known for defending Korea from Sui Chinese invasion, and remembered as one of Korea's greatest military heroes.
+
+Kwanggaeto the Great (廣開土大王 - 광개토태왕; 374-413): The nineteenth monarch of the kingdom of Goguryeo best known for bringing the kingdom into a golden age as one of the great powers on East Asia.
+
+Wang Geon (王建 - 왕건; 877-943) – See Wang Kon.
+
+Wang Kon (王建 - 왕건; 877-943) – Personal name of Taejo of Goryeo, the founder and the first king of the Goryeo dynasty.
+
+Yi Seong-gye (李成桂 - 이성계; 1335-1408) – See Yi Song-kye.
+
+Yi Song-kye (李成桂 - 이성계; 1335-1408) – Personal name of Taejo of Joseon, the founder and the first king of the Joseon dynasty.
+
+History[]
+
+“ When Europe fell into its Dark Age, Korea had been divided into three competing kingdoms: Koguryo to the north, Paekche to the southwest, and Shilla to the southeast. In alliance with China, Shilla conquered the other two kingdoms in the 7th century and then expelled their erstwhile Chinese ally. The central authority of Shilla disintegrated in the 8th-9th centuries, however, under pressure from local lords. Korea was unified once again as Koryo in the 10th century and after that, recovered territory reaching up to the Amnok River border with China in 993. The civilian nobility was thrown out of power by a military coup in 1170 and military rule then lasted for sixty years. The Mongols invaded in 1231, initiating a 30-year struggle. The Mongols were often distracted by their wars in China and elsewhere but eventually brought enough power to bear that Koryo made peace with the invaders in 1258. Under the Mongols the Koryo maintained their distinct culture and were inspired to demonstrate their superiority to their conquerors through a burst of artistic accomplishment. Land reform, the rise of a new bureaucracy, the diminishment of Buddhism, and the rise of Confucianism around 1400 were part of the creation of a new kingdom, the Choson, that would rule Korea until the 20th century. China heavily influenced the Choson politically and culturally. Korea became an important center of learning, aided by the invention of movable type and the woodblock technique of publishing around 1234. The greatest test of the Choson dynasty was invasion by samurai armies from Japan in 1592 that ostensibly planned to conquer China. Although seven years of fighting left much of the Korean peninsula devastated, the Japanese were forced to withdraw because their fleets could not keep open sea lines of supply and reinforcement back to Japan. The great Korean admiral Yi Sun-Shin defeated the Japanese at sea. One key to the Korean naval victories was their innovative turtle ships , the first cannon-bearing armored ships in history. The Japanese had no answer for these slow but powerful weapons. [1] ”
+
+Trivia[]
+
+The Koreans' civilization icon is based on Taegeuk, the Korean version of the yin-yang (Eoom-Yang) symbol.
+
+The user interface images in both the Definitive Edition and prior to it are tigers drawn in the Korean folk art style called Minhwa, specifically the "Jakhodo" genre which features a tiger and a magpie.
+
+Before the Definitive Edition, the Koreans were the only East Asian civilization to get Bombard Cannons. Currently, the Vietnamese, which now have the East Asian set, can also train Bombard Cannons.
+
+The Koreans are the only East Asian civilization that cannot research Bloodlines.
+
+Since patch 4.8 (where Arrowslits was removed from the Portuguese tech tree), Koreans are the only civilization with access to all University technologies.
+
+Before the Definitive Edition (where the Vietnamese architecture is switched to East Asian style), the Koreans are the only East Asian civilization to have two unique units.
+
+Admiral Yi Sun-Shin is the only hero available in the Scenario Editor who is themed on the Koreans.
+
+The tower range bonus of the Eupseong technology is a callback to the Koreans' predecessor, the Choson.
+
+Since patch 4.8, the Koreans are the only civilization that is unable to build any unit from the Demolition Ship line. Before the patch, the Aztecs were also unable to build the Demolition Raft.
+
+During the development of The Conquerors, the Khmer - along with Tibetans and Koreans - were considered as one of the new factions to represent Asia. Eventually, the developers picked the Koreans because they were impressed with Turtle Ships and attracted by potential sales in South Korea.[2]
+
+The new changes and modifications for the Koreans in update 42848 are because Koreans were very weak in land maps (in the competitive scene, their win-rate was 40% in Arabia) due to being very limited into a single strategy in the early game, which was Tower rush, and with their loss of their former fast-building fortifications as well the HP reduction of Watch Towers in the Feudal Age, this strategy lost value for them, and Koreans did poorly with other options. The new patch has the purpose of giving another identity as an archer civilization, being able to use archers very effectively on open land maps.
+
+The Koreans' name are different in the Chinese translation, such as 高丽/高麗 (Goryeo/Koryo, Gaoli), 韩国/韓國 (Hanguk, Hanguo) and 朝鲜/朝鮮 (Joseon/Choson, Chaoxian).
+
+As of Dawn of the Dukes, the Koreans are the civilization with the fewest appearances in the game's Campaigns and Historical Battles. They only appear in Noryang Point, both as the player's civilization and that of one of the player's allies in that scenario.
+This dubious honor belonged to the Lithuanians prior to receiving a campaign and various appearances in Dawn of the Dukes.
+
+The banners at the Korean Wonder read "세종," referring to King Sejong, who was born several hundred years after the construction of the Wonder. Also, written in the Korean alphabet, Hangeul, is somewhat ahistorical because Hanja(Chinese alphabet) was the official one during the Joseon dynasty.
+
+The Koreans, alongside with Vietnamese and Portuguese, are one of the three civilizations that have a direct bonus that affects their cavalry archers without access to Parthian Tactics (in their case, their cavalry archers cost less wood). Their cavalry archers are the worst of the three, as they also lack Bloodlines.
+The lack of Parthian Tactics for the Koreans may be seen as a historical inaccuracy, as the Koreans adopted mounted archery from the nearby Jurchens during the medieval period.
+
+Gallery[]
+
+The Wonder of the Koreans, the 
+
+Hwangnyong Temple
+
+The East Asian 
+
+architecture set the Koreans share with the
+
+Chinese,
+
+Japanese,
+
+Mongols, and
+
+Vietnamese
+
+The set before the 
+
+Koreans 
+
+user interface image in the
+
+The Korean user interface in the 
+
+A Korean town, as seen in 
+
+Kaesong
+
+Koreans Overview AoE2
+
+Tigers drawn in the Minhwa art style and Jakhodo genre
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/koreans
+
+↑ http://aok.heavengames.com/gameinfo/conquerors-expansion
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+Asian civilizations
+
+The Conquerors
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

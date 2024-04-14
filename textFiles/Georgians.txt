@@ -1,0 +1,483 @@
+This page is all about the Georgians
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique building
+1.3 Unique technologies
+1.4 Civilization bonuses
+1.5 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Mountain Royals
+3.2 Victors and Vanquished
+
+4 Campaign appearances
+
+4.1 Tamerlane
+4.2 Tamar
+4.3 Ismail
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Video
+
+11 Notes
+
+12 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+The Mountain Royals,
+
+Eurasian civilizations
+
+
+			English
+
+Español
+
+Georgians
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+Civilization Technology tree Strategy
+
+Georgians
+
+Civilization information
+
+Introduced in
+
+Age of Empires II: Definitive Edition - The Mountain Royals
+
+Architecture
+
+Mediterranean
+
+Continent
+
+Asia (Caucasus)
+
+Europe (border)
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Georgians_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Mountainroyals_georgians_jingle.ogg
+
+Features/Characteristics
+
+Focus
+
+Cavalry
+
+Defense
+
+Unique units
+
+Monaspa
+
+Unique technologies
+
+Svan Towers
+
+Aznauri Cavalry
+
+Unique buildings
+
+Mule Cart
+
+Fortified Church
+
+“ Carve out a sturdy kingdom in the shadow of the Caucasus Mountains and use the rugged terrain to your advantage as you repulse countless foreign invasions. The Georgians unique unit is the Monaspa, a brawny cavalry unit whose strength increases in numbers. ” —Description [1]
+
+The Georgians are a Mediterranean civilization introduced in Age of Empires II: Definitive Edition - The Mountain Royals. They are based on the Kingdom of Georgia under the Bagrationi dynasty, located in the Caucasus Mountains of Eastern Europe and Western Asia.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique building
+1.3 Unique technologies
+1.4 Civilization bonuses
+1.5 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Mountain Royals
+3.2 Victors and Vanquished
+
+4 Campaign appearances
+
+4.1 Tamerlane
+4.2 Tamar
+4.3 Ismail
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+9 Gallery
+
+10 Video
+
+11 Notes
+
+12 References
+
+Characteristics[]
+
+Unique unit[]
+
+Monaspa: Cavalry unit that becomes stronger when other Monaspas or Knight-line units are nearby.
+
+Unique building[]
+
+Mule Cart: Mobile dropsite for wood, gold, stone, and hunted food. Replaces the Lumber and Mining Camps.
+
+Fortified Church: Trains and upgrades Monks, and can garrison certain units. Fires arrows when garrisoned with Villagers or Relics. Replaces the Monastery.
+
+Unique technologies[]
+
+Svan Towers: Defensive structures receive +2 attack. Towers deal pass-through damage.
+
+Aznauri Cavalry: Mounted units take 15% less population space.
+
+Civilization bonuses[]
+
+Start with a Mule Cart.
+
+Fortified Churches provide +10% work rate to Villagers[note 1] in a 19 tile square.[note 2]
+
+Units and buildings receive -20% damage (-40% instead of -25%) when fighting from higher elevation.
+
+Mounted units regenerate 15% hit points per minute, starting in the Feudal Age
+
+Team bonus[]
+
+Repairing buildings costs -25% resources.
+
+Overview[]
+
+The Georgians are classified as a defensive and cavalry civilization, and many of their bonuses are more defensive in nature, including their cavalry civilization bonus of slowly regenerating hit points. Their units and buildings receive -20% damage (-40% instead of -25%) when fighting from higher elevation. On top of that, they start with a Mule Cart, giving the Georgians a bit of a head start on their economy. The Mule Cart satisfies one of the two Dark Age buildings requirement for the Feudal Age. Their mid-game economy can be further boosted with Fortified Churches providing Villagers +10% work rate within the 10-tile radius. As noted, their cavalry are solid, with access to fully upgradable Cavaliers and Hussars, and their unique unit, the Monaspa, growing stronger the more Monaspa or Knight-line unit are around them. On top of that, their cavalry take up less population space with their Imperial Age technology, allowing them to flood the enemy. Their defenses are solid, having all defensive upgrades available except Heated Shot and Bombard Tower, and their Castle Age unique technology not only increases the attack for their Castles and towers, but allow their towers to deal pass-through damage akin to the Scorpion line. Additionally, it takes less resources for the Georgians to repair buildings thanks to their team bonus. Their siege is strong, having all of the important siege upgrades except Bombard Cannon, and their infantry have all of the upgrades they need. Their Monks are also a solid option for them, with Atonement and Illumination they only technologies they miss out on.
+
+Despite their strengths, the Georgians have noticeable weaknesses. Their Archery Range is mediocre, lacking Arbalesters, Thumb Ring, and Ring Archer Armor, which leaves their Hand Cannoneers and sub-optimal Heavy Cavalry Archers with Parthian Tactics their only reliable ranged units. Additionally, their navy is flat out terrible, missing several key technologies across the board.
+
+Overall, while the Georgians require a high skill-level due to their unusual start, they are a consistent civilization in all stages of the game (including a strong late-game Deathball with their Monaspa, Cavalier, siege weapons, and Keeps with Svan Towers) and are flexible in different map types from open maps like Arabia, to closed maps like Black Forest and Arena. They can opt for a Scout and Knight rush strategy thanks to their cavalry regenerating hit points, or go for a turtle and boom strategy, thanks to their Fortified Churches and starting with a free Mule Cart.
+
+Changelog[]
+
+The Mountain Royals[]
+
+Upon release, their team bonus means repairing buildings costs -50% resources. With update 99311, it costs -25% resources.
+
+Victors and Vanquished[]
+
+With update 107882,
+No longer start the game with a -50 food penalty.
+Cavalry regenerate 5/10/15 hit points per minute in the Feudal/Castle/Imperial Age civilization bonus changed to cavalry regenerate 15% hit points per minute, starting in the Feudal Age.
+(Elite) Monaspa train time increased from 11 seconds to 14 seconds.
+(Elite) Monaspa nearby unit requirement for additional attack increased from 5 units to 7 units.
+
+Campaign appearances[]
+
+The Georgians have a campaign devoted to their civilization: Tamar. They also appear in:
+
+Tamerlane[]
+
+Scourge of the Levant
+Georgia (Georgia in co-op version) - Enemy
+
+Tamar[]
+
+This campaign is played as the Georgians.
+
+Takeover
+Aznauri - Enemy
+Georgia - Ally
+
+Yury's Revenge
+Georgian Rebels - Enemy
+
+The Queen in the Panther's Skin
+Tamar's Army - Ally
+
+Ismail[]
+
+The Red Hats and Khata'i
+Georgia - Enemy
+
+Road to Royalty
+Georgia - Enemy → Possible Ally → Enemy
+
+In-game dialogue language[]
+
+The Georgian units use their namesake language (Georgian: ქართული ენა, romanized: kartuli ena).
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Male_Select_2_AoE2.ogg Select 1 K'etil ars (კეთილ არს) - Good
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Male_Select_3_AoE2.ogg Select 2 Mza ars (მზა არს) - Ready
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Male_Select_1_AoE2.ogg Select 3 Rasa brdzanebt? (რასა ბრძანებთ?) - What do you order?
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Male_Select_4_AoE2.ogg Select 4 Iq'os dghei marjvei (იყოს დღეი მარჯვეი) - Have a good/victorious day
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Female_Task_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Male_Task_4_AoE2.ogg Task 1 K'etil ars (კეთილ არს) - Good
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Male_Task_1_AoE2.ogg Task 2 Martal khar (მართალ ხარ) - You are right
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Female_Task_2_AoE2.ogg Female Task 3 dauq'eneblad (დაუყენებლად) - Without delay
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Male_Task_2_AoE2.ogg Male Task 3 dauq'eneblad mashinve (დაუყენებლად მაშინვე) - Immediately
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Female_Task_3_AoE2.ogg Female Task 4 Vikmn (ვიქმნ) - On my way
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Male_Task_3_AoE2.ogg Male Task 4 Vikmn mival (ვიქმნ მივალ) - On my way
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Male_Build_AoE2.ogg Build Aghmashenebeli (აღმაშენებელი) - Builder
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Male_Chop_AoE2.ogg Chop T'q'is mk'apeli (ტყის მკაფელი) - Forester
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Male_Farm_AoE2.ogg Farm Shemk'rebeli (შემკრებელი) - Gatherer
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Male_Fish_AoE2.ogg Fish Metevze (მეთევზე) - Fisher
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Male_Forage_AoE2.ogg Forage Shemk'rebeli (შემკრებელი) - Gatherer
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Male_Hunt_AoE2.ogg Hunt Monadire (მონადირე) - Hunter
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Male_Mine_AoE2.ogg Mine Mtkhrebli (მთხრებლი) - Digger
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Georgians_Villager_Male_Repair_AoE2.ogg Repair Aghmaginebeli (აღმაგინებელი) - Restorer
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Soldier_Select_1_AoE2.ogg Select 1 K'etil ars (კეთილ არს) - Good
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Soldier_Select_2_AoE2.ogg Select 2 Rasa brdzanebt? (რასა ბრძანებთ?) - What do you order?
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Soldier_Select_3_AoE2.ogg Select 3 Msakhuro vitartsa gindes (მსახურო ვითარცა გინდეს) - I will do as you wish
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Soldier_Move_2_AoE2.ogg Move 1 K'etil ars didebulo (კეთილ არს დიდებულო) - It is good, great one
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Soldier_Move_1_AoE2.ogg Move 2 'Mmartal khar (მართალ ხარ) - You are right
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Soldier_Move_3_AoE2.ogg Move 3 Mza (მზა) - Ready
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Soldier_Attack_1_AoE2.ogg Attack 1 Daeskh! (დაესხ!) - Attack!
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Soldier_Attack_2_AoE2.ogg Attack 2 Aghighet sach'urveli! (აღიღეთ საჭურველი!) - Arm yourselves!
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Soldier_Attack_3_AoE2.ogg Attack 3 Ts'in! (წინ!) - Forward!
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Monk_Select_1_AoE2.ogg Select 1
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Monk_Select_2_AoE2.ogg Select 2 Msakhuro vitartsa gindes (მსახურო ვითარცა გინდეს) - I will do as you wish
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Monk_Select_3_AoE2.ogg Select 3 Rasa brdzanebt? (რასა ბრძანებთ?) - What do you order?
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Monk_Select_4_AoE2.ogg Select/Task 4 K'etil ars (კეთილ არს) - Good
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Monk_Move_1_AoE2.ogg Task 1 Vikmn (ვიქმნ) - On my way
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Monk_Move_2_AoE2.ogg Task 2 Martal khar (მართალ ხარ) - You are right
+
+https://ageofempires.fandom.com/wiki/File:Georgians_Monk_Move_3_AoE2.ogg Task 3 Dauq'eneblad (დაუყენებლად) - Without delay
+
+https://ageofempires.fandom.com/wiki/File:Georgians_King_Select_1_AoE2.ogg Select 1 Gakmn p'asukhobai sit'q'uasa chems (გაქმნ პასუხობაი სიტყუასა ჩემს) - You will answer me
+
+https://ageofempires.fandom.com/wiki/File:Georgians_King_Select_2_AoE2.ogg Select 2 Rai gnebavs shen? (რაი გნებავს შენ?) - What do you want?
+
+https://ageofempires.fandom.com/wiki/File:Georgians_King_Select_3_AoE2.ogg Select 3 Rad shemats'ukheb me? (რად შემაწუხებ მე?) - Why are you bothering me?
+
+https://ageofempires.fandom.com/wiki/File:Georgians_King_Select_4_AoE2.ogg Select 4 Vitarts gichns shen (ვითარც გიჩნს შენ) - As you think (say/wish)
+
+https://ageofempires.fandom.com/wiki/File:Georgians_King_Move_1_AoE2.ogg Move 1 P'at'ivistsemai chemi (პატივისცემაი ჩემი) - The respect is mine
+
+https://ageofempires.fandom.com/wiki/File:Georgians_King_Move_2_AoE2.ogg Move 2 Vitar mibrdzaneb (ვითარ მიბრძანებ) - As you command
+
+https://ageofempires.fandom.com/wiki/File:Georgians_King_Move_3_AoE2.ogg Move 3 Vzam raisa itkhov (ვზამ რაისა ითხოვ) - I will do as you ask
+
+https://ageofempires.fandom.com/wiki/File:Georgians_King_Move_4_AoE2.ogg Move 4 Vzam (ვზამ) - I shall do
+
+AI player names[]
+
+Bagrat III: Bagrat III (Georgian: ბაგრატ III) (c. 960 – 7 May 1014) was King of Abkhazia 978 onward (as Bagrat II) and King of Georgia from 1008 on. He united these two titles by dynastic inheritance and, through conquest and diplomacy, added more lands to his realm, effectively becoming the first king of the Kingdom of Georgia.
+
+Giorgi I: He was the king of Georgia from 1014 until his death in 1027.
+
+Demetrius: Demetriys I of Georgia was the King of Georgia from 1125 to 1156. He was also known as a poet.
+
+Gregorios Pakourianos: He was a Byzantine politician and military commander. He was the founder of the Monastery of the Mother of God Petritzonitissa in Bachkovo.
+
+David the Builder: David IV (reigned 1089-1125), also called Davit IV Aghmashenebeli, was the fifth King of united Georgia, he is often considered the greatest of the rulers of Georgia and set the foundation for the Georgian Golden Age which would blossom under his great-granddaughter Tamar. He defeated the Seljuk Turks at the Battle of Didgori while expanding the realm and carrying out reforms of the country, including setting up the Monaspa elite corps.
+
+Tamar the Great: One of the only two female monarchs of Georgia, Queen Tamar ruled over Georgia during its golden age where its military power, development, architecture, and arts such as poetry, painting, and literature flourished. This has led to her status as a highly idealized figure in Georgian history and popular culture.
+
+David Soslan: He was a prince from Alania and the second husband of Queen Tamar, and was known for his military successes against Georgia's neighbouring Muslim states.
+
+Rusudan: One of the only two female monarchs of Georgia, she ruled from 1223 to 1245.
+
+Giorgi the Brilliant: George V the Brilliant (1286/1289–1346) was King of Georgia from 1299 to 1302 and again from 1314 until his death in 1346. He recovered Georgia from a century of Mongol domination, restoring the country's previous strength and Christian culture.
+
+David the Elder: David VII of Georgia, also called David Ulugh (1215–1270), was king of Georgia from 1247 to 1270. He served his Mongol overlords and unsuccessfully tried to break free of their control, eventually making peace and resubmitting. The kingdom declined further during his reign under Mongol dominance.
+
+Vakhtang: Several kings with the name of Vakhtang (which derives from a phrase in ancient Persian meaning "wolf-bodied") ruled Georgia during the medieval era.
+
+Michael I: King of the western Georgian kingdom of Imereti from 1327 to 1329.
+
+Alexander I: He was king of Georgia from 1412 to 1442, and the last ruler of a united Georgia, which finally collapsed and fragmented due to the destruction caused by the earlier Turco-Mongol and Timur's invasions.
+
+Constantine: Constantine I was King of Georgia from 1405 or 1407 until his death in 1412.
+
+History[]
+
+“ During the early medieval period, the regions south of the Caucasus Mountains were divided among numerous petty kingdoms that eluded foreign dominance largely through geographical isolation. Although the Byzantine Empire occasionally attempted to extend its influence into these polities, no significant lasting gains were made. However, the constant threat of foreign invasion catalyzed a gradual shift towards unity. In the early 11th century, Bagrat III finally succeeded in gathering these formerly squabbling states into the Kingdom of Georgia. Despite prior tensions, the young Georgian kingdom and the Byzantine Empire made common cause when the Seljuk Turks poured into the regions south of the Caucasus, threatening both realms. Although the Byzantines suffered a catastrophic defeat at Manzikert in 1071 and abandoned many of their eastern possessions, the Georgian kingdom endured – albeit while suffering severe damage from the constant pillaging of its infrastructure. One particularly notable Georgian player in these conflicts was Gregorios Pakourianos, an officer who entered Byzantine service and became a high-ranking commander, eventually being placed in charge of most of the Empire's Balkan provinces. Georgia experienced a resurgence during the early 12th century under David IV the Builder, who – as his cognomen suggests – reformed Georgia's infrastructure and restored much of its political stability while increasing its military might. This trend was continued by Georgia's first ruling queen, Tamar (1160-1213), who elevated the kingdom's power to new heights. Tamar's power and aptitude was such that by the latter years of her reign she had transformed her realm from a minor kingdom threatened by its neighbors to a kingmaker on the verge of participating in future Crusades. Medieval Georgia flourished largely due to the ingenuity and resilience of its people. Adaptation to the mountainous landscape permitted the Georgian people to build a thriving and defensible economy that sat on one of the many crossroads between empires. Formidable fortifications – from mountain castles to the towers of Svaneti – protected the realm against hostile incursions, while Georgian armies used the terrain to their advantage in parrying enemy attacks and striking back shrewdly. The Georgian armies were led by the Monaspa, an elite cavalry force that directly served the ruling king or queen. Heavily armored, meticulously organized, and well trained, they were known to annihilate an enemy front line with a devastating shock charge. Georgia's golden age ended abruptly in the 13th century when successive waves of Mongols cascaded into the regions surrounding the Caucasus Mountains. Unable to hold off the invaders, the Georgians were unwillingly reduced to vassals of the Mongol khanates. Although the realm briefly recovered from this servitude under George V the Brilliant (1286-1346), further misfortune ensued as the Bubonic Plague swept through most of Europe and Asia, claiming millions of lives. Some decades later, the armies of Tamerlane flooded through Georgia on several occasions, carrying out despicable campaigns of destruction and slaughter . Limping into the 15th century, the Kingdom of Georgia finally collapsed in the face of Turkoman invasions. ”
+
+Trivia[]
+
+The Georgian icon is based on the Cross of Jerusalem, which can be found in the modern Flag of Georgia.
+
+The Georgian Castle is based on Akhaltsikhe Castle. The civilization icon is also shown on banners on the Castle.
+
+The Georgian Wonder is the Svetitskhoveli Cathedral, located in Mtskheta, Georgia, which was completed in 1029 AD.
+
+The user interface image depicts Saint Mamas riding a lion, as per his legend. The particular render is based on this specific tondo from the 14th-15th Century found in the Gelati Monastery.
+
+The Georgians are the third civilization, after the Malay and Bengalis, to have units which take up a population space other than 1.
+
+Tamar is the only hero available in the Scenario Editor who is themed on the Georgians.
+
+The Georgians have technically had part of their culture in the game since The Age of Kings, since the Central European Monastery is modeled after the Gelati Monastery, a Georgian monastery built by David the Builder, a famous king who fought at the Battle of Didgori. Queen Tamar, the focus of the Georgian campaign, was also crowned at Gelati.
+Despite the Central European Monastery being modeled after the Gelati Monastery and medieval Georgian architecture being very unique within the Caucasus region, the Georgians use the Mediterranean architecture set.
+
+Despite the Bactrian Camel being native to the Northern Caucasus, the Georgians do not have access to the Camel Rider.
+
+While the Georgians historically had a reputation for the use of heavy cavalry, they do not have access to the Paladin upgrade. This is done to balance their Imperial Age technology and their civilization bonus of hit point regeneration for their cavalry. In addition, their unique unit is supposed to represent their heavy cavalry.
+
+The Georgians are the only Mediterranean civilization with access to Parthian Tactics. They are also the only Mediterranean civilization who lack both Dry Dock and Shipwright for their navy.
+
+Despite the Byzantine Empire's strong influence on Georgian culture during medieval times, the Georgians have access to the Cannon Galleon instead of the Dromon.
+
+Gallery[]
+
+The Georgian Wonder, Svetitskhoveli Cathedral
+
+The unique Georgian Castle, based on the Akhaltsikhe Castle
+
+The Mediterranean architecture set the Georgians share with the 
+
+Armenians,
+
+Byzantines,
+
+Italians,
+
+Portuguese,
+
+Romans,
+
+Sicilians, and
+
+Spanish
+
+Tbilisi, the Georgian capital city, as depicted in the campaign. A Georgian Castle and the Georgian Wonder are also present, as well as various 
+
+Monaspas.
+
+Another Georgian town showcasing a Mule Cart serving as a 
+
+drop-off point, some decorative
+
+Svan towers, Monaspas, and a decorative Chapel.
+
+A Georgian army besieging a 
+
+South Asian city which appears similar to Kabul as seen in
+
+The Last Timurids and
+
+The Fallen Amir. The defenders consist of
+
+Savars.
+
+The Georgian 
+
+User interface emblem
+
+Georgia under Tamar
+
+Georgia after Mongols
+
+Georgia map
+
+Video[]
+
+Georgians overview (AoE2)
+
+Notes[]
+
+↑ Similar to the Roman bonus, it includes constructing and repairing.
+
+↑ The influence zone is a square, with the maximum distance being a chess-board distance of 8 tiles measured from all edges of the Fortified Church.
+
+References[]
+
+↑ Xbox store
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+The Mountain Royals
+
+Eurasian civilizations
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires

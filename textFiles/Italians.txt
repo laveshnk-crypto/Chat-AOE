@@ -1,0 +1,770 @@
+This page is all about the Italians
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Forgotten
+3.2 The African Kingdoms
+3.3 Rise of the Rajas
+3.4 Definitive Edition
+3.5 Lords of the West
+3.6 Return of Rome
+3.7 Victors and Vanquished
+
+4 Campaign appearances
+
+4.1 Saladin
+4.2 Barbarossa
+4.3 Attila the Hun
+4.4 Alaric
+4.5 Bari
+4.6 Vlad Dracula
+4.7 Sforza
+4.8 Tariq ibn Ziyad
+4.9 Tamerlane
+4.10 Ivaylo
+4.11 The Hautevilles
+4.12 Jadwiga
+4.13 Jan Zizka
+4.14 Victors and Vanquished
+4.15 The Art of War
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+8.1 Behind the scenes
+
+9 Gallery
+
+10 References
+
+in:
+
+Age of Empires II,
+
+Civilizations (Age of Empires II),
+
+European civilizations,
+
+The Forgotten
+
+
+			English
+
+Español
+
+Italians (Age of Empires II)
+
+46
+
+Edit
+
+Edit source
+
+View history
+
+Talk (0)
+
+This article is about the civilization in Age of Empires II HD: The Forgotten . For the civilization in Age of Empires III: Definitive Edition - Knights of the Mediterranean , see Italians (Age of Empires III) .
+
+Civilization Technology tree Strategy
+
+Italians
+
+Civilization information
+
+Introduced in
+
+Age of Empires II HD: The Forgotten
+
+Architecture
+
+Mediterranean
+
+Continent
+
+Europe (south)
+
+In-game theme
+
+https://ageofempires.fandom.com/wiki/File:Italians_theme_AoE2_DE.ogg
+
+Jingle
+
+https://ageofempires.fandom.com/wiki/File:Italians_jingle_AoE2_DE.ogg
+
+Old jingle
+
+https://ageofempires.fandom.com/wiki/File:Italians_jingle_AoE2.ogg
+
+Features/Characteristics
+
+Focus
+
+Archers
+
+Navy
+
+Unique units
+
+Genoese Crossbowman
+
+Condottiero
+
+Unique technologies
+
+Pavise
+
+Silk Road
+
+“ Shed off the burden of the barbarian invasions that have torn your beloved peninsula apart after the collapse of the Western Roman Empire. Take the role as general of one of the Italian city-states — Genoa, Venice, Pisa, Ragusa, Amalfi, or even the Papal States — that emerged in the chaos and restore the might that once shone from your lands. Lead armies of Condottieri and Genoese Crossbowmen to glory or establish a trade network that dominates the Silk Road! The choice of which history to write is yours. ” —Description [1]
+
+The Italians are a Southern European civilization introduced in Age of Empires II HD: The Forgotten. The civilization is primarily based on various Italian city-states, duchies, republics, and leagues that emerged during the Middle Ages, following the Holy Roman Empire's loss of imperial control over Imperial Italy. They focus on archers and ships. Their first unique unit, the Genoese Crossbowman, is an archer unit that deals bonus damage against cavalry, while their second unique unit, the Condottiero, is an anti-gunpowder infantry unit that can be trained at the Barracks and serves as a team bonus, making the Italians one of the three civilizations that can unconditionally (i.e. disregarding mercenary Kipchaks) share a unique unit with their allies. Their civilization bonuses provide discounts for their gunpowder units, Fishing Ships, age advancement, and Dock and University technologies. Despite their archer and naval focus, they have a reasonably diverse tech tree, meaning the Italians can mix in a wide variety of units with their archers and gunpowder units.
+
+The Italians were originally one of the planned civilizations to be added in Age of Empires III, with their design to be more "medieval" when compared to other European civilizations, but were scrapped in the final release of the game. The Italian civilization was implemented in Age of Empires III: Definitive Edition - Knights of the Mediterranean.
+
+Contents
+
+1 Characteristics
+
+1.1 Unique unit
+1.2 Unique technologies
+1.3 Civilization bonuses
+1.4 Team bonus
+
+2 Overview
+
+3 Changelog
+
+3.1 The Forgotten
+3.2 The African Kingdoms
+3.3 Rise of the Rajas
+3.4 Definitive Edition
+3.5 Lords of the West
+3.6 Return of Rome
+3.7 Victors and Vanquished
+
+4 Campaign appearances
+
+4.1 Saladin
+4.2 Barbarossa
+4.3 Attila the Hun
+4.4 Alaric
+4.5 Bari
+4.6 Vlad Dracula
+4.7 Sforza
+4.8 Tariq ibn Ziyad
+4.9 Tamerlane
+4.10 Ivaylo
+4.11 The Hautevilles
+4.12 Jadwiga
+4.13 Jan Zizka
+4.14 Victors and Vanquished
+4.15 The Art of War
+
+5 In-game dialogue language
+
+6 AI player names
+
+7 History
+
+8 Trivia
+
+8.1 Behind the scenes
+
+9 Gallery
+
+10 References
+
+Characteristics[]
+
+Unique unit[]
+
+Genoese Crossbowman: Archer with an attack bonus against cavalry.
+
+Condottiero: Melee infantry with an attack bonus against gunpowder units.
+
+Unique technologies[]
+
+Pavise: Gives foot archers (except Skirmishers) and Condottieri +1/+1 armor.
+
+Silk Road: Halves trade unit cost.
+
+Civilization bonuses[]
+
+Advancing to the next Age is 15% cheaper.
+
+Dock and University technologies are 33% cheaper.
+
+Fishing Ships are 15% cheaper.
+
+Gunpowder units are 20% cheaper.
+
+Team bonus[]
+
+Condottieri are available at the Barracks.
+
+Overview[]
+
+The Italians are mainly an archer and naval civilization. Their Archery Range is pretty fit with all upgrades and technologies for the foot soldiers there. Only their Cavalry Archers are weak. Their Stable units however are good, featuring Hussars and Cavaliers with full upgrades. In the infantry department there is only the Halberdier missing, but they have the Condottiero at their disposal. Apart from the Bombard Cannon which they get at a lower cost the siege weapons are underwhelming for the Italians. However, their Monks and navy are excellent with only one missing feature each. Same goes for their economy, which only lacks Gold Shaft Mining, and their defensive structures, which do not lack a single feature at all.
+
+Overall, the Italians have a very wide technology tree that leaves little to be desired.
+
+Changelog[]
+
+The Forgotten[]
+
+Advancing to the next Age is 10% cheaper.
+
+Gunpowder units are 15% cheaper.
+
+Fishing Ships have +2 Line of Sight.
+
+Cannot research Hussar or Squires.
+
+Pavise costs 550 food, 300 gold and only affects Genoese Crossbowmen.
+
+Condottieri require a Castle.
+
+Condottieri have 9 attack and 1 speed.
+
+Condottieri train in 11 seconds.
+
+Genoese Crossbowmen cost 50 wood, 50 gold and are trained in 22 seconds (19 for Elite).
+
+Non-Elite Genoese Crossbowmen have a reload time of 3.0.
+
+Dock technologies are 50% cheaper.
+
+The African Kingdoms[]
+
+Advancing to the next Age is 15% cheaper.
+
+Gunpowder units are 20% cheaper.
+
+Fishing Ships are 33% cheaper instead of having +2 LOS.
+
+Pavise costs 300 food, 150 gold and affects all foot archers.
+
+Hussars added to the technology tree.
+
+Condottieri no longer require a Castle.
+
+Condottieri have 10 attack and 1.2 speed.
+
+Elite Genoese Crossbowmen have +5 attack against camel units.
+
+With patch 4.8, Pavise no longer incorrectly affects Skirmishers.
+
+With patch 4.8, Condottieri train in 13 seconds.
+
+Rise of the Rajas[]
+
+Genoese Crossbowmen cost 45 wood, 45 gold.
+
+With patch 5.5, Fishing Ships are 20% cheaper.
+
+With patch 5.7, Elite Genoese Crossbowmen have +6 attack against camel units.
+
+With patch 5.7, Condottieri have 9 attack and 0 pierce armor.
+
+With patch 5.7, Condottieri have a unique armor class that resists bonus damage from gunpowder units (+10 armor), but not from other anti-infantry attacks.
+
+With patch 5.7, Condottieri train in 18 seconds.
+
+With patch 5.8, Fishing Ships are 15% cheaper.
+
+Definitive Edition[]
+
+Non-Elite Genoese Crossbowman reload time is reduced from 3 to 2.
+
+With update 36906: Fishing Ships correctly cost -15% (the cost should be 64, not 60 as previously).
+
+With update 39284: Condottieri have 10 attack, and are affected by Pavise.
+
+With update 42848, the training time of (Elite) Genoese Crossbowman is reduced from 22 (19) to 18 (14) seconds.
+
+Lords of the West[]
+
+With update 44725, Dock technologies are 33% cheaper. The civilization also receives a 33% discount for all University technologies.
+
+With update 44725, Genoese Crossbowmen cost 45 wood, 40 gold.
+
+Return of Rome[]
+
+With update 87863, Pavise cost changed from 300 food, 150 gold to 200 wood, 150 gold.
+
+Victors and Vanquished[]
+
+With update 107882, Genoese Crossbowman train time decreased from 18 seconds to 14 seconds.
+
+Campaign appearances[]
+
+The Italians have a campaign devoted to their civilization: Sforza.
+
+They also appear as allies or enemies in:
+
+Toggle campaign appearance list
+
+Expand
+
+Saladin[]
+
+The Lion and the Demon
+Genoese - Enemy
+
+Barbarossa[]
+
+Pope and Antipope
+Milan - Enemy
+Crema - Enemy
+
+The Lombard League
+Padua - Enemy
+
+Attila the Hun[]
+
+The Fall of Rome
+Western Roman Empire - Ally
+
+Alaric[]
+
+In the HD Edition:
+
+All Roads Lead to a Besieged City
+Italians - Ally
+Legions of Rome - Enemy
+Rome - Enemy
+
+Legionaries on the Horizon!
+Civilians - Ally
+General Mageius' Camp - Enemy
+Legionaries - Enemy
+
+Emperor of the West
+Civilians - Ally
+Ravenna - Ally
+
+The Sack of Rome
+Rome - Ally
+City guard - Enemy
+Imperial Legion - Enemy
+
+In the Definitive Edition remake:
+
+The Belly of the Beast
+Ravenna - Neutral
+Cremona - Enemy
+
+The Giant Falls
+Rome - Neutral
+Imperial Legions - Enemy
+
+A Kingdom of Our Own
+Narbo - Enemy
+
+Bari[]
+
+In the HD Edition:
+
+Arrival at Bari
+Oria - Ally
+Matera - Enemy
+
+The Rebellion of Melus
+Bari - Ally
+Local Italians - Ally
+
+The Great Siege
+Bari - Ally
+
+In the Definitive Edition remake:
+
+Arrival at Bari
+Bari - Ally
+Matera - Enemy
+Oria - Ally
+
+The Rebellion of Melus
+Bari - Ally
+Potenza - Ally
+
+The Best Laid Plans
+Papal States - Enemy
+Abbey of Montecassino - Enemy
+
+The Onrushing Tide
+Bari - Ally
+
+Vlad Dracula[]
+
+In the Definitive Edition:
+
+The Night Falls
+Italian Mercenaries - Ally
+
+Sforza[]
+
+This campaign is played as the Italians.
+
+In the HD Edition
+An End and a Beginning
+Captain Johannes - Ally
+Captain Bontolmo - Ally
+Captain Guitano - Ally
+Captain Luigeusi - Ally
+Captain Marcelo - Ally
+Village - Ally
+O Fortuna
+Brigata Malatesta - Ally
+Florentines - Neutral → Enemy
+Bandits - Enemy
+The Hand of a Daughter
+Duchy of Milan - Ally
+Sforza's Spy - Ally
+Carmagnola's Camp - Ally → Enemy
+Venetian Main Fleet - Enemy
+The Ambrosian Republic
+Cremona - Ally
+Locals - Ally
+Pavia - Ally, potential Enemy
+Rebels - Enemy
+Venetians - Enemy
+Caravaggio - Enemy → Ally
+Piacenza - Enemy → Ally
+A New Duke of Milan
+Milanese Army - Enemy
+Milan's Countryside - Enemy
+City of Milan - Enemy → Ally
+
+In the Definitive Edition
+Mercenaries and Masters
+Piccinino - Ally
+Visconti - Ally
+Brescia - Ally
+Carmagnola - Enemy
+Florentines - Enemy
+Lombardy - Neutral
+His Own Man
+Piccinino - Enemy
+Ravenna  - Neutral → Ally
+Rimini - Neutral → Ally
+Pesaro - Neutral → Ally
+The Romagnol - Ally
+Prodigal Son
+Piccinino - Enemy
+Lombard Villages  - Ally
+Blood and Betrayal
+Caravaggio - Enemy
+Piacenza - Enemy
+Cremona  - Ally
+Lombardy  - Ally
+Viva Sforza!
+Milan - Enemy
+
+Tariq ibn Ziyad[]
+
+The Battle of Guadalete
+Cordoba - Enemy
+
+Consolidation and Subjugation
+Seville - Enemy
+
+Tamerlane[]
+
+Harbinger of Destruction
+Italian Merchants - Enemy
+
+Ivaylo[]
+
+Where the One-Eyed Man is King
+Genoese Gazaria - Enemy
+
+The Hautevilles[]
+
+Guiscard Arrives
+Guaimar the Lombard - Ally → Enemy
+
+Wonder of the World
+Italian Cities - Enemy → Ally
+
+Jadwiga[]
+
+Vytautas' Crusade
+Vozia - Enemy → Ally
+
+Jan Zizka[]
+
+The Golden City
+Crusaders - Enemy
+
+Victors and Vanquished[]
+
+Charlemagne
+Pope - Ally
+Lombards - Enemy
+
+Constantine XI
+Genoese Galata - Ally
+
+Fetih
+Genoese Galata - Neutral
+Westerners - Enemy
+
+Ironside
+Italy - Enemy
+
+The Art of War[]
+
+Battle Formations is played as the Italians.
+
+Battle Formations
+Pope Gregory VII - Ally
+
+In-game dialogue language[]
+
+In-game, Italians units speak Medieval Latin, which is also spoken by the Byzantines. Historically, however, they spoke different vernacular languages descended from Latin. The modern Italian language was based almost exclusively on one of these vernacular languages, the variant of Tuscan spoken in the city of Florence, called Florentine.
+
+Villager
+
+https://ageofempires.fandom.com/wiki/File:Italians_Villager_Female_Select_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Italians_Villager_Male_Select_1_AoE2.ogg Select 1 Ain? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Italians_Villager_Female_Select_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Italians_Villager_Male_Select_2_AoE2.ogg Select 2 Salvē - Hello
+
+https://ageofempires.fandom.com/wiki/File:Italians_Villager_Female_Select_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Italians_Villager_Male_Select_3_AoE2.ogg Select 3 Praestō - I'm ready
+
+https://ageofempires.fandom.com/wiki/File:Italians_Villager_Female_Select_4_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Italians_Villager_Male_Select_4_AoE2.ogg Select 4 Imperō? - I command?
+
+https://ageofempires.fandom.com/wiki/File:Italians_Villager_Female_Task_1_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Italians_Villager_Male_Task_1_AoE2.ogg Task 1 Sānē - Certainly
+
+https://ageofempires.fandom.com/wiki/File:Italians_Villager_Female_Task_2_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Italians_Villager_Male_Task_2_AoE2.ogg Task 2 Ain - Yes
+
+https://ageofempires.fandom.com/wiki/File:Italians_Villager_Female_Task_3_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Italians_Villager_Male_Task_3_AoE2.ogg Task 3 Corrēctus - Right
+
+https://ageofempires.fandom.com/wiki/File:Italians_Villager_Female_Build_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Italians_Villager_Male_Build_AoE2.ogg Build Condō - I build
+
+https://ageofempires.fandom.com/wiki/File:Italians_Villager_Female_Chop_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Italians_Villager_Male_Chop_AoE2.ogg Chop Caedō - I cut
+
+https://ageofempires.fandom.com/wiki/File:Italians_Villager_Female_Farm_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Italians_Villager_Male_Farm_AoE2.ogg Farm Colō - I cultivate
+
+https://ageofempires.fandom.com/wiki/File:Italians_Villager_Female_Fish_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Italians_Villager_Male_Fish_AoE2.ogg Fish Captō - I catch
+
+https://ageofempires.fandom.com/wiki/File:Italians_Villager_Female_Forage_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Italians_Villager_Male_Forage_AoE2.ogg Forage Pābulō - I forage
+
+https://ageofempires.fandom.com/wiki/File:Italians_Villager_Female_Hunt_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Italians_Villager_Male_Hunt_AoE2.ogg Hunt Vēnātus - Hunted
+
+https://ageofempires.fandom.com/wiki/File:Italians_Villager_Female_Mine_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Italians_Villager_Male_Mine_AoE2.ogg Mine Fodiō - I dig
+
+https://ageofempires.fandom.com/wiki/File:Italians_Villager_Female_Repair_AoE2.ogg https://ageofempires.fandom.com/wiki/File:Italians_Villager_Male_Repair_AoE2.ogg Repair Reficiō - I repair
+
+https://ageofempires.fandom.com/wiki/File:Italians_Soldier_Select_1_AoE2.ogg Select 1 Ain? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Italians_Soldier_Select_2_AoE2.ogg Select 2 Praestō - I'm ready
+
+https://ageofempires.fandom.com/wiki/File:Italians_Soldier_Select_3_AoE2.ogg Select 3 Imperō? - I command?
+
+https://ageofempires.fandom.com/wiki/File:Italians_Soldier_Move_1_AoE2.ogg Move 1 Ain - Yes
+
+https://ageofempires.fandom.com/wiki/File:Italians_Soldier_Move_2_AoE2.ogg Move 2 Agō - I do
+
+https://ageofempires.fandom.com/wiki/File:Italians_Soldier_Move_3_AoE2.ogg Move 3 Sānē - Certainly
+
+https://ageofempires.fandom.com/wiki/File:Italians_Soldier_Attack_1_AoE2.ogg Attack 1 Pugnō! - I fight!
+
+https://ageofempires.fandom.com/wiki/File:Italians_Soldier_Attack_2_AoE2.ogg Attack 2 Comitā! - (You) Follow!
+
+https://ageofempires.fandom.com/wiki/File:Italians_Soldier_Attack_3_AoE2.ogg Attack 3 Porrō! - Forward!
+
+Monk
+
+https://ageofempires.fandom.com/wiki/File:Italians_Monk_Select_1_AoE2.ogg Select 1 Ain? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Italians_Monk_Select_2_AoE2.ogg Select 2 Salvē - Hello
+
+https://ageofempires.fandom.com/wiki/File:Italians_Monk_Select_3_AoE2.ogg Select 3 Praestō - I'm ready
+
+https://ageofempires.fandom.com/wiki/File:Italians_Monk_Move_1_AoE2.ogg Move 1 Sānē - Certainly
+
+https://ageofempires.fandom.com/wiki/File:Italians_Monk_Move_2_AoE2.ogg Move 2 Ain - Yes
+
+https://ageofempires.fandom.com/wiki/File:Italians_Monk_Move_3_AoE2.ogg Move 3 Corrēctus - Right
+
+King
+
+https://ageofempires.fandom.com/wiki/File:Italians_King_Select_1_AoE2.ogg Select 1 Ain? - Yes?
+
+https://ageofempires.fandom.com/wiki/File:Italians_King_Select_2_AoE2.ogg Select 2 Salvē - Hello
+
+https://ageofempires.fandom.com/wiki/File:Italians_King_Select_3_AoE2.ogg Select 3 Praestō - I'm ready
+
+https://ageofempires.fandom.com/wiki/File:Italians_King_Select_4_AoE2.ogg Select 4 Imperō? - I command?
+
+https://ageofempires.fandom.com/wiki/File:Italians_King_Move_1_AoE2.ogg Move 1 Sānē - Certainly
+
+https://ageofempires.fandom.com/wiki/File:Italians_King_Move_2_AoE2.ogg Move 2 Ain - Yes
+
+https://ageofempires.fandom.com/wiki/File:Italians_King_Move_3_AoE2.ogg Move 3 Corrēctus - Right
+
+https://ageofempires.fandom.com/wiki/File:Italians_King_Move_4_AoE2.ogg Move 4 Agō - I do
+
+AI player names[]
+
+When playing a random map game against the computer, the player may encounter any of the following Italian AI characters:
+
+Alboin: King of the Lombards from about 560 until 572.
+
+Arechis II of Benevento: Duke of Benevento in Southern Italy. He sought to expand Beneventos' influence into areas of Italy that were still under Byzantine control, but he also had to defend against Charlemagne, who had conquered northern Italy.
+
+Castruccio Castracani (1281 – 3 September 1328): An Italian condottiero and duke of Lucca.
+
+Domenico Selvo: The 31st Doge of Venice, serving from 1071 to 1084. During his reign as Doge, his domestic policies, the alliances that he forged, and the battles that the Venetian military won and lost laid the foundations for much of the subsequent foreign and domestic policy of the Republic of Venice.
+
+Francesco I Sforza: An Italian condottiero, the founder of the Sforza dynasty in Milan, Italy, and was the fourth Duke of Milan from 1450 until his death.
+
+Gisulf I of Salerno: Prince of Salerno (952–977), he took to using the title "prince of the people of the Lombards".
+
+Liutprand the Lombard: The King of the Lombards from 712 to 744 and he is often regarded as the most successful Lombard monarch, notable for the Donation of Sutri, which was the first accolade of sovereign territory to the Papacy.
+
+Maurizio Galbaio: The seventh traditional, but fifth historical, Doge of Venice from 764 to his death. He was the first great doge, who reigned for 22 years and set Venice on its path to independence and success.
+
+Ottone Visconti: was Archbishop of Milan and Lord of Milan, the first of the Visconti line. Under his rule, the commune of Milan became a strong Ghibelline city and one of the Holy Roman Empire's seats in Italy.
+
+Pietro Gradenigo: The 49th Doge of Venice, reigning from 1289 to his death in 1311. He is known as a founder of the Great Council of Venice, and restricted membership of the future Councils only to the descendants of those nobles who were its members between 1293 and 1297. The oligarchic system was created as a result of this reformation.
+
+Pope Gregory VII: Born Hildebrand of Sovana, he was Pope from 22 April 1073 to his death in 1085. One of the great reforming popes, he is perhaps best known for the part he played in the Investiture Controversy, his dispute with Henry IV, Holy Roman Emperor that affirmed the primacy of papal authority and the new canon law governing the election of the pope by the College of Cardinals.
+
+Simone Boccanegra: The first Doge of Genoa. He became doge in 1339, but was ousted from power six years later. He regained the position in 1356, retaining it until his death in 1363.
+
+History[]
+
+“ The Italians are the peoples who have continuously populated the Apennine Peninsula since roughly 572 AD. Although the Italian Peninsula served as the seat of power for the Roman Empire , in 476 AD Rome fell to the Germanic tribes under the rule of Odoacer. In 493, the Byzantines (Eastern Romans) succeeded in convincing the king of the Ostrogoths , Theodoric the Great, to conquer Odoacer's Italy. When Theodoric died in 526, the peninsula fell back into disorder, leaving it open to a Byzantine invasion led by General Flavius Belisarius in 535. However, Byzantine rule was mostly displaced by 572, when the Lombards, another Germanic tribe, invaded the region. The Italian people can thus be identified as the descendants of both the Latin peoples and the Germanic tribes. Succeeding centuries saw the Italians form a series of different city-states, independent entities whose rule generally did not extend beyond a central city and the surrounding villages. In Northern Italy, the fall of Charlemagne's Holy Roman Empire, which had ousted the Lombards, caused a long period of instability that resulted in the creation of several city-states, including Milan, Genoa, Florence, and Venice. Central Italy fared somewhat better under the control of the Papacy in Rome, but when the Pope crowned the German Otto I the Holy Roman Emperor in 962, both northern and central Italy became involved in the convoluted affairs of the German city-states. On the other hand, Southern Italy remained under the control of Lombards and Byzantines until the eleventh century, when the Normans invaded the area and founded the Kingdom of Sicily . By the Late Middle Ages, the Italian armies were generally composed of and led by condottieri , professional mercenaries whose allegiance was given to the highest payer. Interstate conflicts usually served to maintain the status-quo of the city-states. The Italian Wars (or Renaissance Wars) of the 16th century saw the peak of these conflicts, ultimately causing the weakening of the Italian city-states. In terms of naval warfare, the Italian navies were among the best in Europe. The region's geography made domination of the Mediterranean crucial for commerce and culture. Venice and Genoa used their navies to effectively form remarkable maritime empires which competed with other major European states and the Ottoman Empire . Medieval Italy was an intoxicating mix of ancient Roman architecture, rising theocratic power, and artistic rebellion. Central Italy, under the control of the Catholic Popes, exercised a prominent position in the religious and political matters of European Christendom. Northern Italy's Florence became particularly important during the Late Middle Ages as the seat of the Renaissance, a period of great advances in the arts, music, and science. Florence's Leonardo da Vinci was one of the major figures of the era, developing amazing works of art and pushing the limits of technology. Nevertheless, the constant conflicts among the Italian city-states made them susceptible to foreign control. Neighboring France, Spain , and Austria proved particularly meddlesome in Italian affairs. It would not be until 1861 that, under the leadership of Victor Emmanuel II of Savoy and Giuseppe Garibaldi, the Italians finally unified into a single nation that exists to this day. [1] ”
+
+Trivia[]
+
+The Italians' civilization icon is based on the flag of Genoa.
+
+Before the Definitive Edition user interface image displayed Genoese coat of arms and in the Definitive Edition changed to Biscione, a historic symbol of the city of Milan.
+
+The Italians in the Barbarossa and Saladin campaigns, before the The Forgotten, are represented by several European civilizations such as Britons, Teutons, Franks, and Byzantines.
+
+The Mediterranean Monastery features architectural elements of both Gothic and Romanesque architecture. This combination is typical in Northern Italian churches and cathedrals, as well as in some chapels through Tuscany, Marche, and Umbria.
+
+Before patch 4.4, the Mediterranean architecture set (which was then unique to the Italians) shared the same Feudal Age buildings as the Western European set (Britons, Celts, Franks, Spanish). They now have unique Feudal Age buildings of their own after the release of The African Kingdoms and patch 4.4, though they still use exactly the same Lumber and Mining Camps as the Western European civilizations.
+The Feudal Age architecture for the Mediterranean set actually comes from a fan-made mod, which became official after the release of The African Kingdoms.
+
+The following heroes available in the Scenario Editor are themed on the Italians: Francesco Sforza, Gonzalo Pizarro, and Guglielmo Embriaco.
+
+It is salient that almost all unique traits for the Italians are cost reductions, possibly referring to the historical fact that Italian maritime republics established extensive trade networks.
+
+While Italian mercenaries' loyalties were infamously fickle, Italian mercenaries played an important role in slowing down the expansion of the Ottoman Empire as evident in the historical battle of Lepanto and in the final Dracula scenario. True to gameplay, the Italian unique units, the Genoese Crossbowman and Condottiero, counters the Turks' cavalry and gunpowder units respectively, as the the Turks lack concrete answers to the Genoese Crossbowman due to lacking the Onagers and Elite Skirmishers upgrades in their tech tree.
+Ironically, the Italians have one of the lowest winrates against the Turks, possibly because the Turks have a better "fast Imperial Age" strategy due to having better civilization bonuses (such as free Chemistry and free upgrades to their Scout Cavalry line) while the Italians requires an investment on a Castle for their fast Imperial strategy.
+
+The Italians are viewed as one of the weakest civilizations in some land maps, because they lack a significant economic bonus even after receiving some buffs for their unique units. They are considered, alongside Vikings, the strongest civilization on water maps due to their discount for Dock technologies, leading to the reduction to that discount in update 44725, but extending it to University technologies to help them in land maps. The Genoese Crossbowman is the least used unique foot archer because of their cost, training time, range, as well the Rate of Fire, explaining the numerous buffs to these characteristics.
+
+In the beta, the Italians could not research Squires. Their background music was different to later patches. Also, one of their bonuses planned to them was free War Galley upgrade.
+
+Behind the scenes[]
+
+During the development of The Conquerors, the Italians had been considered to appear as the new civilization representing Western Europe region already. However, the Ensemble Studios team eventually picked the Spanish because they were impressed by El Cid's story and they planned to pit the Spanish against two new Native American civilizations (later Montezuma campaign).[2]
+
+When the Forgotten Empires team was working on the Forgotten Empires mod (which eventually became The Forgotten expansion), they initially planned to add the Lombards as one of the new civilizations. But in the end, the developers modified and renamed them as the more generic Italians.[3]
+
+Italians were also considered for Age of Empires III, along with the Swedes, before both were cut. With the release of Knights of the Mediterranean, Italians are in the game like originally planned.
+
+Gallery[]
+
+The Wonder of the Italians, the 
+
+Cathedral of St.Lawrence
+
+Italians official preview in the 
+
+Definitive Edition
+
+The Mediterranean architecture set the Italians share with the 
+
+Armenians,
+
+Georgians,
+
+Spanish,
+
+Portuguese,
+
+Byzantines,
+
+Romans, and
+
+Sicilians in the
+
+The Mediterranean architecture set the Italians share with the 
+
+Portuguese that was introduced in
+
+Italians 
+
+user interface image
+
+The Italian user interface before the 
+
+An Italian town, as seen in 
+
+The Great Siege
+
+Italian Feudal Age Architecture mod, which was incorporated in the game with 
+
+Italians Overview AoE2
+
+Skirmishers are no longer affected by
+
+Pavise. Also, their
+
+University technologies are discounted.
+
+References[]
+
+↑ Jump up to: 1.0 1.1 https://www.forgottenempires.net/age-of-empires-ii-definitive-edition/civilizations/italians
+
+↑ http://aok.heavengames.com/gameinfo/conquerors-expansion
+
+↑ https://www.forgottenempires.net/aof/the-story-so-far
+
+v • d • e Civilizations in Age of Empires II Categorised by architecture sets African Ethiopians · Malians Central Asian Cumans · Tatars Central European Goths · Huns · Teutons · Vikings East Asian Chinese · Japanese · Koreans · Mongols · Vietnamese Eastern European Bohemians · Bulgarians · Lithuanians · Magyars · Poles · Slavs Mediterranean Armenians · Byzantines · Georgians · Italians · Portuguese · Romans · Sicilians · Spanish Middle Eastern Berbers · Persians · Saracens · Turks Native American Aztecs · Incas · Mayans South Asian/Indian Bengalis · Dravidians · Gurjaras · Hindustanis · Indians (removed) Southeast Asian Burmese · Khmer · Malay Western European Britons · Burgundians · Celts · Franks Categorised by expansions The Age of Kings Britons · Byzantines · Celts · Chinese · Franks · Goths · Japanese · Mongols · Persians · Saracens · Teutons · Turks · Vikings The Conquerors Aztecs · Huns · Koreans · Mayans · Spanish The Forgotten Incas · Indians (removed) · Italians · Magyars · Slavs The African Kingdoms Berbers · Ethiopians · Malians · Portuguese Rise of the Rajas Burmese · Khmer · Malay · Vietnamese The Last Khans Bulgarians · Cumans · Lithuanians · Tatars Lords of the West Burgundians · Sicilians Dawn of the Dukes Bohemians · Poles Dynasties of India Bengalis · Dravidians · Gurjaras · Hindustanis Return of Rome Romans The Mountain Royals Armenians · Georgians
+
+Categories:
+
+Age of Empires II
+
+Civilizations (Age of Empires II)
+
+European civilizations
+
+The Forgotten
+
+Add category
+
+Español
+
+
+		Community content is available under 
+
+CC-BY-SA unless otherwise noted.
+
+Fantasy
+
+Age of Empires
