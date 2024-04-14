@@ -1,3 +1,5 @@
+# This code isnt really useful. Just something I was testing.
+
 from bs4 import BeautifulSoup as bs
 import requests
 import os
