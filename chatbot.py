@@ -1,5 +1,7 @@
 import os
 from dotenv import load_dotenv
+import gradio as gr
+import time
 
 from langchain_openai import ChatOpenAI
 from langchain_community.document_loaders.directory import DirectoryLoader
@@ -26,7 +28,7 @@ def create_qa_bot():
     data = loader.load()
     
     # Split the documents into chunks for smaller context windows for the LLM
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=750, chunk_overlap=0)
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
     split_docs = text_splitter.split_documents(data)
     
     # Embed and store those documents in a vector database
@@ -67,26 +69,20 @@ def define_document_chain():
     
     return document_chain
 
-if __name__ == "__main__":
-    # Preprocess documents and calculate embeddings
-    retriever = create_qa_bot()
-    document_chain = define_document_chain()
+def chat(message, history):
+    retrieved_docs = retriever.invoke(message)
+    ans = document_chain.invoke(
+        {
+            "context": retrieved_docs,
+            "messages": [HumanMessage(content=message)],
+        }
+    )
+    for i in range(len(ans)):
+        time.sleep(0.008)  # Delay to simulate processing time
+        yield ans[:i+1]
 
-    # Ask for user input only once
-    human_message = input("Hi, how can I help you today? \n")
+retriever = create_qa_bot()
+document_chain = define_document_chain()
 
-    for i in range(1, 10):
-        # Retrieve relevant documents
-        retrieved_docs = retriever.invoke(human_message)
-
-        # Invoke document chain to get response
-        ans = document_chain.invoke(
-            {
-                "context": retrieved_docs,
-                "messages": [
-                    HumanMessage(content=human_message)
-                ],
-            }
-        )
-        print(ans)
-
+iface = gr.ChatInterface(chat, theme='ParityError/Anime')
+iface.launch()

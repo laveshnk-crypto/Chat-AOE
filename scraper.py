@@ -1,4 +1,4 @@
-# This code isnt really useful. Just something I was testing.
+# This code isnt really useful. Just something I made for testing.
 
 from bs4 import BeautifulSoup as bs
 import requests
