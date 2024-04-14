@@ -2,3 +2,7 @@ bs4
 langchain
 openai
 requests
+langchain-openai
+langchain-chroma
+python-dotenv
+unstructured

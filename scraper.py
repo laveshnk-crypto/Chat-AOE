@@ -49,7 +49,7 @@ def clean_main_civ_page():
                 civCount += 1
                 file.write(text + "\n")
                 continue
-
+            
             # Check if the current text contains the end word
             if end_word in text:
                 in_civ_section = False
